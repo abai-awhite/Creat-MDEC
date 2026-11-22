@@ -1,0 +1,3 @@
+#是否添加默认的价值tooltip
+##default: true
+addValueTooltip = true

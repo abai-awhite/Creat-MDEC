@@ -1,0 +1,75 @@
+# ===================================================
+# Creat：MDEC 整合包仓库
+# 只跟踪配置、脚本、清单文档；mods/备份/运行产物全部忽略
+# ===================================================
+
+# ---- 目录级大文件 / 运行产物 ----
+**/mods/
+**/libraries/
+**/logs/
+**/crash-reports/
+**/saves/
+**/screenshots/
+**/backups/
+**/simplebackups/
+**/downloads/
+**/downloads*/
+**/downloads-dupes/
+**/downloads-cf/
+**/natives/
+**/shaderpacks/
+**/resourcepacks/
+**/tacz/
+**/tim_custom_pack/
+**/tlm_custom_pack/
+**/xaero/
+**/.sable/
+**/.mixin.out/
+**/cache/
+**/local/
+**/hotai/
+**/ldlib2/
+**/patchouli_books/
+**/dynamic-data-pack-cache/
+**/moonlight-global-datapacks/
+**/create_radar_debug/
+**/tacz-classes/
+**/fd-classes/
+**/cdr-scripts-rejected/
+
+# ---- 二进制文件 ----
+**/*.jar
+**/*.zip
+**/*.7z
+**/*.tar
+**/*.tar.gz
+**/*.gz
+**/*.class
+**/*.nbt
+
+# ---- 不跟踪的其它实例（只读参考）----
+/versions/Mechanomania-航空学/
+/versions/Create6.0/
+/versions/Create-Delight-Remake/
+/versions/Creat：MDEC/mods/
+/versions/Creat：MDEC/resourcepacks/
+/versions/Creat：MDEC/shaderpacks/
+/versions/Creat：MDEC/saves/
+/versions/Creat：MDEC/logs/
+/versions/Creat：MDEC/crash-reports/
+/versions/Creat：MDEC/tacz/
+/versions/Creat：MDEC/tlm_custom_pack/
+/versions/Creat：MDEC/xaero/
+/versions/Creat：MDEC/BHL/
+/versions/Creat：MDEC/natives/
+/versions/Creat：MDEC/simplebackups/
+/versions/Creat：MDEC/local/
+/versions/Creat：MDEC/.sable/
+/versions/Creat：MDEC/downloads/
+
+# ---- 备份 / 上传包 ----
+/_backup/
+/server-packs/*-upload.zip
+
+# ---- 临时脚本 ----
+**/_test-run.bat

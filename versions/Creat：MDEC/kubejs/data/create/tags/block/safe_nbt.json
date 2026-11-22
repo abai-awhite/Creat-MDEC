@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "remove": [
+    "createpropulsion:platinum_fluid_tank",
+    "createpropulsion:platinum_fluid_vessel"
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powerful_dummy:dummy_stand"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

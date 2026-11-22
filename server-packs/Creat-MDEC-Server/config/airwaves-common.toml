@@ -1,0 +1,25 @@
+#Transmitters, relay towers, radio towers and jammers need power (rotation, or electricity, see below) to run
+requireRotation = true
+#Slowest shaft speed that still runs a powered device
+# Default: 16
+# Range: 1 ~ 256
+minRpm = 16
+#Shaft speed for full transmit power; faster shafts give more range, up to twice this speed
+# Default: 64
+# Range: 1 ~ 256
+fullRpm = 64
+#Range bonus per 100 blocks a transmitter or relay flies above the ground (Create: Aeronautics airships)
+# Default: 0.5
+# Range: 0.0 ~ 4.0
+altitudeBonus = 0.5
+#A running Dimensional Relay keeps its own chunk loaded, so the link to the other dimension never drops
+dimensionalRelayLoadsChunk = true
+
+[electricity]
+	#With Create: Power Grid or Create: Electro Energetics installed, powered machines can also run on electricity through their built-in terminals.
+	#Rotation is always used first.
+	electricPower = true
+	#Watts a machine draws on electricity per stress unit (SU per RPM) it takes on rotation
+	# Default: 2.5
+	# Range: 0.01 ~ 1000.0
+	wattsPerStress = 2.5

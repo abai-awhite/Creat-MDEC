@@ -1,0 +1,5 @@
+{
+  "type": "create:splashing",
+  "ingredients": [{ "item": "kubejs:crushed_raw_cobalt" }],
+  "results": [{ "id": "hephaestus:cobalt_nugget", "count": 9 }]
+}

@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:storage_blocks/raw_cobalt"
+      }
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/raw_cobalt"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "id": "kubejs:crushed_raw_cobalt",
+      "count": 9
+    },
+    {
+      "id": "create:experience_nugget",
+      "count": 9,
+      "chance": 0.75
+    }
+  ]
+}

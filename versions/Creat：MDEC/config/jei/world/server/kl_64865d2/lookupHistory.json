@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"kaleidoscope_cookery:fried_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:fried_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_cookery:scramble_egg_with_tomatoes"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

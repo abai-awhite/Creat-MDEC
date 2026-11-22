@@ -1,0 +1,1015 @@
+{
+	chapter.0BE61D98EC2E6FEF.title: "保管と収納(@Create:Storage)"
+	chapter.1505E388615EF814.title: "合金精錬炉(@Alloy Smelter)"
+	chapter.1B463ED58F5BC382.title: "宝石\\&アクセサリー(@Iron's Gems 'n Jewelry)"
+	chapter.2712B84FC95D24A9.title: "Mechanomania"
+	chapter.30CF816281C9CC36.title: "Touhou Little Maid"
+	chapter.45425E03EB45F47E.title: "航空学"
+	chapter.4768D92465F10FF3.title: "航空学"
+	chapter.4B14987D9F164B1A.title: "Farmer's Delight"
+	chapter.640A5F4C7DC06EDE.title: "安山岩時代(@Create)"
+	chapter.700A1A40AA9B1D69.title: "暮らしの便利道具"
+	chapter.771ACE65A798117A.title: "真鍮革命(@Create)"
+	chapter_group.08701E4938C3D337.title: "その他のMod"
+	chapter_group.2195A9D3E7D1D788.title: "オーバーワールド - のんびり生活"
+	quest.000EAE75E8F04497.quest_desc: [
+		"使用するには、まず左のスロットに&6{item.exposure.developed_black_and_white_film}&rまたは&6{item.exposure.developed_color_film}&rを入れます。それぞれ白黒写真とカラー写真を印刷できます。"
+		""
+		"左右をクリックすると前後のネガを選択できます。現在のネガをクリックするか、マウスホイールを上に回すと拡大表示できます。"
+		""
+		"&6{item.minecraft.paper}&rと染料を入れ、印刷ボタンを押すと印刷が始まり、&6{block.exposure.lightroom}&rの赤いランプが点灯します。白黒写真には紙1枚と黒色の染料1個、カラー写真には紙1枚と4色の染料を各1個消費し、より長い時間がかかります。"
+	]
+	quest.000EAE75E8F04497.quest_subtitle: "写真を印刷しよう！"
+	quest.00EC174CE65A4F3A.quest_desc: [
+		"構造物が移動すると、進行方向と反対向きの抗力を受けます。"
+		""
+		"&a対称的な帆&rは特殊で、進行方向と平行なときは抗力を生じませんが、傾けると抗力を受けます。これを使って飛行構造物の進行方向を調整できます。"
+	]
+	quest.00EC174CE65A4F3A.title: "抗力"
+	quest.023C81F541EAFB0D.quest_desc: [
+		"{dimension.minecraft.the_end}のしもべ、&d{entity.minecraft.ender_dragon}&rの討伐おめでとうございます。"
+		"今度は{dimension.minecraft.the_end}の外縁諸島で、さらに強いモンスターが待ち受けています。"
+	]
+	quest.02C7A69D089135C3.title: "伝達装置"
+	quest.05254E5479383C89.title: "動力源"
+	quest.053B7489051084E1.quest_desc: [
+		"&6{item.hotbath.rose_bath_bucket}&rに浸かると、毎秒0.25ずつ体力を回復します。"
+		"15秒間浸かると、すべての悪いステータス効果が解除されます。"
+		"15秒間浸かると、20秒間レベル1の&6{effect.minecraft.strength}&rを得ます。"
+	]
+	quest.06486C7C061D349B.quest_desc: [
+		"&d{entity.minecraft.ender_dragon}&rを倒すと&5{block.minecraft.end_gateway}&rが生成されます。"
+		"プレイヤーは外縁諸島の&dランダムな地点&rへ転送されます。"
+		"{dimension.minecraft.the_end}の外縁諸島では、次の貴重なアイテムを入手できます。"
+		"- &6{item.minecraft.potion.effect.apothic_attributes.flying}&r"
+		"- &6{block.minecraft.netherite_block}&r"
+		"- &2{item.kubejs.chlorophyte_ingot}&r"
+		"- &2{item.umapyoi.jewel}"
+		""
+		"ただし"
+		"前回死亡した場所へ戻ることは困難なため、"
+		"ドロップしたアイテムはほぼ永久に失われます。"
+		""
+		"&o&5{block.minecraft.end_gateway}&rには5分のクールダウンがあります。クールダウン中に入ると出口は変わらず、クールダウンだけが更新されるため、チームで探索しやすくなります。&r"
+		"&o{dimension.minecraft.the_nether}と{dimension.minecraft.the_end}ではプレイヤー同士のダメージがありません。&r"
+	]
+	quest.06486C7C061D349B.title: "外縁諸島"
+	quest.068BF44B149A3415.quest_desc: ["ネザー版の&c{block.farmersdelight.organic_compost}&r。ネザーでのみ&c{block.mynethersdelight.resurgent_soil}&rへ変化します。"]
+	quest.0922F1F2D67E2AA4.quest_desc: ["&d目的地&rの方向を検出します"]
+	quest.0B9E3C660647C17A.title: "車輪式車両"
+	quest.0BDB2241B517EC3E.quest_desc: [
+		"インクを入れます。インクの品質がスクロールの品質を決めます。"
+		""
+		"紙を入れます。スクロール1枚につき紙を1枚消費します。"
+		""
+		"素材を入れます。素材によって魔法の系統が決まります。"
+		""
+		"素材を入れると、記述可能な魔法が表示されます。疑問符が表示される魔法には、より上位のインクを試してください。"
+		""
+		"完成したスクロールはここに表示されます。左クリックで取り出したときだけ素材が消費されます。"
+		""
+		"記述可能な魔法のスクロール"
+		"魔法のスクロールは戦利品チェストや死者の王の討伐でも入手できます。"
+		"行商人、炎術師、錬金術師との取引でも入手できます。"
+	]
+	quest.0C04B0D91BB46687.quest_desc: [""]
+	quest.0C04B0D91BB46687.quest_subtitle: "{curios.identifier.uma_suit}スロットに装備します"
+	quest.0C04B0D91BB46687.title: "{UmaMusu}に新しい衣装を着せよう"
+	quest.0C83FF2F34349F3D.quest_desc: ["出力するレッドストーン信号の強度を設定します"]
+	quest.0D10CBCC2332A0A0.quest_desc: ["同じディメンション内の長距離に対応する&e&l自動物流アシスタント&r&r"]
+	quest.0D70527CD0560FA3.quest_desc: [
+		"{dimension.minecraft.the_end}の外縁諸島には&d敵意&rを持つモンスターが出現します。"
+		"&lプレイヤーがモンスターを倒すほど&r"
+		"モンスターの能力は強化され、"
+		"次第に{trait}を獲得します。"
+		"例："
+		"- &d{trait.l2hostility.blindness}&r"
+		"- &d{trait.l2hostility.levitation}&r"
+		""
+		"                    --> 次のページ"
+		"{@pagebreak}"
+		"現在の難易度はインベントリ上部の難易度ページでいつでも確認できます。"
+		"自分の実力を大きく超えないよう注意してください！"
+		"命が危険にさらされる前にポータルを探し、{dimension.minecraft.the_end}の外縁諸島から脱出しましょう。"
+		"次回{dimension.minecraft.the_end}の外縁諸島へ入ると、"
+		"モンスターの強さは自動的に再調整されます。"
+		""
+		"プレイヤーが死亡すると、"
+		"モンスターの強さはリセットされます。"
+		""
+		"&o&l&c{dimension.minecraft.the_end}&rでは&5{item.c6c.recall_potion}&rを使用できません。&r"
+	]
+	quest.0DB72E42E1E1BACD.quest_desc: ["青と赤は二つの極を表します。同極は反発し、異極は引き合い、距離が近いほど磁力が強くなります。"]
+	quest.0DB72E42E1E1BACD.title: "磁力"
+	quest.0E0AA6FDAB840DA8.title: "{container.fxntstorage.simple_storage_box_title}アップグレード"
+	quest.0E336146AE210F59.quest_desc: ["構造物の&d傾き&rを検出します"]
+	quest.0E98873F2A744F77.title: "最初の機械"
+	quest.0EAED4471D8CE8AC.quest_desc: [
+		"&6{item.exposure.camera}&rをShift+右クリックすると内部GUIが開き、&6{film}&r、フラッシュ、レンズ、フィルターを取り付けられます。対応するアイテムを持って右クリックしても、部品の装着や交換ができます。"
+		"（三脚に設置したカメラは、&6{carryon}&rで持ち上げないよう少し離れてShift+右クリックしてください。）"
+		""
+		"&6{film}&r：各種未現像フィルム"
+		"フラッシュ：&6{block.minecraft.redstone_lamp}&r"
+		"レンズ：&6{item.minecraft.spyglass}&r"
+		"フィルター：各色の板ガラス / &6{item.exposure.interplanar_projector}&r"
+	]
+	quest.0EAED4471D8CE8AC.quest_subtitle: "美しい瞬間を残そう"
+	quest.0EC90EBB03243D94.quest_desc: [
+		"&6{block.torchmaster.feral_flare_lantern}&rは半径16ブロックの球内にある各ブロックの明るさを検出します。明るさが7未満の場所には、明るさ11の不可視光源を配置しようとします。"
+		""
+		"最大効率を得るには、約30ブロックごとに&6{block.torchmaster.feral_flare_lantern}&rを1個設置するのが理想的です。"
+	]
+	quest.0EE438AA7894A017.quest_desc: ["レッドストーン信号に各種演算を行い、無線で送信します"]
+	quest.0F5E82B5594F0725.quest_desc: ["バックパックを携帯中、落下ダメージを防ぎます。"]
+	quest.10701911A767A5D7.quest_desc: ["さまざまな物理量を異なる強度のレッドストーン信号へ変換します"]
+	quest.114E23CD35C37E9B.quest_desc: ["{item.umapyoi.sweet_cupcake}を食べるとやる気レベルが2上がり、満腹度7と隠し満腹度9を回復します。"]
+	quest.1169390015BB59F9.title: "技師の必需品"
+	quest.11A745B93068C191.quest_desc: [
+		"上からアイテムを落とすか、任意の方向からホッパーで搬入します。"
+		""
+		"ホッパーで製品を取り出すか、素手で右クリックして回収します。"
+	]
+	quest.121E38D67771FEB0.quest_desc: [
+		"ゴーレムをカスタマイズし、"
+		"適切な装備を着けることができます。"
+	]
+	quest.121E38D67771FEB0.title: "ゴーレムの組み立て"
+	quest.128A5A1B3E1B2BC9.quest_desc: ["この力は常に真上を向き、空気密度の影響を受けます。高度が上がるほど弱くなるため、熱気球はいずれ一定の高度で静止します。"]
+	quest.128A5A1B3E1B2BC9.title: "気球の揚力"
+	quest.12B2B927FFFFD3F1.quest_desc: [
+		"古代の戦場と炎術師の塔に自然生成されます。"
+		""
+		"採掘にはダイヤモンドのツルハシ以上の採掘レベルが必要です。足りない場合は何もドロップせず、古代の騎士が出現します。"
+		""
+		"破壊すると大量の鉄塊と金塊、0～1個の灰のエッセンスを落とし、低確率でネザライトの欠片も落とします。"
+		""
+		"破壊地点には敵対的な古代の騎士も出現します。"
+	]
+	quest.12B2B927FFFFD3F1.title: "散らばった鎧"
+	quest.1314461E771CE55B.quest_desc: ["&d距離&rを検出し、ブロックをフィルターできます"]
+	quest.136C3B3FEB2ED0CC.quest_desc: [
+		"&4注意：&r"
+		"{YSM mod}を導入していると、&dインベントリにプレイヤーの防具が表示されない&rことがあります。"
+		""
+		"解決方法："
+		"* 装身具スロットの{item.umapyoi.uma_soul}表示を無効にする"
+		""
+		"または"
+		""
+		"* Alt+YでYSM画面を開く"
+		"右上のレンチアイコンから「{Prevents rendering of self player's model}」を選択する"
+	]
+	quest.136C3B3FEB2ED0CC.title: "YSM"
+	quest.13B1E27BAA44F3B8.quest_desc: [
+		"オーバーワールドのモブ出現上限は低く、通常のモブトラップには向きません。代わりに低負荷で戦利品を直接チェストへ生成するスポナーを建設できます。"
+		"通常のモブトラップと同様、バイオームごとに異なるモブが出現します（&a出現する種類はバニラと同じです&r）。"
+		""
+		"&d{block.create_mechanical_spawner.spawn_fluid_random}&rを投入するとモンスターの生成が始まります。"
+		""
+		"&a&l次のページ&r&r"
+		"{@pagebreak}"
+		""
+		"&lモブ出現一覧&r"
+		"ストレイ：凍った海、凍った深海、雪原、雪のタイガ、雪の斜面"
+		"ハスク：砂漠"
+		"マグマキューブ：ネザーの荒地、玄武岩の三角州"
+	]
+	quest.14C82B046FCA091C.title: "チャンクローダー"
+	quest.1534B59AA6AB4BD9.title: "特殊な伝達装置"
+	quest.1566785ABC7FC6BC.quest_subtitle: "マルチブロック構造梱包機"
+	quest.1637D39489C22EB9.title: "{item.structurecompass.structure_compass}"
+	quest.17E8B04D5E517FFD.quest_desc: [
+		"&6{item.hotbath.herbal_bath_bucket}&rに浸かると、2秒ごとに体力を0.25回復します。"
+		"15秒間浸かると、すべての悪いステータス効果が解除されます。"
+		"5秒間浸かると、10秒間レベル1の&6{effect.minecraft.resistance}&rを得ます。"
+		"この湯に入ったアンデッドは毎秒0.5のダメージを受けます。"
+	]
+	quest.18DE4FF6E70319A5.quest_desc: [
+		"インベントリでアイテムにカーソルを合わせ、"
+		"Rキー（レシピ）：アイテムのレシピを表示"
+		"Uキー（用途）：アイテムの用途を表示"
+		"Aキー：アイテムを保存し、あとでレシピを確認"
+	]
+	quest.18DE4FF6E70319A5.title: "アイテムのレシピを確認"
+	quest.18F9E2D23345DF44.quest_desc: [
+		"燃料を消費して&e32 RPM | 2048 su&rを供給します。"
+		""
+		"&aブレイズケーキ&rを使うと超過熱し、"
+		"&e64 RPM | 4096 su&rを供給します。"
+	]
+	quest.19575E2CB2B76E7B.quest_desc: ["遊園地の全アトラクションを再現し&m&7、サーバーで大もうけしよう"]
+	quest.1A84011D71AF4A87.quest_desc: [
+		"&e{item.umapyoi.crystal_gold}&rを入手すると、"
+		"&e{block.umapyoi.uma_pedestal}&rをクラフトできます。"
+		""
+		"これを使うとSSRの{UmaMusu}とSSRの{Support Card}のみ召喚できます。"
+	]
+	quest.1B12A06587207CCB.quest_desc: ["メインハンドまたはオフハンドのアイテムをインベントリから補充します。"]
+	quest.1B7A31081B34C2D0.quest_desc: [
+		"&d{item.umapyoi.skill_book}&rを入手すると、{block.umapyoi.skill_learning_table}で{UmaMusu}を&aトレーニング&rできます。"
+		""
+		"&aトレーニング&r後、{UmaMusu}の能力が大幅に強化されます！"
+		""
+		"{item.umapyoi.skill_book}は{dimension.minecraft.the_end}のチェストから入手できます。"
+	]
+	quest.1D7C6B552ED09130.quest_desc: [
+		"指定角度まで回転すると応力の伝達を止め、応力がないときは自動で復帰できます。"
+		""
+		"他の部品と組み合わせ、構造物の&d旋回速度&rを制御するためによく使われます。"
+	]
+	quest.1E997C93EDDBD107.quest_desc: [
+		"&a{item.kubejs.chlorophyte_ingot}&rを入手しました。"
+		"これを使って以下のインゴットを作れます。"
+		""
+		"これらのインゴットから、強力な効果やセットボーナスを持つ{l2hostility.title}装備を作れます。"
+		""
+		"&d&l{l2hostility.title}装備には、ほかにも二つの入手方法があります：&r&r"
+		"* &bダイヤモンドまたはネザライト&r装備を直接強化する"
+		"* &e{item.irons_spellbooks.timeless_slurry}&rでネザライト装備を強化する"
+	]
+	quest.1F18639774CCF28E.quest_desc: [
+		"{block.umapyoi.silver_uma_pedestal}に&d{item.umapyoi.blank_ticket}&rを使用します（オフハンドを空にしてください）。"
+		"すると&e{item.umapyoi.blank_uma_soul}&rを入手できます。"
+		""
+		"次に&e{item.umapyoi.blank_uma_soul}&rを&b{block.umapyoi.three_goddess}&rへ入れ、&b{item.umapyoi.uma_soul}&rを受け取ります。"
+		""
+		"&b{item.umapyoi.uma_soul}&rを装身具スロットに装備すると、&6能力値が上昇&rします！"
+	]
+	quest.1F829C67174A4944.quest_desc: [""]
+	quest.20C36E1FC5B0C4EF.title: "次はエレベーターで家を飾ろう"
+	quest.2105773288B818A7.title: "高度な物流"
+	quest.21A14597E092B4EC.title: "列車輸送パッケージ"
+	quest.225EE2F819DD7B94.quest_desc: ["食べると満腹度2と隠し満腹度2.4を回復し、最大スタミナに応じた割合のスタミナも回復します。"]
+	quest.23C25A1C2A64D98A.quest_desc: [
+		"まず&d{entity.minecraft.ender_dragon}&rが落とす{block.minecraft.dragon_head}を使い、&b{block.alloy_smelter.forge_controller_tier3}をクラフトします。"
+		"鉱石の産出量を増やせるうえ、{dimension.minecraft.the_end}外縁諸島のさまざまな産物を精錬・処理できます。"
+	]
+	quest.245F475CE17B31BE.title: "建築アシスタント"
+	quest.2513F6677A477C78.quest_desc: [
+		"要塞は座標0, 0の地下に生成され、エンドポータルは最初から起動しています。"
+		""
+		"そのままエンドへ向かい、冒険を始められます。"
+		""
+		"エンドは非常に難しいため、チームで向かうことを推奨します。"
+	]
+	quest.253789D53CF7F585.quest_subtitle: "難易度100"
+	quest.254B565D5CB0CD9D.quest_desc: [
+		"バイオームごとに異なる鉱石が密集して分布しています。"
+		"たとえば平原には鉄鉱脈、吹きさらしの丘には&c{block.kubejs.compressed_tuff}&r鉱脈が多く存在します。"
+		"一部の鉱脈には&b{block.kubejs.coolant}&rが必要で、寒冷バイオームでのみ採掘できます。"
+		"&c{block.kubejs.compressed_tuff}&rを粉砕すると&c銅&rと&c亜鉛&rを得られます。"
+		""
+		"ほぼすべての鉱石を採掘できます。"
+		"JEIで&a@ore&rを&d検索すると、全鉱脈の情報を確認できます。&r"
+	]
+	quest.2765F1D3D9529A27.quest_desc: ["温泉に15秒間浸かると、20秒間レベル1の&6{effect.minecraft.speed}&rを得ます。"]
+	quest.2813FF8C41AFEF22.quest_desc: ["ここでは大量の&5{block.irons_spellbooks.brazier_soul}&rを見つけられます"]
+	quest.2813FF8C41AFEF22.title: "静寂の氷庭"
+	quest.286000FDEA3EBA0A.quest_desc: ["家全体を擬似からくりに変え、世界中を旅しよう"]
+	quest.29641835AFA986E4.quest_desc: [
+		"非常に高い耐久力を持ち、簡単には損傷しません。"
+		""
+		"一度に失う耐久値は最大1です。"
+		""
+		"プレイヤーが透明になると、防具も透明になります。"
+		""
+		"{@pagebreak}"
+		"プレイヤーが透明になると、道具も透明になります。"
+		""
+		"攻撃範囲と採掘範囲 +1"
+	]
+	quest.29641835AFA986E4.quest_subtitle: "防具と道具"
+	quest.298F765A538085EE.quest_desc: ["{item.umapyoi.royal_bitter}を食べるとスタミナが全回復し、満腹度2と隠し満腹度3を回復しますが、やる気レベルが1下がります。"]
+	quest.2B88D9C4FF3F9C1E.quest_desc: [
+		"&6{block.irons_jewelry.jewelcrafting_station}&rをクラフトします。"
+		"さまざまなアクセサリーを作り、&6能力値&rを強化できます。"
+	]
+	quest.2BBBEE2834D0185E.quest_desc: ["擬似からくり上のベルトが地面に触れると、その動きで構造物を走らせられます。"]
+	quest.2BBBEE2834D0185E.title: "無限軌道車両"
+	quest.2BE7C0848650B5C1.quest_desc: ["&dレッドストーン信号&rの強度によって&d回転速度&rを調整できます"]
+	quest.2CC6203A4CCE5D19.quest_desc: [
+		"メイドはかわいいだけでなく、料理やハンドクランク回しもできます。好感度に応じて4096～65536の&c{create.display_source.kinetic_stress.current}&rを供給します。"
+		""
+		"メイドには収集要素もあり、&c能力値上昇や空腹にならない効果など、強力なバフ&rを得られます。クエストブックの「Touhou Little Maid」章を参照してください。"
+	]
+	quest.2CCE21B461C8DF85.quest_desc: [
+		"マグネットアップグレードに似ていますが、範囲は比較的狭いです。"
+		"拾ったアイテムはインベントリではなくバックパックへ収納されます。"
+	]
+	quest.2DACA9D43F90D423.quest_desc: [
+		"{itemGroup.umapyoi}のアイテムは&c{dimension.minecraft.the_end}&rにおける最重要成果の一つです。"
+		""
+		"育成した{item.umapyoi.uma_soul}は&c能力値を大幅に強化&rします。"
+		"「その他のMod」にある{itemGroup.umapyoi}章を参照してください。"
+		""
+		"&e{book.umapyoi.trainers_manual.title}&rは&d{item.umapyoi.blank_ticket}&rの材料になるため、なくさないよう注意してください。"
+	]
+	quest.2F179AA3C20F87C6.quest_desc: [
+		"水または溶岩が10,000ブロックに達すると、&6{block.create.hose_pulley}&rは無限の流体として扱い、無制限に汲み出せます。"
+		""
+		"流体を配置するときは、&6{block.create.hose_pulley}&rを対象の液面より上に置きます。"
+		"流体を汲み出すときは、&6{block.create.hose_pulley}&rを対象流体の底まで下ろします。"
+	]
+	quest.30D9A170209B71FE.quest_desc: ["力の方向は常にプロペラ軸と平行で、プロペラの位置に作用します。"]
+	quest.30D9A170209B71FE.title: "推力"
+	quest.315C4FF982B23FBE.quest_desc: ["&7{block.umapyoi.silver_uma_pedestal}&rと&b{block.umapyoi.three_goddess}&rをワールドに設置します"]
+	quest.324AB45A0A0B05A4.quest_desc: [""]
+	quest.324AB45A0A0B05A4.title: "{item.naturescompass.naturescompass}"
+	quest.3282EB41DB52504C.quest_desc: [""]
+	quest.3370CAF47A5F8EBD.quest_desc: [
+		"&a{item.umapyoi.jewel}&rを4個用意し、"
+		"&7{block.umapyoi.silver_uma_pedestal}&rと&b{block.umapyoi.three_goddess}&rをクラフトします。"
+	]
+	quest.3454BE7CF82A56B4.quest_desc: ["&d{entity.irons_spellbooks.dead_king}&rのドロップ品の一つです"]
+	quest.34709BA239C468ED.quest_desc: ["カーソルを合わせて[W]を押すと使い方を確認できます"]
+	quest.356B1B423D318A77.quest_desc: [
+		"{dimension.minecraft.the_end}や{dimension.minecraft.the_nether}の遺跡から、新しい宝飾術のスクロールを入手できます。"
+		"それを習得すれば、"
+		"より強力な宝飾品を作れるようになります。"
+	]
+	quest.35BFF10E665799C5.quest_desc: ["{item.irons_spellbooks.mithril_ingot}を使って、15分間の{item.minecraft.potion.effect.apothic_attributes.flying}を作る必要があります"]
+	quest.35C67C49516C597B.quest_subtitle: "難易度200"
+	quest.35FAF22E1BE9187F.quest_desc: [
+		"{block.umapyoi.training_facility}で&d{Support Card}&rを使い、{UmaMusu}を&aトレーニング&rできます。"
+		""
+		"&aトレーニング&r後、{UmaMusu}の能力が大幅に強化されます！"
+		""
+		"&7{block.umapyoi.silver_uma_pedestal}&rまたは&6{block.umapyoi.uma_pedestal}&rに本を置きます。"
+		"その後、&d{item.umapyoi.blank_ticket}&rで&d{Support Card}&rを召喚できます。"
+	]
+	quest.379E53FBABC20CC3.quest_desc: [
+		"&a{item.kubejs.chlorophyte_ingot}&rで新装備を作り、「&c{itemGroup.umapyoi}&r」と「&cアクセサリー&r」で能力を強化できます。"
+		""
+		"&lショートカット&r &6Shift + X&rで&l入手した宝物を共有できます。&r"
+		""
+		"&d&a{patchouli.l2hostility.title}&r&dを作ると、さまざまな敵や&6&l{trait}&r&r&dへの対処法を確認できます。&r"
+		""
+		"より詳しい進行案は次のページを確認してください。"
+		""
+		""
+		"{@pagebreak}"
+		""
+		"まず{dimension.minecraft.the_end}の不気味なバイオームで{item.kubejs.chlorophyte_ingot}を採掘し、ダイヤモンドの剣より高威力で射程も長い{item.kubejs.chlorophyte_sword}を作ります（{dimension.minecraft.the_end}の不気味なバイオームの章を参照）。"
+		""
+		"次に{dimension.minecraft.the_end}シティでチェストを回収し、「&c{itemGroup.umapyoi}&r」と「&cアクセサリー&r」を作って能力を強化します（{dimension.minecraft.the_end}外縁諸島の章を参照）。"
+		"多くのアクセサリーは死亡しても落としません。{dimension.minecraft.the_end}での冒険が着実な成長につながります。"
+		""
+		"続いて{dimension.minecraft.the_end}のディープダークで古代都市を探し、戦利品から「&dソウルバインド&r」を作ります（本は1冊あれば、{itemGroup.create.base}の機械で無限に複製できます）。"
+		""
+		"その後、{dimension.minecraft.the_end}のディープダークで{entity.irons_spellbooks.dead_king}に挑み、魔法を習得します。"
+		""
+		"最後に{dimension.minecraft.the_end}の花の森にある試練の間で{l2hostility.title}の{l2hostility.jei.loot_title}を入手し、この章に示されたアイテムを作ります。"
+		""
+		"レベル300の敵を簡単に倒せるようになったら、{dimension.minecraft.the_end}で「{trait.l2hostility.killer_aura}」や「{trait.l2hostility.ragnarok}」を持つ敵に会うまで長く生き延びてみましょう。"
+		""
+		"「{trait.l2hostility.killer_aura}」は周囲のプレイヤーへ定期的に大きな防具貫通魔法ダメージを与えます。"
+		""
+		"「{trait.l2hostility.ragnarok}」の攻撃はアクセサリーを封印します（インベントリと{itemGroup.umapyoi}のアクセサリーを除く）。封印品を食べ物のように使用すると解除できます。"
+		"「{item.l2hostility.pocket_of_restoration}」は「{trait.l2hostility.ragnarok}」の封印を自動解除し、「{trait.l2hostility.ragnarok}」を持つ敵との戦闘負担を大きく減らします。"
+		""
+		"「{trait.l2hostility.ragnarok}」を持つ敵の討伐を最終目標にしましょう。"
+	]
+	quest.379E53FBABC20CC3.title: "おすすめ育成ルート"
+	quest.38014DB8FC25BED2.quest_desc: [
+		"ロープを持って右クリックすると、その下に新しいロープを設置します。"
+		""
+		"ロープを持ってスニークしながら右クリックすると、照準位置に新しいロープを設置します。"
+		""
+		"素手でスニークしながら右クリックすると、下端からロープを回収します。"
+		""
+		"隣り合うロープは見た目がつながります。"
+		""
+		"ロープの真上に鐘がある場合、鐘から24ブロック以内のロープを右クリックすると鐘が鳴ります。真下のロープは鐘とつながって表示されます。"
+	]
+	quest.38014DB8FC25BED2.quest_subtitle: "スペースキーを長押しして登る"
+	quest.393188CC2575E3CF.quest_desc: [
+		"鉱物の生産量を増やせるほか、"
+		"独自のレシピも備えています。"
+		""
+		"この合金精錬炉は&2マルチブロック構造&rとして建設します。"
+		"心配はいりません。&b設計図&r {(alloy_smelter.nbt)}を用意しました。"
+		""
+		"左の図を参考に建設することもできます。"
+		"&6自動化&rする場合は右の図を参照してください。"
+		""
+		"素材は制御装置の左右、燃料は正面から投入し、下にホッパーを置いて製品を回収できます。"
+		""
+		"&dティア1：{item.minecraft.brick}&r"
+		"&dティア2：{block.minecraft.polished_blackstone_bricks}&r"
+		"&dティア3：{block.minecraft.end_stone_bricks}&r"
+	]
+	quest.3DBA88AAE97C7DE8.quest_desc: ["ゾンビから変化したドラウンドは高確率でトライデントを持ち、{item.l2complements.poseidite_ingot}の材料になります"]
+	quest.3DD1B51E6A581AA1.quest_desc: [
+		"&c{block.farmersdelight.rich_soil_farmland}&rはクワで右クリックすると作れ、踏まれても&c{block.farmersdelight.rich_soil}&rに戻りません。シルクタッチでは回収できず、破壊時は&c{block.farmersdelight.rich_soil}&rを落とします。"
+		""
+		"植えた作物の更新頻度と成長率が上がり、運がよければ種が連続で2段階成長して収穫可能になります。湿った&c{block.farmersdelight.rich_soil_farmland}&rでは効果がさらに高まります。"
+	]
+	quest.3E3B9BAC8D0CC46C.quest_desc: ["{block.farmersdelight.safety_net}へ落ちたエンティティは落下ダメージを受けず、{block.minecraft.slime_block}のように跳ね返ります。スニーク中は無効です。"]
+	quest.3EB7A495A8443564.quest_desc: [
+		"試練の間で&2{block.minecraft.trial_spawner}&rに挑みましょう。"
+		"成功すると、レベル0～100の「{hostility}」{l2hostility.jei.loot_title}を放出することがあります。"
+		""
+		"&5{effect.minecraft.bad_omen}&rが付いていると……"
+		"&d不吉な{block.minecraft.trial_spawner}&rへ変化し、"
+		"レベル0～299のあらゆる「{hostility}」{l2hostility.jei.loot_title}を放出する可能性があります。"
+		""
+		"難易度：150以上"
+	]
+	quest.3EB7A495A8443564.title: "{trait}！{trait}！"
+	quest.3F361BD0D56B7A22.quest_desc: [
+		"揚力は&d熱風バーナー&rの出力と気球の容積で決まります。"
+		""
+		"最大出力とレッドストーン信号を調整し、&d熱風バーナー&rの出力を制御できます。"
+	]
+	quest.3F361BD0D56B7A22.title: "飛行船"
+	quest.4136927C252AD534.quest_desc: [
+		"原木を斧で右クリックして樹皮を剥ぎ、"
+		"&6{item.create.andesite_alloy}&rで右クリックすると&6{block.create.andesite_casing}&rになります。"
+	]
+	quest.41A7BD9935057245.quest_desc: [
+		"{item.umapyoi.uma_soul}を持って{block.umapyoi.uma_statues}を右クリックすると、{UmaMusu}の静止モデルを表示します。"
+		""
+		"表示中の{block.umapyoi.uma_statues}をもう一度右クリックすると、{item.umapyoi.uma_soul}を取り外します。"
+	]
+	quest.41A7BD9935057245.quest_subtitle: "{UmaMusu}を展示しよう"
+	quest.43104742822CBF0C.quest_desc: [""]
+	quest.43104742822CBF0C.quest_subtitle: "難易度10"
+	quest.43292FFEA3A7B2B4.quest_desc: ["機械の仕組みが分からないときは、インベントリを開き、&6{Create Mod}&rの部品にカーソルを合わせて[&bW&r]を長押しし、思案しましょう"]
+	quest.43292FFEA3A7B2B4.quest_subtitle: "&6{Create Mod}&rの第一歩"
+	quest.43A82CB32EF98503.quest_desc: ["構造物のY座標の&d高度&rを検出します"]
+	quest.445DB6B1473EAB84.quest_desc: [
+		"擬似からくりに加わるさまざまな力は、速度、方向、位置を変化させます。"
+		""
+		"構造物が意図せず傾いたり回転したりしないよう、各力を正確に分析してください。"
+		""
+		"理解できない場合は、理科の先生に聞いてみましょう。"
+	]
+	quest.4564BE69E51A90A4.quest_subtitle: "難易度50"
+	quest.45CBC5B03D50AA9E.quest_desc: ["航空学クエストを制作した「Three Big Pigs」に感謝します"]
+	quest.45CBC5B03D50AA9E.title: "クレジット"
+	quest.46AFD6478731FDE7.quest_desc: ["擬似からくりに貼り付けて物理量を確認します"]
+	quest.473CA38006F3C4A4.quest_desc: ["30分間の{item.minecraft.potion.effect.apothic_attributes.flying}を作ると、{item.minecraft.elytra}の材料にできます"]
+	quest.488961A673AFA318.quest_desc: [
+		"戦利品チェストからごく低確率で入手できます。"
+		""
+		"メイドは死亡時に&c{item.touhou_little_maid.film}&rを落とします。"
+		""
+		"&6{block.touhou_little_maid.shrine}&rに置き、プレイヤーの体力を消費して蘇生するか、儀式で蘇生できます。"
+	]
+	quest.4892928D7FF99D9D.quest_desc: ["採集、生産、戦闘、建築を行い、自己複製までできる飛行機械を作ろう"]
+	quest.4892928D7FF99D9D.title: "フォン・ノイマン・マシン群"
+	quest.48EF078682A042D6.title: "万能生産機"
+	quest.492D4709E52D0C97.quest_desc: ["食べると満腹度2と隠し満腹度2.4を回復し、最大スタミナに応じた割合のスタミナも回復します。"]
+	quest.49E03C7D4CB2017F.quest_desc: ["&a浮遊石&rは浮力で重力の影響を軽減します。この力は重力を超えないため単独では上昇できませんが、ほかの方法で飛びやすくなります。"]
+	quest.49E03C7D4CB2017F.title: "浮遊"
+	quest.4A33B612A7BA073B.quest_desc: [
+		"通常は応力を伝達しません。両側の&dレッドストーン信号&rで正方向または逆方向への伝達を決めます。"
+		""
+		"他の部品と組み合わせ、構造物の&d旋回方向&rを制御するためによく使われます。"
+	]
+	quest.4A85185CDE1A7AD2.quest_subtitle: "難易度600"
+	quest.4AF0160AB01B5304.quest_desc: [
+		"&6{item.hotbath.peony_bath_bucket}&rに浸かると、2秒ごとに体力を0.25回復します。"
+		"15秒間浸かると、すべての悪いステータス効果が解除されます。"
+		"15秒間浸かると、30秒間ノックバック耐性が0.05上がります。"
+		"15秒間浸かると、15秒間攻撃速度が10%上がります。"
+		"累計50回入浴すると、以後は毎回45秒間レベル1の&6{effect.minecraft.luck}&rを得ます。"
+	]
+	quest.4B3863244FB807C3.quest_desc: [
+		"&6{item.minecraft.potion.effect.apothic_attributes.flying}&r"
+		""
+		"&c{End Ship}&rの{item.minecraft.elytra}の代わりに生成されます。"
+		"正直なところ、クリエイティブ飛行の方が{item.minecraft.elytra}より便利です。"
+		"{item.minecraft.elytra}を体験したい場合は、&d30&r分間の{item.minecraft.potion.effect.apothic_attributes.flying}2本からクラフトできます。"
+		""
+		"&c{End Ship}&rのアイテム生成確率："
+		"- &d8分間の{item.minecraft.potion.effect.apothic_attributes.flying}&r 33.3%"
+		"- 強力な採掘速度上昇ポーション 33.3%"
+		"- &c{block.minecraft.netherite_block}&r 16.7%"
+		"- {block.minecraft.diamond_block} 8.6%"
+		"- &e{book.umapyoi.trainers_manual.title}&r 8.6%"
+		"- その他"
+	]
+	quest.4CB753DB3E3039CD.quest_desc: [
+		"&e{item.umapyoi.uma_soul}&rを{block.umapyoi.register_lectern}へ置きます。"
+		""
+		"{UmaMusu}の能力が&6大幅に強化&rされ、"
+		"同時に{UmaMusu}の意志を入手します。"
+	]
+	quest.4D77CC9B53A7ED11.quest_desc: ["無人貨物船&7（飛行船）&rと積み降ろし用の港を建設し、貨物を自動輸送しよう"]
+	quest.4D967AC9E5045DDB.quest_desc: [
+		"&c{block.mynethersdelight.powdery_cannon}&rは自然生成されず、&c{block.mynethersdelight.powdery_cane}&rの根を回収して入手します。"
+		""
+		"先端に&c{block.mynethersdelight.bullet_pepper}&rを実らせる&c{block.mynethersdelight.powdery_cane}&rは真紅の森に自然生成され、実るとクロスボウの音がします。実は接触または破壊で爆発し、&c{block.mynethersdelight.powdery_cannon}&r上の実はより強力で本体も破壊します。"
+		""
+		"根以外の&c{block.mynethersdelight.powdery_cane}&rは&c{item.minecraft.stick}&rを落とします。&c{block.mynethersdelight.bullet_pepper}&rを植えると新しい茎が育ち、根が丈夫になった後にだけ&c{block.mynethersdelight.powdery_cannon}&rを回収できます。丈夫な株はどの部分を壊しても本体を落とします。"
+	]
+	quest.4D99BDBB2CE4C3C3.quest_desc: ["レシピはJEIで確認してください"]
+	quest.4E221A3F92D840AB.quest_desc: [
+		"&2{book.umapyoi.trainers_manual.title}&rから&d{item.umapyoi.blank_ticket}&rをクラフトできます。"
+		""
+		"後で必要になる重要なアイテムです。"
+	]
+	quest.4E6B6B368A8A4EA6.quest_desc: [
+		"&e{item.pandora.pandora_bracelet}&rと&a{item.l2hostility.charm_of_looting_1}&rをクラフトします。"
+		"&a{item.l2hostility.charm_of_looting_1}&rを&e{item.pandora.pandora_bracelet}&rへ装着します。"
+		"敵を倒すと戦利品が増えます（詳細はJEIを参照）。"
+		"さらにオーブを作るほど、より多く高品質な戦利品を得られます。"
+	]
+	quest.4EE2DA5EC1E8572B.quest_desc: [
+		"{block.kubejs.warped_stem_chlorophyte}は歪んだ森の{block.minecraft.warped_stem}内部に隠れています。"
+		"非常に硬く、斧での採掘は困難です。"
+		"ただし爆発には弱いため、&cTNT&rを使うか&2{entity.minecraft.creeper}&rを誘導しましょう。"
+		"破壊すると&a{item.kubejs.chlorophyte_ingot}&rを直接落とします。"
+	]
+	quest.4EE2DA5EC1E8572B.title: "{block.kubejs.warped_stem_chlorophyte}を観察"
+	quest.4F64FB65FFEA050C.quest_subtitle: "接着を始めよう"
+	quest.4FC1C7D438B19492.quest_desc: [
+		"{UmaMusu}の意志を2個集め、{block.umapyoi.three_goddess}へ入れます。"
+		""
+		"{UmaMusu}の意志は、次世代の{UmaMusu}を育てる種親になります。"
+		""
+		"種親が強いほど、次世代の{UmaMusu}も強くなります。"
+	]
+	quest.4FD79173051DDEB8.quest_desc: ["食べると満腹度2と隠し満腹度2.4を回復し、最大スタミナに応じた割合のスタミナも回復します。"]
+	quest.5083B5F89464A522.quest_desc: [
+		"{End Ice Spikes}では、廃墟となった教会が見つかることがあります。"
+		"そこにはフロストスパイダーが巣を作り、卵を産んで冬眠しています。"
+		"卵を覆う霜の層を&c壊す&rと、"
+		"守護者の&lフロストスパイダー&rが目覚めます。"
+		""
+		"注意してください！ 非常に危険です！"
+		"その分報酬も豪華で、&lフロストスパイダー&rは&b希少装備&rや&4{item.irons_spellbooks.cinderous_soulcaller}&rを所持していることがあります。"
+		"倒して報酬を手に入れましょう！"
+		""
+		"難易度：200以上"
+	]
+	quest.513BC9A3564D299E.quest_subtitle: "シャーシや超粘着剤と組み合わせ、動作中のブロックをエンティティ化します"
+	quest.5170430BD0DD9627.quest_desc: ["軽い擬似からくりは水に浮きます。浮いている間、シャベルで水面をクリックすると漕げます。"]
+	quest.5170430BD0DD9627.title: "いかだ"
+	quest.51793B81F3FE45CE.quest_desc: ["昼間、村人と回数制限なしで自動取引します。"]
+	quest.5238C448BD3F4AE4.quest_desc: ["自己申告でチェックしてください"]
+	quest.5283E81D31BE83AB.quest_desc: [
+		"通常はダメージを与えず、ノックバックだけを与えます。"
+		"節足動物にはダメージを与えます。"
+	]
+	quest.5283E81D31BE83AB.quest_subtitle: "毎秒6回攻撃"
+	quest.52A28F0788814240.quest_desc: [
+		"&d{entity.irons_spellbooks.dead_king}&rが落とす最も&l重要&rなアイテムです！"
+		""
+		"魔法への道を開いてくれます。"
+		"まず{dimension.minecraft.the_end}で&5{block.irons_spellbooks.brazier_soul}&rを探してください。"
+	]
+	quest.534C36E4439EB3C7.quest_subtitle: "中国将棋でメイドに勝つ"
+	quest.53C14996CDBA5DC2.quest_desc: [
+		"{item.irons_spellbooks.chained_book}を&5{block.irons_spellbooks.brazier_soul}&rへ投げ込みます。"
+		"ランダムな&d魔法のスクロール&rを入手できます。"
+		"装身具スロットへ装備すると、攻撃時に自動で発動します。"
+		""
+		"&o注意！ &d魔法のスクロール&rは死亡時にドロップします！&r"
+	]
+	quest.53C14996CDBA5DC2.title: "「{block.irons_spellbooks.brazier_soul}」を観察"
+	quest.548EEBA7C16661D6.quest_desc: [
+		"{item.l2complements.totemic_gold_ingot}製装備は鉄相当の性能と金のエンチャント適性を持ちます。道具はダイヤ並みの耐久値と金並みの速度ですが、採掘レベルは鉄です。{item.l2complements.totemic_gold_ingot}を柄、エメラルドを先端に使うため高耐久です。"
+		""
+		"生命防具：防具1部位につき5秒ごとに体力を1回復します。"
+		""
+		"生命装備の共通効果：耐久値を失うと&a同量の体力を回復&rし、空腹、衰弱、毒を無効化します。"
+		""
+		"そのため生命装備と耐久力エンチャントの相性はよくありません。{enchantment.l2complements.life_mending}なら、耐久消費→回復→耐久回復の循環で&6一撃で壊れない限り全回復&rできます。{enchantment.l2complements.safeguard}も付ければ必ず耐久値1が残り、回復時に{enchantment.l2complements.life_mending}で完全修復されます。回復阻害効果だけには注意してください。"
+		"{@pagebreak}"
+		"{item.l2complements.totemic_gold_ingot}製の道具は鉄相当の性能と金のエンチャント適性を持ち、耐久値はダイヤ、採掘速度は金に近い一方、採掘レベルは鉄です。"
+	]
+	quest.54931F97C140412D.quest_desc: ["温泉はオーバーワールドにまれに生成され、見つければ無限に利用できます。"]
+	quest.54931F97C140412D.title: "温泉"
+	quest.54A1A39A51AB8869.quest_desc: [
+		"擬似からくりへ直接ブロックを足して拡張できますが、&a超蜜着剤&rの方が便利です。"
+		""
+		"&a超粘着剤&rと同じように使いますが、効果は完全には同じではありません。"
+		""
+		"範囲を選択した後、&eCtrl + マウスホイール&rで調整できます。"
+		""
+		"区別しやすいよう、&a超蜜着剤&rは&d擬似からくり&r、&a超粘着剤&rは&d移動装置&rに使うことを推奨します。"
+	]
+	quest.552F937D15E04A15.quest_desc: [
+		"&6{item.hotbath.honey_bath_bucket}&rに浸かると毎秒体力を0.25回復します。"
+		"浸かると10秒間レベル1の移動速度低下を受けます。"
+		"15秒間浸かると、&c{effect.minecraft.slowness}&rと&c{effect.minecraft.unluck}&r以外の悪い効果をすべて解除します。"
+		"浸かっている間、4秒ごとに満腹度を1回復します。"
+		"15秒間浸かると、20秒間レベル2の&6{effect.minecraft.absorption}&rを得ます。"
+	]
+	quest.55A6F9F0BC4D0096.quest_desc: [""]
+	quest.56469F8456C022EF.quest_desc: [
+		"使用するとベッドまたはスポーン地点へ戻ります。"
+		""
+		"&dエンド&rでは使用できません。"
+	]
+	quest.5655FD8F2B8FB4D2.quest_desc: ["{item.umapyoi.hachimi_big}を食べると調子レベルが2上がり、満腹度4と隠し満腹度7を回復します。"]
+	quest.5655FD8F2B8FB4D2.quest_subtitle: "満腹でも食べられます"
+	quest.568DB1FCA0026DB0.quest_desc: ["カメラで手懐けたメイドを撮影できます。メイドから8ブロック以内で右クリックすると写真を作成します。"]
+	quest.591763149B3E9648.title: "移動用ツール"
+	quest.592017A5227B6679.quest_desc: [
+		"&6{block.create_hypertube.hypertube}&rで&a{block.create_hypertube.hypertube_entrance}&r同士を結び、&c{create.display_source.kinetic_stress.current}&rを接続すると移動用トンネルになります。"
+		""
+		"このトンネルはフレームレートへの負荷が大きいため、設置しすぎないでください。"
+	]
+	quest.592017A5227B6679.quest_subtitle: "スタイリッシュな短距離移動"
+	quest.593E1782EC446B28.quest_desc: [
+		"{UmaMusu}はプレイヤーの能力を大幅に強化する&e&lアイテム&r&rです。"
+		"&e攻撃力を600%上昇&rさせる{UmaMusu}さえ育成できます。"
+		""
+		"&2{book.umapyoi.trainers_manual.title}&rは{dimension.minecraft.the_end}のチェストから見つかります。"
+		"「{itemGroup.umapyoi}」Modの遊び方を解説しています。"
+		""
+		"もちろん、このクエストブックでも{UmaMusu}の遊び方を学べます。"
+	]
+	quest.5AD85A669E436FAD.quest_desc: ["&zもはやこの世にあなたを傷つけられるものはありません&r"]
+	quest.5AD85A669E436FAD.quest_subtitle: "苦難を越え、万物を超越する"
+	quest.5BCA0FAD6AB9AE59.quest_desc: ["出力信号はゆっくり変化し、最終的に背面から受けた信号と同じ強度になります"]
+	quest.5C9F0C22F503C49A.quest_desc: [
+		"《{Terraria}》を&cマスター&r難易度で遊んだことはありますか？"
+		""
+		"&l攻撃力と体力の強化を慎重に選び、柔軟な操作と敵の知識、多数の強化ポーションを駆使して初回クリアを目指す難易度です。&r"
+		""
+		"本Modパックの冒険要素は《{Terraria}》の&cマスター&r難易度を基準にしています。"
+		"&cマスター&r難易度が未経験なら&aイージーモード&rを選び、&aインベントリ保持&rを有効にして遊ぶことを推奨します。"
+		""
+		"インベントリ保持を有効にするコマンド："
+		"/gamerule keepInventory true"
+		""
+		"公開前にイージー、ノーマル、ハードで各1回テストし、どの難易度でも{dimension.minecraft.the_end}の冒険要素をクリアできることを確認済みです。"
+	]
+	quest.5C9F0C22F503C49A.title: "難易度について"
+	quest.5E7426AF846024EE.quest_desc: [
+		"{item.l2complements.poseidite_ingot}製装備は水中で防具値、防具強度、移動速度、泳ぐ速度を上げます。"
+		""
+		"ヘルメットとチェストプレートは水中で{block.minecraft.conduit}の効果を与えます。"
+		""
+		"レギンスとブーツは水中でイルカの好意を与えます。"
+		""
+		"{@pagebreak}"
+		"{item.l2complements.poseidite_ingot}製の道具は水中で攻撃力+50%、攻撃速度+20%となり、水生・水を恐れる生物へさらに100%の乗算ダメージを与えます。"
+	]
+	quest.5EEC611BE589C5D6.title: "農場"
+	quest.5F1430224B8E87DB.title: "ヘリコプター"
+	quest.5F4BF0D8936B370B.quest_desc: [
+		"&e{Umamusume Crystal}&rで作ったチケットは、より上位の{UmaMusu}を召喚できます。"
+		"（R {UmaMusu}チケットはSR {UmaMusu}を召喚）"
+		"（SR {UmaMusu}チケットはSSR {UmaMusu}を召喚）"
+	]
+	quest.5F69670FBE1B5FE4.quest_desc: [
+		"写真と&6{item.minecraft.brown_dye}&rを組み合わせると、よりヴィンテージ風の写真になります。"
+		""
+		"写真を持って別の写真を右クリックすると、一つの束に重ねられます。"
+	]
+	quest.5F9B6C0597CC92D8.title: "応力の伝達"
+	quest.605639A83B5AE2B9.quest_desc: [
+		"防具効果：静寂（&9静寂効果を持つ装備を4部位着けると、プレイヤーが起こす振動を無効化&r）"
+		""
+		"1部位でも装備すると、盲目、暗闇、採掘速度低下、吐き気、移動速度低下、弱体化を無効化します。"
+		""
+		""
+		"{@pagebreak}"
+		"スカルク製の道具は硬度と採掘レベルを無視し、&d破壊可能なあらゆるブロックを高速で壊せます&r。"
+		""
+		"効率強化で採掘速度をさらに上げられます。"
+		""
+		"&o採掘時は必要な道具と採掘レベルに注意してください。条件を満たさないと何もドロップしません。&r"
+	]
+	quest.605639A83B5AE2B9.quest_subtitle: "防具と道具"
+	quest.60BA9FC4C0678513.quest_desc: [
+		"&6{item.exposure.interplanar_projector}&rは別次元の画像を写真にできる特殊なカメラフィルターです（ローカル画像を読み込んで撮影できます）。"
+		"まず&6{block.minecraft.anvil}&rなどで&6{item.exposure.interplanar_projector}&rの名前をローカル画像のパス（例：D:/Images/cat.jpg）にします。png、jpg、bmp、静止gifと完全透明ピクセルに対応します。金床の名前には文字数制限があります。URLへ改名すればWeb画像も取得できます。"
+		""
+		"投影に失敗しても消費されず、破損した&6{item.exposure.interplanar_projector}&rになります。カメラにはブルースクリーンのエラーコードが表示されます。破損品は&6{item.minecraft.ender_eye}&rと組み合わせて修理できます。"
+	]
+	quest.60F0E62C7A268D3D.quest_desc: [
+		"{item.l2hostility.miracle_powder}または{item.l2hostility.chaos_ingot}から&d{item.c6c.abyssal_ticket}&rを作れます。"
+		"&c{entity.irons_spellbooks.fire_boss}&rの住処で&d{item.c6c.abyssal_ticket}&rを使うと&d{Abyssal Carnival}&rが始まります。"
+		"通常、&b優秀&r、&9レア&r、&d伝説&r、&6エピック&r、&z神話&r品質の装備を落とし、大幅な能力上昇を得られます。"
+		""
+		"挑戦を終えて&l&b{item.irons_spellbooks.arcane_rune}&r&rを入手すると、{block.irons_spellbooks.cinderous_soul_rune}を作り、オーバーワールドでも&d{Abyssal Carnival}&rを開始できます。"
+		""
+		"&o{Abyssal Carnival}は{item.l2hostility.greed_of_nidhoggur}の影響を受けません。&r"
+		"&o{Abyssal Carnival}の魔法ダメージの大半は{item.l2hostility.ring_of_divinity}で無効化できません。&r"
+		"&o&4{trait.l2hostility.dispell}&r&oまたは&4{trait.l2hostility.reprint}&r&oを持つボスは出現しません。&r"
+		""
+		"難易度：350以上"
+	]
+	quest.61D17F24C202CB19.quest_desc: ["より優れた採掘道具"]
+	quest.620DE65D4B2B3547.quest_desc: [
+		"ネザー版の&c{block.farmersdelight.rich_soil_farmland}&rです。水ではなく、火、溶岩、松明、ランタン、焚き火、ストーブ、弾丸トウガラシなどの裸火で湿った状態になります。"
+		""
+		"各火源は17x9x17ブロック内の&c{block.mynethersdelight.resurgent_soil_farmland}&rを湿らせます。"
+		""
+		"湿った&c{block.mynethersdelight.resurgent_soil_farmland}&rは明るさ10となり、大半の作物に十分です。"
+	]
+	quest.62AF180B02B9AF1E.quest_desc: [
+		"背面から信号を入力すると、出力強度が徐々に上がります。"
+		""
+		"側面から信号を入力すると、出力強度が徐々に下がります。"
+	]
+	quest.62F46A2AF56A5FD6.quest_desc: ["&6{item.exposure.camera}&r用の台として設置するか、直接手に持って撮影できます。"]
+	quest.631002556817F054.quest_desc: ["{item.umapyoi.cupcake}を食べるとやる気レベルが1上がり、満腹度5と隠し満腹度6を回復します。"]
+	quest.6724A17ED66D090E.quest_desc: [
+		"鉱石を無限に採掘できます。"
+		"JEIで@oreを検索すると全鉱脈と分布を確認できます。"
+	]
+	quest.67F1D38FF93B5199.title: "&4{dimension.minecraft.the_nether}&rへ入る"
+	quest.6802763D2F467790.quest_subtitle: "難易度800"
+	quest.68BD182E4A13D811.title: "ジェット機"
+	quest.6917737CAFB3057D.quest_desc: [
+		"擬似からくりには&d重心&rと&d質量&rがあります。"
+		""
+		"質量は構造物内の全ブロックの合計です。大半のブロックは&e1 kg&rで、例外はツールチップに表示されます。"
+		""
+		"擬似からくりには、質量に比例した下向きの重力が常に働きます。"
+		""
+		"この世界では、g = &e11 N/kg&rです。"
+		""
+		"理解できない場合は、理科の先生に聞いてみましょう。"
+	]
+	quest.6945B841D1CFB86E.quest_desc: ["&oクリエイティブモード専用&r"]
+	quest.6954E808A764BB6D.quest_desc: [
+		"&6{itemGroup.create_hypertube}&rは&6{block.create.track}&rと同じ要領で設置します。路線を完成させ、両端の&6{block.create_hypertube.hypertube_entrance}&rへ十分な&6{create.display_source.kinetic_stress.current}&rを供給すると使用できます。"
+		"初期設定では&6{block.create_hypertube.hypertube_entrance}&rへ近づくだけで進入し、移動を開始します。"
+		"&6{item.create.wrench}&rでモードを変更できます。自動閉鎖ではスニーク中は入らず、手動閉鎖ではスニーク中だけ入ります。"
+	]
+	quest.69F8F1E623EFEEF8.quest_desc: [
+		"試練の間は{biome.c6c.end_flower_forest}の地下に潜んでいます。"
+		"それ以外の{biome.c6c.end_flower_forest}は穏やかで、特に危険はありません。"
+	]
+	quest.6A76D1EBB43A2451.quest_desc: [
+		"魔法のスクロールを武器へ適用すると、その武器を持っている間に魔法を使えます。"
+		""
+		"スクロールと同じティアのインクをクラフトし、スクロールを1段階強化します。"
+	]
+	quest.6AAB902C44CFFEEC.quest_desc: ["&oクリエイティブモード専用&r"]
+	quest.6B28FC5FC8BCAB87.quest_desc: ["このアップグレードを装着したバックパックを携帯中、自動で食事します。"]
+	quest.6B453132CFF68D96.quest_desc: [
+		"ボス&c{entity.irons_spellbooks.fire_boss}&rの召喚アイテムです。"
+		"{dimension.minecraft.the_end}のチェストに1.5%の確率で出現します。"
+		""
+		"&4{dimension.minecraft.the_nether}&rで&c{entity.irons_spellbooks.fire_boss}&rを探す地図の材料になります。"
+		""
+		"難易度：250以上"
+	]
+	quest.6D54EE1C48F02762.quest_desc: [
+		"プレイヤーの魔導書に収録された魔法を編集します。"
+		"同じ魔法を一冊へ重複して刻むことはできません。"
+	]
+	quest.6DB3C1C6D21EA436.quest_desc: [
+		"&l&eMechanomania&r&rは&aCreate&r、&6建築&r、&c冒険&rを好むプレイヤー向けに、&bマルチプレイ&rの&d長期運営&rサーバー用として設計されたModパックです。"
+		"序盤にテレポート手段がなく、資源のため別のバイオームへ採掘機やモブ施設を建てる必要があります。ソロプレイは非常に&l過酷&rです。"
+		""
+		"&m&e冒険&r&mが好きでPvEに自信があるなら、「&dエンド - 戦闘と冒険&r&m」章へ直接進めます。&r"
+		"航空学版の&l&eMechanomania&r&rでは冒険要素が削除されています。"
+		""
+		"クエストブック制作を支援してくれたJSI制作チームに感謝します。彼らなしでは完成できませんでした。"
+		"試遊と宣伝をしてくれたLao King Ya Lao Kingに感謝します。"
+		"中国語化パッチを制作したNaraZX、Staples17、Kongに感謝します。"
+		"英語・タイ語翻訳を制作したティオムTEOMに感謝します。"
+		"Ultramarine\\&Create互換データパックを制作したZryumanに感謝します。"
+		"                                                             -MoePus 2025.07.29"
+		""
+		"&a&l次のページはよくある質問です。必ず読んでください！&r&r"
+		""
+		"{@pagebreak}"
+		""
+		"&a&lサーバー構成ガイド&r&r"
+		""
+		"13700K + 8 GBなら8人以上に対応できます。"
+		"13900K + 16 GBなら10人以上とDistant Horizonsに対応できます。"
+		"Xeonなどのサーバー向けCPUでは4人に対応できます。"
+		""
+		"Distant Horizonsを有効にするサーバーには最低12 GBのメモリが必要です！"
+		""
+		"&a&lバックアップについて&r&r"
+		""
+		"simplebackupsフォルダーへ増分バックアップを自動作成します。"
+		"ワールドが破損した場合はバックアップを復元してください。"
+		""
+		"{@pagebreak}"
+		""
+		"&a&lシェーダーと描画について&r&r"
+		""
+		"このModパックには3種類のシェーダーが付属します。"
+		"&cComplementary&rは鮮明で明るく、多くのサバイバルプレイヤーに適しています。"
+		"&cPhoton&rは美しい一方、超粘着剤やパーティクルなどとの互換性に問題があります。"
+		"&cBliss&rは遠景が美しい一方、高い性能を要求します。"
+		""
+		"名前の末尾に&6Clrwl&rが付くものはCreate向けに最適化されています。それ以外ではフレームレートが下がることがあります。"
+		""
+		"チェストやCreate部品が&c表示されない&r場合は、次を順に試してください。"
+		"1. 専用GPUを使用していることを確認"
+		"2. グラフィックドライバーを最新版に更新"
+		"3. /flywheel backend instancing を実行"
+		"4. /flywheel backend off を実行"
+		"解決した時点で、以降の手順は不要です。"
+		"Intel GPUとAMD RDNA2 GPUでよく発生します。"
+		""
+		"{@pagebreak}"
+		"&a&lDistant Horizonsについて&r&r"
+		"大半のプレイヤーが快適に遊べるよう、このModパックにはDistant Horizonsを同梱していません。"
+		"低スペック向け設定は同梱済みなので、シングルプレイではModを追加するだけで使えます。"
+		"サーバー管理者向けガイドも公開予定です。作者のプロフィールを確認してください。（&6下の星をクリック&r）"
+		""
+		"サーバー参加時は最低&b4 GB&rのメモリを割り当ててください。"
+		"シングルプレイでは最低&b10 GB&rを推奨します。"
+		""
+		"&a&lVoxyについて&r&r"
+		"Voxyは著作権上、再配布が禁止されています。"
+		"このModパックはVoxyとの互換性を維持していますが、同梱していません。"
+		"使用可能なVoxyは各自で入手してください。"
+		""
+		"{@pagebreak}"
+		"&a&lC6C&r&r"
+		"C6CはModパックの中核となる改変Modです。c6c-common.tomlの設定を必要に応じて変更してください。"
+		"* オーバーワールドのモブ出現量"
+		"* エンドのモブ出現量"
+		"* サーバー上でのメイドスキン変更禁止"
+		"* 二段ジャンプ"
+		""
+		"{@pagebreak}"
+		"&a&lクラッシュ報告&r&r"
+		"クラッシュなどが発生した場合は、クラッシュレポートを次へアップロードし、"
+		"&ehttps://mclo.gs/&r"
+		"生成されたリンクを作者へ送ってください。"
+	]
+	quest.6DB3C1C6D21EA436.title: "&l&eMechanomania&r&r Modパックへようこそ"
+	quest.6F343418CE247D0D.quest_desc: [
+		"馬：移動速度はバニラの2倍で、大半の地形障害を無視して走ります。&c{item.horseman.copper_horn}&rで手懐けた馬を召喚できます。"
+		""
+		"&c{item.usefulslime.slime_boots}&rと&c{item.usefulslime.slime_sling}&r：大ジャンプと高速移動ができます。"
+		""
+		"&c{@create_hypertube}&r：拠点内の短距離を高速移動できます。"
+		""
+		"&c{item.c6c.recall_potion}&r：ベッドまたはスポーン地点へ素早く戻れます（エンドでは使用不可）。"
+		""
+		"列車（中盤）：離れた拠点や資源地点を接続できます。"
+		""
+		"&c{item.l2complements.fragile_warp_stone}&r（中盤）：指定したマーカーへテレポートできます。"
+		""
+		"&c{item.irons_spellbooks.hither_thither_wand}&rと&c{block.irons_spellbooks.portal_frame}&r（終盤）：2地点間をテレポートできます。"
+	]
+	quest.6F343418CE247D0D.title: "世界の移動手段"
+	quest.6F4F862CB6AF1A4C.quest_desc: ["{item.umapyoi.hachimi_mid}を食べると調子レベルが1上がり、満腹度2と隠し満腹度3を回復します。"]
+	quest.6F4F862CB6AF1A4C.quest_subtitle: "満腹でも食べられます"
+	quest.6FF2FBFB5A8D4C13.quest_desc: ["&o&c{dimension.minecraft.the_end}&rでは箒の移動能力が大幅に制限されます。C6C設定ファイルで変更できます。&r"]
+	quest.6FF2FBFB5A8D4C13.quest_subtitle: "同乗するメイドが必要です"
+	quest.6FF2FBFB5A8D4C13.title: "空飛ぶ箒"
+	quest.717036CE2862E3FF.quest_desc: ["ブロック採掘やエンティティ攻撃時、メインハンドの道具を所持品内で最適な道具や武器へ交換します。"]
+	quest.7190D0D53DB975B2.quest_desc: [
+		"「{dimension.minecraft.the_end}」のほかの章を確認し、冒険計画を決めましょう。"
+		"決まったら、"
+		"出発です！"
+	]
+	quest.7199171C6EEE34F6.title: "設計図を複製"
+	quest.73983F6255308C0E.quest_desc: [
+		"&6{item.hotbath.milk_bath_bucket}&rに浸かると、2秒ごとに体力を0.25回復します。"
+		""
+		"15秒間浸かると、&c{effect.minecraft.unluck}&r以外の悪い効果をすべて解除します。"
+		""
+		"浸かっている間、15秒ごとに満腹度を1回復します。"
+	]
+	quest.74C40A81C9605AC0.quest_desc: [
+		"{End Deep Dark}は{dimension.minecraft.the_end}で間違いなく&4最も危険&rな場所です。"
+		"&d{entity.minecraft.warden}&rと&d{entity.irons_spellbooks.dead_king}&rが潜んでいます。"
+		"幸い、どちらも眠っており、"
+		"誰も起こさなければ永遠に眠り続けます。"
+		""
+		"&d{entity.minecraft.warden}&rと&d{entity.irons_spellbooks.dead_king}&r"
+		"ディープダークの真の支配者はどちらでしょう？"
+		""
+		"難易度：100以上"
+	]
+	quest.74C40A81C9605AC0.title: "しっ！ 静かに！"
+	quest.74F2404B036CB503.quest_desc: [
+		"{Ancient City}は{dimension.minecraft.the_end}のディープダークにまれに出現します。"
+		""
+		"大量の&cネザライト&rと、&d{item.minecraft.echo_shard}&rなど&dソウルバインド&r用の素材がありますが、非常に危険です。"
+		""
+		"難易度：150以上"
+	]
+	quest.74F2404B036CB503.title: "{Ancient City}"
+	quest.75BA253A92043A09.quest_desc: [
+		"ここはエンドの不気味なバイオームです。"
+		"見渡す限り緑が生い茂り、"
+		"&d{entity.minecraft.enderman}&rと&2{entity.minecraft.creeper}&rが暮らしています。"
+		"さまざまな新装備やアイテムの材料になる&a{item.kubejs.chlorophyte_ingot}&rが豊富です。"
+		"エンド外縁諸島で生き残るには&a{item.kubejs.chlorophyte_ingot}&rが欠かせません。"
+		""
+		"難易度：20以上"
+	]
+	quest.760E6D43C4E3D14E.quest_desc: [
+		"走り始めると、静止した人からはあなたが遠ざかって見えます。一方あなたからは、その人が動いて見えます。これが&d相対運動&rです。"
+		""
+		"擬似からくりが&d前進&rすると、その視点では周囲の空気が&d後退&rします。&aプロペラ&rは対気速度が上がるほど力が弱くなるため、無限には加速できません。"
+	]
+	quest.762731FF779D89ED.quest_desc: [
+		"Createが初めてなら、先に&eCreateの章&rを完了してください。"
+		""
+		"ブロックに設置して引き下げると、ブロックが自由に回転・転がることが分かります。"
+		""
+		"これは&d擬似からくり&rが作られるためです。"
+		""
+		"&d擬似からくり&rは&d移動装置&rと異なります："
+		""
+		"1. 大半のブロックは通常どおり動作する"
+		""
+		"2. 重力の影響を受ける"
+		""
+		"3. 内部に移動装置を組み込める"
+	]
+	quest.762731FF779D89ED.title: "擬似からくり"
+	quest.77305B767FC35FD7.quest_subtitle: "説明はここまで。料理を始めよう。"
+	quest.78158AE15F2A7180.quest_subtitle: "難易度300"
+	quest.7A3169F8A7713383.quest_desc: [
+		"バックパックを飛行・ホバリング可能な本格ジェットパックへ変えます。"
+		"燃料にはバックパック内の{item.create.copper_backtank}/{item.create.netherite_backtank}を使います。"
+	]
+	quest.7A9D46939AA33A20.title: "さらに洗練"
+	quest.7ADA92302AD2425C.quest_desc: [
+		"&c現在、{stronghold}はオーバーワールドの座標0,0の地下に生成され、{dimension.minecraft.the_end}へのポータルも自動で開いています。&r"
+		""
+		"&l&4{dimension.minecraft.the_end}は非常に高難易度です。チームで向かうことを推奨します。&r&r"
+	]
+	quest.7ADA92302AD2425C.title: "{dimension.minecraft.the_end}へ向かう"
+	quest.7B75EE328291ABCC.quest_desc: ["最強の{UmaMusu}を育成してください！"]
+	quest.7CD24C618C37D5C2.quest_desc: [
+		"&d{item.l2hostility.chaos_ingot}&rの主な入手方法は二つです。"
+		""
+		"1. レシピでクラフトする"
+		"2. &b{item.l2hostility.charm_of_looting_4}&rを作り、難易度200以上で&c{End City}&rへ向かう。このときシュルカーは必ず{trait.l2hostility.dispell}を持ち、低確率で&d{item.l2hostility.chaos_ingot}&rを落とします。"
+	]
+	quest.7D783507714BF010.quest_desc: [
+		"祭壇は赤色の羊毛20個とオーク材18個で作れます。完成後、博麗の御幣で下図の青い位置を右クリックすると祭壇になります。&6{item.touhou_little_maid.power_point}&rを消費してアイテム合成やイベントを起こし、&6{block.touhou_little_maid.maid_beacon}&rのエネルギーにもなります。"
+		""
+		"図どおりに建て、柱を右クリックしてアイテムを置き、Shift+右クリックで回収します。正しく置くと必要量の&6{item.touhou_little_maid.power_point}&rを消費し、合成またはイベントを実行します。"
+		""
+		"&6{patchouli.touhou_little_maid.book.name}&rの&6{patchouli.touhou_little_maid.book.entries.overview.multiblocks_altar.name}&rを確認してください。目のボタンで構造を投影できます。"
+		"{image:ftbquests:textures/nvpujitian.png width:160 height:120 align:center}"
+	]
+	quest.7D783507714BF010.title: "{touhou_little_maid.ponder.altar.header}"
+	quest.7DB3025A320096D6.quest_desc: [
+		"&c{End City}&rは&c{dimension.minecraft.the_end}&rの島々の上空に浮かんでいます。"
+		"足を滑らせないよう注意！ 下には果てしない奈落が広がっています。"
+		""
+		"難易度：50以上"
+	]
+	quest.7DB3025A320096D6.title: "遺跡の眠る場所"
+	quest.7DF40621D9ECBE60.quest_desc: [
+		"背負っているとき、または床に置いたときに機能します。"
+		"最大5ブロック先のアイテムをバックパックのメイン収納へ引き寄せます。"
+	]
+	quest.7E563C97A327B537.quest_subtitle: "難易度600"
+	quest.7EFEEF11A184A08E.quest_desc: [
+		"&b{block.umapyoi.disassembly_block}&rをクラフトします。"
+		""
+		"不要なウマ娘を入れると&eウマ娘クリスタル&rを入手できます。"
+	]
+	reward_table.566BC49E7BBA3AAD.title: "基本報酬パック"
+	task.018D50BCD26EC52D.title: "馬について"
+	task.041A220AAD976C36.title: "センサー"
+	task.079598ED34BDA743.title: "JEIの使い方"
+	task.07BD684C5841D867.title: "エンド！"
+	task.0A2A827BE90A517F.title: "遊園地"
+	task.0C0C580E2F734E82.title: "青々とした緑"
+	task.0EC1C934EE7E9C9C.title: "メイドと中国将棋"
+	task.112CBA6D46832979.title: "\"敵意\""
+	task.13AB58A961702203.title: "温泉"
+	task.14B8564808BA252E.title: "伝達"
+	task.1A0E470B8AAAA037.title: "便利な道具"
+	task.1AA1A41B0F9286FD.title: "散らばった鎧を観察"
+	task.1B22D77617B1FB2B.title: "より良いオオカミの鎧"
+	task.1C7B52B2D8C27CA5.title: "メイドのアクセサリー"
+	task.1D8680DDD9A444BD.title: "高度な応力制御"
+	task.1E05D9F4697EBE41.title: "フィルター"
+	task.26C4D588F4958FB1.title: "高度なレッドストーンシステム"
+	task.2E1871D0F80854E8.title: "乗り物"
+	task.3056BA1F2A472133.title: "Mechanomania Modパックへようこそ"
+	task.37784A02819F7217.title: "航空母艦"
+	task.3A9D318495BFF9AE.title: "出発"
+	task.3DCCCC14D391742B.title: "ダンジョン！ ダンジョン！"
+	task.3F3C2C54EBBE24AB.title: "重力"
+	task.49D91506FB3FF564.title: "メイドを捕獲または蘇生"
+	task.49FE4F7B204197F0.title: "ご主人様の道具"
+	task.4A021CCA252DCB4E.title: "スカルクの王"
+	task.4BEEA63B2528F8B9.title: "補助作業装置"
+	task.4C3F131687C993FF.title: "伝達装置"
+	task.4F7533BD0A112406.title: "ハウルの動く城"
+	task.5254AD5689BFFF99.title: "擬似からくりを接続"
+	task.596535A955251949.title: "簡易ドロワーアップグレード"
+	task.5A4EC83AAAB86751.title: "JEIで@delightを検索すると、すべての料理を確認できます。"
+	task.5B7FF0D588B8CF8F.title: "物理学"
+	task.5C6196514E719EE7.title: "無人貨物船"
+	task.627EF049D666373E.title: "遺跡の眠る場所"
+	task.6517A277B3E3D931.title: "&c{create.display_source.kinetic_stress.current}&r生成装置"
+	task.6706E3AF301F647C.title: "応力の伝達"
+	task.7193C1AAFF70DB86.title: "建築チャレンジ"
+	task.731A8373E429DB6E.title: "装飾"
+	task.763F25EE5DE39431.title: "究極目標：メイドマスター"
+	task.7C1AC755E5E3D25B.title: "相対運動"
+	task.7CED1C11ECCA5318.title: "さらに高度な伝達装置"
+	task.7FBFB25DA5BBCF28.title: "{item.fxntstorage.backpack_blank_upgrade}"
+}

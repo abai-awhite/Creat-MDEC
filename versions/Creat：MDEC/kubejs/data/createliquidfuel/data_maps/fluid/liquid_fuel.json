@@ -1,0 +1,9 @@
+{
+  "values": {
+    "hephaestus:molten_blaze": {
+      "burnTime": 24,
+      "superHeat": true,
+      "amountConsumedPerTick": 1
+    }
+  }
+}

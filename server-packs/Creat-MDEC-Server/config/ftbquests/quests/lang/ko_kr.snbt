@@ -1,0 +1,1015 @@
+{
+	chapter.0BE61D98EC2E6FEF.title: "보관과 정리(@Create:Storage)"
+	chapter.1505E388615EF814.title: "합금 제련로(@Alloy Smelter)"
+	chapter.1B463ED58F5BC382.title: "보석\\&장신구(@Iron's Gems 'n Jewelry)"
+	chapter.2712B84FC95D24A9.title: "Mechanomania"
+	chapter.30CF816281C9CC36.title: "Touhou Little Maid"
+	chapter.45425E03EB45F47E.title: "항공학"
+	chapter.4768D92465F10FF3.title: "항공학"
+	chapter.4B14987D9F164B1A.title: "Farmer's Delight"
+	chapter.640A5F4C7DC06EDE.title: "안산암 시대(@Create)"
+	chapter.700A1A40AA9B1D69.title: "생활 편의 도구"
+	chapter.771ACE65A798117A.title: "황동 혁명(@Create)"
+	chapter_group.08701E4938C3D337.title: "기타 모드"
+	chapter_group.2195A9D3E7D1D788.title: "오버월드 - 느긋한 생활"
+	quest.000EAE75E8F04497.quest_desc: [
+		"먼저 왼쪽 슬롯에 &6{item.exposure.developed_black_and_white_film}&r 또는 &6{item.exposure.developed_color_film}&r을 넣으세요. 각각 흑백 사진과 컬러 사진을 인쇄할 수 있습니다."
+		""
+		"왼쪽과 오른쪽을 클릭해 이전 또는 다음 네거티브를 선택합니다. 현재 네거티브를 클릭하거나 마우스 휠을 위로 굴리면 확대해서 볼 수 있습니다."
+		""
+		"&6{item.minecraft.paper}&r와 염료를 넣고 인쇄 버튼을 누르면 빨간 표시등이 켜집니다. 흑백 사진은 종이 1장과 검은색 염료 1개, 컬러 사진은 종이 1장과 네 종류의 염료를 각각 1개씩 소모하며 더 오래 걸립니다."
+	]
+	quest.000EAE75E8F04497.quest_subtitle: "사진을 인쇄하세요!"
+	quest.00EC174CE65A4F3A.quest_desc: [
+		"구조물이 움직이면 이동 방향과 반대 방향으로 항력을 받습니다."
+		""
+		"&a대칭 날개&r는 이동 방향과 나란할 때 항력이 없지만 기울이면 항력이 생깁니다. 이를 이용해 비행 구조물의 방향을 조절할 수 있습니다."
+	]
+	quest.00EC174CE65A4F3A.title: "항력"
+	quest.023C81F541EAFB0D.quest_desc: [
+		"{dimension.minecraft.the_end}의 하수인 &d{entity.minecraft.ender_dragon}&r을 처치했습니다."
+		"이제 {dimension.minecraft.the_end} 외곽 섬에서 더 강한 몬스터가 기다립니다."
+	]
+	quest.02C7A69D089135C3.title: "전달 장치"
+	quest.05254E5479383C89.title: "동력원"
+	quest.053B7489051084E1.quest_desc: [
+		"&6{item.hotbath.rose_bath_bucket}&r에 들어가면 초당 체력을 0.25 회복합니다."
+		"15초 동안 들어가 있으면 모든 해로운 상태 효과가 제거됩니다."
+		"15초 동안 들어가 있으면 20초간 1단계 &6{effect.minecraft.strength}&r 효과를 얻습니다."
+	]
+	quest.06486C7C061D349B.quest_desc: [
+		"&d{entity.minecraft.ender_dragon}&r을 처치하면 &5{block.minecraft.end_gateway}&r가 생성됩니다."
+		"플레이어를 외곽 섬의 &d무작위 위치&r로 이동시킵니다."
+		"{dimension.minecraft.the_end} 외곽 섬에서는 다음 귀중품을 얻을 수 있습니다."
+		"- &6{item.minecraft.potion.effect.apothic_attributes.flying}&r"
+		"- &6{block.minecraft.netherite_block}&r"
+		"- &2{item.kubejs.chlorophyte_ingot}&r"
+		"- &2{item.umapyoi.jewel}"
+		""
+		"하지만"
+		"마지막으로 죽은 장소로 돌아가기 어렵기 때문에"
+		"떨어뜨린 아이템은 사실상 영구히 잃게 됩니다."
+		""
+		"&o&5{block.minecraft.end_gateway}&r에는 5분의 재사용 대기시간이 있습니다. 대기시간 중 들어가면 출구는 바뀌지 않고 대기시간만 갱신되어 팀 탐험에 편리합니다.&r"
+		"&o{dimension.minecraft.the_nether}와 {dimension.minecraft.the_end}에서는 플레이어 간 피해가 없습니다.&r"
+	]
+	quest.06486C7C061D349B.title: "외곽 섬"
+	quest.068BF44B149A3415.quest_desc: ["네더 버전의 &c{block.farmersdelight.organic_compost}&r입니다. 네더에서만 &c{block.mynethersdelight.resurgent_soil}&r로 변합니다."]
+	quest.0922F1F2D67E2AA4.quest_desc: ["&d목적지&r의 방향을 감지합니다"]
+	quest.0B9E3C660647C17A.title: "바퀴 차량"
+	quest.0BDB2241B517EC3E.quest_desc: [
+		"잉크를 넣으세요. 잉크의 품질이 두루마리의 품질을 결정합니다."
+		""
+		"종이를 넣으세요. 두루마리 하나에 종이 한 장을 소모합니다."
+		""
+		"재료를 넣으세요. 재료가 주문 계통을 결정합니다."
+		""
+		"재료를 넣으면 작성 가능한 주문이 표시됩니다. 물음표가 보이는 주문에는 더 높은 등급의 잉크를 사용해 보세요."
+		""
+		"완성된 두루마리는 여기에 나타납니다. 왼쪽 클릭으로 꺼낼 때만 재료가 소모됩니다."
+		""
+		"작성 가능한 주문 두루마리"
+		"주문 두루마리는 전리품 상자나 죽은 자의 왕을 처치해 얻을 수도 있습니다."
+		"떠돌이 상인, 화염술사, 연금술사와 거래해서도 얻을 수 있습니다."
+	]
+	quest.0C04B0D91BB46687.quest_desc: [""]
+	quest.0C04B0D91BB46687.quest_subtitle: "{curios.identifier.uma_suit} 슬롯에 장착하세요"
+	quest.0C04B0D91BB46687.title: "{UmaMusu}에게 새 옷을 입히세요"
+	quest.0C83FF2F34349F3D.quest_desc: ["출력 레드스톤 신호 세기를 설정합니다"]
+	quest.0D10CBCC2332A0A0.quest_desc: ["같은 차원의 장거리를 잇는 &e&l자동 물류 도우미&r&r"]
+	quest.0D70527CD0560FA3.quest_desc: [
+		"{dimension.minecraft.the_end} 외곽 섬에는 &d적의&r를 지닌 몬스터가 생성됩니다."
+		"&l플레이어가 몬스터를 처치할수록&r"
+		"몬스터의 능력치가 강해지고"
+		"점차 {trait}을 얻습니다."
+		"예시:"
+		"- &d{trait.l2hostility.blindness}&r"
+		"- &d{trait.l2hostility.levitation}&r"
+		""
+		"                    --> 다음 페이지"
+		"{@pagebreak}"
+		"현재 난이도는 인벤토리 위의 난이도 화면에서 언제든 확인할 수 있습니다."
+		"난이도가 능력을 지나치게 넘지 않도록 주의하세요!"
+		"위험해지기 전에 차원문을 찾아 {dimension.minecraft.the_end} 외곽 섬에서 탈출하세요."
+		"다음에 {dimension.minecraft.the_end} 외곽 섬에 다시 들어오면"
+		"몬스터의 강도가 자동으로 조정됩니다."
+		""
+		"플레이어가 죽으면"
+		"몬스터의 강도가 초기화됩니다."
+		""
+		"&o&l&c{dimension.minecraft.the_end}&r에서는 &5{item.c6c.recall_potion}&r을 사용할 수 없습니다.&r"
+	]
+	quest.0DB72E42E1E1BACD.quest_desc: ["파랑과 빨강은 두 극을 나타냅니다. 같은 극은 밀어내고 다른 극은 끌어당기며, 가까울수록 자력이 강해집니다."]
+	quest.0DB72E42E1E1BACD.title: "자력"
+	quest.0E0AA6FDAB840DA8.title: "{container.fxntstorage.simple_storage_box_title} 업그레이드"
+	quest.0E336146AE210F59.quest_desc: ["구조물의 &d기울기&r를 감지합니다"]
+	quest.0E98873F2A744F77.title: "첫 번째 기계"
+	quest.0EAED4471D8CE8AC.quest_desc: [
+		"&6{item.exposure.camera}&r를 Shift+오른쪽 클릭하면 내부 GUI를 열어 &6{film}&r, 플래시, 렌즈, 필터를 장착할 수 있습니다. 해당 아이템을 들고 카메라를 오른쪽 클릭해도 장착하거나 교체할 수 있습니다."
+		"(삼각대 위의 카메라는 &6{carryon}&r으로 집어 들지 않도록 조금 떨어져 Shift+오른쪽 클릭하세요.)"
+		""
+		"&6{film}&r: 여러 종류의 현상 전 필름"
+		"플래시: &6{block.minecraft.redstone_lamp}&r"
+		"렌즈: &6{item.minecraft.spyglass}&r"
+		"필터: 여러 색의 유리판 / &6{item.exposure.interplanar_projector}&r"
+	]
+	quest.0EAED4471D8CE8AC.quest_subtitle: "아름다운 순간을 기록하세요"
+	quest.0EC90EBB03243D94.quest_desc: [
+		"&6{block.torchmaster.feral_flare_lantern}&r은 반경 16블록 구체 안의 밝기를 감지합니다. 밝기가 7 미만인 곳에는 밝기 11의 보이지 않는 광원을 배치합니다."
+		""
+		"가장 효율적으로 밝히려면 약 30블록마다 하나씩 배치하세요."
+	]
+	quest.0EE438AA7894A017.quest_desc: ["레드스톤 신호를 여러 방식으로 연산하고 무선 전송합니다"]
+	quest.0F5E82B5594F0725.quest_desc: ["이 업그레이드가 든 배낭을 휴대하면 낙하 피해를 받지 않습니다."]
+	quest.10701911A767A5D7.quest_desc: ["여러 물리량을 서로 다른 세기의 레드스톤 신호로 바꿉니다"]
+	quest.114E23CD35C37E9B.quest_desc: ["{item.umapyoi.sweet_cupcake}을 먹으면 의욕 단계가 2 오르고 허기 7과 포만도 9를 회복합니다."]
+	quest.1169390015BB59F9.title: "기술자의 필수품"
+	quest.11A745B93068C191.quest_desc: [
+		"위에서 아이템을 던지거나 어느 방향에서든 호퍼로 넣으세요."
+		""
+		"호퍼로 완성품을 꺼내거나 빈손으로 오른쪽 클릭하세요."
+	]
+	quest.121E38D67771FEB0.quest_desc: [
+		"골렘을 원하는 대로 꾸미고"
+		"알맞은 장비를 장착할 수 있습니다."
+	]
+	quest.121E38D67771FEB0.title: "골렘 조립"
+	quest.128A5A1B3E1B2BC9.quest_desc: ["이 힘은 항상 수직 위를 향하고 공기 밀도의 영향을 받습니다. 고도가 높을수록 약해지므로 열기구는 결국 일정 높이에 머뭅니다."]
+	quest.128A5A1B3E1B2BC9.title: "기구 양력"
+	quest.12B2B927FFFFD3F1.quest_desc: [
+		"고대 전장과 화염술사의 탑에 자연 생성됩니다."
+		""
+		"다이아몬드 곡괭이 이상의 채굴 단계가 필요합니다. 단계가 낮으면 아무것도 떨어뜨리지 않고 고대 기사가 생성됩니다."
+		""
+		"파괴하면 철 조각과 금 조각 다수, 재의 정수 0~1개를 떨어뜨리고 낮은 확률로 네더라이트 파편을 떨어뜨립니다."
+		""
+		"파괴한 자리에는 적대적인 고대 기사도 생성됩니다."
+	]
+	quest.12B2B927FFFFD3F1.title: "흩어진 갑옷"
+	quest.1314461E771CE55B.quest_desc: ["&d거리&r를 감지하고 블록을 필터링할 수 있습니다"]
+	quest.136C3B3FEB2ED0CC.quest_desc: [
+		"&4주의:&r"
+		"{YSM mod}를 설치하면 &d인벤토리에 플레이어 방어구가 표시되지 않을 수 있습니다&r."
+		""
+		"해결 방법:"
+		"* 장신구 슬롯의 {item.umapyoi.uma_soul} 표시를 끄세요."
+		""
+		"또는"
+		""
+		"* Alt+Y를 눌러 YSM 화면을 여세요."
+		"오른쪽 위 렌치 아이콘에서 “{Prevents rendering of self player's model}”을 선택하세요."
+	]
+	quest.136C3B3FEB2ED0CC.title: "YSM"
+	quest.13B1E27BAA44F3B8.quest_desc: [
+		"오버월드의 몬스터 생성 한도가 낮아 일반 몬스터 농장을 만들기 어렵습니다. 대신 렉이 적고 전리품을 상자에 직접 생성하는 생성기를 만들 수 있습니다."
+		"일반 농장처럼 생물군계마다 다른 몬스터가 생성됩니다(&a바닐라와 같은 종류가 생성됩니다&r)."
+		""
+		"&d{block.create_mechanical_spawner.spawn_fluid_random}&r을 넣으면 몬스터 생성이 시작됩니다."
+		""
+		"&a&l다음 페이지&r&r"
+		"{@pagebreak}"
+		""
+		"&l몬스터 생성 참고표&r"
+		"스트레이: 얼어붙은 바다, 깊고 얼어붙은 바다, 눈 덮인 평원, 눈 덮인 타이가, 눈 덮인 비탈"
+		"허스크: 사막"
+		"마그마 큐브: 네더 황무지, 현무암 삼각주"
+	]
+	quest.14C82B046FCA091C.title: "청크 로딩"
+	quest.1534B59AA6AB4BD9.title: "특수 전달 장치"
+	quest.1566785ABC7FC6BC.quest_subtitle: "다중 블록 구조 포장기"
+	quest.1637D39489C22EB9.title: "{item.structurecompass.structure_compass}"
+	quest.17E8B04D5E517FFD.quest_desc: [
+		"&6{item.hotbath.herbal_bath_bucket}&r에 들어가면 2초마다 체력을 0.25 회복합니다."
+		"15초 동안 들어가 있으면 모든 해로운 상태 효과가 제거됩니다."
+		"5초 동안 들어가 있으면 10초간 1단계 &6{effect.minecraft.resistance}&r 효과를 얻습니다."
+		"이 물에 들어간 언데드는 초당 0.5의 피해를 받습니다."
+	]
+	quest.18DE4FF6E70319A5.quest_desc: [
+		"인벤토리에서 아이템에 마우스를 올리고"
+		"R 키(조합법): 아이템 조합법 표시"
+		"U 키(용도): 아이템 용도 표시"
+		"A 키: 아이템을 저장해 나중에 조합법 확인"
+	]
+	quest.18DE4FF6E70319A5.title: "아이템 조합법 확인"
+	quest.18F9E2D23345DF44.quest_desc: [
+		"연료를 소모해 &e32 RPM | 2048 su&r를 공급합니다."
+		""
+		"&a블레이즈 케이크&r를 사용하면 과열되어"
+		"&e64 RPM | 4096 su&r를 공급합니다."
+	]
+	quest.19575E2CB2B76E7B.quest_desc: ["놀이공원의 모든 시설을 재현하고&m&7 서버에서 큰돈을 벌어 보세요"]
+	quest.1A84011D71AF4A87.quest_desc: [
+		"&e{item.umapyoi.crystal_gold}&r을 얻으면"
+		"&e{block.umapyoi.uma_pedestal}&r을 제작할 수 있습니다."
+		""
+		"이것으로 SSR {UmaMusu}와 SSR {Support Card}만 소환할 수 있습니다."
+	]
+	quest.1B12A06587207CCB.quest_desc: ["주 손이나 보조 손의 아이템을 인벤토리에서 보충합니다."]
+	quest.1B7A31081B34C2D0.quest_desc: [
+		"&d{item.umapyoi.skill_book}&r을 얻으면 {block.umapyoi.skill_learning_table}에서 {UmaMusu}를 &a훈련&r할 수 있습니다."
+		""
+		"&a훈련&r 후 {UmaMusu}의 능력치가 크게 강화됩니다!"
+		""
+		"{item.umapyoi.skill_book}은 {dimension.minecraft.the_end}의 상자에서 찾을 수 있습니다."
+	]
+	quest.1D7C6B552ED09130.quest_desc: [
+		"정해진 각도만큼 회전하면 응력 전달을 멈추고, 응력이 없을 때 자동으로 복귀할 수 있습니다."
+		""
+		"다른 부품과 함께 구조물의 &d선회 속도&r를 제어할 때 주로 사용합니다."
+	]
+	quest.1E997C93EDDBD107.quest_desc: [
+		"&a{item.kubejs.chlorophyte_ingot}&r을 얻었습니다."
+		"이것으로 다음 주괴를 만들 수 있습니다."
+		""
+		"이 주괴로 강력한 효과나 세트 효과가 있는 {l2hostility.title} 장비를 만들 수 있습니다."
+		""
+		"&d&l{l2hostility.title} 장비를 얻는 방법은 두 가지가 더 있습니다:&r&r"
+		"* &b다이아몬드 또는 네더라이트&r 장비를 직접 강화"
+		"* &e{item.irons_spellbooks.timeless_slurry}&r로 네더라이트 장비 강화"
+	]
+	quest.1F18639774CCF28E.quest_desc: [
+		"{block.umapyoi.silver_uma_pedestal}에 &d{item.umapyoi.blank_ticket}&r을 사용하세요. 보조 손은 비워야 합니다."
+		"그러면 &e{item.umapyoi.blank_uma_soul}&r을 얻습니다."
+		""
+		"다음으로 &e{item.umapyoi.blank_uma_soul}&r을 &b{block.umapyoi.three_goddess}&r에 넣어 &b{item.umapyoi.uma_soul}&r을 받으세요."
+		""
+		"&b{item.umapyoi.uma_soul}&r을 장신구 슬롯에 장착하면 &6능력치가 강화&r됩니다!"
+	]
+	quest.1F829C67174A4944.quest_desc: [""]
+	quest.20C36E1FC5B0C4EF.title: "이제 엘리베이터로 집을 꾸며 보세요"
+	quest.2105773288B818A7.title: "고급 물류"
+	quest.21A14597E092B4EC.title: "열차 운송 패키지"
+	quest.225EE2F819DD7B94.quest_desc: ["먹으면 허기 2와 포만도 2.4를 회복하고 최대 스태미나에 비례해 스태미나도 회복합니다."]
+	quest.23C25A1C2A64D98A.quest_desc: [
+		"먼저 &d{entity.minecraft.ender_dragon}&r이 떨어뜨린 {block.minecraft.dragon_head}으로 &b{block.alloy_smelter.forge_controller_tier3}을 제작하세요."
+		"광석 생산량을 늘리고, 무엇보다 {dimension.minecraft.the_end} 외곽 섬의 여러 산물을 제련하고 처리할 수 있습니다."
+	]
+	quest.245F475CE17B31BE.title: "건축 도우미"
+	quest.2513F6677A477C78.quest_desc: [
+		"요새는 좌표 0, 0의 지하에 생성되며 엔드 차원문은 이미 활성화되어 있습니다."
+		""
+		"바로 엔드로 가서 모험을 시작할 수 있습니다."
+		""
+		"엔드는 매우 어려우므로 팀으로 가는 것을 권장합니다."
+	]
+	quest.253789D53CF7F585.quest_subtitle: "난이도 100"
+	quest.254B565D5CB0CD9D.quest_desc: [
+		"생물군계마다 서로 다른 광석이 밀집해 있습니다."
+		"예를 들어 평원에는 철 광맥이, 바람이 세찬 언덕에는 &c{block.kubejs.compressed_tuff}&r 광맥이 많습니다."
+		"일부 광맥에는 &b{block.kubejs.coolant}&r가 필요하며 추운 생물군계에서만 채굴할 수 있습니다."
+		"&c{block.kubejs.compressed_tuff}&r을 분쇄하면 &c구리&r와 &c아연&r을 얻습니다."
+		""
+		"거의 모든 광석을 채굴할 수 있습니다."
+		"JEI에서 &a@ore&r를 &d검색해 모든 광맥 정보를 확인하세요.&r"
+	]
+	quest.2765F1D3D9529A27.quest_desc: ["온천에 15초 동안 들어가 있으면 20초간 1단계 &6{effect.minecraft.speed}&r 효과를 얻습니다."]
+	quest.2813FF8C41AFEF22.quest_desc: ["이곳에서 &5{block.irons_spellbooks.brazier_soul}&r을 많이 찾을 수 있습니다"]
+	quest.2813FF8C41AFEF22.title: "고요한 얼음 정원"
+	quest.286000FDEA3EBA0A.quest_desc: ["집 전체를 모의 구조물로 바꾸고 세계를 여행하세요"]
+	quest.29641835AFA986E4.quest_desc: [
+		"내구도가 매우 높아 쉽게 손상되지 않습니다."
+		""
+		"한 번에 내구도를 최대 1만 잃습니다."
+		""
+		"플레이어가 투명해지면 방어구도 투명해집니다."
+		""
+		"{@pagebreak}"
+		"플레이어가 투명해지면 도구도 투명해집니다."
+		""
+		"공격 범위와 채굴 범위 +1"
+	]
+	quest.29641835AFA986E4.quest_subtitle: "방어구와 도구"
+	quest.298F765A538085EE.quest_desc: ["{item.umapyoi.royal_bitter}을 먹으면 스태미나를 모두 회복하고 허기 2와 포만도 3을 회복하지만 의욕 단계가 1 낮아집니다."]
+	quest.2B88D9C4FF3F9C1E.quest_desc: [
+		"&6{block.irons_jewelry.jewelcrafting_station}&r을 제작하세요."
+		"여러 장신구를 만들어 &6능력치&r를 강화할 수 있습니다."
+	]
+	quest.2BBBEE2834D0185E.quest_desc: ["모의 구조물의 벨트가 지면에 닿으면 벨트의 움직임으로 구조물을 움직일 수 있습니다."]
+	quest.2BBBEE2834D0185E.title: "무한궤도 차량"
+	quest.2BE7C0848650B5C1.quest_desc: ["&d레드스톤 신호&r의 세기로 &d회전 속도&r를 조절합니다"]
+	quest.2CC6203A4CCE5D19.quest_desc: [
+		"메이드는 귀엽고 요리도 하며 손 크랭크도 돌립니다. 호감도에 따라 4096~65536의 &c{create.display_source.kinetic_stress.current}&r을 공급합니다."
+		""
+		"메이드에는 수집 요소도 있으며 &c능력치 증가와 허기 면역 같은 강력한 강화 효과&r를 줍니다. 퀘스트 책의 Touhou Little Maid 장을 참고하세요."
+	]
+	quest.2CCE21B461C8DF85.quest_desc: [
+		"자석 업그레이드와 비슷하지만 범위가 비교적 좁습니다."
+		"주운 아이템은 인벤토리 대신 배낭에 보관됩니다."
+	]
+	quest.2DACA9D43F90D423.quest_desc: [
+		"{itemGroup.umapyoi} 아이템은 &c{dimension.minecraft.the_end}&r의 가장 중요한 산물 중 하나입니다."
+		""
+		"훈련한 {item.umapyoi.uma_soul}은 &c능력치를 크게 강화&r합니다."
+		"기타 모드의 {itemGroup.umapyoi} 장을 참고하세요."
+		""
+		"&e{book.umapyoi.trainers_manual.title}&r은 &d{item.umapyoi.blank_ticket}&r의 재료이므로 잃어버리지 마세요."
+	]
+	quest.2F179AA3C20F87C6.quest_desc: [
+		"물이나 용암이 10,000블록에 이르면 &6{block.create.hose_pulley}&r가 무한한 유체로 취급해 계속 추출할 수 있습니다."
+		""
+		"유체를 배치할 때는 &6{block.create.hose_pulley}&r가 대상 유체 표면 위에 있어야 합니다."
+		"유체를 추출할 때는 &6{block.create.hose_pulley}&r를 대상 유체의 바닥까지 내려야 합니다."
+	]
+	quest.30D9A170209B71FE.quest_desc: ["힘의 방향은 항상 프로펠러 축과 나란하고 프로펠러 위치에 작용합니다."]
+	quest.30D9A170209B71FE.title: "추력"
+	quest.315C4FF982B23FBE.quest_desc: ["&7{block.umapyoi.silver_uma_pedestal}&r과 &b{block.umapyoi.three_goddess}&r을 월드에 배치하세요"]
+	quest.324AB45A0A0B05A4.quest_desc: [""]
+	quest.324AB45A0A0B05A4.title: "{item.naturescompass.naturescompass}"
+	quest.3282EB41DB52504C.quest_desc: [""]
+	quest.3370CAF47A5F8EBD.quest_desc: [
+		"&a{item.umapyoi.jewel}&r 4개를 준비해"
+		"&7{block.umapyoi.silver_uma_pedestal}&r과 &b{block.umapyoi.three_goddess}&r을 제작하세요."
+	]
+	quest.3454BE7CF82A56B4.quest_desc: ["&d{entity.irons_spellbooks.dead_king}&r의 전리품 중 하나입니다"]
+	quest.34709BA239C468ED.quest_desc: ["마우스를 올리고 [W]를 눌러 사용법을 확인하세요"]
+	quest.356B1B423D318A77.quest_desc: [
+		"{dimension.minecraft.the_end}나 {dimension.minecraft.the_nether}의 여러 유적에서 새로운 보석 세공 두루마리를 얻을 수 있습니다."
+		"이를 익히면"
+		"더 강력한 장신구를 제작할 수 있습니다."
+	]
+	quest.35BFF10E665799C5.quest_desc: ["{item.irons_spellbooks.mithril_ingot}으로 15분짜리 {item.minecraft.potion.effect.apothic_attributes.flying}을 만들어야 합니다"]
+	quest.35C67C49516C597B.quest_subtitle: "난이도 200"
+	quest.35FAF22E1BE9187F.quest_desc: [
+		"{block.umapyoi.training_facility}에서 &d{Support Card}&r로 {UmaMusu}를 &a훈련&r할 수 있습니다."
+		""
+		"&a훈련&r 후 {UmaMusu}의 능력치가 크게 강화됩니다!"
+		""
+		"&7{block.umapyoi.silver_uma_pedestal}&r 또는 &6{block.umapyoi.uma_pedestal}&r 위에 책을 놓으세요."
+		"그다음 &d{item.umapyoi.blank_ticket}&r으로 &d{Support Card}&r를 소환할 수 있습니다."
+	]
+	quest.379E53FBABC20CC3.quest_desc: [
+		"&a{item.kubejs.chlorophyte_ingot}&r으로 새 장비를 만들고 “&c{itemGroup.umapyoi}&r”와 “&c장신구&r”로 능력치를 강화할 수 있습니다."
+		""
+		"&l단축키&r &6Shift + X&r로 &l얻은 보물을 공유할 수 있습니다.&r"
+		""
+		"&d&a{patchouli.l2hostility.title}&r&d을 제작하면 여러 적과 &6&l{trait}&r&r&d에 대응하는 방법을 확인할 수 있습니다.&r"
+		""
+		"더 자세한 진행 추천은 다음 페이지를 확인하세요."
+		""
+		""
+		"{@pagebreak}"
+		""
+		"먼저 {dimension.minecraft.the_end}의 으스스한 생물군계에서 {item.kubejs.chlorophyte_ingot}을 캐고, 다이아몬드 검보다 강하고 사거리가 긴 {item.kubejs.chlorophyte_sword}을 만드세요. 자세한 내용은 {dimension.minecraft.the_end} 으스스한 생물군계 장을 참고하세요."
+		""
+		"다음으로 {dimension.minecraft.the_end} 시티의 상자를 털어 “&c{itemGroup.umapyoi}&r”와 “&c장신구&r”를 만들고 능력치를 강화하세요. {dimension.minecraft.the_end} 외곽 섬 장을 참고하세요."
+		"대부분의 장신구는 죽어도 떨어지지 않습니다. {dimension.minecraft.the_end}에서의 모험은 매번 성장으로 이어집니다."
+		""
+		"그다음 {dimension.minecraft.the_end}의 깊은 어둠에서 고대 도시를 찾아 전리품으로 “&d영혼 귀속 마법부여&r”를 만드세요. 한 권만 있으면 {itemGroup.create.base} 기계로 계속 복제할 수 있습니다."
+		""
+		"이후 {dimension.minecraft.the_end} 깊은 어둠의 {entity.irons_spellbooks.dead_king}에게 도전해 마법을 배우세요."
+		""
+		"마지막으로 {dimension.minecraft.the_end} 꽃 숲의 시련의 방에서 {l2hostility.title} {l2hostility.jei.loot_title}을 얻고 이 장에 나온 아이템을 만드세요."
+		""
+		"300레벨 몬스터를 쉽게 처치할 수 있다면 {dimension.minecraft.the_end}에서 “{trait.l2hostility.killer_aura}”와 “{trait.l2hostility.ragnarok}” 몬스터를 만날 때까지 더 오래 생존해 보세요."
+		""
+		"“{trait.l2hostility.killer_aura}”는 주변 플레이어에게 주기적으로 큰 방어구 관통 마법 피해를 줍니다."
+		""
+		"“{trait.l2hostility.ragnarok}”의 공격은 장신구를 봉인합니다. 봉인된 장신구를 음식처럼 사용하면 해제됩니다. 인벤토리와 {itemGroup.umapyoi} 장신구는 제외됩니다."
+		"“{item.l2hostility.pocket_of_restoration}”은 “{trait.l2hostility.ragnarok}” 봉인을 자동으로 해제해 “{trait.l2hostility.ragnarok}” 몬스터와의 전투 부담을 크게 줄입니다."
+		""
+		"“{trait.l2hostility.ragnarok}” 몬스터 처치를 최종 목표로 삼으세요."
+	]
+	quest.379E53FBABC20CC3.title: "추천 성장 경로"
+	quest.38014DB8FC25BED2.quest_desc: [
+		"밧줄을 들고 오른쪽 클릭하면 아래에 새 밧줄을 놓습니다."
+		""
+		"밧줄을 들고 웅크린 채 오른쪽 클릭하면 조준한 곳에 새 밧줄을 놓습니다."
+		""
+		"빈손으로 웅크린 채 오른쪽 클릭하면 밧줄 아래쪽부터 회수합니다."
+		""
+		"서로 붙은 밧줄은 시각적으로 연결됩니다."
+		""
+		"밧줄 바로 위에 종이 있으면 종에서 24블록 이내의 밧줄을 오른쪽 클릭해 종을 울릴 수 있습니다. 종 바로 아래 밧줄은 종과 연결되어 보입니다."
+	]
+	quest.38014DB8FC25BED2.quest_subtitle: "스페이스바를 길게 눌러 오르세요"
+	quest.393188CC2575E3CF.quest_desc: [
+		"광물 생산량을 늘려 주며"
+		"고유한 조합법도 제공합니다."
+		""
+		"합금 제련로를 &2다중 블록 구조&r로 지어야 합니다."
+		"걱정 마세요. &b설계도&r {(alloy_smelter.nbt)}를 준비했습니다."
+		""
+		"왼쪽 그림을 참고해 건설할 수도 있습니다."
+		"&6자동화&r가 필요하면 오른쪽 그림을 참고하세요."
+		""
+		"재료는 제어기의 양옆, 연료는 앞에서 넣고 아래에 호퍼를 놓아 완성품을 회수할 수 있습니다."
+		""
+		"&d1단계 제련로: {item.minecraft.brick}&r"
+		"&d2단계 제련로: {block.minecraft.polished_blackstone_bricks}&r"
+		"&d3단계 제련로: {block.minecraft.end_stone_bricks}&r"
+	]
+	quest.3DBA88AAE97C7DE8.quest_desc: ["좀비에서 변한 드라운드는 삼지창을 들 확률이 높으며, 삼지창은 {item.l2complements.poseidite_ingot} 제작에 사용됩니다"]
+	quest.3DD1B51E6A581AA1.quest_desc: [
+		"&c{block.farmersdelight.rich_soil_farmland}&r은 괭이로 오른쪽 클릭해 만들며 밟혀도 &c{block.farmersdelight.rich_soil}&r로 돌아가지 않습니다. 섬세한 손길로 회수할 수 없고 파괴하면 비옥한 흙을 떨어뜨립니다."
+		""
+		"심은 작물의 업데이트 빈도와 성장 확률을 높입니다. 운이 좋으면 씨앗이 연속 두 번 자라 바로 수확할 수 있으며, 수분을 머금었을 때 효과가 더 큽니다."
+	]
+	quest.3E3B9BAC8D0CC46C.quest_desc: ["{block.farmersdelight.safety_net}에 떨어진 개체는 낙하 피해를 받지 않고 {block.minecraft.slime_block}처럼 튕깁니다. 웅크리면 효과가 사라집니다."]
+	quest.3EB7A495A8443564.quest_desc: [
+		"시련의 방에서 &2{block.minecraft.trial_spawner}&r에 도전하세요."
+		"성공하면 0~100레벨 “{hostility}” {l2hostility.jei.loot_title}이 나올 수 있습니다."
+		""
+		"&5{effect.minecraft.bad_omen}&r 효과가 있다면..."
+		"&d불길한 {block.minecraft.trial_spawner}&r로 변하며"
+		"0~299레벨의 모든 “{hostility}” {l2hostility.jei.loot_title}이 나올 수 있습니다."
+		""
+		"난이도: 150 이상"
+	]
+	quest.3EB7A495A8443564.title: "{trait}！{trait}！"
+	quest.3F361BD0D56B7A22.quest_desc: [
+		"양력은 &d열기구 버너&r의 출력과 기구의 부피로 결정됩니다."
+		""
+		"최대 출력과 레드스톤 입력을 조절해 &d열기구 버너&r의 출력을 제어합니다."
+	]
+	quest.3F361BD0D56B7A22.title: "비행선"
+	quest.4136927C252AD534.quest_desc: [
+		"도끼로 원목을 오른쪽 클릭해 껍질을 벗기고"
+		"&6{item.create.andesite_alloy}&r으로 다시 오른쪽 클릭해 &6{block.create.andesite_casing}&r을 만드세요."
+	]
+	quest.41A7BD9935057245.quest_desc: [
+		"{item.umapyoi.uma_soul}을 들고 {block.umapyoi.uma_statues}을 오른쪽 클릭하면 {UmaMusu}의 정지 모형을 표시합니다."
+		""
+		"표시 중인 조각상을 다시 오른쪽 클릭하면 영혼을 제거합니다."
+	]
+	quest.41A7BD9935057245.quest_subtitle: "{UmaMusu}를 전시하세요"
+	quest.43104742822CBF0C.quest_desc: [""]
+	quest.43104742822CBF0C.quest_subtitle: "난이도 10"
+	quest.43292FFEA3A7B2B4.quest_desc: ["기계의 작동법을 모르겠다면 인벤토리에서 &6{Create Mod}&r 부품에 마우스를 올리고 [&bW&r]를 길게 눌러 생각해 보세요"]
+	quest.43292FFEA3A7B2B4.quest_subtitle: "&6{Create Mod}&r의 첫걸음"
+	quest.43A82CB32EF98503.quest_desc: ["구조물의 Y축 &d고도&r를 감지합니다"]
+	quest.445DB6B1473EAB84.quest_desc: [
+		"모의 구조물에 작용하는 여러 힘은 속도, 방향, 위치를 바꿉니다."
+		""
+		"구조물이 뜻밖에 기울거나 회전하지 않도록 각 힘을 정확히 분석하세요."
+		""
+		"이해하기 어렵다면 과학 선생님께 물어보세요."
+	]
+	quest.4564BE69E51A90A4.quest_subtitle: "난이도 50"
+	quest.45CBC5B03D50AA9E.quest_desc: ["항공학 퀘스트를 제작한 \"Three Big Pigs\"에게 감사드립니다"]
+	quest.45CBC5B03D50AA9E.title: "제작진"
+	quest.46AFD6478731FDE7.quest_desc: ["모의 구조물에 부착해 물리량을 확인합니다"]
+	quest.473CA38006F3C4A4.quest_desc: ["30분짜리 {item.minecraft.potion.effect.apothic_attributes.flying}을 만들면 {item.minecraft.elytra}의 재료로 사용할 수 있습니다"]
+	quest.488961A673AFA318.quest_desc: [
+		"전리품 상자에서 매우 낮은 확률로 얻습니다."
+		""
+		"메이드는 죽을 때 &c{item.touhou_little_maid.film}&r을 떨어뜨립니다."
+		""
+		"&6{block.touhou_little_maid.shrine}&r에 놓고 플레이어의 체력을 소모해 부활시키거나 의식으로 부활시킬 수 있습니다."
+	]
+	quest.4892928D7FF99D9D.quest_desc: ["채집, 생산, 전투, 건축을 수행하고 스스로 복제까지 하는 비행 기계를 만드세요"]
+	quest.4892928D7FF99D9D.title: "폰 노이만 기계 군집"
+	quest.48EF078682A042D6.title: "만능 생산기"
+	quest.492D4709E52D0C97.quest_desc: ["먹으면 허기 2와 포만도 2.4를 회복하고 최대 스태미나에 비례해 스태미나도 회복합니다."]
+	quest.49E03C7D4CB2017F.quest_desc: ["&a부유석&r은 부력으로 중력의 영향을 줄입니다. 이 힘은 중력을 넘지 않아 홀로 구조물을 띄우지는 못하지만 다른 방식으로 비행하기 쉬워집니다."]
+	quest.49E03C7D4CB2017F.title: "부유"
+	quest.4A33B612A7BA073B.quest_desc: [
+		"기본적으로 응력을 전달하지 않습니다. 양쪽의 &d레드스톤 신호&r로 정방향 또는 역방향 전달을 결정합니다."
+		""
+		"다른 부품과 함께 구조물의 &d선회 방향&r을 제어할 때 주로 사용합니다."
+	]
+	quest.4A85185CDE1A7AD2.quest_subtitle: "난이도 600"
+	quest.4AF0160AB01B5304.quest_desc: [
+		"&6{item.hotbath.peony_bath_bucket}&r에 들어가면 2초마다 체력을 0.25 회복합니다."
+		"15초 동안 들어가 있으면 모든 해로운 상태 효과가 제거됩니다."
+		"15초 동안 들어가 있으면 30초간 밀치기 저항이 0.05 증가합니다."
+		"15초 동안 들어가 있으면 15초간 공격 속도가 10% 증가합니다."
+		"누적 50회 목욕한 뒤에는 매번 45초간 1단계 &6{effect.minecraft.luck}&r 효과를 얻습니다."
+	]
+	quest.4B3863244FB807C3.quest_desc: [
+		"&6{item.minecraft.potion.effect.apothic_attributes.flying}&r"
+		""
+		"&c{End Ship}&r에서 {item.minecraft.elytra} 대신 생성됩니다."
+		"솔직히 창조 비행이 겉날개보다 훨씬 유용합니다."
+		"겉날개를 체험하고 싶다면 &d30&r분짜리 {item.minecraft.potion.effect.apothic_attributes.flying} 2병으로 제작할 수 있습니다."
+		""
+		"&c{End Ship}&r 아이템 생성 확률:"
+		"- &d8분짜리 {item.minecraft.potion.effect.apothic_attributes.flying}&r 33.3%"
+		"- 강력한 성급함 물약 33.3%"
+		"- &c{block.minecraft.netherite_block}&r 16.7%"
+		"- {block.minecraft.diamond_block} 8.6%"
+		"- &e{book.umapyoi.trainers_manual.title}&r 8.6%"
+		"- 기타"
+	]
+	quest.4CB753DB3E3039CD.quest_desc: [
+		"&e{item.umapyoi.uma_soul}&r을 {block.umapyoi.register_lectern}에 놓으세요."
+		""
+		"{UmaMusu}의 능력치가 &6크게 강화&r되고"
+		"동시에 {UmaMusu}의 의지를 얻습니다."
+	]
+	quest.4D77CC9B53A7ED11.quest_desc: ["무인 화물선 &7(비행선)&r과 하역 항구를 지어 화물을 자동 운송하세요"]
+	quest.4D967AC9E5045DDB.quest_desc: [
+		"&c{block.mynethersdelight.powdery_cannon}&r은 자연 생성되지 않으며 &c{block.mynethersdelight.powdery_cane}&r의 뿌리를 회수해 얻습니다."
+		""
+		"끝에 &c{block.mynethersdelight.bullet_pepper}&r가 열리는 줄기는 진홍빛 숲에 생성되며 열매가 생길 때 석궁 소리가 납니다. 열매는 닿거나 파괴하면 폭발하고, 대포 위의 열매는 더 강해 본체도 파괴합니다."
+		""
+		"뿌리 외의 줄기는 &c{item.minecraft.stick}&r을 떨어뜨립니다. 열매를 심으면 새 줄기가 자라며 뿌리가 단단해진 뒤에만 대포를 회수할 수 있습니다. 단단해진 대포는 어느 부분을 파괴해도 본체를 떨어뜨립니다."
+	]
+	quest.4D99BDBB2CE4C3C3.quest_desc: ["JEI에서 조합법을 확인하세요"]
+	quest.4E221A3F92D840AB.quest_desc: [
+		"&2{book.umapyoi.trainers_manual.title}&r으로 &d{item.umapyoi.blank_ticket}&r을 제작할 수 있습니다."
+		""
+		"나중에 필요한 중요한 아이템입니다."
+	]
+	quest.4E6B6B368A8A4EA6.quest_desc: [
+		"&e{item.pandora.pandora_bracelet}&r과 &a{item.l2hostility.charm_of_looting_1}&r을 제작하세요."
+		"&a{item.l2hostility.charm_of_looting_1}&r을 &e{item.pandora.pandora_bracelet}&r에 장착하세요."
+		"적을 처치하면 전리품을 더 얻습니다. 자세한 내용은 JEI에서 확인하세요."
+		"구슬을 더 만들수록 더 많고 좋은 전리품을 얻습니다."
+	]
+	quest.4EE2DA5EC1E8572B.quest_desc: [
+		"{block.kubejs.warped_stem_chlorophyte}은 뒤틀린 숲의 {block.minecraft.warped_stem} 안에 숨어 있습니다."
+		"매우 단단해 도끼로 캐기 어렵습니다."
+		"하지만 폭발에는 약하므로 &cTNT&r를 쓰거나 &2{entity.minecraft.creeper}&r를 유인하세요."
+		"파괴하면 &a{item.kubejs.chlorophyte_ingot}&r을 바로 떨어뜨립니다."
+	]
+	quest.4EE2DA5EC1E8572B.title: "{block.kubejs.warped_stem_chlorophyte} 관찰"
+	quest.4F64FB65FFEA050C.quest_subtitle: "접착을 시작하세요"
+	quest.4FC1C7D438B19492.quest_desc: [
+		"{UmaMusu}의 의지 2개를 모아 {block.umapyoi.three_goddess}에 넣으세요."
+		""
+		"{UmaMusu}의 의지는 다음 세대 {UmaMusu}를 키우는 종마가 됩니다."
+		""
+		"종마가 강할수록 다음 세대 {UmaMusu}도 강해집니다."
+	]
+	quest.4FD79173051DDEB8.quest_desc: ["먹으면 허기 2와 포만도 2.4를 회복하고 최대 스태미나에 비례해 스태미나도 회복합니다."]
+	quest.5083B5F89464A522.quest_desc: [
+		"{End Ice Spikes}에서는 버려진 교회를 가끔 찾을 수 있습니다."
+		"서리 거미가 이곳에 둥지를 틀고 알을 낳은 뒤 동면합니다."
+		"알 주위의 서리 보호층을 &c파괴&r하면"
+		"수호자 &l서리 거미&r가 깨어납니다."
+		""
+		"조심하세요! 매우 위험합니다!"
+		"그만큼 보상도 큽니다. &l서리 거미&r는 &b희귀 장비&r와 &4{item.irons_spellbooks.cinderous_soulcaller}&r를 지닐 수 있습니다."
+		"처치하고 보상을 차지하세요!"
+		""
+		"난이도: 200 이상"
+	]
+	quest.513BC9A3564D299E.quest_subtitle: "섀시나 강력 접착제와 함께 사용해 작동 중 블록을 개체처럼 만듭니다"
+	quest.5170430BD0DD9627.quest_desc: ["가벼운 모의 구조물은 물에 뜹니다. 떠 있는 동안 삽으로 수면을 클릭해 노를 저으세요."]
+	quest.5170430BD0DD9627.title: "뗏목"
+	quest.51793B81F3FE45CE.quest_desc: ["낮 동안 주민과 횟수 제한 없이 자동 거래합니다."]
+	quest.5238C448BD3F4AE4.quest_desc: ["양심에 따라 직접 체크하세요"]
+	quest.5283E81D31BE83AB.quest_desc: [
+		"보통 피해는 주지 않고 밀쳐내기만 합니다."
+		"절지동물에게는 피해를 줍니다."
+	]
+	quest.5283E81D31BE83AB.quest_subtitle: "초당 6회 공격"
+	quest.52A28F0788814240.quest_desc: [
+		"&d{entity.irons_spellbooks.dead_king}&r의 가장 &l중요한&r 전리품입니다!"
+		""
+		"마법의 길로 인도해 줍니다."
+		"먼저 {dimension.minecraft.the_end}에서 &5{block.irons_spellbooks.brazier_soul}&r을 찾으세요."
+	]
+	quest.534C36E4439EB3C7.quest_subtitle: "중국 장기에서 메이드를 이기세요"
+	quest.53C14996CDBA5DC2.quest_desc: [
+		"{item.irons_spellbooks.chained_book}을 &5{block.irons_spellbooks.brazier_soul}&r에 던지세요."
+		"무작위 &d마법 두루마리&r를 얻습니다."
+		"장신구 슬롯에 장착하면 공격할 때 자동 시전됩니다."
+		""
+		"&o주의! &d마법 두루마리&r는 죽을 때 떨어집니다!&r"
+	]
+	quest.53C14996CDBA5DC2.title: "“{block.irons_spellbooks.brazier_soul}” 관찰"
+	quest.548EEBA7C16661D6.quest_desc: [
+		"{item.l2complements.totemic_gold_ingot} 장비는 철급 성능과 금의 마법 부여 적성을 지닙니다. 도구는 다이아몬드에 가까운 내구도와 금에 가까운 채굴 속도를 가지지만 채굴 단계는 철입니다. {item.l2complements.totemic_gold_ingot}은 손잡이, 에메랄드는 머리에 사용되어 내구도가 높습니다."
+		""
+		"생명 방어구: 방어구 한 부위마다 5초마다 체력 1을 회복합니다."
+		""
+		"생명 장비 공통 효과: 내구도를 잃으면 &a같은 양의 체력을 회복&r하고 허기, 시듦, 독에 면역이 됩니다."
+		""
+		"따라서 생명 장비는 내구성 마법과 어울리지 않습니다. {enchantment.l2complements.life_mending}을 사용하면 내구도 소모-체력 회복-내구도 복구가 반복되어 &6한 번에 파괴되지 않는 한 완전히 수리&r됩니다. {enchantment.l2complements.safeguard}까지 적용하면 내구도 1이 남고 회복할 때 {enchantment.l2complements.life_mending}으로 완전히 수리됩니다. 회복을 막는 효과만 주의하세요."
+		"{@pagebreak}"
+		"{item.l2complements.totemic_gold_ingot} 도구는 철급 성능과 금의 마법 부여 적성을 지니며, 내구도는 다이아몬드, 속도는 금에 가깝지만 채굴 단계는 철입니다."
+	]
+	quest.54931F97C140412D.quest_desc: ["온천은 오버월드에 가끔 생성되며 한 번 찾으면 무한히 이용할 수 있습니다."]
+	quest.54931F97C140412D.title: "온천"
+	quest.54A1A39A51AB8869.quest_desc: [
+		"모의 구조물에 블록을 붙여 확장할 수도 있지만 &a꿀 접착제&r가 훨씬 편리합니다."
+		""
+		"&a강력 접착제&r와 비슷하게 사용하지만 효과가 완전히 같지는 않습니다."
+		""
+		"범위를 선택한 뒤 &eCtrl + 마우스 휠&r로 조절하세요."
+		""
+		"구분하기 쉽게 &a꿀 접착제&r는 &d모의 구조물&r에, &a강력 접착제&r는 &d움직이는 장치&r에 사용하는 것을 권장합니다."
+	]
+	quest.552F937D15E04A15.quest_desc: [
+		"&6{item.hotbath.honey_bath_bucket}&r에 들어가면 초당 체력을 0.25 회복합니다."
+		"들어가 있으면 10초간 1단계 감속을 받습니다."
+		"15초 동안 들어가 있으면 감속과 불운을 제외한 모든 해로운 효과가 제거됩니다."
+		"들어가 있는 동안 4초마다 허기를 1 회복합니다."
+		"15초 동안 들어가 있으면 20초간 2단계 &6{effect.minecraft.absorption}&r 효과를 얻습니다."
+	]
+	quest.55A6F9F0BC4D0096.quest_desc: [""]
+	quest.56469F8456C022EF.quest_desc: [
+		"사용하면 침대나 생성 지점으로 돌아갑니다."
+		""
+		"&d엔드&r에서는 사용할 수 없습니다."
+	]
+	quest.5655FD8F2B8FB4D2.quest_desc: ["{item.umapyoi.hachimi_big}을 먹으면 컨디션 단계가 2 오르고 허기 4와 포만도 7을 회복합니다."]
+	quest.5655FD8F2B8FB4D2.quest_subtitle: "배가 불러도 먹을 수 있습니다"
+	quest.568DB1FCA0026DB0.quest_desc: ["카메라로 길들인 메이드를 촬영할 수 있습니다. 메이드에게서 8블록 안에서 오른쪽 클릭하면 사진을 만듭니다."]
+	quest.591763149B3E9648.title: "이동 도구"
+	quest.592017A5227B6679.quest_desc: [
+		"&6{block.create_hypertube.hypertube}&r로 &a{block.create_hypertube.hypertube_entrance}&r을 잇고 &c{create.display_source.kinetic_stress.current}&r을 연결하면 이동용 통로가 됩니다."
+		""
+		"이 통로는 프레임에 큰 부담을 주므로 적절히 사용하세요."
+	]
+	quest.592017A5227B6679.quest_subtitle: "멋진 단거리 이동 수단"
+	quest.593E1782EC446B28.quest_desc: [
+		"{UmaMusu}는 플레이어 능력치를 크게 높이는 &e&l아이템&r&r입니다."
+		"&e공격력을 600% 높이는&r {UmaMusu}도 육성할 수 있습니다."
+		""
+		"&2{book.umapyoi.trainers_manual.title}&r은 {dimension.minecraft.the_end}의 상자에서 찾을 수 있습니다."
+		"“{itemGroup.umapyoi}” 모드의 플레이 안내서입니다."
+		""
+		"물론 이 퀘스트 책을 따라 {UmaMusu}의 플레이 방법을 배울 수도 있습니다."
+	]
+	quest.5AD85A669E436FAD.quest_desc: ["&z이제 이 세상에서 당신을 해칠 수 있는 것은 없습니다&r"]
+	quest.5AD85A669E436FAD.quest_subtitle: "고난을 넘어 모든 것을 초월하다"
+	quest.5BCA0FAD6AB9AE59.quest_desc: ["출력 신호가 서서히 변해 뒤에서 받은 신호와 같아집니다"]
+	quest.5C9F0C22F503C49A.quest_desc: [
+		"《{Terraria}》를 &c마스터&r 난이도로 플레이해 본 적이 있나요?"
+		""
+		"&l공격력과 체력 강화를 신중히 고르고, 유연한 조작과 몬스터 지식, 여러 강화 물약을 활용해 첫 클리어에 도전하는 난이도입니다.&r"
+		""
+		"이 모드팩의 모험 난이도는 《{Terraria}》 &c마스터&r 난이도에 맞춰져 있습니다."
+		"&c마스터&r 난이도를 해보지 않았다면 &a쉬움 모드&r와 &a인벤토리 유지&r를 켜고 체험하는 것을 권장합니다."
+		""
+		"인벤토리 유지 명령어:"
+		"/gamerule keepInventory true"
+		""
+		"출시 전 쉬움, 보통, 어려움 난이도로 각각 시험했으며 모두 {dimension.minecraft.the_end} 모험 콘텐츠를 완료할 수 있었습니다."
+	]
+	quest.5C9F0C22F503C49A.title: "난이도 안내"
+	quest.5E7426AF846024EE.quest_desc: [
+		"{item.l2complements.poseidite_ingot} 장비는 물속에서 방어력, 방어 강도, 이동 속도, 수영 속도를 높입니다."
+		""
+		"투구와 흉갑은 물속에서 {block.minecraft.conduit} 효과를 부여합니다."
+		""
+		"레깅스와 부츠는 물속에서 돌고래의 우아함 효과를 부여합니다."
+		""
+		"{@pagebreak}"
+		"{item.l2complements.poseidite_ingot} 도구는 물속에서 공격력 50%, 공격 속도 20%가 증가하고 수생 및 물을 두려워하는 생물에게 추가 100%의 곱연산 피해를 줍니다."
+	]
+	quest.5EEC611BE589C5D6.title: "농장"
+	quest.5F1430224B8E87DB.title: "헬리콥터"
+	quest.5F4BF0D8936B370B.quest_desc: [
+		"&e{Umamusume Crystal}&r로 만든 티켓은 더 높은 등급의 {UmaMusu}를 소환합니다."
+		"(R 티켓은 SR {UmaMusu} 소환)"
+		"(SR 티켓은 SSR {UmaMusu} 소환)"
+	]
+	quest.5F69670FBE1B5FE4.quest_desc: [
+		"사진과 &6{item.minecraft.brown_dye}&r를 조합하면 더 빈티지한 사진을 얻습니다."
+		""
+		"사진을 들고 다른 사진을 오른쪽 클릭하면 한 묶음으로 쌓습니다."
+	]
+	quest.5F9B6C0597CC92D8.title: "응력 전달"
+	quest.605639A83B5AE2B9.quest_desc: [
+		"방어구 효과: 침묵 (&9침묵 효과 장비 4부위를 착용하면 플레이어가 일으키는 진동을 무효화합니다&r)"
+		""
+		"한 부위만 착용해도 실명, 어둠, 채굴 피로, 멀미, 감속, 나약함에 면역이 됩니다."
+		""
+		""
+		"{@pagebreak}"
+		"스컬크 도구는 경도와 채굴 단계를 무시하고 &d파괴 가능한 모든 블록을 빠르게 부숩니다&r."
+		""
+		"효율 마법부여로 채굴 속도를 더 높일 수 있습니다."
+		""
+		"&o채굴할 때 필요한 도구와 채굴 단계를 확인하세요. 조건이 맞지 않으면 전리품이 나오지 않습니다.&r"
+	]
+	quest.605639A83B5AE2B9.quest_subtitle: "방어구와 도구"
+	quest.60BA9FC4C0678513.quest_desc: [
+		"&6{item.exposure.interplanar_projector}&r는 다른 차원의 이미지를 사진으로 만드는 특수 카메라 필터입니다. 로컬 이미지를 불러와 촬영할 수 있습니다."
+		"먼저 모루에서 투영기의 이름을 로컬 이미지 경로(예: D:/Images/cat.jpg)로 바꾸세요. png, jpg, bmp, 정지 gif와 완전 투명 픽셀을 지원합니다. 모루 이름에는 길이 제한이 있습니다. URL로 바꾸면 웹 이미지도 가져옵니다."
+		""
+		"투영에 실패해도 소모되지 않고 손상된 투영기가 되며 카메라에 블루스크린 오류 코드가 표시됩니다. 손상된 투영기는 &6{item.minecraft.ender_eye}&r와 조합해 수리할 수 있습니다."
+	]
+	quest.60F0E62C7A268D3D.quest_desc: [
+		"{item.l2hostility.miracle_powder} 또는 {item.l2hostility.chaos_ingot}으로 &d{item.c6c.abyssal_ticket}&r을 제작할 수 있습니다."
+		"&c{entity.irons_spellbooks.fire_boss}&r의 거처에서 &d{item.c6c.abyssal_ticket}&r을 사용하면 &d{Abyssal Carnival}&r이 열립니다."
+		"일반, &b우수&r, &9희귀&r, &d전설&r, &6영웅&r, &z신화&r 등급 장비가 나와 능력치를 크게 높일 수 있습니다."
+		""
+		"도전을 완료해 &l&b{item.irons_spellbooks.arcane_rune}&r&r을 얻으면 {block.irons_spellbooks.cinderous_soul_rune}을 제작해 오버월드에서도 &d{Abyssal Carnival}&r 도전을 열 수 있습니다."
+		""
+		"&o{Abyssal Carnival}은 {item.l2hostility.greed_of_nidhoggur}의 영향을 받지 않습니다.&r"
+		"&o대부분의 마법 피해는 {item.l2hostility.ring_of_divinity}으로 막을 수 없습니다.&r"
+		"&o&4{trait.l2hostility.dispell}&r&o 또는 &4{trait.l2hostility.reprint}&r&o 특성을 지닌 보스는 생성되지 않습니다.&r"
+		""
+		"난이도: 350 이상"
+	]
+	quest.61D17F24C202CB19.quest_desc: ["더 좋은 채굴 도구"]
+	quest.620DE65D4B2B3547.quest_desc: [
+		"네더 버전의 &c{block.farmersdelight.rich_soil_farmland}&r입니다. 물 대신 불, 용암, 횃불, 랜턴, 모닥불, 스토브, 총알 고추 같은 화염으로 수분 상태가 됩니다."
+		""
+		"각 화염은 17x9x17블록 안의 &c{block.mynethersdelight.resurgent_soil_farmland}&r을 수분 상태로 만듭니다."
+		""
+		"수분 상태의 농지는 밝기 10을 내어 대부분의 작물에 충분합니다."
+	]
+	quest.62AF180B02B9AF1E.quest_desc: [
+		"뒤에서 신호를 입력하면 출력 세기가 서서히 증가합니다."
+		""
+		"옆에서 신호를 입력하면 출력 세기가 서서히 감소합니다."
+	]
+	quest.62F46A2AF56A5FD6.quest_desc: ["&6{item.exposure.camera}&r 받침대로 설치하거나 직접 들고 사진을 찍을 수 있습니다."]
+	quest.631002556817F054.quest_desc: ["{item.umapyoi.cupcake}을 먹으면 의욕 단계가 1 오르고 허기 5와 포만도 6을 회복합니다."]
+	quest.6724A17ED66D090E.quest_desc: [
+		"광석을 무한히 채굴할 수 있습니다."
+		"JEI에서 @ore를 검색해 모든 광맥과 분포를 확인하세요."
+	]
+	quest.67F1D38FF93B5199.title: "&4{dimension.minecraft.the_nether}&r 진입"
+	quest.6802763D2F467790.quest_subtitle: "난이도 800"
+	quest.68BD182E4A13D811.title: "제트기"
+	quest.6917737CAFB3057D.quest_desc: [
+		"모의 구조물에는 &d무게 중심&r과 &d질량&r이 있습니다."
+		""
+		"질량은 구조물의 모든 블록을 합한 값입니다. 대부분은 &e1 kg&r이며 예외는 툴팁에 표시됩니다."
+		""
+		"모의 구조물에는 질량에 비례하는 아래 방향의 중력이 항상 작용합니다."
+		""
+		"이 세계에서 g = &e11 N/kg&r입니다."
+		""
+		"이해하기 어렵다면 과학 선생님께 물어보세요."
+	]
+	quest.6945B841D1CFB86E.quest_desc: ["&o창조 모드 전용&r"]
+	quest.6954E808A764BB6D.quest_desc: [
+		"&6{itemGroup.create_hypertube}&r는 &6{block.create.track}&r처럼 설치합니다. 선로를 완성하고 양쪽 &6{block.create_hypertube.hypertube_entrance}&r에 충분한 &6{create.display_source.kinetic_stress.current}&r을 공급하면 사용할 수 있습니다."
+		"기본 설정에서는 &6{block.create_hypertube.hypertube_entrance}&r에 가까이 가기만 하면 들어가 이동을 시작합니다."
+		"&6{item.create.wrench}&r로 모드를 조절합니다. 자동 닫힘에서는 웅크리면 진입하지 않고, 수동 닫힘에서는 웅크려야 진입합니다."
+	]
+	quest.69F8F1E623EFEEF8.quest_desc: [
+		"시련의 방은 {biome.c6c.end_flower_forest} 아래에 숨어 있습니다."
+		"그 밖의 {biome.c6c.end_flower_forest}은 평화롭고 특별한 위험이 없습니다."
+	]
+	quest.6A76D1EBB43A2451.quest_desc: [
+		"주문 두루마리를 무기에 적용하면 그 무기를 들고 주문을 시전할 수 있습니다."
+		""
+		"두루마리와 같은 등급의 잉크를 조합해 한 단계 강화합니다."
+	]
+	quest.6AAB902C44CFFEEC.quest_desc: ["&o창조 모드 전용&r"]
+	quest.6B28FC5FC8BCAB87.quest_desc: ["이 업그레이드를 장착한 배낭을 휴대하면 자동으로 음식을 먹습니다."]
+	quest.6B453132CFF68D96.quest_desc: [
+		"보스 &c{entity.irons_spellbooks.fire_boss}&r 소환 아이템입니다."
+		"{dimension.minecraft.the_end}의 상자에서 1.5% 확률로 나옵니다."
+		""
+		"&4{dimension.minecraft.the_nether}&r에서 &c{entity.irons_spellbooks.fire_boss}&r를 찾는 지도의 재료로 사용할 수 있습니다."
+		""
+		"난이도: 250 이상"
+	]
+	quest.6D54EE1C48F02762.quest_desc: [
+		"플레이어의 마법서에 든 주문을 편집합니다."
+		"같은 주문을 한 마법서에 중복해 넣을 수 없습니다."
+	]
+	quest.6DB3C1C6D21EA436.quest_desc: [
+		"&l&eMechanomania&r&r는 &aCreate&r, &6건축&r, &c모험&r 플레이어를 위한 &b멀티플레이&r &d장기&r 서버용 모드팩입니다."
+		"초반에는 순간이동 수단이 없고 여러 생물군계에 채굴기와 몬스터 시설을 지어야 할 수 있어 혼자 플레이하면 매우 &l고될 수 있습니다&r."
+		""
+		"&m&e모험&r&m과 PvE에 자신 있다면 “&d엔드 - 전투와 모험&r&m” 장으로 바로 가도 됩니다.&r"
+		"항공학 버전의 &l&eMechanomania&r&r에서는 모험 콘텐츠가 제거되었습니다."
+		""
+		"퀘스트 책 제작을 도와준 JSI 제작팀에 감사드립니다. 그들이 없었다면 완성할 수 없었습니다."
+		"시험 플레이와 홍보를 맡은 Lao King Ya Lao King에게 감사드립니다."
+		"중국어 패치를 만든 NaraZX, Staples17, Kong에게 감사드립니다."
+		"영어와 태국어 번역을 만든 ティオムTEOM에게 감사드립니다."
+		"Ultramarine\\&Create 호환 데이터팩을 만든 Zryuman에게 감사드립니다."
+		"                                                             -MoePus 2025.07.29"
+		""
+		"&a&l다음 페이지는 자주 묻는 질문입니다. 꼭 읽어 주세요!&r&r"
+		""
+		"{@pagebreak}"
+		""
+		"&a&l서버 사양 안내&r&r"
+		""
+		"13700K + 8 GB는 8명 이상을 지원합니다."
+		"13900K + 16 GB는 10명 이상과 Distant Horizons를 지원합니다."
+		"Xeon 같은 서버 CPU는 4명을 지원합니다."
+		""
+		"Distant Horizons를 사용하는 서버에는 최소 12 GB 메모리가 필요합니다!"
+		""
+		"&a&l백업 안내&r&r"
+		""
+		"simplebackups 폴더에 증분 백업을 자동 생성합니다."
+		"월드가 손상되면 백업을 복원하세요."
+		""
+		"{@pagebreak}"
+		""
+		"&a&l셰이더와 렌더링 안내&r&r"
+		""
+		"모드팩에는 셰이더 3종이 포함되어 있습니다."
+		"&cComplementary&r는 선명하고 밝아 대부분의 생존 플레이어에게 적합합니다."
+		"&cPhoton&r은 아름답지만 강력 접착제와 입자 효과 등의 호환성이 좋지 않습니다."
+		"&cBliss&r는 먼 풍경이 뛰어나지만 높은 사양이 필요합니다."
+		""
+		"이름 끝에 &6Clrwl&r이 붙은 셰이더는 Create 전용 최적화가 포함됩니다. 다른 셰이더는 프레임이 낮아질 수 있습니다."
+		""
+		"상자나 Create 부품이 &c표시되지 않으면&r 다음을 순서대로 시도하세요."
+		"1. 게임이 외장 GPU를 사용하는지 확인"
+		"2. 그래픽 드라이버를 최신으로 업데이트"
+		"3. /flywheel backend instancing 실행"
+		"4. /flywheel backend off 실행"
+		"문제가 해결되면 다음 단계는 실행하지 않아도 됩니다."
+		"Intel GPU와 AMD RDNA2 GPU에서 흔한 문제입니다."
+		""
+		"{@pagebreak}"
+		"&a&lDistant Horizons 안내&r&r"
+		"대부분의 플레이어가 쾌적하게 즐기도록 모드팩에는 Distant Horizons를 포함하지 않습니다."
+		"저사양용 설정은 포함되어 있으므로 싱글플레이에서는 모드만 추가하면 됩니다."
+		"서버 관리자용 안내도 곧 공개할 예정입니다. 제작자 프로필에서 확인하세요. (&6아래 별 클릭&r)"
+		""
+		"서버 플레이에는 최소 &b4 GB&r 메모리를 할당하세요."
+		"싱글플레이에는 최소 &b10 GB&r를 권장합니다."
+		""
+		"&a&lVoxy 안내&r&r"
+		"Voxy는 저작권으로 인해 재배포할 수 없습니다."
+		"이 모드팩은 Voxy와 호환되지만 포함하지 않습니다."
+		"사용 가능한 Voxy를 직접 구하세요."
+		""
+		"{@pagebreak}"
+		"&a&lC6C&r&r"
+		"C6C는 모드팩의 핵심 조정 모드입니다. c6c-common.toml의 설정을 필요에 따라 바꾸세요."
+		"* 오버월드 몬스터 생성량"
+		"* 엔드 몬스터 생성량"
+		"* 서버에서 메이드 스킨 변경 금지"
+		"* 이단 점프"
+		""
+		"{@pagebreak}"
+		"&a&l충돌 보고&r&r"
+		"충돌 등의 문제가 생기면 충돌 보고서를 다음에 업로드하고"
+		"&ehttps://mclo.gs/&r"
+		"생성된 링크를 제작자에게 보내세요."
+	]
+	quest.6DB3C1C6D21EA436.title: "&l&eMechanomania&r&r 모드팩에 오신 것을 환영합니다"
+	quest.6F343418CE247D0D.quest_desc: [
+		"말: 바닐라보다 두 배 빠르고 대부분의 지형 장애물을 무시합니다. &c{item.horseman.copper_horn}&r으로 길들인 말을 소환할 수 있습니다."
+		""
+		"&c{item.usefulslime.slime_boots}&r와 &c{item.usefulslime.slime_sling}&r: 높이 뛰고 빠르게 이동합니다."
+		""
+		"&c{@create_hypertube}&r: 기지 안의 짧은 거리를 빠르게 이동합니다."
+		""
+		"&c{item.c6c.recall_potion}&r: 침대나 생성 지점으로 빠르게 돌아갑니다. 엔드에서는 사용할 수 없습니다."
+		""
+		"열차(중반): 먼 기지와 자원 지점을 연결합니다."
+		""
+		"&c{item.l2complements.fragile_warp_stone}&r(중반): 지정한 표식으로 순간이동합니다."
+		""
+		"&c{item.irons_spellbooks.hither_thither_wand}&r와 &c{block.irons_spellbooks.portal_frame}&r(후반): 두 지점 사이를 순간이동합니다."
+	]
+	quest.6F343418CE247D0D.title: "월드 이동 수단"
+	quest.6F4F862CB6AF1A4C.quest_desc: ["{item.umapyoi.hachimi_mid}을 먹으면 컨디션 단계가 1 오르고 허기 2와 포만도 3을 회복합니다."]
+	quest.6F4F862CB6AF1A4C.quest_subtitle: "배가 불러도 먹을 수 있습니다"
+	quest.6FF2FBFB5A8D4C13.quest_desc: ["&o&c{dimension.minecraft.the_end}&r에서는 빗자루의 이동 능력이 크게 제한됩니다. C6C 설정에서 조절할 수 있습니다.&r"]
+	quest.6FF2FBFB5A8D4C13.quest_subtitle: "함께 탈 메이드가 필요합니다"
+	quest.6FF2FBFB5A8D4C13.title: "비행 빗자루"
+	quest.717036CE2862E3FF.quest_desc: ["블록 채굴이나 개체 공격 시 주 손의 도구를 인벤토리에서 가장 적합한 도구나 무기로 교체합니다."]
+	quest.7190D0D53DB975B2.quest_desc: [
+		"“{dimension.minecraft.the_end}”의 다른 장을 확인해 모험 계획을 정하세요."
+		"결정했다면"
+		"출발하세요!"
+	]
+	quest.7199171C6EEE34F6.title: "설계도 복제"
+	quest.73983F6255308C0E.quest_desc: [
+		"&6{item.hotbath.milk_bath_bucket}&r에 들어가면 2초마다 체력을 0.25 회복합니다."
+		""
+		"15초 동안 들어가 있으면 &c{effect.minecraft.unluck}&r을 제외한 모든 해로운 효과가 제거됩니다."
+		""
+		"들어가 있는 동안 15초마다 허기를 1 회복합니다."
+	]
+	quest.74C40A81C9605AC0.quest_desc: [
+		"{End Deep Dark}은 {dimension.minecraft.the_end}에서 단연 &4가장 위험한&r 곳입니다."
+		"&d{entity.minecraft.warden}&r과 &d{entity.irons_spellbooks.dead_king}&r이 이곳에 삽니다."
+		"다행히 둘 다 잠들어 있으며"
+		"누구도 깨우지 않으면 영원히 잠들어 있습니다."
+		""
+		"&d{entity.minecraft.warden}&r과 &d{entity.irons_spellbooks.dead_king}&r"
+		"깊은 어둠의 진정한 주인은 누구일까요?"
+		""
+		"난이도: 100 이상"
+	]
+	quest.74C40A81C9605AC0.title: "쉿! 조용히!"
+	quest.74F2404B036CB503.quest_desc: [
+		"{Ancient City}는 {dimension.minecraft.the_end}의 깊은 어둠에 가끔 나타납니다."
+		""
+		"많은 &c네더라이트&r와 &d{item.minecraft.echo_shard}&r 같은 &d영혼 귀속&r 재료가 있지만 매우 위험합니다."
+		""
+		"난이도: 150 이상"
+	]
+	quest.74F2404B036CB503.title: "{Ancient City}"
+	quest.75BA253A92043A09.quest_desc: [
+		"이곳은 엔드의 으스스한 생물군계입니다."
+		"사방이 무성한 초록빛이며"
+		"&d{entity.minecraft.enderman}&r과 &2{entity.minecraft.creeper}&r가 삽니다."
+		"여러 새 장비와 아이템의 재료인 &a{item.kubejs.chlorophyte_ingot}&r이 풍부합니다."
+		"엔드 외곽 섬에서 살아남으려면 &a{item.kubejs.chlorophyte_ingot}&r이 꼭 필요합니다."
+		""
+		"난이도: 20 이상"
+	]
+	quest.760E6D43C4E3D14E.quest_desc: [
+		"달리기 시작하면 서 있는 사람은 당신이 멀어지는 것을 봅니다. 반대로 당신에게는 그 사람도 움직여 보입니다. 이것이 &d상대 운동&r입니다."
+		""
+		"모의 구조물이 &d전진&r하면 구조물 기준으로 주변 공기가 &d후퇴&r합니다. &a프로펠러&r는 공기 속도가 높을수록 힘이 약해져 구조물을 무한히 가속할 수 없습니다."
+	]
+	quest.762731FF779D89ED.quest_desc: [
+		"Create가 처음이라면 먼저 &eCreate 장&r을 완료하세요."
+		""
+		"블록에 놓고 아래로 당기면 블록이 자유롭게 회전하고 구르는 것을 볼 수 있습니다."
+		""
+		"&d모의 구조물&r을 만들기 때문입니다."
+		""
+		"&d모의 구조물&r은 &d움직이는 장치&r와 다릅니다:"
+		""
+		"1. 대부분의 블록이 정상 작동합니다."
+		""
+		"2. 중력의 영향을 받습니다."
+		""
+		"3. 내부에 움직이는 장치를 넣을 수 있습니다."
+	]
+	quest.762731FF779D89ED.title: "모의 구조물"
+	quest.77305B767FC35FD7.quest_subtitle: "설명은 충분합니다. 요리합시다."
+	quest.78158AE15F2A7180.quest_subtitle: "난이도 300"
+	quest.7A3169F8A7713383.quest_desc: [
+		"배낭을 비행과 호버링이 가능한 완전한 제트팩으로 바꿉니다."
+		"배낭 안의 {item.create.copper_backtank}/{item.create.netherite_backtank}을 연료로 사용합니다."
+	]
+	quest.7A9D46939AA33A20.title: "더욱 정교하게"
+	quest.7ADA92302AD2425C.quest_desc: [
+		"&c이제 {stronghold}는 오버월드 좌표 0,0의 지하에 생성되며 {dimension.minecraft.the_end} 차원문도 자동으로 열립니다.&r"
+		""
+		"&l&4{dimension.minecraft.the_end}는 매우 어려우므로 팀으로 가는 것을 권장합니다.&r&r"
+	]
+	quest.7ADA92302AD2425C.title: "{dimension.minecraft.the_end}로 가세요"
+	quest.7B75EE328291ABCC.quest_desc: ["가장 강한 {UmaMusu}를 육성해 보세요!"]
+	quest.7CD24C618C37D5C2.quest_desc: [
+		"&d{item.l2hostility.chaos_ingot}&r을 얻는 주요 방법은 두 가지입니다."
+		""
+		"1. 조합법으로 제작"
+		"2. &b{item.l2hostility.charm_of_looting_4}&r를 만든 뒤 난이도 200 이상에서 &c{End City}&r로 이동. 이때 셜커는 항상 {trait.l2hostility.dispell} 특성을 지니며 낮은 확률로 &d{item.l2hostility.chaos_ingot}&r을 떨어뜨립니다."
+	]
+	quest.7D783507714BF010.quest_desc: [
+		"제단은 빨간 양털 20개와 참나무 18개로 만듭니다. 완성 후 하쿠레이 고헤이로 아래 그림의 파란 위치를 오른쪽 클릭하세요. &6{item.touhou_little_maid.power_point}&r를 소모해 아이템을 합성하거나 이벤트를 일으키고 &6{block.touhou_little_maid.maid_beacon}&r의 에너지로도 사용합니다."
+		""
+		"그림대로 지은 뒤 기둥을 오른쪽 클릭해 아이템을 놓고 Shift+오른쪽 클릭해 회수하세요. 올바르게 놓으면 필요한 &6{item.touhou_little_maid.power_point}&r를 소모해 합성하거나 이벤트를 실행합니다."
+		""
+		"&6{patchouli.touhou_little_maid.book.name}&r의 &6{patchouli.touhou_little_maid.book.entries.overview.multiblocks_altar.name}&r 항목을 확인하세요. 눈 버튼을 누르면 구조를 투영합니다."
+		"{image:ftbquests:textures/nvpujitian.png width:160 height:120 align:center}"
+	]
+	quest.7D783507714BF010.title: "{touhou_little_maid.ponder.altar.header}"
+	quest.7DB3025A320096D6.quest_desc: [
+		"&c{End City}&r는 &c{dimension.minecraft.the_end}&r 섬 위에 떠 있습니다."
+		"미끄러지지 않게 조심하세요! 아래에는 끝없는 심연이 있습니다."
+		""
+		"난이도: 50 이상"
+	]
+	quest.7DB3025A320096D6.title: "유적이 잠든 곳"
+	quest.7DF40621D9ECBE60.quest_desc: [
+		"등에 메거나 바닥에 놓았을 때 작동합니다."
+		"최대 5블록 밖의 아이템을 배낭의 주 저장 공간으로 끌어옵니다."
+	]
+	quest.7E563C97A327B537.quest_subtitle: "난이도 600"
+	quest.7EFEEF11A184A08E.quest_desc: [
+		"&b{block.umapyoi.disassembly_block}&r을 제작하세요."
+		""
+		"원하지 않는 우마무스메를 넣어 &e우마무스메 크리스탈&r을 얻으세요."
+	]
+	reward_table.566BC49E7BBA3AAD.title: "기본 보상 꾸러미"
+	task.018D50BCD26EC52D.title: "말 안내"
+	task.041A220AAD976C36.title: "센서"
+	task.079598ED34BDA743.title: "JEI 사용법"
+	task.07BD684C5841D867.title: "엔드!"
+	task.0A2A827BE90A517F.title: "놀이공원"
+	task.0C0C580E2F734E82.title: "푸른 초목"
+	task.0EC1C934EE7E9C9C.title: "메이드와 중국 장기"
+	task.112CBA6D46832979.title: "\"적의\""
+	task.13AB58A961702203.title: "온천"
+	task.14B8564808BA252E.title: "전달"
+	task.1A0E470B8AAAA037.title: "편의 도구"
+	task.1AA1A41B0F9286FD.title: "흩어진 갑옷 관찰"
+	task.1B22D77617B1FB2B.title: "더 좋은 늑대 갑옷"
+	task.1C7B52B2D8C27CA5.title: "메이드 장신구"
+	task.1D8680DDD9A444BD.title: "고급 응력 제어"
+	task.1E05D9F4697EBE41.title: "필터"
+	task.26C4D588F4958FB1.title: "고급 레드스톤 시스템"
+	task.2E1871D0F80854E8.title: "이동 수단"
+	task.3056BA1F2A472133.title: "Mechanomania 모드팩에 오신 것을 환영합니다"
+	task.37784A02819F7217.title: "항공모함"
+	task.3A9D318495BFF9AE.title: "출발"
+	task.3DCCCC14D391742B.title: "던전! 던전!"
+	task.3F3C2C54EBBE24AB.title: "중력"
+	task.49D91506FB3FF564.title: "메이드 포획 또는 부활"
+	task.49FE4F7B204197F0.title: "주인님의 도구"
+	task.4A021CCA252DCB4E.title: "스컬크의 왕"
+	task.4BEEA63B2528F8B9.title: "보조 작업 장치"
+	task.4C3F131687C993FF.title: "전달 장치"
+	task.4F7533BD0A112406.title: "하울의 움직이는 성"
+	task.5254AD5689BFFF99.title: "모의 구조물 연결"
+	task.596535A955251949.title: "간단한 서랍 업그레이드"
+	task.5A4EC83AAAB86751.title: "JEI 검색창에서 @delight를 검색해 모든 음식을 확인할 수 있습니다."
+	task.5B7FF0D588B8CF8F.title: "물리학"
+	task.5C6196514E719EE7.title: "무인 화물선"
+	task.627EF049D666373E.title: "유적이 잠든 곳"
+	task.6517A277B3E3D931.title: "&c{create.display_source.kinetic_stress.current}&r 생성 장치"
+	task.6706E3AF301F647C.title: "응력 전달"
+	task.7193C1AAFF70DB86.title: "건축 도전"
+	task.731A8373E429DB6E.title: "장식"
+	task.763F25EE5DE39431.title: "최종 목표: 메이드 마스터"
+	task.7C1AC755E5E3D25B.title: "상대 운동"
+	task.7CED1C11ECCA5318.title: "더 발전된 전달 장치"
+	task.7FBFB25DA5BBCF28.title: "{item.fxntstorage.backpack_blank_upgrade}"
+}

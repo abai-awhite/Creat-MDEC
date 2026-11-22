@@ -1,0 +1,6 @@
+Asset: textures/item/crushed_raw_cobalt.png
+Source project: DM-Earth/Cabricality
+The original PNG was copied unchanged from the user-specified URL:
+https://github.com/DM-Earth/Cabricality/blob/stale/quilt/1.18.2/curseforge/main/src/main/resources/assets/cabricality/textures/item/crushed_ore/crushed_cobalt_ore.png?raw=true
+
+Copyright and licensing remain with the original rights holders.

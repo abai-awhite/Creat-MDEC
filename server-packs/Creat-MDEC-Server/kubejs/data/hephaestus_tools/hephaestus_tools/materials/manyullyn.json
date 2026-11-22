@@ -1,0 +1,20 @@
+{
+  "id": "hephaestus_tools:manyullyn",
+  "ingredient": { "tag": "c:ingots/manyullyn" },
+  "color": 9593292,
+  "head_stats": {
+    "durability": 1250,
+    "mining_speed": 6.5,
+    "attack_damage": 3.5,
+    "attack_speed": 1.0,
+    "tier": 5,
+    "enchantability": 18
+  },
+  "handle_stats": {
+    "durability_mult": 0.1,
+    "speed_mult": -0.1,
+    "damage_mult": 0.2,
+    "attack_speed_mult": -0.05
+  },
+  "binding_stats": { "durability": 0 }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "hephaestus:melting",
+  "ingredient": { "item": "kubejs:crushed_raw_cobalt" },
+  "result": { "id": "hephaestus:molten_cobalt", "amount": 90 },
+  "fuel": { "id": "hephaestus:molten_blaze", "amount": 50 },
+  "temperature": 1100,
+  "time": 100
+}

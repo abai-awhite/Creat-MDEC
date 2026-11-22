@@ -1,0 +1,20 @@
+{
+  "type": "alloy_smelter:smelting",
+  "ingredients": [
+    {
+      "ingredient": { "item": "createpropulsion:raw_platinum" },
+      "count": 2
+    },
+    {
+      "ingredient": { "item": "createpropulsion:raw_platinum" },
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "createpropulsion:platinum_ingot",
+    "count": 7
+  },
+  "smeltingTime": 400,
+  "fuelPerTick": 2,
+  "requiredTier": 2
+}

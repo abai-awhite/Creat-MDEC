@@ -1,0 +1,4 @@
+#Animate the suit platform camera and the armor flight (about 0.5 s).
+transitions = true
+#Show the one-time hint the first time the suit platform opens.
+first_use_hint = false

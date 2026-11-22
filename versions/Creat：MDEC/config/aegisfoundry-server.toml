@@ -1,0 +1,8 @@
+#Seconds without any suit-platform action before the session closes itself.
+# Default: 300
+# Range: 30 ~ 3600
+platform_idle_seconds = 300
+#Maximum repair metal cost as a fraction of re-casting the same part (0.6 = 60%).
+# Default: 0.6
+# Range: 0.1 ~ 1.0
+repair_cost_cap = 0.6

@@ -1,0 +1,24 @@
+{
+  "id": "hephaestus_tools:pig_iron",
+  "ingredient": {
+    "tag": "c:ingots/pig_iron"
+  },
+  "color": 15771812,
+  "head_stats": {
+    "durability": 580,
+    "mining_speed": 6.0,
+    "attack_damage": 2.5,
+    "attack_speed": 1.0,
+    "tier": 3,
+    "enchantability": 12
+  },
+  "handle_stats": {
+    "durability_mult": 0.1,
+    "speed_mult": -0.15,
+    "damage_mult": 0.15,
+    "attack_speed_mult": 0.0
+  },
+  "binding_stats": {
+    "durability": 0
+  }
+}
