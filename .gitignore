@@ -73,3 +73,16 @@
 
 # ---- 临时脚本 ----
 **/_test-run.bat
+
+# ---- 服务端运行时产物 ----
+**/world/
+**/world_nether/
+**/world_the_end/
+**/*_backup/
+**/*.lock
+/server-packs/Creat-MDEC-Server/banned-ips.json
+/server-packs/Creat-MDEC-Server/banned-players.json
+/server-packs/Creat-MDEC-Server/ops.json
+/server-packs/Creat-MDEC-Server/usercache.json
+/server-packs/Creat-MDEC-Server/usernamecache.json
+/server-packs/Creat-MDEC-Server/whitelist.json
