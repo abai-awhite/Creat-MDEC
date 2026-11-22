@@ -86,3 +86,6 @@
 /server-packs/Creat-MDEC-Server/usercache.json
 /server-packs/Creat-MDEC-Server/usernamecache.json
 /server-packs/Creat-MDEC-Server/whitelist.json
+
+# ---- 导出包 ----
+*.mrpack
