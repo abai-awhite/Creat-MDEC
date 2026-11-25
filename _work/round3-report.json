@@ -1,0 +1,144 @@
+{
+ "foodReport": [
+  {
+   "name": "Cave Delight",
+   "cf": null
+  },
+  {
+   "name": "Collector's Reap",
+   "cf": null
+  },
+  {
+   "name": "Dumplings Delight",
+   "cf": null
+  },
+  {
+   "name": "Farmer's Respite",
+   "cf": null
+  },
+  {
+   "name": "Festival Delicacies",
+   "cf": null
+  },
+  {
+   "name": "Frycook's Delight",
+   "cf": null
+  },
+  {
+   "name": "Oceanic Delight",
+   "cf": null
+  },
+  {
+   "name": "Seasonals",
+   "title": "Seasonals",
+   "latest": [
+    "1.16.4",
+    "1.16.5",
+    "1.18.2",
+    "1.19.2",
+    "1.20.1"
+   ],
+   "has121neo": null
+  },
+  {
+   "name": "Silent's Delight",
+   "cf": null
+  },
+  {
+   "name": "Vintage Delight",
+   "cf": null
+  },
+  {
+   "name": "NetherVinery",
+   "cf": null
+  },
+  {
+   "name": "Central Vintage",
+   "cf": null
+  },
+  {
+   "name": "AlwaysEat",
+   "title": "AlwaysEat",
+   "latest": [
+    "1.16.5",
+    "1.18.2",
+    "1.19.2",
+    "1.20",
+    "1.20.1"
+   ],
+   "has121neo": null
+  },
+  {
+   "name": "Quality Food Fluids",
+   "cf": null
+  }
+ ],
+ "unknownRes": {
+  "AdvancedLootInfo": {
+   "slug": "advanced-loot-info",
+   "title": "Advanced Loot Info (ALI)",
+   "file121": "AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
+   "fileId": 9212286
+  },
+  "ae2CraftingTree": {
+   "slug": "ae2-crafting-tree",
+   "title": "AE2: Crafting Tree",
+   "file121": "ae2ct-1.21.1-1.1.1.jar",
+   "fileId": 7182163
+  },
+  "AE2NetworkAnalyzer": {
+   "slug": "ae2-network-analyser",
+   "title": "AE2 Network Analyser",
+   "file121": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+   "fileId": 7622554
+  },
+  "Alex's Delight": {
+   "slug": "alexs-delight",
+   "title": "Alex's Delight",
+   "file121": "alexsdelight-1.6.jar",
+   "fileId": 7612806
+  },
+  "CreateFluidStuffs": {
+   "slug": "create-fluid-stuffs",
+   "title": "Create:Fluid Stuffs",
+   "file121": null,
+   "fileId": null
+  },
+  "Euphoria Patcher": {
+   "slug": "euphoria-patches",
+   "title": "Euphoria Patches",
+   "file121": "EuphoriaPatcher-1.11.2-r5.10-neoforge.jar",
+   "fileId": 9708040
+  },
+  "KubeJSDelight": {
+   "slug": "kubejs-delight",
+   "title": "KubeJS Delight",
+   "file121": "kubejsdelight-1.1.6.jar",
+   "fileId": 8192573
+  },
+  "Nebulus better portals": {
+   "slug": "nebulus-better-portals",
+   "title": "Nebulus better portals",
+   "file121": "nebulusbetterportals-1.0.8-neoforge-1.21.1.jar",
+   "fileId": 6435966
+  },
+  "OneEnoughItem": {
+   "slug": "one-enough-item",
+   "title": "One Enough Item",
+   "file121": "OneEnoughItem-neoforge-1.21.1-1.0.10.jar",
+   "fileId": 9405255
+  },
+  "OneEnoughValue": {
+   "slug": "one-enough-value",
+   "title": "One Enough Value",
+   "file121": "OneEnoughValue-1.21.1-neoforge-1.1.1.jar",
+   "fileId": 9609589
+  },
+  "TACZ": {
+   "slug": "timeless-and-classics-zero",
+   "title": "[TaCZ] Timeless and Classics Zero Guns",
+   "file121": "tacz-neoforge-1.21.1-1.2.0-hotfix.jar",
+   "fileId": 9623169
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "jarCount": 312,
+ "modIds": 305,
+ "sizeMB": 750,
+ "missing": [
+  "kotlinforforge ← create_jetpack-forge-5.2.1.jar"
+ ],
+ "ae2": [
+  "AE2 Molecular Assembler Plus-1.2.1-neoforge-1.21.1.jar",
+  "ae2cs-1.21.1-1.3.0+alpha.jar",
+  "ae2ct-1.21.1-1.1.1.jar",
+  "ae2importexportcard-1.21.1-1.9.1.jar",
+  "ae2lt-2.1.4-beta3.jar",
+  "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+  "ae2omnicells-1.21.1-neoforge-1.1.6.jar",
+  "ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+  "AE2ToggleableViewCell-21.1-2.0.3.jar",
+  "ae2wtlib-19.5.1.jar",
+  "AEAdditions-1.21.1-6.0.2.jar",
+  "applied-experienced-1.21.1-1.4.0-build-15.jar",
+  "appliedcreate-1.21.1-1.1.8.jar",
+  "appliedenergistics2-19.2.20.jar",
+  "applied_channel_management-0.1.5.jar",
+  "bigger_ae2-1.21.1-21.2.3.jar",
+  "ExtendedAE-1.21-2.2.35-neoforge.jar",
+  "extendedae_plus-1.6.4.2.jar",
+  "Glodium-1.21-2.2-neoforge.jar",
+  "megacells-4.11.0.jar",
+  "merequester-neoforge-1.21.1-1.5.1.jar",
+  "neoecoae-21.2.18.jar",
+  "thunderbolt-2.0.3.jar",
+  "Thunderbolt_lib_1.21.1_neoforge_1.0.12.jar"
+ ],
+ "ftb": [
+  "ftb-chunks-neoforge-2101.1.24.jar",
+  "ftb-essentials-neoforge-2101.1.10.jar",
+  "ftb-filter-system-neoforge-21.1.5.jar",
+  "ftb-library-neoforge-2101.1.32.jar",
+  "ftb-quests-neoforge-2101.1.26.jar",
+  "ftb-ranks-neoforge-2101.1.5.jar",
+  "ftb-teams-neoforge-2101.1.10.jar",
+  "ftb-ultimine-neoforge-2101.1.14.jar",
+  "ftb-xmod-compat-neoforge-21.1.8.jar",
+  "ftbbackups2-neoforge-1.21-1.0.28.jar",
+  "ftbxaerocompat-neoforge-1.4.0-1.21.1.jar"
+ ],
+ "foodCount": 32
+}

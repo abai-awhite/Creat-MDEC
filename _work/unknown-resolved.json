@@ -1,0 +1,198 @@
+[
+ {
+  "modId": "ali",
+  "display": "AdvancedLootInfo",
+  "name": "AdvancedLootInfo",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "ae2ct",
+  "display": "ae2CraftingTree",
+  "name": "ae2CraftingTree",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "ae2netanalyser",
+  "display": "AE2NetworkAnalyzer",
+  "name": "AE2NetworkAnalyzer",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "alexsdelight",
+  "display": "Alex's Delight",
+  "name": "Alex's Delight",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "blackknightarmor",
+  "display": "Black Knight Armor Mod",
+  "name": "Black Knight Armor Mod",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "create_jetpack_curios",
+  "display": "Create: Jetpack Curios",
+  "name": "Create: Jetpack Curios",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "create_bs",
+  "display": "Create: Better Storages",
+  "name": "Create: Better Storages",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "createbiggerstoragetocreate6",
+  "display": "CreateBiggerStorageToCreate6",
+  "name": "CreateBiggerStorageToCreate6",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "createfluidstuffs",
+  "display": "CreateFluidStuffs",
+  "name": "CreateFluidStuffs",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "euphoria_patcher",
+  "display": "Euphoria Patcher",
+  "name": "Euphoria Patcher",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "ftbquestlocalizer",
+  "display": "FTB Quests Localizer",
+  "name": "FTB Quests Localizer",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "ftbxaerocompat",
+  "display": "FTB Chunks x Xaero's Map Compat",
+  "name": "FTB Chunks x Xaero's Map Compat",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "improvedmobs",
+  "display": "Improved Mobs Mod",
+  "name": "Improved Mobs Mod",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "jeed",
+  "display": "Just Enough Effects Descriptions",
+  "name": "Just Enough Effects Descriptions",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "kinetic_pixel",
+  "display": "Kinetic Pixel",
+  "name": "Kinetic Pixel",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "",
+  "display": "",
+  "name": "",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "kubejsdelight",
+  "display": "KubeJSDelight",
+  "name": "KubeJSDelight",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "more_mod_tetra",
+  "display": "More Mod Tetra",
+  "name": "More Mod Tetra",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "nebulusbetterportals",
+  "display": "Nebulus better nether overworld portals",
+  "name": "Nebulus better nether overworld portals",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "oneenoughitem",
+  "display": "OneEnoughItem",
+  "name": "OneEnoughItem",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "oneenoughvalue",
+  "display": "OneEnoughValue",
+  "name": "OneEnoughValue",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "ponderjs",
+  "display": "PonderJS",
+  "name": "PonderJS",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "sequenced_pattern_provider",
+  "display": "Sequenced Pattern Provider",
+  "name": "Sequenced Pattern Provider",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "tacz",
+  "display": "Timeless & Classics Guns: Zero",
+  "name": "Timeless & Classics Guns: Zero",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "terraingraph",
+  "display": "TerrainGraph",
+  "name": "TerrainGraph",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "visual_keybinder",
+  "display": "Raw's Visual Keybinder",
+  "name": "Raw's Visual Keybinder",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "vvaddon",
+  "display": "VVAddon",
+  "name": "VVAddon",
+  "mr": null,
+  "cf": null
+ },
+ {
+  "modId": "youkaishomecoming_curios",
+  "display": "YoukaisHomecoming_curios",
+  "name": "YoukaisHomecoming_curios",
+  "mr": null,
+  "cf": null
+ }
+]

@@ -1,0 +1,109 @@
+{
+ "greenhouseconfig": {
+  "requiring": [
+   "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+  ],
+  "bundledIn": [
+   "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+  ]
+ },
+ "flywheel": {
+  "requiring": [
+   "create-1.21.1-6.0.10.jar",
+   "createefficientvisuals-1.21.1-0.2.0.jar",
+   "simulatedcoasters-0.1.5.jar",
+   "vanillin-neoforge-1.21.1-1.1.3-local.jar"
+  ],
+  "bundledIn": [
+   "create-1.21.1-6.0.10.jar",
+   "mechanicals-1.21.1-1.1.4.jar"
+  ]
+ },
+ "ponder": {
+  "requiring": [
+   "create-1.21.1-6.0.10.jar"
+  ],
+  "bundledIn": [
+   "create-1.21.1-6.0.10.jar",
+   "mechanicals-1.21.1-1.1.4.jar"
+  ]
+ },
+ "sablecompanion": {
+  "requiring": [
+   "createpropulsion-1.1.5.jar"
+  ],
+  "bundledIn": [
+   "bits_n_bobs-2.3.5.jar",
+   "createdieselgenerators-1.21.1-1.3.15.jar",
+   "create_connected-1.3.3-mc1.21.1.jar",
+   "create_power_loader-2.0.5-mc1.21.1.jar",
+   "create_radar-5.0.3-1.21.1.jar",
+   "drivebysable-r2.0.4.jar",
+   "sable-neoforge-1.21.1-2.0.6.jar",
+   "struts-1.3.1.jar",
+   "supplementaries-1.21.1-4.1.4-neoforge.jar"
+  ]
+ },
+ "simulated": {
+  "requiring": [
+   "create_aeronautics_toolgun-0.3.6.jar",
+   "create_aeronautics_transmission_linkage-0.2.8.jar",
+   "simulated_gauges-1.1.0.jar"
+  ],
+  "bundledIn": [
+   "create-aeronautics-bundled-1.21.1-1.3.2.jar"
+  ]
+ },
+ "compat_manager": {
+  "requiring": [
+   "deployer-0.1.3.jar",
+   "tradeworks-1.0.7.jar"
+  ],
+  "bundledIn": [
+   "deployer-0.1.3.jar",
+   "tradeworks-1.0.7.jar"
+  ]
+ },
+ "mezz_config": {
+  "requiring": [
+   "jei-1.21.1-neoforge-19.57.0.451.jar"
+  ],
+  "bundledIn": [
+   "jei-1.21.1-neoforge-19.57.0.451.jar"
+  ]
+ },
+ "apollib": {
+  "requiring": [
+   "lithostitched-1.8.1-neoforge-21.1.jar",
+   "tectonic-3.0.28-neoforge-21.1.jar"
+  ],
+  "bundledIn": [
+   "lithostitched-1.8.1-neoforge-21.1.jar",
+   "tectonic-3.0.28-neoforge-21.1.jar"
+  ]
+ },
+ "runiclib": {
+  "requiring": [
+   "neoforge-dungeonsdelight-1.21.1-1.5.2.jar"
+  ],
+  "bundledIn": []
+ },
+ "biolith": {
+  "requiring": [
+   "Quark-4.1-488.jar"
+  ],
+  "bundledIn": [
+   "Quark-4.1-488.jar"
+  ]
+ },
+ "xaerolib": {
+  "requiring": [
+   "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
+  ],
+  "bundledIn": [
+   "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
+  ]
+ }
+}

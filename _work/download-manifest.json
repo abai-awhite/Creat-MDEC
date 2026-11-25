@@ -1,0 +1,898 @@
+[
+ {
+  "slug": "ae2",
+  "projectId": "XxWD5pD3",
+  "title": "Applied Energistics 2",
+  "version": "19.2.20",
+  "filename": "appliedenergistics2-19.2.20.jar",
+  "size": 8242323,
+  "via": null,
+  "deps": [
+   "guideme"
+  ]
+ },
+ {
+  "slug": "guideme",
+  "projectId": "Ck4E7v7R",
+  "title": "GuideME",
+  "version": "21.1.22",
+  "filename": "guideme-21.1.22.jar",
+  "size": 9332340,
+  "via": "ae2",
+  "deps": []
+ },
+ {
+  "slug": "applied-energistics-2-wireless-terminals",
+  "projectId": "pNabrMMw",
+  "title": "Applied Energistics 2 Wireless Terminals",
+  "version": "19.5.1",
+  "filename": "ae2wtlib-19.5.1.jar",
+  "size": 252091,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "extended-ae",
+  "projectId": "JiOqfoFM",
+  "title": "Extended AE",
+  "version": "1.21-2.2.35-neoforge",
+  "filename": "ExtendedAE-1.21-2.2.35-neoforge.jar",
+  "size": 5578031,
+  "via": null,
+  "deps": [
+   "guideme",
+   "glodium",
+   "ae2"
+  ]
+ },
+ {
+  "slug": "glodium",
+  "projectId": "UhW5uCKw",
+  "title": "Glodium",
+  "version": "1.21-2.2-neoforge",
+  "filename": "Glodium-1.21-2.2-neoforge.jar",
+  "size": 61377,
+  "via": "extended-ae",
+  "deps": []
+ },
+ {
+  "slug": "extendedae-plus",
+  "projectId": "xr109llC",
+  "title": "ExtendedAE-Plus",
+  "version": "1.6.4.2",
+  "filename": "extendedae_plus-1.6.4.2.jar",
+  "size": 1451560,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "mega",
+  "projectId": "jjuIRIVr",
+  "title": "MEGA Cells",
+  "version": "4.11.0",
+  "filename": "megacells-4.11.0.jar",
+  "size": 1137276,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "applied-create",
+  "projectId": "XmZgyZzj",
+  "title": "Applied Create",
+  "version": "1.1.8",
+  "filename": "appliedcreate-1.21.1-1.1.8.jar",
+  "size": 442774,
+  "via": null,
+  "deps": [
+   "create",
+   "ae2",
+   "kotlin-for-forge"
+  ]
+ },
+ {
+  "slug": "create",
+  "projectId": "LNytGWDc",
+  "title": "Create",
+  "version": "6.0.10+mc1.21.1",
+  "filename": "create-1.21.1-6.0.10.jar",
+  "size": 19123767,
+  "via": "applied-create",
+  "deps": []
+ },
+ {
+  "slug": "kotlin-for-forge",
+  "projectId": "ordsPcFz",
+  "title": "Kotlin for Forge",
+  "version": "5.13.0",
+  "filename": "kotlinforforge-5.13.0-all.jar",
+  "size": 7364729,
+  "via": "applied-create",
+  "deps": []
+ },
+ {
+  "slug": "ae2-omni-cells",
+  "projectId": "RYE1pYyr",
+  "title": "AE2 OMNI Cells",
+  "version": "1.1.6-1.21.1-neoforge",
+  "filename": "ae2omnicells-1.21.1-neoforge-1.1.6.jar",
+  "size": 867711,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "ae2-import-export-card",
+  "projectId": "qelfSMnn",
+  "title": "AE2 Import Export Card",
+  "version": "1.21.1-1.9.1",
+  "filename": "ae2importexportcard-1.21.1-1.9.1.jar",
+  "size": 688670,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "ae2-wcwt",
+  "projectId": "4inoel9g",
+  "title": "AE2 WCWT",
+  "version": "1.3.11",
+  "filename": "wcwt-1.3.11.jar",
+  "size": 1296213,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "assembler-matrix-prioritization",
+  "projectId": "QELalDXk",
+  "title": "Assembler Matrix Prioritization",
+  "version": "1.0.5-neoforge-1.21.1",
+  "filename": "assembler-matrix-prioritization-neoforge-1.21.1-1.0.5.jar",
+  "size": 21617,
+  "via": null,
+  "deps": [
+   "extended-ae"
+  ]
+ },
+ {
+  "slug": "ae2-qol-recipes",
+  "projectId": "K7VSm2YY",
+  "title": "AE2 QoL Recipes",
+  "version": "1.3.0",
+  "filename": "ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+  "size": 118319,
+  "via": null,
+  "deps": [
+   "ae2"
+  ]
+ },
+ {
+  "slug": "abnormals-delight",
+  "projectId": "ts3qjo5t",
+  "title": "Abnormals Delight",
+  "version": "6.0.3",
+  "filename": "abnormals_delight-1.21.1-6.0.3.jar",
+  "size": 705548,
+  "via": null,
+  "deps": [
+   "farmers-delight",
+   "blueprint"
+  ]
+ },
+ {
+  "slug": "farmers-delight",
+  "projectId": "R2OftAxM",
+  "title": "Farmer's Delight",
+  "version": "1.21.1-1.3.4",
+  "filename": "FarmersDelight-1.21.1-1.3.4.jar",
+  "size": 3160490,
+  "via": "abnormals-delight",
+  "deps": []
+ },
+ {
+  "slug": "blueprint",
+  "projectId": "VsM5EDoI",
+  "title": "Blueprint",
+  "version": "8.2.0",
+  "filename": "blueprint-1.21.1-8.2.0.jar",
+  "size": 1214507,
+  "via": "abnormals-delight",
+  "deps": []
+ },
+ {
+  "slug": "corn-delight",
+  "projectId": "uxLAKWU8",
+  "title": "Corn Delight",
+  "version": "1.2.10-1.21.1",
+  "filename": "corn_delight-1.2.10-1.21.1.jar",
+  "size": 165038,
+  "via": null,
+  "deps": [
+   "mmlib",
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "mmlib",
+  "projectId": "ntMyNH8c",
+  "title": "Mysterious Mountain Lib",
+  "version": "1.3.16-1.21.1",
+  "filename": "mysterious_mountain_lib-1.3.16-1.21.1.jar",
+  "size": 293541,
+  "via": "corn-delight",
+  "deps": []
+ },
+ {
+  "slug": "crabbers-delight",
+  "projectId": "gBGdVBJy",
+  "title": "Crabber's Delight",
+  "version": "1.3.1",
+  "filename": "crabbersdelight-1.21.1-1.3.1.jar",
+  "size": 1013696,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "cuisine-delight",
+  "projectId": "gOQjCAAD",
+  "title": "Cuisine Delight",
+  "version": "1.2.10",
+  "filename": "cuisinedelight-1.2.10.jar",
+  "size": 923074,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "cultural-delights",
+  "projectId": "YttyNOFA",
+  "title": "Cultural Delights",
+  "version": "0.19.8-1.21.1",
+  "filename": "culturaldelights-1.21.1-0.19.8.jar",
+  "size": 1004043,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "dungeons_delight",
+  "projectId": "qPfNr476",
+  "title": "Dungeon's Delight",
+  "version": "1.5.3",
+  "filename": "neoforge-dungeonsdelight-1.21.1-1.5.2.jar",
+  "size": 7079620,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "fruits-delight",
+  "projectId": "g6sbyCTu",
+  "title": "Fruits Delight",
+  "version": "1.2.14",
+  "filename": "fruitsdelight-1.2.14.jar",
+  "size": 1910595,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "luncheon-meat-s-delight",
+  "projectId": "VOh1tIxx",
+  "title": "Luncheon Meat 'S Delight",
+  "version": "1.21.1-1.0.6",
+  "filename": "luncheon-meat-s-delight-1.0.6-neoforge-1.21.1.jar",
+  "size": 139930,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "miners-delight",
+  "projectId": "qMxbM4BQ",
+  "title": "Miner's Delight",
+  "version": "1.4.5",
+  "filename": "minersdelight-1.21.1-1.4.5.jar",
+  "size": 390203,
+  "via": null,
+  "deps": [
+   "farmers-delight",
+   "lodestonelib"
+  ]
+ },
+ {
+  "slug": "lodestonelib",
+  "projectId": "bN3xUWdo",
+  "title": "Lodestone",
+  "version": "1.8.2",
+  "filename": "lodestone-1.21.1-1.8.2.jar",
+  "size": 818829,
+  "via": "miners-delight",
+  "deps": []
+ },
+ {
+  "slug": "quality-food",
+  "projectId": "Ahdn1OE0",
+  "title": "Quality Food",
+  "version": "2.4.5",
+  "filename": "quality_food-1.21.1-2.4.5.jar",
+  "size": 259146,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "trailtales-delight",
+  "projectId": "Koee7vhY",
+  "title": "Trail&Tales Delight",
+  "version": "2.4",
+  "filename": "[1.3support]trailandtales_delight-2.40.jar",
+  "size": 752326,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "neapolitan",
+  "projectId": "InYMuiQt",
+  "title": "Neapolitan",
+  "version": "6.0.1",
+  "filename": "neapolitan-1.21.1-6.0.1.jar",
+  "size": 4966177,
+  "via": null,
+  "deps": [
+   "blueprint"
+  ]
+ },
+ {
+  "slug": "youkaishomecoming",
+  "projectId": "uJT3ahxz",
+  "title": "Youkai's Homecoming",
+  "version": "3.0.8",
+  "filename": "youkaishomecoming-3.0.8.jar",
+  "size": 2543939,
+  "via": null,
+  "deps": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "slug": "createcafe",
+  "status": "no-project",
+  "via": null
+ },
+ {
+  "slug": "create-confectionery",
+  "projectId": "WPE5gRs9",
+  "title": "Create Confectionery",
+  "version": "1.1.3.b",
+  "filename": "create-confectionery1.21.1_v1.1.3b.jar",
+  "size": 2127265,
+  "via": null,
+  "deps": [
+   "create"
+  ]
+ },
+ {
+  "slug": "ecliptic-seasons",
+  "projectId": "ofdM7yJE",
+  "title": "Ecliptic Seasons",
+  "version": "0.15.5.1",
+  "filename": "EclipticSeasons-1.21.1-neoforge-0.15.5.1.jar",
+  "size": 10329975,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "terralith",
+  "projectId": "8oi3bsk5",
+  "title": "Terralith",
+  "version": "2.6.2",
+  "filename": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+  "size": 2814865,
+  "via": null,
+  "deps": [
+   "lithostitched"
+  ]
+ },
+ {
+  "slug": "lithostitched",
+  "projectId": "XaDC71GB",
+  "title": "Lithostitched",
+  "version": "1.8.1-neoforge-21.1",
+  "filename": "lithostitched-1.8.1-neoforge-21.1.jar",
+  "size": 1023751,
+  "via": "terralith",
+  "deps": []
+ },
+ {
+  "slug": "tectonic",
+  "projectId": "lWDHr9jE",
+  "title": "Tectonic",
+  "version": "3.0.28-neoforge-21.1",
+  "filename": "tectonic-3.0.28-neoforge-21.1.jar",
+  "size": 451757,
+  "via": null,
+  "deps": [
+   "lithostitched"
+  ]
+ },
+ {
+  "slug": "towns-and-towers",
+  "projectId": "DjLobEOy",
+  "title": "Towns and Towers",
+  "version": "1.13.11",
+  "filename": "t_and_t-fabric-neoforge-1.13.11.jar",
+  "size": 3553006,
+  "via": null,
+  "deps": [
+   "cristel-lib"
+  ]
+ },
+ {
+  "slug": "cristel-lib",
+  "projectId": "cl223EMc",
+  "title": "Cristel Lib",
+  "version": "neoforge-1.21.1-3.1.7",
+  "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
+  "size": 583525,
+  "via": "towns-and-towers",
+  "deps": [
+   "cloth-config"
+  ]
+ },
+ {
+  "slug": "cloth-config",
+  "projectId": "9s6osm5g",
+  "title": "Cloth Config API",
+  "version": "15.0.140+neoforge",
+  "filename": "cloth-config-15.0.140-neoforge.jar",
+  "size": 1163890,
+  "via": "cristel-lib",
+  "deps": []
+ },
+ {
+  "slug": "totw-modded",
+  "projectId": "54eqfZSC",
+  "title": "Towers of the Wild Modded",
+  "version": "1.0.9",
+  "filename": "totw_modded-neoforge-1.21-1.0.9.jar",
+  "size": 281334,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "yungs-api",
+  "projectId": "Ua7DFN59",
+  "title": "YUNG's API",
+  "version": "1.21.1-NeoForge-5.1.9",
+  "filename": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+  "size": 413763,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "yungs-better-mineshafts",
+  "projectId": "HjmxVlSr",
+  "title": "YUNG's Better Mineshafts",
+  "version": "1.21.1-NeoForge-5.1.1",
+  "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+  "size": 493967,
+  "via": null,
+  "deps": [
+   "yungs-api"
+  ]
+ },
+ {
+  "slug": "yungs-better-witch-huts",
+  "projectId": "t5FRdP87",
+  "title": "YUNG's Better Witch Huts",
+  "version": "1.21.1-NeoForge-4.1.1",
+  "filename": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+  "size": 174789,
+  "via": null,
+  "deps": [
+   "yungs-api"
+  ]
+ },
+ {
+  "slug": "yungs-extras",
+  "projectId": "ZYgyPyfq",
+  "title": "YUNG's Extras",
+  "version": "1.21.1-NeoForge-5.1.1",
+  "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+  "size": 198183,
+  "via": null,
+  "deps": [
+   "yungs-api"
+  ]
+ },
+ {
+  "slug": "integrated-villages",
+  "projectId": "o1qh5qIF",
+  "title": "Integrated Villages",
+  "version": "1.3.3+1.21.1-neoforge",
+  "filename": "integrated_villages-1.3.3+1.21.1-neoforge.jar",
+  "size": 4592084,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "integrated-stronghold",
+  "projectId": "KUJdfPQz",
+  "title": "Integrated Stronghold",
+  "version": "1.1.4+1.21.1-neoforge",
+  "filename": "integrated_stronghold-1.1.4+1.21.1-neoforge.jar",
+  "size": 5125265,
+  "via": null,
+  "deps": [
+   "create",
+   "supplementaries",
+   "quark",
+   "integrated-api"
+  ]
+ },
+ {
+  "slug": "supplementaries",
+  "projectId": "fFEIiSDQ",
+  "title": "Supplementaries",
+  "version": "1.21.1-4.1.4",
+  "filename": "supplementaries-1.21.1-4.1.4-neoforge.jar",
+  "size": 13944698,
+  "via": "integrated-stronghold",
+  "deps": [
+   "moonlight"
+  ]
+ },
+ {
+  "slug": "moonlight",
+  "projectId": "twkfQtEc",
+  "title": "Moonlight Lib",
+  "version": "1.21.1-3.8.3",
+  "filename": "moonlight-1.21.1-3.8.3-neoforge.jar",
+  "size": 2327347,
+  "via": "supplementaries",
+  "deps": []
+ },
+ {
+  "slug": "quark",
+  "projectId": "qnQsVE2z",
+  "title": "Quark",
+  "version": "4.1-488",
+  "filename": "Quark-4.1-488.jar",
+  "size": 15614268,
+  "via": "integrated-stronghold",
+  "deps": [
+   "zeta"
+  ]
+ },
+ {
+  "slug": "zeta",
+  "projectId": "MVARlG2f",
+  "title": "Zeta",
+  "version": "1.1-40",
+  "filename": "Zeta-1.1-40.jar",
+  "size": 763725,
+  "via": "quark",
+  "deps": []
+ },
+ {
+  "slug": "integrated-api",
+  "projectId": "V6fKbpBN",
+  "title": "Integrated API",
+  "version": "1.9.2",
+  "filename": "integrated_api-neoforge-1.21.1-1.9.2.jar",
+  "size": 486108,
+  "via": "integrated-stronghold",
+  "deps": []
+ },
+ {
+  "slug": "idas",
+  "projectId": "Z8OZShAU",
+  "title": " Integrated Dungeons and Structures",
+  "version": "1.13.7+1.21.1-neoforge",
+  "filename": "idas-1.13.7+1.21.1-neoforge.jar",
+  "size": 14485475,
+  "via": null,
+  "deps": [
+   "quark",
+   "integrated-api",
+   "create",
+   "supplementaries"
+  ]
+ },
+ {
+  "slug": "l_enders-cataclysm",
+  "projectId": "46KJle7n",
+  "title": "L_Ender's Cataclysm",
+  "version": "3.33",
+  "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+  "size": 73375667,
+  "via": null,
+  "deps": [
+   "lionfish-api",
+   "curios"
+  ]
+ },
+ {
+  "slug": "lionfish-api",
+  "projectId": "FoVacERa",
+  "title": "Lionfish-API",
+  "version": "3.1",
+  "filename": "lionfishapi-3.1.jar",
+  "size": 91596,
+  "via": "l_enders-cataclysm",
+  "deps": []
+ },
+ {
+  "slug": "curios",
+  "projectId": "vvuO3ImH",
+  "title": "Curios API",
+  "version": "9.6.0+1.21.1",
+  "filename": "curios-neoforge-9.6.0+1.21.1.jar",
+  "size": 411707,
+  "via": "l_enders-cataclysm",
+  "deps": []
+ },
+ {
+  "slug": "the-bumblezone",
+  "projectId": "38tpSycf",
+  "title": "The Bumblezone - NeoForge/Forge",
+  "version": "7.19.3+1.21.1-neoforge",
+  "filename": "the_bumblezone-7.19.3+1.21.1-neoforge.jar",
+  "size": 83645330,
+  "via": null,
+  "deps": [
+   "resourceful-lib"
+  ]
+ },
+ {
+  "slug": "resourceful-lib",
+  "projectId": "G1hIVOrD",
+  "title": "Resourceful Lib",
+  "version": "3.0.12",
+  "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+  "size": 484332,
+  "via": "the-bumblezone",
+  "deps": []
+ },
+ {
+  "slug": "northstar-redux",
+  "projectId": "UZiq3QVW",
+  "title": "Create: Northstar - Redux",
+  "version": "0.6.6+1.21.1",
+  "filename": "Northstar-0.6.6+1.21.1.jar",
+  "size": 11558948,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "creeper-overhaul",
+  "projectId": "MI1LWe93",
+  "title": "Creeper Overhaul",
+  "version": "4.0.6",
+  "filename": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+  "size": 1185088,
+  "via": null,
+  "deps": [
+   "resourceful-lib",
+   "resourceful-config",
+   "geckolib"
+  ]
+ },
+ {
+  "slug": "resourceful-config",
+  "projectId": "M1953qlQ",
+  "title": "Resourceful Config",
+  "version": "3.0.11",
+  "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+  "size": 341009,
+  "via": "creeper-overhaul",
+  "deps": []
+ },
+ {
+  "slug": "geckolib",
+  "projectId": "8BmcQJ2H",
+  "title": "Geckolib",
+  "version": "4.9.3",
+  "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+  "size": 634531,
+  "via": "creeper-overhaul",
+  "deps": []
+ },
+ {
+  "slug": "sparsestructures",
+  "projectId": "qwvI41y9",
+  "title": "Sparse Structures",
+  "version": "3.0",
+  "filename": "sparsestructures-neoforge-1.21.1-3.0.jar",
+  "size": 117743,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "explorerscompass",
+  "status": "no-project",
+  "via": null
+ },
+ {
+  "slug": "quarkoddities",
+  "status": "no-project",
+  "via": null
+ },
+ {
+  "slug": "amendments",
+  "projectId": "6iTJugQR",
+  "title": "Amendments",
+  "version": "1.21-2.2.7",
+  "filename": "amendments-1.21-2.2.7-neoforge.jar",
+  "size": 1212703,
+  "via": null,
+  "deps": [
+   "moonlight"
+  ]
+ },
+ {
+  "slug": "immersive-paintings",
+  "projectId": "6txNkua3",
+  "title": "Immersive Paintings",
+  "version": "0.8.0+1.21.1",
+  "filename": "immersive_paintings-neoforge-1.21.1-0.8.0.jar",
+  "size": 5548915,
+  "via": null,
+  "deps": [
+   "fzzy-config"
+  ]
+ },
+ {
+  "slug": "fzzy-config",
+  "projectId": "hYykXjDp",
+  "title": "Fzzy Config",
+  "version": "0.7.7+fix1+1.21+neoforge",
+  "filename": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+  "size": 2392720,
+  "via": "immersive-paintings",
+  "deps": [
+   "kotlin-for-forge"
+  ]
+ },
+ {
+  "slug": "waystones",
+  "projectId": "LOpKHB2A",
+  "title": "Waystones",
+  "version": "21.1.47+neoforge-1.21.1",
+  "filename": "waystones-neoforge-1.21.1-21.1.47.jar",
+  "size": 1254420,
+  "via": null,
+  "deps": [
+   "balm"
+  ]
+ },
+ {
+  "slug": "balm",
+  "projectId": "MBAkmtvl",
+  "title": "Balm",
+  "version": "21.0.67+neoforge-1.21.1",
+  "filename": "balm-neoforge-1.21.1-21.0.67.jar",
+  "size": 786010,
+  "via": "waystones",
+  "deps": []
+ },
+ {
+  "slug": "functional-storage",
+  "projectId": "cO40ZIg3",
+  "title": "Functional Storage",
+  "version": "1.21-1.5.7",
+  "filename": "functionalstorage-1.21.1-1.5.7.jar",
+  "size": 776635,
+  "via": null,
+  "deps": [
+   "titanium"
+  ]
+ },
+ {
+  "slug": "titanium",
+  "projectId": "1Ro7m06l",
+  "title": "Titanium",
+  "version": "1.21-4.0.56",
+  "filename": "titanium-1.21-4.0.56.jar",
+  "size": 613233,
+  "via": "functional-storage",
+  "deps": []
+ },
+ {
+  "slug": "sophisticated-backpacks",
+  "projectId": "TyCTlI4b",
+  "title": "Sophisticated Backpacks",
+  "version": "1.21.1-3.26.22.2257",
+  "filename": "sophisticatedbackpacks-1.21.1-3.26.22.2257.jar",
+  "size": 1266183,
+  "via": null,
+  "deps": [
+   "sophisticated-core"
+  ]
+ },
+ {
+  "slug": "sophisticated-core",
+  "projectId": "nmoqTijg",
+  "title": "Sophisticated Core",
+  "version": "1.21.1-1.5.39.2489",
+  "filename": "sophisticatedcore-1.21.1-1.5.39.2489.jar",
+  "size": 1855442,
+  "via": "sophisticated-backpacks",
+  "deps": []
+ },
+ {
+  "slug": "trashcans",
+  "status": "no-project",
+  "via": null
+ },
+ {
+  "slug": "dramaticdoors",
+  "status": "no-project",
+  "via": null
+ },
+ {
+  "slug": "comforts",
+  "projectId": "SaCpeal4",
+  "title": "Comforts",
+  "version": "9.0.5+1.21.1",
+  "filename": "comforts-neoforge-9.0.5+1.21.1.jar",
+  "size": 422658,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "better-combat",
+  "projectId": "5sy6g3kz",
+  "title": "Better Combat",
+  "version": "2.4.0+1.21.1-neoforge",
+  "filename": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+  "size": 1045389,
+  "via": null,
+  "deps": [
+   "cloth-config",
+   "playeranimator"
+  ]
+ },
+ {
+  "slug": "playeranimator",
+  "projectId": "gedNE4y2",
+  "title": "playerAnimator",
+  "version": "2.0.4+1.21.1-forge",
+  "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+  "size": 203149,
+  "via": "better-combat",
+  "deps": []
+ },
+ {
+  "slug": "entityculling",
+  "projectId": "NNAgCjsB",
+  "title": "Entity Culling",
+  "version": "1.12.1",
+  "filename": "entityculling-neoforge-1.12.1-mc1.21.1.jar",
+  "size": 1523607,
+  "via": null,
+  "deps": []
+ },
+ {
+  "slug": "dynamic-fps",
+  "projectId": "LQ3K71Q1",
+  "title": "Dynamic FPS",
+  "version": "3.11.4",
+  "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+  "size": 220193,
+  "via": null,
+  "deps": []
+ }
+]

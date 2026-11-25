@@ -1,0 +1,154 @@
+[
+ {
+  "modId": "ali",
+  "display": "AdvancedLootInfo",
+  "cf": null
+ },
+ {
+  "modId": "ae2ct",
+  "display": "ae2CraftingTree",
+  "cf": null
+ },
+ {
+  "modId": "ae2netanalyser",
+  "display": "AE2NetworkAnalyzer",
+  "cf": null
+ },
+ {
+  "modId": "alexsdelight",
+  "display": "Alex's Delight",
+  "cf": null
+ },
+ {
+  "modId": "blackknightarmor",
+  "display": "Black Knight Armor Mod",
+  "cf": null
+ },
+ {
+  "modId": "create_jetpack_curios",
+  "display": "Create: Jetpack Curios",
+  "cf": null
+ },
+ {
+  "modId": "create_bs",
+  "display": "Create: Better Storages",
+  "cf": null
+ },
+ {
+  "modId": "createbiggerstoragetocreate6",
+  "display": "CreateBiggerStorageToCreate6",
+  "cf": null
+ },
+ {
+  "modId": "createfluidstuffs",
+  "display": "CreateFluidStuffs",
+  "cf": null
+ },
+ {
+  "modId": "euphoria_patcher",
+  "display": "Euphoria Patcher",
+  "cf": null
+ },
+ {
+  "modId": "ftbquestlocalizer",
+  "display": "FTB Quests Localizer",
+  "cf": null
+ },
+ {
+  "modId": "ftbxaerocompat",
+  "display": "FTB Chunks x Xaero's Map Compat",
+  "cf": {
+   "title": "FTB Chunks x Xaero's Compat",
+   "slug": "ftbxaerocompat",
+   "file121": "ftbxaerocompat-neoforge-1.4.0-1.21.1.jar",
+   "fileId": 9387323,
+   "versions": 34
+  }
+ },
+ {
+  "modId": "improvedmobs",
+  "display": "Improved Mobs Mod",
+  "cf": {
+   "title": "Improved Mobs (Forge, NeoForge)",
+   "slug": "improved-mobs",
+   "file121": "improvedmobs-1.21.1-1.16.1-neoforge.jar",
+   "fileId": 9703675,
+   "versions": 159
+  }
+ },
+ {
+  "modId": "jeed",
+  "display": "Just Enough Effects Descriptions",
+  "cf": null
+ },
+ {
+  "modId": "kinetic_pixel",
+  "display": "Kinetic Pixel",
+  "cf": null
+ },
+ {
+  "modId": "",
+  "display": "",
+  "cf": null
+ },
+ {
+  "modId": "kubejsdelight",
+  "display": "KubeJSDelight",
+  "cf": null
+ },
+ {
+  "modId": "more_mod_tetra",
+  "display": "More Mod Tetra",
+  "cf": null
+ },
+ {
+  "modId": "nebulusbetterportals",
+  "display": "Nebulus better nether overworld portals",
+  "cf": null
+ },
+ {
+  "modId": "oneenoughitem",
+  "display": "OneEnoughItem",
+  "cf": null
+ },
+ {
+  "modId": "oneenoughvalue",
+  "display": "OneEnoughValue",
+  "cf": null
+ },
+ {
+  "modId": "ponderjs",
+  "display": "PonderJS",
+  "cf": null
+ },
+ {
+  "modId": "sequenced_pattern_provider",
+  "display": "Sequenced Pattern Provider",
+  "cf": null
+ },
+ {
+  "modId": "tacz",
+  "display": "Timeless & Classics Guns: Zero",
+  "cf": null
+ },
+ {
+  "modId": "terraingraph",
+  "display": "TerrainGraph",
+  "cf": null
+ },
+ {
+  "modId": "visual_keybinder",
+  "display": "Raw's Visual Keybinder",
+  "cf": null
+ },
+ {
+  "modId": "vvaddon",
+  "display": "VVAddon",
+  "cf": null
+ },
+ {
+  "modId": "youkaishomecoming_curios",
+  "display": "YoukaisHomecoming_curios",
+  "cf": null
+ }
+]

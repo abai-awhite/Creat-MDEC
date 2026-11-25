@@ -1,0 +1,4470 @@
+{
+ "cdr": [
+  {
+   "file": "0World2Create-Universal-1.19-1.20.X-1.0.0.jar",
+   "size": 5890,
+   "sha1": "35cc436e1155ee1ba23e24cd03eca8d92659a1e2",
+   "modId": "oworld2create",
+   "version": "${file.jarVersion}",
+   "display": "0World2Create"
+  },
+  {
+   "file": "abnormals_delight-1.20.1-5.0.1.jar",
+   "size": 614066,
+   "sha1": "51592012aebc640000ca7a4bf9a03e74718a9761",
+   "modId": "abnormals_delight",
+   "version": "${file.jarVersion}",
+   "display": "Abnormals Delight"
+  },
+  {
+   "file": "acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+   "size": 907019,
+   "sha1": "4c38a700ea356ec1bb1f9eedab83d27342ac65d6",
+   "modId": "acceleratedrendering",
+   "version": "1.0.14-1.20.1-alpha",
+   "display": "Accelerated Rendering"
+  },
+  {
+   "file": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
+   "size": 1080048,
+   "sha1": "22d8aed468ce41b78389b801cec1cd33faa5edb5",
+   "modId": "accessories",
+   "version": "1.0.0-beta48+1.20.1",
+   "display": "Accessories"
+  },
+  {
+   "file": "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
+   "size": 663089,
+   "sha1": "bbf7742a49e6cbe90c5d805538ec46ce223e6e0b",
+   "modId": "ali",
+   "version": "1.12.0",
+   "display": "AdvancedLootInfo"
+  },
+  {
+   "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+   "size": 208850,
+   "sha1": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
+   "modId": "advancementplaques",
+   "version": "${file.jarVersion}",
+   "display": "Advancement Plaques"
+  },
+  {
+   "file": "advancements_tracker_1.20.1-6.1.0.jar",
+   "size": 105676,
+   "sha1": "e90766d6f449c4c62a92a74b1871bee77bcc6dde",
+   "modId": "advancements_tracker",
+   "version": "${file.jarVersion}",
+   "display": "Advancements Tracker"
+  },
+  {
+   "file": "ae2ct-1.20.1-1.1.1.jar",
+   "size": 242196,
+   "sha1": "e6c9d9c2cd9c52aec6364d87e78924f6165b7998",
+   "modId": "ae2ct",
+   "version": "1.20.1-1.1.1",
+   "display": "ae2CraftingTree"
+  },
+  {
+   "file": "AE2NetworkAnalyzer-1.20-1.0.6-forge.jar",
+   "size": 827642,
+   "sha1": "7616ab6cf999f1844edc87433f60dfe45d829ce8",
+   "modId": "ae2netanalyser",
+   "version": "1.20-1.0.6-forge",
+   "display": "AE2NetworkAnalyzer"
+  },
+  {
+   "file": "ae2omnicells-1.20.1-forge-1.1.1.jar",
+   "size": 833420,
+   "sha1": "a90a13cff671e569d6197125dfa4541a23de16a5",
+   "modId": "ae2omnicells",
+   "version": "1.1.1",
+   "display": "AE Omni Cells"
+  },
+  {
+   "file": "ae2wtlib-15.3.3-forge.jar",
+   "size": 229518,
+   "sha1": "1a546af04844677542b6914191783c7de15364fc",
+   "modId": "ae2wtlib",
+   "version": "15.3.3-forge",
+   "display": "AE2WTLib"
+  },
+  {
+   "file": "alexscaves-2.0.2.jar",
+   "size": 74871657,
+   "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+   "modId": "alexscaves",
+   "version": "2.0.2",
+   "display": "Alex's Caves"
+  },
+  {
+   "file": "alexsdelight-1.5.jar",
+   "size": 55398,
+   "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba",
+   "modId": "alexsdelight",
+   "version": "1.5",
+   "display": "Alex's Delight"
+  },
+  {
+   "file": "alexsmobs-1.22.9.jar",
+   "size": 26350793,
+   "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+   "modId": "alexsmobs",
+   "version": "1.22.9",
+   "display": "Alex's Mobs"
+  },
+  {
+   "file": "alex_cave_addon-5.1.0-1.20.1.jar",
+   "size": 312780,
+   "sha1": "1861e335c622c48f66c59a4ee82c1d3cdbc14128",
+   "modId": "alex_cave_addon",
+   "version": "5.1.0",
+   "display": "alex cave addon"
+  },
+  {
+   "file": "AlwaysEat-5.2.jar",
+   "size": 11372,
+   "sha1": "250cafb62c3f73cce919a56899ebd94424036735",
+   "modId": "salwayseat",
+   "version": "${file.jarVersion}",
+   "display": "AlwaysEat"
+  },
+  {
+   "file": "amendments-1.20-2.2.5.jar",
+   "size": 1301022,
+   "sha1": "5d5a1d7d2d2dd37c578fdea2495757baaa624092",
+   "modId": "amendments",
+   "version": "1.20-2.2.5",
+   "display": "Amendments"
+  },
+  {
+   "file": "ApothicAttributes-1.20.1-1.3.7.jar",
+   "size": 227511,
+   "sha1": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+   "modId": "attributeslib",
+   "version": "1.3.7",
+   "display": "Apothic Attributes"
+  },
+  {
+   "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+   "size": 47428,
+   "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+   "modId": "appleskin",
+   "version": "${file.jarVersion}",
+   "display": "AppleSkin"
+  },
+  {
+   "file": "appliedcreate-1.20.1-1.1.6.jar",
+   "size": 365373,
+   "sha1": "4c5b21838cf2702ac033e117f9107e0e2dd041b1",
+   "modId": "appliedcreate",
+   "version": "${file.jarVersion}",
+   "display": "Applied Create"
+  },
+  {
+   "file": "appliedenergistics2-forge-15.4.10.jar",
+   "size": 8495956,
+   "sha1": "ac255a120499f79f8deade474da09e3c00ff9bad",
+   "modId": "ae2",
+   "version": "15.4.10",
+   "display": "Applied Energistics 2"
+  },
+  {
+   "file": "architectury-9.2.14-forge.jar",
+   "size": 580602,
+   "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+   "modId": "architectury",
+   "version": "9.2.14",
+   "display": "Architectury"
+  },
+  {
+   "file": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+   "size": 19499,
+   "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+   "modId": "attributefix",
+   "version": "21.0.5",
+   "display": "AttributeFix"
+  },
+  {
+   "file": "bakeries-1.20.1-forge-1.2.5.jar",
+   "size": 2529367,
+   "sha1": "5723f44bfc7cdeccd892b523c550a21ad8b156c4",
+   "modId": "bakeries",
+   "version": "1.20.1-forge-1.2.5",
+   "display": "Bakeries"
+  },
+  {
+   "file": "balm-forge-1.20.1-7.3.41-all.jar",
+   "size": 559741,
+   "sha1": "fde6edd5f3f2aa412a1ba5fccad20ea4348fdcf2",
+   "modId": "balm",
+   "version": "7.3.41",
+   "display": "Balm"
+  },
+  {
+   "file": "bc_particle-0.0.6-forge-1.20.1.jar",
+   "size": 143121,
+   "sha1": "3d309df955df5e936524dce787bb833aead4e415",
+   "modId": "bc_particle",
+   "version": "0.0.6-forge-1.20.1",
+   "display": "Better Combat Particle"
+  },
+  {
+   "file": "BeeFix-1.20-1.0.7.jar",
+   "size": 29389,
+   "sha1": "0eba7daf8b460a78375f9d3944e744ce5060d394",
+   "modId": "beefix",
+   "version": "${file.jarVersion}",
+   "display": "Bee Fix"
+  },
+  {
+   "file": "BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar",
+   "size": 98274,
+   "sha1": "c1047a1116886365ef5c37879cb250d312f74283",
+   "modId": "betteradvancements",
+   "version": "0.4.2.25",
+   "display": "Better Advancements"
+  },
+  {
+   "file": "bettercombat-forge-1.9.0+1.20.1.jar",
+   "size": 1054339,
+   "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+   "modId": "bettercombat",
+   "version": "1.9.0+1.20.1",
+   "display": "Better Combat"
+  },
+  {
+   "file": "BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar",
+   "size": 21072,
+   "sha1": "5c63ec18176fdf072c3b8d0fb7e8445ed73b9b86",
+   "modId": "bcc",
+   "version": "${file.jarVersion}",
+   "display": "Better Compatibility Checker"
+  },
+  {
+   "file": "biomereplacer-2.2-hippo-forge.jar",
+   "size": 405252,
+   "sha1": "0a5560d70ebe0adab8a0554d5abde1db6dfd60ae",
+   "modId": "biome_replacer",
+   "version": "2.2-hippo",
+   "display": "Biome Replacer"
+  },
+  {
+   "file": "biomespy-1.3.3-all.jar",
+   "size": 231424,
+   "sha1": "7cec406c736997eea5c7be0e88f625d64313e362",
+   "modId": "biomespy",
+   "version": "1.3.3",
+   "display": "BiomeSpy"
+  },
+  {
+   "file": "bits_n_bobs-0.0.41.jar",
+   "size": 1623254,
+   "sha1": "2751db3792cdcc1aba598ed1b7d4c07e579815e9",
+   "modId": "bits_n_bobs",
+   "version": "0.0.41",
+   "display": "Create Bits 'n' Bobs"
+  },
+  {
+   "file": "blackknightarmor-1.0.9.jar",
+   "size": 3265692,
+   "sha1": "7aaa774a535e2b5ab14d4c8de72baaf0e26ccca0",
+   "modId": "blackknightarmor",
+   "version": "1.0.9.11.3",
+   "display": "Black Knight Armor Mod"
+  },
+  {
+   "file": "blueprint-1.20.1-7.1.3.jar",
+   "size": 1151213,
+   "sha1": "fdf9cb568546e80485ea4402a39656ed9acfa991",
+   "modId": "blueprint",
+   "version": "7.1.3",
+   "display": "Blueprint"
+  },
+  {
+   "file": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+   "size": 343925,
+   "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+   "modId": "bookshelf",
+   "version": "20.2.15",
+   "display": "Bookshelf"
+  },
+  {
+   "file": "botarium-forge-1.20.1-2.3.4.jar",
+   "size": 157633,
+   "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+   "modId": "botarium",
+   "version": "2.3.4",
+   "display": "Botarium"
+  },
+  {
+   "file": "Bountiful-6.0.4+1.20.1-forge.jar",
+   "size": 502662,
+   "sha1": "3627112f17aeef9018d98883a2469e7f90afc3c4",
+   "modId": "bountiful",
+   "version": "6.0.4+1.20.1",
+   "display": "Bountiful"
+  },
+  {
+   "file": "BrewinAndChewin-1.20.1-3.2.1.jar",
+   "size": 1206255,
+   "sha1": "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9",
+   "modId": "brewinandchewin",
+   "version": "1.20.1-3.2.1",
+   "display": "Brewin' And Chewin'"
+  },
+  {
+   "file": "butchercraft-2.4.1.jar",
+   "size": 1900376,
+   "sha1": "3a15ca67da71138922f8503063eba6a143d36a65",
+   "modId": "butchercraft",
+   "version": "${file.jarVersion}",
+   "display": "Butchercraft"
+  },
+  {
+   "file": "byepregen-1.20.1-1.1.2.4-all.jar",
+   "size": 1325377,
+   "sha1": "f87d7131b10781f7159165d9d2a408ebc3881da2",
+   "modId": "byepregen",
+   "version": "1.1.2.4",
+   "display": "ByePregen"
+  },
+  {
+   "file": "caelus-forge-3.2.0+1.20.1.jar",
+   "size": 40125,
+   "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+   "modId": "caelus",
+   "version": "3.2.0+1.20.1",
+   "display": "Caelus API"
+  },
+  {
+   "file": "carryon-forge-1.20.1-2.1.2.7.jar",
+   "size": 439457,
+   "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+   "modId": "carryon",
+   "version": "${file.jarVersion}",
+   "display": "Carry On"
+  },
+  {
+   "file": "casualness_delight-1.20.1-0.4n.jar",
+   "size": 233593,
+   "sha1": "dff138d3d92f17383f599ee25b118a852a3710b5",
+   "modId": "casualness_delight",
+   "version": "1.20.1-0.4n",
+   "display": "Casualness Delight"
+  },
+  {
+   "file": "catalogue-forge-1.20.1-1.8.0.jar",
+   "size": 240394,
+   "sha1": "b8cc73db430fa6015671492d4332a65a8c2f5cae",
+   "modId": "catalogue",
+   "version": "1.8.0",
+   "display": "Catalogue"
+  },
+  {
+   "file": "Cave-Delight-1.20.1-2.0.1.jar",
+   "size": 395722,
+   "sha1": "d5c6f11d5f86ffa604de3564173d6ee658a0b39d",
+   "modId": "cavedelight",
+   "version": "${file.jarVersion}",
+   "display": "Cave Delight"
+  },
+  {
+   "file": "centralvintage-1.2.1.jar",
+   "size": 213620,
+   "sha1": "48897d34d8ee298c52c723c32d807ffb7a1ba9d4",
+   "modId": "centralvintage",
+   "version": "1.2.1",
+   "display": "Central Vintage"
+  },
+  {
+   "file": "certain_questing_additions-forge-1.1.6+mc1.20.1.jar",
+   "size": 1141408,
+   "sha1": "2e5dbd4e1eb668b468a1073eaccdea1716cfe4c9",
+   "modId": "certain_questing_additions",
+   "version": "1.1.6",
+   "display": "Certain Questing Additions"
+  },
+  {
+   "file": "charmofundying-forge-6.5.0+1.20.1.jar",
+   "size": 169487,
+   "sha1": "2afdc7f42b47384062012e54439c4aab90fb7063",
+   "modId": "charmofundying",
+   "version": "6.5.0+1.20.1",
+   "display": "Charm of Undying"
+  },
+  {
+   "file": "chat_heads-0.15.3-forge-1.20.jar",
+   "size": 722325,
+   "sha1": "5068015885175bee8f8829e74fb62feb97538b2e",
+   "modId": "chat_heads",
+   "version": "0.15.3",
+   "display": "Chat Heads"
+  },
+  {
+   "file": "chefsdelight-1.0.4-forge-1.20.1.jar",
+   "size": 98303,
+   "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
+   "modId": "chefsdelight",
+   "version": "${file.jarVersion}",
+   "display": "Chefs Delight"
+  },
+  {
+   "file": "citadel-2.6.3-1.20.1.jar",
+   "size": 3185275,
+   "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+   "modId": "citadel",
+   "version": "2.6.3",
+   "display": "Citadel"
+  },
+  {
+   "file": "cloth-config-11.1.136-forge.jar",
+   "size": 1181413,
+   "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+   "modId": "cloth_config",
+   "version": "11.1.136",
+   "display": "Cloth Config v10 API"
+  },
+  {
+   "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+   "size": 20299,
+   "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+   "modId": "clumps",
+   "version": "${file.jarVersion}",
+   "display": "Clumps"
+  },
+  {
+   "file": "cmpackagecouriers-forge-2.2.2.jar",
+   "size": 280324,
+   "sha1": "b60cb1652facb50dd65f8dbdff8c48a4a457d32f",
+   "modId": "cmpackagecouriers",
+   "version": "2.2.2",
+   "display": "Create More: Package Couriers"
+  },
+  {
+   "file": "cmparallelpipes-forge-2.0.3.jar",
+   "size": 30815,
+   "sha1": "dc08fe70aca4a3827982017455e68a4be37a75d5",
+   "modId": "cmparallelpipes",
+   "version": "2.0.3",
+   "display": "Create More: Parallel Pipes"
+  },
+  {
+   "file": "CobbleForDays-1.8.0.jar",
+   "size": 43309,
+   "sha1": "8c683b5a8205544af762ed0c74371e1b76367341",
+   "modId": "cobblefordays",
+   "version": "${file.jarVersion}",
+   "display": "Cobble For Days"
+  },
+  {
+   "file": "cobweb-forge-1.20.1-1.0.1.jar",
+   "size": 87042,
+   "sha1": "607bbb82656d28ddfaa5ef2ec6e9c413859f5956",
+   "modId": "cobweb",
+   "version": "1.0.1",
+   "display": "Cobweb"
+  },
+  {
+   "file": "collections_of_optimizations-2.7-all.jar",
+   "size": 1277522,
+   "sha1": "4a5bc5404102b3aef464b9cb7ec89aeb9dfa8efd",
+   "modId": "collections_of_optimizations",
+   "version": "2.7",
+   "display": "Collections Of Optimizations"
+  },
+  {
+   "file": "collectorsreap-1.20.1-1.5.5.jar",
+   "size": 1547312,
+   "sha1": "e61d0b93ecfb809fe0afce09e4181e201c35b981",
+   "modId": "collectorsreap",
+   "version": "${file.jarVersion}",
+   "display": "Collector's Reap"
+  },
+  {
+   "file": "colorfulhearts-forge-1.20.1-4.3.16.jar",
+   "size": 122868,
+   "sha1": "840036c824edfe6e155f4488337e5f5aec26a17f",
+   "modId": "colorfulhearts",
+   "version": "4.3.16",
+   "display": "Colorful Hearts"
+  },
+  {
+   "file": "colorwheel-forge-1.3.2-mc1.20.1.jar",
+   "size": 1143606,
+   "sha1": "266c1394b56251c4fd60b43dc2f8c3713e63deb1",
+   "modId": "colorwheel",
+   "version": "1.3.2+mc1.20.1",
+   "display": "Colorwheel"
+  },
+  {
+   "file": "colorwheel_patcher-forge-1.0.5+mc1.20.1.jar",
+   "size": 210838,
+   "sha1": "386458190144b431ac0a7151785bb639cdff2a62",
+   "modId": "colorwheel_patcher",
+   "version": "1.0.5+mc1.20.1",
+   "display": "Colorwheel Patcher"
+  },
+  {
+   "file": "comforts-forge-6.4.0+1.20.1.jar",
+   "size": 382083,
+   "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
+   "modId": "comforts",
+   "version": "6.4.0+1.20.1",
+   "display": "Comforts"
+  },
+  {
+   "file": "configured-forge-1.20.1-2.2.3.jar",
+   "size": 418929,
+   "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+   "modId": "configured",
+   "version": "2.2.3",
+   "display": "Configured"
+  },
+  {
+   "file": "constructionwand-1.20.1-2.11.jar",
+   "size": 210312,
+   "sha1": "80bd5223cd8984dc1038cb9f2d1cb6b97f31998a",
+   "modId": "constructionwand",
+   "version": "${file.jarVersion}",
+   "display": "Construction Wand"
+  },
+  {
+   "file": "Controlling-forge-1.20.1-12.0.2.jar",
+   "size": 115280,
+   "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+   "modId": "controlling",
+   "version": "${file.jarVersion}",
+   "display": "Controlling"
+  },
+  {
+   "file": "copycats-3.0.7+mc.1.20.1-forge.jar",
+   "size": 1996097,
+   "sha1": "5d0f497695fc2ee4ef89f1898458882b9d2d3aad",
+   "modId": "copycats",
+   "version": "3.0.7+mc.1.20.1-forge",
+   "display": "Create: Copycats+"
+  },
+  {
+   "file": "corn_delight-1.2.11-1.20.1.jar",
+   "size": 177556,
+   "sha1": "9a4d595db7dac51f0d6c4b60b568cf6b2f89a3ab",
+   "modId": "corn_delight",
+   "version": "${file.jarVersion}",
+   "display": "Corn Delight"
+  },
+  {
+   "file": "coroutil-forge-1.20.1-1.3.7.jar",
+   "size": 64187,
+   "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+   "modId": "coroutil",
+   "version": "1.20.1-1.3.7",
+   "display": "CoroUtil"
+  },
+  {
+   "file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+   "size": 88752,
+   "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+   "modId": "cosmeticarmorreworked",
+   "version": "1.20.1-v1a",
+   "display": "CosmeticArmorReworked"
+  },
+  {
+   "file": "cosmopolitan-1.20.1-1.5.3.jar",
+   "size": 3012767,
+   "sha1": "50915b73cd3dcc586761313093c27a1a1e8a984e",
+   "modId": "cosmopolitan",
+   "version": "1.5.3",
+   "display": "Cosmopolitan"
+  },
+  {
+   "file": "crabbersdelight-1.20.1-1.2.3.jar",
+   "size": 616366,
+   "sha1": "a625f5b0e377597f7c884768ea8b9d0a81206831",
+   "modId": "crabbersdelight",
+   "version": "1.2.3",
+   "display": "Crabber's Delight"
+  },
+  {
+   "file": "CrashAssistant-forge-1.19-1.20.1-1.11.11.jar",
+   "size": 3207967,
+   "sha1": "21f7ceaae8a5bca268ef98063db69a46dde6fd5e",
+   "modId": "crash_assistant",
+   "version": "1.11.11",
+   "display": "Crash Assistant"
+  },
+  {
+   "file": "cratedelight-26.07.01-1.20-forge.jar",
+   "size": 197124,
+   "sha1": "50d653951c28d99cc3176be045476637825871f1",
+   "modId": "cratedelight",
+   "version": "26.07.01-1.20-forge",
+   "display": "Crate Delight"
+  },
+  {
+   "file": "Create More Recipes-1.20.1-1.2.1-fix1.jar",
+   "size": 740494,
+   "sha1": "2d9e267499261d1f3d0aaed965c96f8841dab79a",
+   "modId": "cmr",
+   "version": "1.2.1-fix1",
+   "display": "Create More Recipes"
+  },
+  {
+   "file": "create-1.20.1-6.0.8.jar",
+   "size": 19170905,
+   "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+   "modId": "create",
+   "version": "6.0.8",
+   "display": "Create"
+  },
+  {
+   "file": "Create-Better-Storages-Forge-1.20.1-1.0b.Release.jar",
+   "size": 955541,
+   "sha1": "7d33798500f3a78e47ee2c2f75dde7c0816c6db8",
+   "modId": "create_bs",
+   "version": "${file.jarVersion}",
+   "display": "Create: Better Storages"
+  },
+  {
+   "file": "create-confectionery1.20.1_v1.1.3.jar",
+   "size": 2140544,
+   "sha1": "0c9d9bf97c3eae00d45f71c1132c09c27c7c3353",
+   "modId": "create_confectionery",
+   "version": "1.1.3",
+   "display": "Create Confectionery"
+  },
+  {
+   "file": "Create-Delight-Core-1.20.1-2.2.16j.jar",
+   "size": 51134009,
+   "sha1": "c0227e5bcb77492267efde7ddf563aa91bc4b294",
+   "modId": "createdelightcore",
+   "version": "2.2.16j",
+   "display": "Create Delight Core"
+  },
+  {
+   "file": "create-enchantment-industry-2.5.4.jar",
+   "size": 1653475,
+   "sha1": "6b6129812bbcffc12f1a7d253f0413664576e1b6",
+   "modId": "create_enchantment_industry",
+   "version": "2.5.4",
+   "display": "Create: Enchantment Industry"
+  },
+  {
+   "file": "create-integrated-farming-1.4.3.2-1.20.1.jar",
+   "size": 921602,
+   "sha1": "a90994b33155829af64f999051d1920e6326aa56",
+   "modId": "create_integrated_farming",
+   "version": "1.4.3.2-1.20.1",
+   "display": "Create: Integrated Farming"
+  },
+  {
+   "file": "create-new-age-1.2.0+forge-mc1.20.1.jar",
+   "size": 1206077,
+   "sha1": "d84322b22219888a55ad0520150ad3ef784d208a",
+   "modId": "create_new_age",
+   "version": "1.2.0+mc1.20.1",
+   "display": "Create: New Age"
+  },
+  {
+   "file": "create-stuff-additions1.20.1_v2.1.2.jar",
+   "size": 1358197,
+   "sha1": "8c0bd41a7e97ade5342af72b35cc60242fe0cb45",
+   "modId": "create_sa",
+   "version": "2.1.2",
+   "display": "Create Stuff 'N Additions"
+  },
+  {
+   "file": "Create-Utilities-J-1.20.1-0.3.3.jar",
+   "size": 365426,
+   "sha1": "40403c0313e9346975504df9b03c372a6796e292",
+   "modId": "createutilities",
+   "version": "0.3.3",
+   "display": "Create Utilities J"
+  },
+  {
+   "file": "createaddition-1.20.1-1.3.3.jar",
+   "size": 1577313,
+   "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12",
+   "modId": "createaddition",
+   "version": "${file.jarVersion}",
+   "display": "Create Crafts & Additions"
+  },
+  {
+   "file": "createadditionallogistics-1.20.1-1.4.5.jar",
+   "size": 948490,
+   "sha1": "8d6aef17ded372c2ef66dcc5e5cfc5edda8c53a9",
+   "modId": "createadditionallogistics",
+   "version": "1.4.5",
+   "display": "Create: Additional Logistics"
+  },
+  {
+   "file": "createbetterfps-1.20.1-1.1.2.jar",
+   "size": 25214,
+   "sha1": "e3906e1b5cc33ad9ff930fc65b316564a3059fbf",
+   "modId": "createbetterfps",
+   "version": "1.1.2",
+   "display": "CreateBetterFps"
+  },
+  {
+   "file": "createbicbit-forge-1.20.1-1.0.2B.jar",
+   "size": 403787,
+   "sha1": "f6061d383ac226b7f3d1d08eab914ecabe35e274",
+   "modId": "create_bic_bit",
+   "version": "1.0.2B",
+   "display": "Create Bitterballen"
+  },
+  {
+   "file": "createbiggerstoragetocreate6-1.1.jar",
+   "size": 36664,
+   "sha1": "a522778fea454b93c20888876118baf6156c7fb3",
+   "modId": "createbiggerstoragetocreate6",
+   "version": "1.1",
+   "display": "CreateBiggerStorageToCreate6"
+  },
+  {
+   "file": "createcafe-1.3-1.20.1.jar",
+   "size": 385400,
+   "sha1": "7e3070e7793143e36144792d46a9475dc1ede8ce",
+   "modId": "createcafe",
+   "version": "${file.jarVersion}",
+   "display": "Create Cafe"
+  },
+  {
+   "file": "CreateCyberGoggles-1.20.1-7.2.2-Forge.jar",
+   "size": 393839,
+   "sha1": "77de5346fd2f619523995232d4b0fd45fa05dfbf",
+   "modId": "create_cyber_goggles",
+   "version": "7.2.2",
+   "display": "Create: Cyber Goggles"
+  },
+  {
+   "file": "createdeco-2.0.3-1.20.1-forge.jar",
+   "size": 3509013,
+   "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+   "modId": "createdeco",
+   "version": "2.0.3-1.20.1-forge",
+   "display": "Create Deco"
+  },
+  {
+   "file": "createdieselgenerators-1.20.1-1.3.12.jar",
+   "size": 3128610,
+   "sha1": "416ea3d5c1190246369bbcfa32e5e86597402264",
+   "modId": "createdieselgenerators",
+   "version": "1.20.1-1.3.12",
+   "display": "Create: Diesel Generators"
+  },
+  {
+   "file": "CreateDragonsPlus-1.11.9.jar",
+   "size": 988334,
+   "sha1": "cb249347ad15914619a81371b4cfa35f74f575ed",
+   "modId": "create_dragons_plus",
+   "version": "1.11.9",
+   "display": "Create: Dragons Plus"
+  },
+  {
+   "file": "createfactorycontroller-1.1.1-forge-1.20.1.jar",
+   "size": 1745998,
+   "sha1": "9a6e9ec62b8b8e0482519438e437a1276734f1e6",
+   "modId": "createfactorycontroller",
+   "version": "1.1.1-forge-1.20.1",
+   "display": "Create: Factory Controller"
+  },
+  {
+   "file": "CreateFastSchematicCannon-1.4.1-6.0.x-forge-1.20.1.jar",
+   "size": 74627,
+   "sha1": "1d756768cb93ede4b523f44639e9347be86cf514",
+   "modId": "createfastschematiccannon",
+   "version": "1.4.1-6.0.x",
+   "display": "Create: Fast Schematic Cannon"
+  },
+  {
+   "file": "createfluidstuffs-1.2.1-all.jar",
+   "size": 171447,
+   "sha1": "678a36614cc92cb13031964b2770a1c32bd015f7",
+   "modId": "createfluidstuffs",
+   "version": "1.2.1",
+   "display": "CreateFluidStuffs"
+  },
+  {
+   "file": "createidlx-1.20.1-1.3.jar",
+   "size": 826458,
+   "sha1": "c7a8da0f7b5b8a0f9f37ce6866aed333698708e2",
+   "modId": "createidlx",
+   "version": "1.3",
+   "display": "Create: Improved Display Link Experience"
+  },
+  {
+   "file": "CreateLazyTick-2.6.25-6.0.x-forge-1.20.1.jar",
+   "size": 436066,
+   "sha1": "bbc330fc2b5ae0bdf0d28d30a85b867f35dc9e0e",
+   "modId": "createlazytick",
+   "version": "2.6.25-6.0.x",
+   "display": "Create:Lazy Tick"
+  },
+  {
+   "file": "createliquidfuel-2.1.1-1.20.1.jar",
+   "size": 20245,
+   "sha1": "d216cf52735f8e4d3594943139599f6b0b20b8cf",
+   "modId": "createliquidfuel",
+   "version": "2.1.1-1.20.1",
+   "display": "Create Liquid Fuel"
+  },
+  {
+   "file": "createmetallurgy-1.0.1-1.20.1.jar",
+   "size": 2644154,
+   "sha1": "f265469612ed8a194f9974733e0e735b0e6539bd",
+   "modId": "createmetallurgy",
+   "version": "${file.jarVersion}",
+   "display": "Create: Metallurgy"
+  },
+  {
+   "file": "createoreexcavation-1.20-1.6.5.jar",
+   "size": 432699,
+   "sha1": "ef135e6124a7c8bb04a6cf8ef3d3680de4f44425",
+   "modId": "createoreexcavation",
+   "version": "${file.jarVersion}",
+   "display": "Create Ore Excavation"
+  },
+  {
+   "file": "createprism-1.20-1.1.0.jar",
+   "size": 1292186,
+   "sha1": "ad6979e00bec3dc35408b6b3a63b77cba8e1a6db",
+   "modId": "createprism",
+   "version": "1.0.1",
+   "display": "Create Prismatic Shine"
+  },
+  {
+   "file": "createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6+2.jar",
+   "size": 2027070,
+   "sha1": "6d9ce57cc078eaca80c3d0839a03030669782f24",
+   "modId": "createrailwaysnavigator",
+   "version": "1.20.1-alpha-0.9.0-C6",
+   "display": "Create Railways Navigator"
+  },
+  {
+   "file": "createredstonelinkgui-1.20.1-1.9.1.jar",
+   "size": 268585,
+   "sha1": "76c12e7dfea5494e84f3a0b3acad007361deec9d",
+   "modId": "createredstonelinkgui",
+   "version": "1.20.1-1.9.1",
+   "display": "Create: Redstone Link GUI"
+  },
+  {
+   "file": "createsolar-1.2.6-1.20.1.jar",
+   "size": 185150,
+   "sha1": "67d8626bb748ac72c8f2a27ec9771d740598d3ef",
+   "modId": "createsolar",
+   "version": "1.2.6-1.20.1",
+   "display": "Create: Solar Powered"
+  },
+  {
+   "file": "createstockbridge-1.20-0.2.0.jar",
+   "size": 177483,
+   "sha1": "fa7f118552646b9bbd5c9ec103e90fa0ee282d46",
+   "modId": "createstockbridge",
+   "version": "${file.jarVersion}",
+   "display": "Create Stock Bridge"
+  },
+  {
+   "file": "createtransmission-1.2.1+forge-create6-1.20.1.jar",
+   "size": 880917,
+   "sha1": "8e1e41c92f70712b0600358543537494166b43f6",
+   "modId": "createtransmission",
+   "version": "1.2.1+forge-create6-1.20.1",
+   "display": "Create: Transmission"
+  },
+  {
+   "file": "createultimine-1.20.1-forge-1.3.1.jar",
+   "size": 91048,
+   "sha1": "c996c739fee62e23895420e8212adae574160101",
+   "modId": "createultimine",
+   "version": "1.3.1",
+   "display": "Create Ultimine"
+  },
+  {
+   "file": "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+   "size": 835363,
+   "sha1": "bb724b37b191f6bcbe1e6bc395742e50352e8dbc",
+   "modId": "create_central_kitchen",
+   "version": "${file.jarVersion}",
+   "display": "Create: Central Kitchen"
+  },
+  {
+   "file": "create_compatible_storage-2.11.0-all.jar",
+   "size": 773532,
+   "sha1": "dfb7ebded77010d37705a8e58d238ea419f54cb6",
+   "modId": "create_compatible_storage",
+   "version": "2.11.0",
+   "display": "Create: Compatible Storage"
+  },
+  {
+   "file": "create_connected-1.2.3-mc1.20.1-all.jar",
+   "size": 6791072,
+   "sha1": "98b4a41c452476496713df16ce4d52fc9f476508",
+   "modId": "create_connected",
+   "version": "1.2.3-mc1.20.1",
+   "display": "Create: Connected"
+  },
+  {
+   "file": "create_deepfried-forge-1.20.1-0.1.3C.jar",
+   "size": 99455,
+   "sha1": "cfcbffe1caa32d9296b90e29845cf6a1b9fe8805",
+   "modId": "create_deepfried",
+   "version": "0.1.3C",
+   "display": "Create: Deepfried"
+  },
+  {
+   "file": "create_enhanced_schematicannon-1.0.5-fork.jar",
+   "size": 167338,
+   "sha1": "4fd171fb06494a420622a707160424489d99e69a",
+   "modId": "create_enhanced_schematicannon",
+   "version": "1.0.5-fork",
+   "display": "Create: Enhanced Schematicannon (Unofficial Fixed Fork)"
+  },
+  {
+   "file": "create_fantasizing-1.20.1-1.1.1.jar",
+   "size": 390468,
+   "sha1": "f6ba4213d2e269a0d3665a2629962c0d8b8b44ce",
+   "modId": "create_fantasizing",
+   "version": "1.1.1",
+   "display": "Create: Fantasizing Again"
+  },
+  {
+   "file": "create_jetpack-forge-4.4.6.jar",
+   "size": 638327,
+   "sha1": "066572eef380c5d3d34138110cf0c70c55c487bd",
+   "modId": "create_jetpack",
+   "version": "4.4.6",
+   "display": "Create Jetpack"
+  },
+  {
+   "file": "create_jetpack_curios-1.2.0-forge-1.20.1.jar",
+   "size": 420049,
+   "sha1": "0aab00450801572cd81fdf3d30221bfc4827a9dc",
+   "modId": "create_jetpack_curios",
+   "version": "1.2.0",
+   "display": "Create: Jetpack Curios"
+  },
+  {
+   "file": "create_mob_spawners-1.20.1-3.3.0.jar",
+   "size": 257441,
+   "sha1": "2dff8788d8f601a6e9da5f6ebb5a2c7f58d296ec",
+   "modId": "create_mob_spawners",
+   "version": "3.3.0",
+   "display": "Create: Mob Spawners"
+  },
+  {
+   "file": "create_oppenheimered-1.0.5.jar",
+   "size": 40540,
+   "sha1": "64f6342985f5dfc7810f5d717707174eef0a32dd",
+   "modId": "create_oppenheimered",
+   "version": "1.0.5",
+   "display": "Create: Oppenheimered"
+  },
+  {
+   "file": "create_pattern_schematics-1.3.3.jar",
+   "size": 220784,
+   "sha1": "54ad9320a644dbcde87118e82a6dfcc81cd4757b",
+   "modId": "create_pattern_schematics",
+   "version": "1.3.3",
+   "display": "Create: Pattern Schematics"
+  },
+  {
+   "file": "create_ratatouille-1.20.1-1.3.8.jar",
+   "size": 915944,
+   "sha1": "824c177c826d01af485ceaa5aa73e3eedccecef7",
+   "modId": "ratatouille",
+   "version": "1.3.8",
+   "display": "Ratatouille"
+  },
+  {
+   "file": "create_rustic_structures-1.0.0-forge-1.20.1.jar",
+   "size": 709658,
+   "sha1": "591ffb312ba9da52a8554ef7f9377b49432db7f0",
+   "modId": "create_rustic_structures",
+   "version": "1.0.0",
+   "display": "Create: Rustic Structures"
+  },
+  {
+   "file": "create_structures_arise-176.49.48 Forge 1.20.1.jar",
+   "size": 1823172,
+   "sha1": "99d07d4eccc65b634ca3f11f87b7d47017f4d4df",
+   "modId": "create_structures_arise",
+   "version": "176.49.48",
+   "display": "Create: Structures Arise"
+  },
+  {
+   "file": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+   "size": 1143788,
+   "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294",
+   "modId": "creativecore",
+   "version": "2.12.35",
+   "display": "CreativeCore"
+  },
+  {
+   "file": "creeperoverhaul-3.0.2-forge.jar",
+   "size": 1456860,
+   "sha1": "01e3275d3eb586c953ac786b1afee6e473eef947",
+   "modId": "creeperoverhaul",
+   "version": "3.0.2",
+   "display": "Creeper Overhaul"
+  },
+  {
+   "file": "cristellib-1.1.6-forge.jar",
+   "size": 431318,
+   "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+   "modId": "cristellib",
+   "version": "1.1.6",
+   "display": "Cristel Lib"
+  },
+  {
+   "file": "cuisinedelight-1.1.20.jar",
+   "size": 865248,
+   "sha1": "c4d91f01a20f346b892ba454c722b65ab0a6b832",
+   "modId": "cuisinedelight",
+   "version": "${file.jarVersion}",
+   "display": "Cuisine Delight"
+  },
+  {
+   "file": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+   "size": 22474,
+   "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
+   "modId": "culllessleaves",
+   "version": "${file.jarVersion}",
+   "display": "Cull Less Leaves Reforged"
+  },
+  {
+   "file": "culturaldelights-0.16.7.jar",
+   "size": 267386,
+   "sha1": "20288317274a146267a0cc8c19dcc8898cb71c0a",
+   "modId": "culturaldelights",
+   "version": "0.16.6",
+   "display": "Cultural Delights"
+  },
+  {
+   "file": "curios-forge-5.14.1+1.20.1.jar",
+   "size": 398066,
+   "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+   "modId": "curios",
+   "version": "${file.jarVersion}",
+   "display": "Curios API"
+  },
+  {
+   "file": "curiouslanterns-1.20.1-1.3.7.jar",
+   "size": 35886,
+   "sha1": "072677d8205e108b69074baa032f62668ad6edb6",
+   "modId": "curiouslanterns",
+   "version": "${file.jarVersion}",
+   "display": "Curious Lanterns"
+  },
+  {
+   "file": "customportalapi-1.0.1-forge-1.20.1.jar",
+   "size": 126626,
+   "sha1": "1d8d21d5853de0a2940c1a0fee83a1ef29bcaf7c",
+   "modId": "customportalapi",
+   "version": "0.0.1-beta1-1.20",
+   "display": "Custom Portal Api [Forge]"
+  },
+  {
+   "file": "CustomSkinLoader_ForgeV2-14.28.jar",
+   "size": 153877,
+   "sha1": "c7e87169bd8b59a9414620dd0fd63ca5a17c235d",
+   "modId": "customskinloader",
+   "version": "14.28",
+   "display": "CustomSkinLoader"
+  },
+  {
+   "file": "displaydelight-1.7.0.jar",
+   "size": 1163304,
+   "sha1": "ee5cd8126ec4053a6a50ae1f2af434b91ab6d42e",
+   "modId": "displaydelight",
+   "version": "1.7.0",
+   "display": "Display Delight"
+  },
+  {
+   "file": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+   "size": 2608767,
+   "sha1": "e0fce7d5c41221db91a63bc782d15d2525be2c4c",
+   "modId": "dragonlib",
+   "version": "1.20.1-beta-3.0.24",
+   "display": "DragonLib"
+  },
+  {
+   "file": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+   "size": 14210380,
+   "sha1": "26be5d33ff11263476fdff781b48a13208b22fa1",
+   "modId": "dramaticdoors",
+   "version": "1.20.1-3.3.3",
+   "display": "Dramatic Doors"
+  },
+  {
+   "file": "dreadsteel-1.20.1-1.2.0.jar",
+   "size": 250526,
+   "sha1": "0c59be8bffb58c8fce79e1f214f4b7817a9571f9",
+   "modId": "dreadsteel",
+   "version": "1.20.1-1.2.0",
+   "display": "Dreadsteel"
+  },
+  {
+   "file": "drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
+   "size": 287611,
+   "sha1": "0f4fe368d76572f2af563b90fafea7d75c007d22",
+   "modId": "drippyloadingscreen",
+   "version": "3.1.2",
+   "display": "Drippy Loading Screen"
+  },
+  {
+   "file": "dsbg-1.0-1.20.1.jar",
+   "size": 273328,
+   "sha1": "349a91654be8df6af5a19b02c7bb47758c09bac4",
+   "modId": "dsbg",
+   "version": "1.0-1.20.1",
+   "display": "Detected setBlock Be Gone"
+  },
+  {
+   "file": "dummmmmmy-1.20-2.0.12-forge.jar",
+   "size": 839685,
+   "sha1": "3b6da54436955ea2ca6e8891ef69d0f6621ab878",
+   "modId": "dummmmmmy",
+   "version": "1.20-2.0.11",
+   "display": "MmmMmmMmmMmm"
+  },
+  {
+   "file": "Dumplings Delight-1.20.1-Forge-1.3.2.jar",
+   "size": 305569,
+   "sha1": "5e2e4cb2ed140f27c5a07daea0ec0881ae3b5327",
+   "modId": "dumplings_delight",
+   "version": "1.3.2",
+   "display": "DumplingsDelight"
+  },
+  {
+   "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+   "size": 402345,
+   "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
+   "modId": "dynamic_fps",
+   "version": "3.11.4",
+   "display": "Dynamic FPS"
+  },
+  {
+   "file": "dynamiccrosshair-9.10+1.20.1-forge.jar",
+   "size": 879924,
+   "sha1": "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4",
+   "modId": "dynamiccrosshair",
+   "version": "9.10",
+   "display": "Dynamic Crosshair"
+  },
+  {
+   "file": "EclipticSeasons-1.20.1-forge-0.13.8.1-all.jar",
+   "size": 10012569,
+   "sha1": "874f00c1c5b7f4c13a7817d879c218de53f8b327",
+   "modId": "eclipticseasons",
+   "version": "0.13.8.1",
+   "display": "Ecliptic Seasons"
+  },
+  {
+   "file": "ElysiumAPI-1.20.1-1.1.3.jar",
+   "size": 107624,
+   "sha1": "2ef237d14ea228118daf2e20827bb45abb92b02a",
+   "modId": "elysium_api",
+   "version": "1.1.3",
+   "display": "Elysium"
+  },
+  {
+   "file": "elytraslot-forge-6.4.4+1.20.1.jar",
+   "size": 100660,
+   "sha1": "f11443ef3371fa790eb33cba1a517638a3afcb07",
+   "modId": "elytraslot",
+   "version": "6.4.4+1.20.1",
+   "display": "Elytra Slot"
+  },
+  {
+   "file": "embeddium-0.3.31+mc1.20.1.jar",
+   "size": 1320675,
+   "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+   "modId": "embeddium",
+   "version": "0.3.31+mc1.20.1",
+   "display": "Embeddium"
+  },
+  {
+   "file": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+   "size": 66883,
+   "sha1": "0328a8350cf0a6d1c44265367a077649088b354b",
+   "modId": "enchdesc",
+   "version": "17.1.21",
+   "display": "EnchantmentDescriptions"
+  },
+  {
+   "file": "endergetic-1.20.1-5.0.1.jar",
+   "size": 15611923,
+   "sha1": "6b555cbb2582c2580a9ac646abd5da2b4449837c",
+   "modId": "endergetic",
+   "version": "${file.jarVersion}",
+   "display": "The Endergetic Expansion"
+  },
+  {
+   "file": "ends_delight-2.6+forge.1.20.1.jar",
+   "size": 273137,
+   "sha1": "8ed36246049dfca6a1c09bbc45db9a14f26fc531",
+   "modId": "ends_delight",
+   "version": "2.6+forge.1.20.1",
+   "display": "End's Delight"
+  },
+  {
+   "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+   "size": 254629,
+   "sha1": "8a709553a1eb98792b5db787dc57d132bc5b3971",
+   "modId": "enhanced_boss_bars",
+   "version": "1.20.1-1.0.0",
+   "display": "Enhanced Boss Bars"
+  },
+  {
+   "file": "entityculling-forge-1.10.5-mc1.20.1.jar",
+   "size": 1590221,
+   "sha1": "b818f6d792b79f4ec116c89704e70292bd6f72b5",
+   "modId": "entityculling",
+   "version": "1.10.5",
+   "display": "EntityCulling"
+  },
+  {
+   "file": "EuphoriaPatcher-1.10.5-r5.9.3-forge.jar",
+   "size": 4523023,
+   "sha1": "66c44811b2972871aa6855b89c45e05d509efed9",
+   "modId": "euphoria_patcher",
+   "version": "1.10.5-r5.9.3-forge",
+   "display": "Euphoria Patcher"
+  },
+  {
+   "file": "ExplorersCompass-1.20.1-1.4.0-forge.jar",
+   "size": 174387,
+   "sha1": "23b7544ab3ebd1ab9c88255434ff9dc7f217766b",
+   "modId": "explorerscompass",
+   "version": "1.20.1-1.4.0-forge",
+   "display": "Explorer's Compass"
+  },
+  {
+   "file": "ExtendedAE-1.20-1.4.18-forge.jar",
+   "size": 2970488,
+   "sha1": "f36e46b4059dca8e2cfb6a6a126bf5ea85696ce3",
+   "modId": "expatternprovider",
+   "version": "1.20-1.4.18-forge",
+   "display": "ExtendedAE"
+  },
+  {
+   "file": "extendedae_plus-1.5.5.jar",
+   "size": 1300112,
+   "sha1": "c38038f8d588ba0e7854ea7f6067a293f27e1529",
+   "modId": "extendedae_plus",
+   "version": "1.5.5",
+   "display": "ExtendedAE Plus"
+  },
+  {
+   "file": "extra_gauges-2.0.7.jar",
+   "size": 1029438,
+   "sha1": "6f3331cc877bfaf15bb58723ff3129fc3207d296",
+   "modId": "extra_gauges",
+   "version": "2.0.7",
+   "display": "Create: Extra Gauges"
+  },
+  {
+   "file": "fancymenu_forge_3.9.8_MC_1.20.1.jar",
+   "size": 25772373,
+   "sha1": "38d9f5c56d5d2075264e3997b534b4709026088b",
+   "modId": "fancymenu",
+   "version": "3.9.8",
+   "display": "FancyMenu"
+  },
+  {
+   "file": "FarmersDelight-1.20.1-1.3.2.jar",
+   "size": 3313327,
+   "sha1": "397763ae36dc2e0f526e0338c875850437580157",
+   "modId": "farmersdelight",
+   "version": "1.20.1-1.3.2",
+   "display": "Farmer's Delight"
+  },
+  {
+   "file": "farmersrespite-1.20.1-2.1.2.jar",
+   "size": 537307,
+   "sha1": "9ae5bc246cb1a8f3573ab685a4e9ddfaf869e2de",
+   "modId": "farmersrespite",
+   "version": "1.20.1-2.1",
+   "display": "Farmer's Respite"
+  },
+  {
+   "file": "fastboot-1.20.x-1.2.jar",
+   "size": 24477,
+   "sha1": "0820d6611bdf664cc84bf351089e75998a9f1962",
+   "modId": "fastboot",
+   "version": "1.2",
+   "display": "FastBoot"
+  },
+  {
+   "file": "fastrecipesearch-1.20.1-26.1-forge.jar",
+   "size": 64093,
+   "sha1": "c8d16bc9c71397593cdc1421744479e4303ab9a7",
+   "modId": "fastrecipesearch",
+   "version": "1.20.1-26.1-forge",
+   "display": "Fast Recipe Search"
+  },
+  {
+   "file": "ferritecore-6.0.1-forge.jar",
+   "size": 123034,
+   "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+   "modId": "ferritecore",
+   "version": "${file.jarVersion}",
+   "display": "Ferrite Core"
+  },
+  {
+   "file": "festival_delicacies-2.0.0-beta+forge.1.20.1.jar",
+   "size": 713564,
+   "sha1": "8c8ecdb6f3d31ac6cde89bb6dc649baf8bbb0b21",
+   "modId": "festival_delicacies",
+   "version": "2.0.0-beta+forge.1.20.1",
+   "display": "Festival Delicacies"
+  },
+  {
+   "file": "flerovium-forge-1.20.1-1.2.19-all.jar",
+   "size": 254081,
+   "sha1": "6f1536b97ce65a4a0fba2887aa2b1fa46be252b7",
+   "modId": "flerovium",
+   "version": "1.2.19",
+   "display": "Flerovium"
+  },
+  {
+   "file": "fluidlogistics-1.2.7.jar",
+   "size": 2874123,
+   "sha1": "7668fd28d42c54c33b216fd2ec0d157ac85823cc",
+   "modId": "fluidlogistics",
+   "version": "1.2.7",
+   "display": "Create FluidLogistics "
+  },
+  {
+   "file": "forge-dungeonsdelight-1.20.1-1.3.0.jar",
+   "size": 1841280,
+   "sha1": "3db7f78549f86e40d8f860330b88a57de4a3bdd6",
+   "modId": "dungeonsdelight",
+   "version": "1.3.0",
+   "display": "Dungeon's Delight"
+  },
+  {
+   "file": "forge-runiclib-1.20.1-4.3.11.jar",
+   "size": 341197,
+   "sha1": "9836761860cbf91c3f2c9e71afd252111084bceb",
+   "modId": "runiclib",
+   "version": "4.3.11",
+   "display": "RunicLib"
+  },
+  {
+   "file": "fragmentum-forge-1.20.1-1.3.0.jar",
+   "size": 2733846,
+   "sha1": "4d3c7ff7d0281713b92506dc4e4a358c549d3cf1",
+   "modId": "fragmentum",
+   "version": "1.3.0",
+   "display": "Fragmentum"
+  },
+  {
+   "file": "framework-forge-1.20.1-0.8.0.jar",
+   "size": 383868,
+   "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+   "modId": "framework",
+   "version": "0.8.0",
+   "display": "Framework"
+  },
+  {
+   "file": "fruitsdelight-1.1.3.jar",
+   "size": 1895935,
+   "sha1": "15202c80ac12ef6a698847e140aabf04422c2b42",
+   "modId": "fruitsdelight",
+   "version": "${file.jarVersion}",
+   "display": "Fruits Delight"
+  },
+  {
+   "file": "frycooks_delight-1.20.1-1.0.1.jar",
+   "size": 234489,
+   "sha1": "bf86c4f0679dffe23cfb2d50f5b0669c8427d1ed",
+   "modId": "frycooks_delight",
+   "version": "${file.jarVersion}",
+   "display": "Frycook's Delight"
+  },
+  {
+   "file": "ftb-chunks-forge-2001.3.8.jar",
+   "size": 1159043,
+   "sha1": "ee2d0cdac6d2ca31f43da30f76dff8c6bae9d687",
+   "modId": "ftbchunks",
+   "version": "2001.3.8",
+   "display": "FTB Chunks"
+  },
+  {
+   "file": "ftb-essentials-forge-2001.2.4.jar",
+   "size": 157732,
+   "sha1": "4f898578e3cc321397dbc59a0c44e2927000bd32",
+   "modId": "ftbessentials",
+   "version": "2001.2.4",
+   "display": "FTB Essentials"
+  },
+  {
+   "file": "ftb-library-forge-2001.2.13.jar",
+   "size": 780558,
+   "sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e",
+   "modId": "ftblibrary",
+   "version": "2001.2.13",
+   "display": "FTB Library"
+  },
+  {
+   "file": "ftb-quests-forge-2001.4.22.jar",
+   "size": 1255469,
+   "sha1": "70f3bd771ab3b5921ce1ff5f14166fab694ca1aa",
+   "modId": "ftbquests",
+   "version": "2001.4.22",
+   "display": "FTB Quests"
+  },
+  {
+   "file": "ftb-ranks-forge-2001.1.7.jar",
+   "size": 87362,
+   "sha1": "1ef101b4c5991cc239d9b56a95500e3b404228f7",
+   "modId": "ftbranks",
+   "version": "2001.1.7",
+   "display": "FTB Ranks"
+  },
+  {
+   "file": "ftb-teams-forge-2001.3.2.jar",
+   "size": 252579,
+   "sha1": "c49023f5d471aa1ba7fc624d2565fe9e82b7117e",
+   "modId": "ftbteams",
+   "version": "2001.3.2",
+   "display": "FTB Teams"
+  },
+  {
+   "file": "ftb-ultimine-forge-2001.1.8.jar",
+   "size": 129653,
+   "sha1": "c2a1eb72c36ad067faafbff4e1618c4db906de74",
+   "modId": "ftbultimine",
+   "version": "2001.1.8",
+   "display": "FTB Ultimine"
+  },
+  {
+   "file": "ftb-xmod-compat-forge-2.1.3.jar",
+   "size": 129725,
+   "sha1": "0584f628d2bc6a612d79dee368324357ebae1423",
+   "modId": "ftbxmodcompat",
+   "version": "2.1.3",
+   "display": "FTB XMod Compat"
+  },
+  {
+   "file": "ftbquestlocalizer-1.20.1-forge-3.2.3.jar",
+   "size": 36983,
+   "sha1": "e1063dfa696ef42410e5b52b1340745a7dd141d5",
+   "modId": "ftbquestlocalizer",
+   "version": "3.2.3",
+   "display": "FTB Quests Localizer"
+  },
+  {
+   "file": "ftbxaerocompat-forge-1.1.3.jar",
+   "size": 737596,
+   "sha1": "8a3c74b6a5e285ec755097a76a97a469f2490726",
+   "modId": "ftbxaerocompat",
+   "version": "1.1.3",
+   "display": "FTB Chunks x Xaero's Map Compat"
+  },
+  {
+   "file": "functionalstorage-1.20.1-1.2.14.jar",
+   "size": 688625,
+   "sha1": "e651d29acc8f7d56c124a75afa6ff0d0ecea4854",
+   "modId": "functionalstorage",
+   "version": "${file.jarVersion}",
+   "display": "Functional Storage"
+  },
+  {
+   "file": "futurevillagertradesvisible-0.1.6+forge1.20.1.jar",
+   "size": 35514,
+   "sha1": "e3a9aebd8828ecbeb5a0c686fdfe10ed5fbc3b56",
+   "modId": "futurevillagertradesvisible",
+   "version": "0.1.6+forge1.20.1",
+   "display": "Future Villager Trades Visible"
+  },
+  {
+   "file": "GatewaysToEternity-1.20.1-4.2.6.jar",
+   "size": 632950,
+   "sha1": "ed2158bade0615c90d50474e2cbf0b32b5eeee61",
+   "modId": "gateways",
+   "version": "4.2.6",
+   "display": "Gateways To Eternity"
+  },
+  {
+   "file": "geckolib-forge-1.20.1-4.8.4.jar",
+   "size": 1038209,
+   "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+   "modId": "geckolib",
+   "version": "4.8.4",
+   "display": "GeckoLib 4"
+  },
+  {
+   "file": "Glodium-1.20-1.5-forge.jar",
+   "size": 60550,
+   "sha1": "c7534db3248adfcf39a6158b423dfc9bfc99a378",
+   "modId": "glodium",
+   "version": "1.20-1.5-forge",
+   "display": "Glodium"
+  },
+  {
+   "file": "guideme-20.1.15.jar",
+   "size": 9414827,
+   "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+   "modId": "guideme",
+   "version": "20.1.15",
+   "display": "GuideME"
+  },
+  {
+   "file": "Harium-mc1.20.1-2.0-pactched-v5.jar",
+   "size": 1473330,
+   "sha1": "775c2f5589833deed5131f4441d761f025e6d9fb",
+   "modId": "harium",
+   "version": "2.0",
+   "display": "Harium"
+  },
+  {
+   "file": "hotai-1.0.jar",
+   "size": 136754,
+   "sha1": "9526c49043b9f72997759869f2ad146d83b619fb",
+   "modId": "hotai",
+   "version": "1.0",
+   "display": "hotai"
+  },
+  {
+   "file": "iafdragonfix-2.0.0.jar",
+   "size": 23796,
+   "sha1": "2e6092a436b4e6c6920458e8e5458590196aeaca",
+   "modId": "iafdragonfix",
+   "version": "1.0.0",
+   "display": "IAF Dragon Den Fix"
+  },
+  {
+   "file": "IAS-Forge-1.20.1-9.0.0.jar",
+   "size": 312332,
+   "sha1": "e28ee7039a28bc008e55316bd490ebf42e9d2d17",
+   "modId": "ias",
+   "version": "9.0.0",
+   "display": "In-Game Account Switcher"
+  },
+  {
+   "file": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+   "size": 21854126,
+   "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
+   "modId": "iceandfire",
+   "version": "${file.jarVersion}",
+   "display": "Ice and Fire"
+  },
+  {
+   "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+   "size": 134551,
+   "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+   "modId": "iceberg",
+   "version": "${file.jarVersion}",
+   "display": "Iceberg"
+  },
+  {
+   "file": "Icterine-forge-1.20.0-1-1.3.0.jar",
+   "size": 38848,
+   "sha1": "55fde23d7602924ba4772d441fb5a78d562be238",
+   "modId": "icterine",
+   "version": "1.3.0",
+   "display": "Icterine"
+  },
+  {
+   "file": "idas_forge-1.13.0+1.20.1.jar",
+   "size": 14420114,
+   "sha1": "84386b55c1729e8fb62f91211d046fb6d7ef23d2",
+   "modId": "idas",
+   "version": "${file.jarVersion}",
+   "display": "Integrated Dungeons and Structures"
+  },
+  {
+   "file": "IMBlocker-5.5.4-forge+1.17-1.20.4.jar",
+   "size": 203201,
+   "sha1": "de1706f3a1e5adf9476457f40bb1901c5cb41879",
+   "modId": "imblocker",
+   "version": "5.5.4",
+   "display": "IMBlocker"
+  },
+  {
+   "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+   "size": 532063,
+   "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+   "modId": "immediatelyfast",
+   "version": "1.5.5+1.20.4",
+   "display": "ImmediatelyFast"
+  },
+  {
+   "file": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+   "size": 2428368,
+   "sha1": "64e6c792c5208005ee6b099e8fb7d2738873737d",
+   "modId": "immersive_aircraft",
+   "version": "1.4.0+1.20.1",
+   "display": "Immersive Aircraft"
+  },
+  {
+   "file": "immersive_paintings-0.6.11+1.20.1-forge.jar",
+   "size": 4855090,
+   "sha1": "99ffd1b03beb8a0ef362baf89cc25cc5c24afe14",
+   "modId": "immersive_paintings",
+   "version": "0.6.11+1.20.1",
+   "display": "Immersive Paintings"
+  },
+  {
+   "file": "improvedmobs-1.20.1-1.13.7-forge.jar",
+   "size": 335652,
+   "sha1": "88f2f837b5b218b8a4e04b09656568b90416af34",
+   "modId": "improvedmobs",
+   "version": "1.20.1-1.13.7",
+   "display": "Improved Mobs Mod"
+  },
+  {
+   "file": "Industrial Platform-1.20.1-1.8.0.jar",
+   "size": 108745,
+   "sha1": "5f291f96a2cb7001978529ab9944769ed1433af3",
+   "modId": "industrial_platform",
+   "version": "1.8.0",
+   "display": "Industrial Platform"
+  },
+  {
+   "file": "integrated_api-1.7.4+1.20.1-forge.jar",
+   "size": 704838,
+   "sha1": "e54517185ac84c521f9bc202107fdefc56a4171d",
+   "modId": "integrated_api",
+   "version": "1.7.4+1.20.1-forge",
+   "display": "Integrated API"
+  },
+  {
+   "file": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+   "size": 5079044,
+   "sha1": "d0092ae1bb847ef7baef59bfa0d6bba22d264b99",
+   "modId": "integrated_cataclysm",
+   "version": "${file.jarVersion}",
+   "display": "Integrated Cataclysm"
+  },
+  {
+   "file": "integrated_stronghold-1.1.2+1.20.1-forge.jar",
+   "size": 5254827,
+   "sha1": "4b6f25ef22bb14007493f378baf29f89b490ea34",
+   "modId": "integrated_stronghold",
+   "version": "1.1.2+1.20.1-forge",
+   "display": "Integrated Stronghold"
+  },
+  {
+   "file": "integrated_villages-1.3.2+1.20.1-forge.jar",
+   "size": 4665121,
+   "sha1": "d0b70444bb5312b1251a55756e9c21549419f9dd",
+   "modId": "integrated_villages",
+   "version": "1.3.2+1.20.1-forge",
+   "display": "Integrated Villages"
+  },
+  {
+   "file": "iris_shader_folder-1.3.3-forge.jar",
+   "size": 838571,
+   "sha1": "33135c8e3b288e7b6503b1b80893494ce7d0a8f0",
+   "modId": "iris_shader_folder",
+   "version": "1.3.3-forge",
+   "display": "Iris Shader Folder"
+  },
+  {
+   "file": "item-filters-forge-2001.1.0-build.59.jar",
+   "size": 110191,
+   "sha1": "55a7f032c59489eca96069a7841601de2ff97590",
+   "modId": "itemfilters",
+   "version": "2001.1.0-build.59",
+   "display": "Item Filters"
+  },
+  {
+   "file": "ItemBorders-1.20.1-forge-1.2.2.jar",
+   "size": 20832,
+   "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+   "modId": "itemborders",
+   "version": "${file.jarVersion}",
+   "display": "Item Borders"
+  },
+  {
+   "file": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+   "size": 19487,
+   "sha1": "4fc87af53afb8610e77710b30340783fc6bd0ccf",
+   "modId": "itemphysiclite",
+   "version": "1.6.6",
+   "display": "ItemPhysicLite"
+  },
+  {
+   "file": "Ixeris-4.6.0+1.20.1-forge.jar",
+   "size": 1539721,
+   "sha1": "a07f62b4c0e17cf703a59b36226ff7eb3ddca610",
+   "modId": "ixeris",
+   "version": "4.6.0+1.20.1-forge",
+   "display": "Ixeris"
+  },
+  {
+   "file": "Jade-1.20.1-Forge-11.13.2.jar",
+   "size": 552486,
+   "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+   "modId": "jade",
+   "version": "${file.jarVersion}",
+   "display": "Jade"
+  },
+  {
+   "file": "JadeAddons-1.20.1-Forge-5.5.1.jar",
+   "size": 91754,
+   "sha1": "c4339eb3ef0c4728cb511efe60726653a35c7a0d",
+   "modId": "jadeaddons",
+   "version": "${file.jarVersion}",
+   "display": "Jade Addons"
+  },
+  {
+   "file": "Jadens-Nether-Expansion-2.3.5.jar",
+   "size": 23488061,
+   "sha1": "bfb10b56cb5dcc34f3643472aa09bc4120808d31",
+   "modId": "netherexp",
+   "version": "2.3.5",
+   "display": "Jaden's Nether Expansion"
+  },
+  {
+   "file": "jecharacters-1.20.1-forge-4.6.4.jar",
+   "size": 267969,
+   "sha1": "38367ae9f513bb2e82bd925df454f2e30ad1e801",
+   "modId": "jecharacters",
+   "version": "4.6.4",
+   "display": "Just Enough Characters"
+  },
+  {
+   "file": "jeed-1.20-2.2.5.jar",
+   "size": 159288,
+   "sha1": "9f6b1884ad8b81c0e8796daf7871eeb54271f27b",
+   "modId": "jeed",
+   "version": "1.20-2.2.5",
+   "display": "Just Enough Effects Descriptions"
+  },
+  {
+   "file": "JEI Tetra-6.9.0-1.2.2.1.jar",
+   "size": 103457,
+   "sha1": "58152b212aff92e7fe4fc0b6c84d8b4b6d523163",
+   "modId": "jeitetra",
+   "version": "6.9.0-1.2.2.1",
+   "display": "JEI Tetra"
+  },
+  {
+   "file": "jei-1.20.1-forge-15.20.0.134.jar",
+   "size": 1412399,
+   "sha1": "1150671952108303b4b02d2b09f42877fe14b138",
+   "modId": "jei",
+   "version": "15.20.0.134",
+   "display": "Just Enough Items"
+  },
+  {
+   "file": "jei_optimize-forge-0.5.0+1.20.1.jar",
+   "size": 114550,
+   "sha1": "85fb27b004a3148be505e18877e969df95fcc6f7",
+   "modId": "jei_optimize",
+   "version": "0.5.0",
+   "display": "Just Enough Threads"
+  },
+  {
+   "file": "jei_plus_plus-1.0.6-1.20.1.jar",
+   "size": 347563,
+   "sha1": "216e1c76e966a32c59e5210f001a9b9bbcd94c29",
+   "modId": "jei_plus_plus",
+   "version": "1.0.6-1.20.1",
+   "display": "JEI++"
+  },
+  {
+   "file": "jupiter-2.3.7-1.20.1-forge.jar",
+   "size": 280116,
+   "sha1": "a2d05f0e70ac59ea44f44642f94c0f99f4e80417",
+   "modId": "jupiter",
+   "version": "2.3.7",
+   "display": "Jupiter"
+  },
+  {
+   "file": "justenoughbreeding-forge-1.20.1-3.0.1.jar",
+   "size": 597960,
+   "sha1": "9e8eb217468e8970c08d30c84f901e515f55279a",
+   "modId": "justenoughbreeding",
+   "version": "3.0.1",
+   "display": "Just Enough Breeding"
+  },
+  {
+   "file": "just_enough_couriers-1.0.1.jar",
+   "size": 19442,
+   "sha1": "88b4ef790d3517b0e645d8f83d47af14e234a3a0",
+   "modId": "just_enough_couriers",
+   "version": "1.0.1",
+   "display": "Just Enough Couriers"
+  },
+  {
+   "file": "kaleidoscopedoll-1.3.1-forge+mc1.20.1.jar",
+   "size": 3263506,
+   "sha1": "e6fdc6f79c8122e706e38d8c0dfb06869e8dec99",
+   "modId": "kaleidoscope_doll",
+   "version": "1.3.1-forge+mc1.20.1",
+   "display": "Kaleidoscope Doll"
+  },
+  {
+   "file": "Kambrik-6.1.1+1.20.1-forge.jar",
+   "size": 325546,
+   "sha1": "48cdc22a0f6698c9059f437538e5546f74900541",
+   "modId": "kambrik",
+   "version": "6.1.1+1.20.1",
+   "display": "Kambrik"
+  },
+  {
+   "file": "kinetic_pixel-1.0.3-forge-1.20.1.jar",
+   "size": 1432626,
+   "sha1": "52fdf39be2892c8dc185e72b3a48d73b8b22cdb8",
+   "modId": "kinetic_pixel",
+   "version": "1.0.3",
+   "display": "Kinetic Pixel"
+  },
+  {
+   "file": "Kiwi-1.20.1-Forge-11.10.3.jar",
+   "size": 1677733,
+   "sha1": "1380034abc414f84fbfaf4a39ceea359db0723c0",
+   "modId": "kiwi",
+   "version": "${file.jarVersion}",
+   "display": "Kiwi Library"
+  },
+  {
+   "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+   "size": 625185,
+   "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+   "modId": "konkrete",
+   "version": "1.8.0",
+   "display": "Konkrete"
+  },
+  {
+   "file": "kotlinforforge-4.12.0-all.jar",
+   "size": 7442998,
+   "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "kubejs-create-forge-2001.3.0-build.8.jar",
+   "size": 30960,
+   "sha1": "cbeb6643d1cea979a7e01c87cfb08b9210a1c393",
+   "modId": "kubejs_create",
+   "version": "2001.3.0-build.8",
+   "display": "KubeJS Create"
+  },
+  {
+   "file": "kubejs-forge-2001.6.5-build.16.jar",
+   "size": 1654660,
+   "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66",
+   "modId": "kubejs",
+   "version": "2001.6.5-build.16",
+   "display": "KubeJS"
+  },
+  {
+   "file": "kubejsdelight-1.20.1-1.1.5.jar",
+   "size": 13498,
+   "sha1": "67177099105fa6769c12c5484854c25742f1ab5e",
+   "modId": "kubejsdelight",
+   "version": "${file.jarVersion}",
+   "display": "KubeJSDelight"
+  },
+  {
+   "file": "lctech-1.20.1-0.2.2.7.jar",
+   "size": 532053,
+   "sha1": "17ae4cf7eee68eb3afa49450d492ac4f22310ab0",
+   "modId": "lctech",
+   "version": "1.20.1-0.2.2.7",
+   "display": "Lightman's Currency Tech"
+  },
+  {
+   "file": "ldlib-forge-1.20.1-1.0.50.jar",
+   "size": 3114158,
+   "sha1": "9129ee32e9966d757f3f66eed92d98b07264f22e",
+   "modId": "ldlib",
+   "version": "1.0.50",
+   "display": "LowDragLib"
+  },
+  {
+   "file": "letsdo-nethervinery-forge-1.2.19.jar",
+   "size": 650907,
+   "sha1": "6df80983483698e392179d4eab3e75e4afdc22b7",
+   "modId": "nethervinery",
+   "version": "1.2.19",
+   "display": "[Let's Do] NetherVinery"
+  },
+  {
+   "file": "letsdo-vinery-forge-1.4.41.jar",
+   "size": 2041283,
+   "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc",
+   "modId": "vinery",
+   "version": "1.4.41",
+   "display": "[Let's Do] Vinery"
+  },
+  {
+   "file": "lightmanscurrency-1.20.1-2.3.0.5.jar",
+   "size": 10445393,
+   "sha1": "e70e43c28fd21f1ff4a484176625afd57ecec1cb",
+   "modId": "lightmanscurrency",
+   "version": "1.20.1-2.3.0.5",
+   "display": "Lightman's Currency"
+  },
+  {
+   "file": "lionfishapi-2.7.jar",
+   "size": 122522,
+   "sha1": "73d64e7acbea5934617172a5210c1d2a53443812",
+   "modId": "lionfishapi",
+   "version": "2.7",
+   "display": "LionfishAPI"
+  },
+  {
+   "file": "lithostitched-forge-1.20.1-1.4.11.jar",
+   "size": 476347,
+   "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece",
+   "modId": "lithostitched",
+   "version": "1.4.11",
+   "display": "Lithostitched"
+  },
+  {
+   "file": "lootjs-forge-1.20.1-2.13.1.jar",
+   "size": 242267,
+   "sha1": "804deb0bd34d69cad873170642b9d7e47fa0d6ad",
+   "modId": "lootjs",
+   "version": "1.20.1-2.13.1",
+   "display": "LootJS"
+  },
+  {
+   "file": "lootr-forge-1.20-0.7.35.94.jar",
+   "size": 463485,
+   "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
+   "modId": "lootr",
+   "version": "0.7.35.94",
+   "display": "Lootr"
+  },
+  {
+   "file": "lucent-1.20.1-1.5.5.jar",
+   "size": 225245,
+   "sha1": "d72dc411c4e35869044840e4b551e8734788bc51",
+   "modId": "lucent",
+   "version": "${file.jarVersion}",
+   "display": "Lucent"
+  },
+  {
+   "file": "luncheon-meat-s-delight-1.0.3-forge-1.20.1.jar",
+   "size": 99326,
+   "sha1": "9d180ba7ce652d86f443330d71b2d0e7b0f895ed",
+   "modId": "luncheonmeatsdelight",
+   "version": "1.20.1-1.0.3",
+   "display": "Luncheon Meat s Delight"
+  },
+  {
+   "file": "L_Enders_Cataclysm-3.16.jar",
+   "size": 127993805,
+   "sha1": "25d84c486a817ba54362ea1f4b82b6d3802cc074",
+   "modId": "cataclysm",
+   "version": "3.16",
+   "display": "cataclysm"
+  },
+  {
+   "file": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
+   "size": 309137,
+   "sha1": "0037367a8af0d55a1b7f4c43dfc94cbdaca281db",
+   "modId": "man_of_many_planes",
+   "version": "0.2.0+1.20.1",
+   "display": "Man of Many Planes"
+  },
+  {
+   "file": "mcwifipnp-1.7.6-1.20.1-forge.jar",
+   "size": 82482,
+   "sha1": "82c6534b2afe6e9034629a7c0dc17e97b6f44c17",
+   "modId": "mcwifipnp",
+   "version": "1.7.6",
+   "display": "LAN World Plug-n-Play"
+  },
+  {
+   "file": "meed-1.20.1-8.0.1.jar",
+   "size": 97660,
+   "sha1": "3e47b44008c96cbfe2fc6a5bb4b0e2bf776cfc4a",
+   "modId": "meed",
+   "version": "8.0.0",
+   "display": "Moderately Enough Effect Descriptions"
+  },
+  {
+   "file": "megacells-forge-2.4.6-1.20.1.jar",
+   "size": 387196,
+   "sha1": "ed6fd5eb0c782529be03f199d66d9a7c9eb2a518",
+   "modId": "megacells",
+   "version": "2.4.6-1.20.1",
+   "display": "MEGA Cells"
+  },
+  {
+   "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+   "size": 37178,
+   "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+   "modId": "melody",
+   "version": "1.0.2",
+   "display": "Melody"
+  },
+  {
+   "file": "midnightlib-forge-1.9.2+1.20.1.jar",
+   "size": 61987,
+   "sha1": "ff01aa718b71249012c41d9926d3fd2982809fdb",
+   "modId": "midnightlib",
+   "version": "1.9.2",
+   "display": "MidnightLib"
+  },
+  {
+   "file": "MineMenu-1.20.1-1.12.3.jar",
+   "size": 260744,
+   "sha1": "8cc736b3965e4d101ddbc3724c42ae9559978572",
+   "modId": "minemenu",
+   "version": "1.12.3",
+   "display": "MineMenu"
+  },
+  {
+   "file": "miners_delight-1.20.1-1.4.5-backport.jar",
+   "size": 548776,
+   "sha1": "638438679800711939e7a8029ae3d5340f8c17bd",
+   "modId": "miners_delight",
+   "version": "${file.jarVersion}",
+   "display": "Miner's Delight"
+  },
+  {
+   "file": "modernfix-forge-5.27.66+mc1.20.1.jar",
+   "size": 1002234,
+   "sha1": "322fdb7aadc06b540cff69a2a0a513bf37050f0f",
+   "modId": "modernfix",
+   "version": "5.27.66+mc1.20.1",
+   "display": "ModernFix"
+  },
+  {
+   "file": "ModernUI-Forge-1.20.1-3.12.0.1-universal.jar",
+   "size": 25104473,
+   "sha1": "fcebe51e3c2ca34793f9b132fa05b5494ffc76a4",
+   "modId": "modernui",
+   "version": "3.12.0.1",
+   "display": "Modern UI"
+  },
+  {
+   "file": "moestweaks-forge-1.20.1-1.1.2.jar",
+   "size": 52239,
+   "sha1": "b5bc9f5d1511dd9ed977b68d6a52c4f04c2408a3",
+   "modId": "moestweaks",
+   "version": "1.1.2",
+   "display": "MoesTweaks"
+  },
+  {
+   "file": "moonlight-1.20-2.16.27-forge.jar",
+   "size": 1392973,
+   "sha1": "0a1b384ec20d63e94c56123b53e264dc2afe5b17",
+   "modId": "moonlight",
+   "version": "1.20-2.16.27",
+   "display": "Moonlight Library"
+  },
+  {
+   "file": "morejs-forge-1.20.1-0.10.1.jar",
+   "size": 173745,
+   "sha1": "c460ca3e95e40894c78fd327c5ba73c7da83f6d3",
+   "modId": "morejs",
+   "version": "0.10.1",
+   "display": "MoreJS"
+  },
+  {
+   "file": "MoreRequirement-1.2.3.jar",
+   "size": 59774,
+   "sha1": "2ce1cfa8d57535863074cfad17448f45e025efdf",
+   "modId": "morerequirement",
+   "version": "1.2.3",
+   "display": "MoreRequirement"
+  },
+  {
+   "file": "more_mod_tetra-2.4.15-all.jar",
+   "size": 3687517,
+   "sha1": "25b2afd928a4e5e067ddd66e2a79546c5f0bacea",
+   "modId": "more_mod_tetra",
+   "version": "2.4.15",
+   "display": "More Mod Tetra"
+  },
+  {
+   "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+   "size": 76237,
+   "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+   "modId": "mousetweaks",
+   "version": "${file.jarVersion}",
+   "display": "Mouse Tweaks"
+  },
+  {
+   "file": "multiblocked2-1.20.1-1.0.38.a.jar",
+   "size": 1459114,
+   "sha1": "7a526e3fdb71661450912ed1f4083623651aa25f",
+   "modId": "mbd2",
+   "version": "1.0.38.a",
+   "display": "Multiblocked2"
+  },
+  {
+   "file": "mutil-1.20.1-6.3.0.jar",
+   "size": 100449,
+   "sha1": "29a233bbe5b156f16bfe67e402681a490c843062",
+   "modId": "mutil",
+   "version": "6.3.0",
+   "display": "mutil"
+  },
+  {
+   "file": "MyNethersDelight-1.20.1-1.10.4-backport.1.jar",
+   "size": 903317,
+   "sha1": "661313382f1764e14df775b0061050d946699de6",
+   "modId": "mynethersdelight",
+   "version": "${file.jarVersion}",
+   "display": "My Nether's Delight"
+  },
+  {
+   "file": "mysterious_mountain_lib-1.6.34-1.20.1.jar",
+   "size": 325616,
+   "sha1": "4fb6e35edf9384fde736cd9ee972468d65f61dce",
+   "modId": "mysterious_mountain_lib",
+   "version": "${file.jarVersion}",
+   "display": "Mysterious Mountain Lib"
+  },
+  {
+   "file": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+   "size": 227495,
+   "sha1": "a8589de59cdd8fed9c29610e624063a2990e422b",
+   "modId": "naturescompass",
+   "version": "1.20.1-1.12.0-forge",
+   "display": "Nature's Compass"
+  },
+  {
+   "file": "neapolitan-1.20.1-5.1.0.jar",
+   "size": 4797150,
+   "sha1": "6b18edd438c0ec10d47f6c2d66026948d39e2bda",
+   "modId": "neapolitan",
+   "version": "${file.jarVersion}",
+   "display": "Neapolitan"
+  },
+  {
+   "file": "nebulusbetterportals-1.0.8-forge-1.20.1.jar",
+   "size": 155679,
+   "sha1": "7fcf81ead20464d5da1fef8459ea77bffc1a01d3",
+   "modId": "nebulusbetterportals",
+   "version": "1.0.8",
+   "display": "Nebulus better nether overworld portals"
+  },
+  {
+   "file": "netmusic-1.5.1-forge+mc1.20.1.jar",
+   "size": 1472028,
+   "sha1": "3eb61632187ab7d798252396958b4ee1c4783257",
+   "modId": "netmusic",
+   "version": "1.5.1-forge+mc1.20.1",
+   "display": "Net Music Mod"
+  },
+  {
+   "file": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+   "size": 272740,
+   "sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
+   "modId": "nochatreports",
+   "version": "1.20.1-v2.2.2",
+   "display": "No Chat Reports"
+  },
+  {
+   "file": "Northstar-0.6.4+1.20.1.jar",
+   "size": 11569683,
+   "sha1": "e576a31d02f2201983da464736daffd1a655c8e5",
+   "modId": "northstar",
+   "version": "0.6.4+1.20.1",
+   "display": "Northstar Redux"
+  },
+  {
+   "file": "northstar-curios-compat-1.3.1.jar",
+   "size": 43498,
+   "sha1": "978dce4fc507337b2f8362957cebe3a6076bdd3e",
+   "modId": "northstar_curios_compat",
+   "version": "${file.jarVersion}",
+   "display": "Northstar Curios Compat"
+  },
+  {
+   "file": "obscure_tooltips-forge-1.20.1-3.10.0.jar",
+   "size": 1137730,
+   "sha1": "66ff6454b2fb04ee76a76982f87aeea2ffe855dd",
+   "modId": "obscure_tooltips",
+   "version": "3.10.0",
+   "display": "Obscure Tooltips"
+  },
+  {
+   "file": "oceanic_delight-1.0.3-forge-1.20.1.jar",
+   "size": 289149,
+   "sha1": "65e14fdfdd00a0772dced2f57617accb83ec39dd",
+   "modId": "oceanic_delight",
+   "version": "1.0.3",
+   "display": "Oceanic Delight"
+  },
+  {
+   "file": "oculus-mc1.20.1-1.8.0.jar",
+   "size": 2851119,
+   "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+   "modId": "oculus",
+   "version": "1.8.0",
+   "display": "Oculus"
+  },
+  {
+   "file": "OELib-forge-1.20.1-0.2.3.jar",
+   "size": 889305,
+   "sha1": "2c5a133b5112bf56d41ab4652d46375b3f0ce8f4",
+   "modId": "oelib",
+   "version": "0.2.3",
+   "display": "OELib"
+  },
+  {
+   "file": "OneEnoughItem-1.0.7-hotfix.jar",
+   "size": 264021,
+   "sha1": "fbe60af8e3bd457ab784a313df193531244af185",
+   "modId": "oneenoughitem",
+   "version": "1.0.7-hotfix",
+   "display": "OneEnoughItem"
+  },
+  {
+   "file": "OneEnoughValue-1.0.2.jar",
+   "size": 44317,
+   "sha1": "9cad0f36b2613c973e7b80aa27f76c33d786e134",
+   "modId": "oneenoughvalue",
+   "version": "1.0.2",
+   "display": "OneEnoughValue"
+  },
+  {
+   "file": "overloadedarmorbar-1.20.1-1.jar",
+   "size": 14034,
+   "sha1": "78be460fbca8978ab3ac8f81f28f1ced832ce80a",
+   "modId": "overloadedarmorbar",
+   "version": "${file.jarVersion}",
+   "display": "Overloaded Armor Bar"
+  },
+  {
+   "file": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+   "size": 188661,
+   "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+   "modId": "packetfixer",
+   "version": "3.3.2",
+   "display": "PacketFixer"
+  },
+  {
+   "file": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+   "size": 102164,
+   "sha1": "378cc9730d1f11cd4c50add96263baccacdb4942",
+   "modId": "pickupnotifier",
+   "version": "8.0.0",
+   "display": "Pick Up Notifier"
+  },
+  {
+   "file": "Placebo-1.20.1-8.6.3.jar",
+   "size": 282474,
+   "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+   "modId": "placebo",
+   "version": "8.6.3",
+   "display": "Placebo"
+  },
+  {
+   "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+   "size": 181437,
+   "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+   "modId": "playeranimator",
+   "version": "1.0.2-rc1+1.20",
+   "display": "Player Animator"
+  },
+  {
+   "file": "polyeng-forge-0.1.1-1.20.1.jar",
+   "size": 15469,
+   "sha1": "4617a4de40edda9a480ea0c33ba03e97d4a3ae1a",
+   "modId": "polyeng",
+   "version": "0.1.1-1.20.1",
+   "display": "Polymorphic Energistics"
+  },
+  {
+   "file": "polymorph-forge-0.49.10+1.20.1.jar",
+   "size": 299601,
+   "sha1": "e4afd6f512cc06311320357ed974cee586e031c3",
+   "modId": "polymorph",
+   "version": "0.49.10+1.20.1",
+   "display": "Polymorph"
+  },
+  {
+   "file": "ponderjs-1.20.1-2.1.0.jar",
+   "size": 2285835,
+   "sha1": "a661c5dc6cf28815154e71e066a9e8b13a9fc0c1",
+   "modId": "ponderjs",
+   "version": "2.1.0",
+   "display": "PonderJS"
+  },
+  {
+   "file": "powerfuljs-1.6.1.jar",
+   "size": 731791,
+   "sha1": "aff030e4fadb788201599e5cfff325f171b5028f",
+   "modId": "powerfuljs",
+   "version": "1.6.1",
+   "display": "PowerfulJS"
+  },
+  {
+   "file": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+   "size": 7080698,
+   "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+   "modId": "presencefootsteps",
+   "version": "1.20.1-1.9.1-beta.1",
+   "display": "Presence Footsteps (Forge)"
+  },
+  {
+   "file": "Prism-1.20.1-forge-1.0.5.jar",
+   "size": 52205,
+   "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+   "modId": "prism",
+   "version": "1.0.5",
+   "display": "Prism"
+  },
+  {
+   "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+   "size": 1342987,
+   "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
+   "modId": "puzzleslib",
+   "version": "8.1.33",
+   "display": "Puzzles Lib"
+  },
+  {
+   "file": "quality_food-1.20.1-2.4.3-all.jar",
+   "size": 916288,
+   "sha1": "1dbde28800c1bc6b81ff1719052b8c0c48903b4c",
+   "modId": "quality_food",
+   "version": "2.4.3",
+   "display": "Quality Food"
+  },
+  {
+   "file": "quality_food_fluids-1.20.1-0.1.4.jar",
+   "size": 111649,
+   "sha1": "1937d8f520be03162789fbc6a1b2d9261c97af61",
+   "modId": "quality_food_fluids",
+   "version": "0.1.4",
+   "display": "Quality Food Fluids"
+  },
+  {
+   "file": "Quark-4.0-462.jar",
+   "size": 14935230,
+   "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+   "modId": "quark",
+   "version": "${file.jarVersion}",
+   "display": "Quark"
+  },
+  {
+   "file": "QuarkOddities-1.20.1.jar",
+   "size": 915,
+   "sha1": "69ed292c207af89febd156d83b3e78f64b35b969",
+   "modId": "quarkoddities",
+   "version": "1.20.1",
+   "display": "Quark Oddities"
+  },
+  {
+   "file": "questsadditions-1.4.7.jar",
+   "size": 112015,
+   "sha1": "789aeefff75e389bd311cff9ccfe422493dfe694",
+   "modId": "questsadditions",
+   "version": "${file.jarVersion}",
+   "display": "Quests Additions"
+  },
+  {
+   "file": "radiantgear-forge-2.2.0+1.20.1.jar",
+   "size": 47170,
+   "sha1": "525b3ebccece23ed6bf4945a1c054c21599fc083",
+   "modId": "radiantgear",
+   "version": "2.2.0+1.20.1",
+   "display": "Radiant Gear"
+  },
+  {
+   "file": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+   "size": 6689588,
+   "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+   "modId": "refurbished_furniture",
+   "version": "1.0.20",
+   "display": "MrCrayfish's Furniture Mod: Refurbished"
+  },
+  {
+   "file": "renderjs-forge-2001.2.1.jar",
+   "size": 82753,
+   "sha1": "6edcb7c9f49c3a964d7b3ba5bb664966022e7ca9",
+   "modId": "renderjs",
+   "version": "2001.2.1",
+   "display": "RenderJS"
+  },
+  {
+   "file": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+   "size": 136923,
+   "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+   "modId": "resourcefulconfig",
+   "version": "2.1.3",
+   "display": "Resourcefulconfig"
+  },
+  {
+   "file": "resourcefullib-forge-1.20.1-2.1.29.jar",
+   "size": 432753,
+   "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+   "modId": "resourcefullib",
+   "version": "2.1.29",
+   "display": "Resourceful Lib"
+  },
+  {
+   "file": "Resourcify (1.20.1-forge)-1.8.5.jar",
+   "size": 2632549,
+   "sha1": "7c3dab958be95d40b67279c2a85aa4830b4ed260",
+   "modId": "resourcify",
+   "version": "1.8.5",
+   "display": "Resourcify"
+  },
+  {
+   "file": "rhino-forge-2001.2.3-build.10.jar",
+   "size": 1798244,
+   "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+   "modId": "rhino",
+   "version": "2001.2.3-build.10",
+   "display": "Rhino"
+  },
+  {
+   "file": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+   "size": 113495,
+   "sha1": "ecb6d12d6073cbe8b8912f5b2fe7a8c025c758b9",
+   "modId": "screenshot_viewer",
+   "version": "${file.jarVersion}",
+   "display": "Screenshot Viewer"
+  },
+  {
+   "file": "Searchables-forge-1.20.1-1.0.3.jar",
+   "size": 77732,
+   "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+   "modId": "searchables",
+   "version": "${file.jarVersion}",
+   "display": "Searchables"
+  },
+  {
+   "file": "seasonals-1.20.1-5.0.2.jar",
+   "size": 245317,
+   "sha1": "5bcb375466cf5d3444dd38889f759735c70dc4c7",
+   "modId": "seasonals",
+   "version": "${file.jarVersion}",
+   "display": "Seasonals"
+  },
+  {
+   "file": "seasonhud-forge-1.20.1-2.0.6.jar",
+   "size": 236196,
+   "sha1": "59348dc534b0a4e97fee204f644ff70949a786e1",
+   "modId": "seasonhud",
+   "version": "2.0.6",
+   "display": "SeasonHud"
+  },
+  {
+   "file": "sequenced_pattern_provider-1.20.1-0.3.2.jar",
+   "size": 193926,
+   "sha1": "fdbfb87d6774e85f43b731ecc63d666315a5f984",
+   "modId": "sequenced_pattern_provider",
+   "version": "0.3.2",
+   "display": "Sequenced Pattern Provider"
+  },
+  {
+   "file": "servercore-forge-1.5.2+1.20.1.jar",
+   "size": 1508496,
+   "sha1": "75c6418edc76da55ec89f417e8c43c9d1873fceb",
+   "modId": "servercore",
+   "version": "1.5.2+1.20.1",
+   "display": "ServerCore"
+  },
+  {
+   "file": "serverwarashi-1.20.1-2.0.4.1-all.jar",
+   "size": 1374074,
+   "sha1": "a846e922dc6e0298ad6c51e623ecff63cb00b624",
+   "modId": "serverwarashi",
+   "version": "2.0.4.1",
+   "display": "ServerWarashi"
+  },
+  {
+   "file": "shadowizardlib-1.20.1-1.3.1.jar",
+   "size": 61395,
+   "sha1": "fc5507e00f1018ee6a17544723436962cdcfae1d",
+   "modId": "shadowizardlib",
+   "version": "1.20.1-1.3.1",
+   "display": "ShadowizardLib"
+  },
+  {
+   "file": "ShoulderSurfing-Forge-1.20.1-5.0.7.jar",
+   "size": 402799,
+   "sha1": "acc3c42d4042836e78aa286b9f6100493bd6b864",
+   "modId": "shouldersurfing",
+   "version": "1.20.1-5.0.7",
+   "display": "Shoulder Surfing Reloaded"
+  },
+  {
+   "file": "silentsdelight-forge-1.0.1-1.20.1.jar",
+   "size": 168609,
+   "sha1": "2c0557c05ea7cd4e92dc1613cf0d3c03913334d8",
+   "modId": "silentsdelight",
+   "version": "1.20.1-1.0.0",
+   "display": "Silent's Delight"
+  },
+  {
+   "file": "SimpleBackups-1.20.1-3.1.24.jar",
+   "size": 51010,
+   "sha1": "dcbb71212dd474e160152d12c37b807e580f5043",
+   "modId": "simplebackups",
+   "version": "1.20.1-3.1.24",
+   "display": "Simple Backups"
+  },
+  {
+   "file": "simplehats-forge-1.20.1-0.4.0a.jar",
+   "size": 1404910,
+   "sha1": "73a28ae9919c0d1e953805f0f2e8463a34b92fcc",
+   "modId": "simplehats",
+   "version": "0.4.0a",
+   "display": "SimpleHats"
+  },
+  {
+   "file": "skinlayers3d-forge-1.11.2-mc1.20.1.jar",
+   "size": 2168901,
+   "sha1": "473b49e775f4c9dd746929f20c33f8132b86f235",
+   "modId": "skinlayers3d",
+   "version": "1.11.2",
+   "display": "3d-Skin-Layers"
+  },
+  {
+   "file": "smrb-1.0.0.jar",
+   "size": 7252,
+   "sha1": "c967849662409ee3e6ff0f8522f52372407d2336",
+   "modId": "smrb",
+   "version": "1.0.0",
+   "display": "SaveMyRecipeBook"
+  },
+  {
+   "file": "smsn-forge-1.4.3-1.20.1.jar",
+   "size": 134583,
+   "sha1": "9ef4805973cf4371691a50e1270905f658c3507d",
+   "modId": "smsn",
+   "version": "1.4.3-1.20.1",
+   "display": "Save My Shit Network"
+  },
+  {
+   "file": "sodiumextras-forge-1.0.7-1.20.1.jar",
+   "size": 438540,
+   "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d",
+   "modId": "sodiumextras",
+   "version": "1.0.6",
+   "display": "Sodium Extras"
+  },
+  {
+   "file": "solapplepie-1.20.1-2.3.0.jar",
+   "size": 189826,
+   "sha1": "db306008033065fc4ca97f66d38183206a55d458",
+   "modId": "solapplepie",
+   "version": "${file.jarVersion}",
+   "display": "Spice of Life: Apple Pie Edition"
+  },
+  {
+   "file": "solardimensionaddon-1.2.0.jar",
+   "size": 15423,
+   "sha1": "f2f5b64bf16a850ff9140fccf3942c579856eb5d",
+   "modId": "solardimensionaddon",
+   "version": "1.2.0",
+   "display": "Create Solar Dimension Efficiency"
+  },
+  {
+   "file": "solcarrot-1.20.1-1.15.1.jar",
+   "size": 104185,
+   "sha1": "f7fa1fd0c633b10f98d7f0f97766b95aac1a2dc0",
+   "modId": "solcarrot",
+   "version": "1.15.1",
+   "display": "Spice of Life: Carrot Edition"
+  },
+  {
+   "file": "some-assembly-required-1.20.1-4.2.3.jar",
+   "size": 421627,
+   "sha1": "a0f4622694e47806aced4e890ddc6f90b90894eb",
+   "modId": "some_assembly_required",
+   "version": "1.20.1-4.2.3",
+   "display": "Some Assembly Required"
+  },
+  {
+   "file": "sophisticatedbackpacks-1.20.1-3.24.62.2017.jar",
+   "size": 1130880,
+   "sha1": "fe4b90ab03b61ac0901125ce36a65cd188ea9c15",
+   "modId": "sophisticatedbackpacks",
+   "version": "3.24.62.2017",
+   "display": "Sophisticated Backpacks"
+  },
+  {
+   "file": "sophisticatedbackpackscreateintegration-1.20.1-0.1.8.116.jar",
+   "size": 86750,
+   "sha1": "07f987ac4d52b582e8e4857219be711e9b463a01",
+   "modId": "sophisticatedbackpackscreateintegration",
+   "version": "0.1.8.116",
+   "display": "Sophisticated Backpacks Create Integration"
+  },
+  {
+   "file": "sophisticatedcore-1.20.1-1.3.73.2192.jar",
+   "size": 1622705,
+   "sha1": "ec4403509162632bbad7f6c7be382a3fa6381a30",
+   "modId": "sophisticatedcore",
+   "version": "1.3.73.2192",
+   "display": "Sophisticated Core"
+  },
+  {
+   "file": "soul-fire-d-forge-1.20.1-4.0.11.jar",
+   "size": 341463,
+   "sha1": "d5073a142e0b5caf024cfbc812fe08bc14e9570b",
+   "modId": "soul_fire_d",
+   "version": "4.0.11",
+   "display": "Soul Fire'd"
+  },
+  {
+   "file": "spark-1.10.53-forge.jar",
+   "size": 3114590,
+   "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+   "modId": "spark",
+   "version": "1.10.53",
+   "display": "spark"
+  },
+  {
+   "file": "sparsestructures-forge-1.20.1-3.0.jar",
+   "size": 121055,
+   "sha1": "3a14160106a66c54ce47c5e26d8a20c70b44d4c1",
+   "modId": "sparsestructures",
+   "version": "3.0",
+   "display": "SparseStructures"
+  },
+  {
+   "file": "sqlite-jdbc-3.36.0.3+20211227-all.jar",
+   "size": 9742042,
+   "sha1": "5be2c4338202b73722a4bc5bc96a22c6d35c4b57",
+   "modId": "sqlite_jdbc",
+   "version": "3.36.0.3+20211227",
+   "display": "SQLite JDBC"
+  },
+  {
+   "file": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+   "size": 16819720,
+   "sha1": "15d317afd2459368b19c23f2bdfefdeb87708bdd",
+   "modId": "railways",
+   "version": "1.7.2+forge-mc1.20.1",
+   "display": "Create: Steam 'n' Rails"
+  },
+  {
+   "file": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+   "size": 206584,
+   "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+   "modId": "supermartijn642configlib",
+   "version": "1.1.8",
+   "display": "SuperMartijn642's Config Library"
+  },
+  {
+   "file": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+   "size": 515362,
+   "sha1": "d37e1148b512c67cee704635b4f07d1f9ea8c31c",
+   "modId": "supermartijn642corelib",
+   "version": "1.1.18",
+   "display": "SuperMartijn642's Core Lib"
+  },
+  {
+   "file": "supplementaries-1.20-3.1.42-forge.jar",
+   "size": 13661432,
+   "sha1": "c9e2f6c813eef73843d869ff5611f155af7467fb",
+   "modId": "supplementaries",
+   "version": "1.20-3.1.42",
+   "display": "Supplementaries"
+  },
+  {
+   "file": "tacz-1.20.1-1.1.8-hotfix.jar",
+   "size": 57465167,
+   "sha1": "bddafeea4c9c1132ed720c30fbaedfe5ab25e846",
+   "modId": "tacz",
+   "version": "${file.jarVersion}",
+   "display": "Timeless & Classics Guns: Zero"
+  },
+  {
+   "file": "taczaddon.jar",
+   "size": 130546,
+   "sha1": "812e89999e31c53c25e0bd3d027d86c8cda492bf",
+   "modId": "taczaddon",
+   "version": "1.1.8",
+   "display": "TACZ-addon"
+  },
+  {
+   "file": "taczjs-forge-1.4.2+mc1.20.1.jar",
+   "size": 95759,
+   "sha1": "a88747278d2dc39ef9061f414865bfdb694276d3",
+   "modId": "taczjs",
+   "version": "1.4.2+mc1.20.1",
+   "display": "TaCZ JS"
+  },
+  {
+   "file": "tectonic-3.0.17-forge-1.20.1.jar",
+   "size": 322575,
+   "sha1": "07bfe13bc1bd75a6277f3d62bf92a549b33067a9",
+   "modId": "tectonic",
+   "version": "3.0.17",
+   "display": "Tectonic"
+  },
+  {
+   "file": "tenshilib-1.20.1-1.7.6-forge.jar",
+   "size": 465737,
+   "sha1": "4a8f6ac745297430e64b50466f338c2b2aa8b101",
+   "modId": "tenshilib",
+   "version": "1.20.1-1.7.6",
+   "display": "TenshiLib"
+  },
+  {
+   "file": "terraingraph-1.20.1-forge-0.1.3.jar",
+   "size": 34356,
+   "sha1": "017c81f634e8f7a5002ec23af83c328b0a5e0d92",
+   "modId": "terraingraph",
+   "version": "0.1.3",
+   "display": "TerrainGraph"
+  },
+  {
+   "file": "Terralith_1.20.x_v2.5.4.jar",
+   "size": 3156901,
+   "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+   "modId": "terralith",
+   "version": "2.5.4",
+   "display": "Terralith"
+  },
+  {
+   "file": "Tetra View-6.9.0-1.0.2.jar",
+   "size": 19912,
+   "sha1": "98fac11beb9b278f882e5e0bade0caaa430bb5ca",
+   "modId": "tetra_view",
+   "version": "6.9.0-1.0.2",
+   "display": "Tetra View"
+  },
+  {
+   "file": "tetra-1.20.1-6.17.0.jar",
+   "size": 4109300,
+   "sha1": "8da82a8f2c289fb1e731134a6af891503f2d1a4a",
+   "modId": "tetra",
+   "version": "6.17.0",
+   "display": "tetra"
+  },
+  {
+   "file": "tetracelium-1.20.1-1.3.2.jar",
+   "size": 304607,
+   "sha1": "32f24f9ac23884bb68a276e5c608e27788b7ed68",
+   "modId": "tetracelium",
+   "version": "1.3.2",
+   "display": "tetracelium"
+  },
+  {
+   "file": "tetracompat-1.0.1-all.jar",
+   "size": 665503,
+   "sha1": "fdb6df44b5ab9886c4d6afbb484954961d35be4d",
+   "modId": "tetracompat",
+   "version": "1.0.1",
+   "display": "Tetra Compat"
+  },
+  {
+   "file": "tetratic-combat-expanded-1.20-2.8.3.jar",
+   "size": 27295,
+   "sha1": "03c61eac3c09aca508806ead0294c5b575d1ab6a",
+   "modId": "tetratic_combat_expanded",
+   "version": "2.8.3",
+   "display": "Tetratic Combat Expanded"
+  },
+  {
+   "file": "tetrawear-1.20.1-1.0.0.jar",
+   "size": 908953,
+   "sha1": "ad553ea80f844b6a6c9f620a3d5d3945b1f02af4",
+   "modId": "tetrawear",
+   "version": "1.0.0",
+   "display": "tetrawear"
+  },
+  {
+   "file": "tetra_insight-0.1.6.jar",
+   "size": 434454,
+   "sha1": "916d34b529d953be9b9c63ebd02b165bb327f75a",
+   "modId": "tetra_insight",
+   "version": "0.1.6",
+   "display": "Tetra Insight"
+  },
+  {
+   "file": "the_bumblezone-7.13.3+1.20.1-forge.jar",
+   "size": 69349517,
+   "sha1": "9df6735ac1f16b6d2e89cc197e8c071c183c0faa",
+   "modId": "the_bumblezone",
+   "version": "7.13.3+1.20.1-forge",
+   "display": "The Bumblezone"
+  },
+  {
+   "file": "Tips-Forge-1.20.1-12.1.9.jar",
+   "size": 127186,
+   "sha1": "033d62395ecf7939f82e5a69ef53cf62ad1afb7f",
+   "modId": "tipsmod",
+   "version": "12.1.9",
+   "display": "Tips"
+  },
+  {
+   "file": "titanium-1.20.1-3.8.35.jar",
+   "size": 622072,
+   "sha1": "5f62877e68fb326c35cf847e615512d7dd801b20",
+   "modId": "titanium",
+   "version": "${file.jarVersion}",
+   "display": "Titanium"
+  },
+  {
+   "file": "torchmaster-20.1.9.jar",
+   "size": 119348,
+   "sha1": "9a7f4ffdfe0dfe0a8071ac6501e52b1b4e208758",
+   "modId": "torchmaster",
+   "version": "20.1.9",
+   "display": "Torchmaster"
+  },
+  {
+   "file": "totw_modded-forge-1.20.1-1.0.6.jar",
+   "size": 285837,
+   "sha1": "72d92991bd2ee954653b70d4080091e1ca379002",
+   "modId": "totw_modded",
+   "version": "1.0.6",
+   "display": "Towers of the Wild Modded"
+  },
+  {
+   "file": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+   "size": 2864275,
+   "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+   "modId": "t_and_t",
+   "version": "${file.jarVersion}",
+   "display": "Towns and Towers"
+  },
+  {
+   "file": "traderefresh-2.5.2.jar",
+   "size": 113339,
+   "sha1": "4194e4a8ec511e003ae5db224a4528842e589c0a",
+   "modId": "traderefresh",
+   "version": "${file.jarVersion}",
+   "display": "Trade Refresh"
+  },
+  {
+   "file": "trailandtales_delight-1.7-all.jar",
+   "size": 531393,
+   "sha1": "e466d0a5d471220a329421c4f608814b45f6a43d",
+   "modId": "trailandtales_delight",
+   "version": "1.7",
+   "display": "Trail&Tales Delight"
+  },
+  {
+   "file": "trashcans-1.0.18b-forge-mc1.20.jar",
+   "size": 158164,
+   "sha1": "4bc991b861a981921d06b731368239ce6ea571d3",
+   "modId": "trashcans",
+   "version": "1.0.18b",
+   "display": "Trash Cans"
+  },
+  {
+   "file": "trashslot-forge-1.20.1-15.1.5.jar",
+   "size": 117983,
+   "sha1": "80cb7633f57f485ccf10b4e9248ee6ce02d0e69e",
+   "modId": "trashslot",
+   "version": "15.1.5",
+   "display": "TrashSlot"
+  },
+  {
+   "file": "TravelersTitles-1.20-Forge-4.0.2.jar",
+   "size": 228191,
+   "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
+   "modId": "travelerstitles",
+   "version": "1.20-Forge-4.0.2",
+   "display": "Traveler's Titles"
+  },
+  {
+   "file": "vanillin-forge-1.20.1-1.1.3.jar",
+   "size": 1055068,
+   "sha1": "bc49b972af2523aef31c1dfd68989d8d896e8452",
+   "modId": "vanillin",
+   "version": "1.1.3",
+   "display": "Vanillin"
+  },
+  {
+   "file": "vintagedelight-0.1.6.jar",
+   "size": 1120218,
+   "sha1": "279a68afc8d815e957cabc689e925cdaf7578109",
+   "modId": "vintagedelight",
+   "version": "0.1.6",
+   "display": "Vintage Delight"
+  },
+  {
+   "file": "vintageimprovements-1.20.1-0.3.7.8.jar",
+   "size": 1397546,
+   "sha1": "a66b51547c3015d463ddc08ef5f931b8e676c474",
+   "modId": "vintageimprovements",
+   "version": "1.20.1-0.3.7.8",
+   "display": "Create: Vintage Improvements"
+  },
+  {
+   "file": "vintage_kubejs-1.20.1-1.0.0rc-2.jar",
+   "size": 53779,
+   "sha1": "ca49a4163794cc0f94a31a17f6956be11979db53",
+   "modId": "vintage_kubejs",
+   "version": "1.20.1-1.0.0rc-2",
+   "display": "Vintage KubeJS"
+  },
+  {
+   "file": "visual_keybinder-1.20.1 - 0.1.12.jar",
+   "size": 258438,
+   "sha1": "88a524a32d540e49438bab2b28d3f8188eac1fa3",
+   "modId": "visual_keybinder",
+   "version": "1.20.1 - 0.1.12",
+   "display": "Raw's Visual Keybinder"
+  },
+  {
+   "file": "vvaddon-1.20.1-alpha3.0.1.jar",
+   "size": 114130,
+   "sha1": "b66997ad5b46a9ca9c5b56bd213eb1544fa1afbe",
+   "modId": "vvaddon",
+   "version": "3.0.1",
+   "display": "VVAddon"
+  },
+  {
+   "file": "watut-forge-1.20.1-1.2.3.jar",
+   "size": 435496,
+   "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
+   "modId": "watut",
+   "version": "1.20.1-1.2.3",
+   "display": "What Are They Up To"
+  },
+  {
+   "file": "waystones-forge-1.20.1-14.1.20.jar",
+   "size": 533738,
+   "sha1": "cde06d0f1e9042fb2e0b536a4d2c5443d129dd51",
+   "modId": "waystones",
+   "version": "14.1.20",
+   "display": "Waystones"
+  },
+  {
+   "file": "xaerominimap-forge-1.20.1-26.4.2.jar",
+   "size": 2195245,
+   "sha1": "8f5f747a33e787aaa3827b00eb0ad098966499ff",
+   "modId": "xaerominimap",
+   "version": "26.4.2",
+   "display": "Xaero's Minimap"
+  },
+  {
+   "file": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+   "size": 1421224,
+   "sha1": "d7cd24554d9c361b2d8d3efac2cb1408f118917d",
+   "modId": "xaeroworldmap",
+   "version": "1.44.2",
+   "display": "Xaero's World Map"
+  },
+  {
+   "file": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+   "size": 568278,
+   "sha1": "6efdaf5d213f779e51aa84631a5f06a306351e75",
+   "modId": "yeetusexperimentus",
+   "version": "2.3.1-build.6+mc1.20.1",
+   "display": "Yeetus Experimentus"
+  },
+  {
+   "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+   "size": 1105891,
+   "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+   "modId": "yet_another_config_lib_v3",
+   "version": "3.6.6+1.20.1-forge",
+   "display": "YetAnotherConfigLib"
+  },
+  {
+   "file": "youkaishomecoming-2.7.0.jar",
+   "size": 6163253,
+   "sha1": "34cbc84a051ec695696e5f462a8ab14e934d93a3",
+   "modId": "youkaishomecoming",
+   "version": "${file.jarVersion}",
+   "display": "Youkai's Homecoming"
+  },
+  {
+   "file": "youkaishomecoming_curios-0.03.jar",
+   "size": 24691,
+   "sha1": "3529fad5f425d2437099d9a6558c018ed0ba91f2",
+   "modId": "youkaishomecoming_curios",
+   "version": "0.03",
+   "display": "YoukaisHomecoming_curios"
+  },
+  {
+   "file": "YungsApi-1.20-Forge-4.0.6.jar",
+   "size": 370524,
+   "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+   "modId": "yungsapi",
+   "version": "1.20-Forge-4.0.6",
+   "display": "YUNG's API"
+  },
+  {
+   "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+   "size": 492998,
+   "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+   "modId": "bettermineshafts",
+   "version": "1.20-Forge-4.0.4",
+   "display": "YUNG's Better Mineshafts"
+  },
+  {
+   "file": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+   "size": 179190,
+   "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+   "modId": "betterwitchhuts",
+   "version": "1.20-Forge-3.0.3",
+   "display": "YUNG's Better Witch Huts"
+  },
+  {
+   "file": "YungsExtras-1.20-Forge-4.0.3.jar",
+   "size": 200341,
+   "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
+   "modId": "yungsextras",
+   "version": "1.20-Forge-4.0.3",
+   "display": "YUNG's Extras"
+  },
+  {
+   "file": "Zeta-1.0-31.jar",
+   "size": 1006518,
+   "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+   "modId": "zeta",
+   "version": "${file.jarVersion}",
+   "display": "Zeta"
+  },
+  {
+   "file": "zfastnoise-1.0.13+1.20+forge.jar",
+   "size": 666300,
+   "sha1": "94461ab36f5bfec54f10b13f5fde40c7586a2a0e",
+   "modId": "zfastnoise",
+   "version": "1.0.13",
+   "display": "Fast Noise Mod"
+  },
+  {
+   "file": "zRemove_SDL_Intro_v1.2.2.jar",
+   "size": 12238,
+   "sha1": "c1c3067dc507b045eac4b07995e70b32172ee844",
+   "modId": "remove_sdl_intro",
+   "version": "1.2.2",
+   "display": "Remove Stardust Labs Intro Message"
+  },
+  {
+   "file": "zstdnet-1.20.1-forge-1.5.0.jar",
+   "size": 8652147,
+   "sha1": "1be4a890077c7e13a8dfc6a43418a8e884e78b1c",
+   "modId": "zstdnet",
+   "version": "1.5.0",
+   "display": "ZstdNet"
+  }
+ ],
+ "delight": [
+  {
+   "file": "abbm-禁止转载-Do-Not-Redistribute-1.1.0.jar",
+   "size": 4831,
+   "sha1": "40c20be155be332836e9632558865cb46d3b5a45",
+   "modId": "abbm",
+   "version": "1.1.0",
+   "display": "aero-bugfix-by-moepus"
+  },
+  {
+   "file": "aeroworks-1.5.0.jar",
+   "size": 790152,
+   "sha1": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f",
+   "modId": "aeroworks",
+   "version": "1.5.0",
+   "display": "Create: Aeroworks"
+  },
+  {
+   "file": "aero_addition-1.0.2.jar",
+   "size": 31395,
+   "sha1": "446577102ad03017014c662079a927779f1e0f77",
+   "modId": "aero_addition",
+   "version": "1.0.2",
+   "display": "Aeronautics Addition"
+  },
+  {
+   "file": "alloy_smelter-neoforge-1.21.1-1.1.2.jar",
+   "size": 122936,
+   "sha1": "5fa842b47f49eddc1e00dfdc749adbe58fc987d9",
+   "modId": "alloy_smelter",
+   "version": "1.1.2",
+   "display": "Alloy Smelter"
+  },
+  {
+   "file": "AlwaysEat-neoforge-1.0.0.jar",
+   "size": 5036,
+   "sha1": "5948137fed00d7bf3fe688e1aecc310b4fa5aaf7",
+   "modId": "always_eat",
+   "version": "1.0.0",
+   "display": "Always Eat"
+  },
+  {
+   "file": "ApothicAttributes-1.21.1-2.9.1.jar",
+   "size": 314269,
+   "sha1": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff",
+   "modId": "apothic_attributes",
+   "version": "2.9.1",
+   "display": "Apothic Attributes"
+  },
+  {
+   "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+   "size": 75804,
+   "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+   "modId": "appleskin",
+   "version": "${file.jarVersion}",
+   "display": "AppleSkin"
+  },
+  {
+   "file": "architectury-13.0.8-neoforge.jar",
+   "size": 584004,
+   "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+   "modId": "architectury",
+   "version": "13.0.8",
+   "display": "Architectury"
+  },
+  {
+   "file": "athena-neoforge-1.21.1-4.0.6.jar",
+   "size": 99944,
+   "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b",
+   "modId": "athena",
+   "version": "4.0.6",
+   "display": "Athena"
+  },
+  {
+   "file": "atlas_api-1.21.1-1.2.0.jar",
+   "size": 28419,
+   "sha1": "79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998",
+   "modId": "atlas_api",
+   "version": "1.21.1-1.2.0",
+   "display": "Atlas API"
+  },
+  {
+   "file": "attributefix-neoforge-1.21.1-21.1.3.jar",
+   "size": 19809,
+   "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+   "modId": "attributefix",
+   "version": "21.1.3",
+   "display": "AttributeFix"
+  },
+  {
+   "file": "azimuth-1.4.10.jar",
+   "size": 143818,
+   "sha1": "911e255bd09a6bcb2ca85ea172d1812e0f4665f1",
+   "modId": "azimuth",
+   "version": "1.4.10",
+   "display": "Azimuth"
+  },
+  {
+   "file": "balm-neoforge-1.21.1-21.0.56.jar",
+   "size": 739709,
+   "sha1": "c1c1d4859c7943c7d1c181c07fa7273a1d56df15",
+   "modId": "balm",
+   "version": "21.0.56",
+   "display": "Balm"
+  },
+  {
+   "file": "barbequesdelight-1.3.0.jar",
+   "size": 847092,
+   "sha1": "b69ee6fdd97d0d01eb0a6e9996912457226da909",
+   "modId": "barbequesdelight",
+   "version": "1.3.0",
+   "display": "Barbeque's Delight"
+  },
+  {
+   "file": "bits_n_bobs-2.3.5.jar",
+   "size": 2433531,
+   "sha1": "50119ba6849f2b165ab692ab312dbe4867444ac0",
+   "modId": "bits_n_bobs",
+   "version": "2.3.5",
+   "display": "Create Bits 'n' Bobs"
+  },
+  {
+   "file": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+   "size": 328813,
+   "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+   "modId": "bookshelf",
+   "version": "21.1.81",
+   "display": "Bookshelf"
+  },
+  {
+   "file": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+   "size": 1575450,
+   "sha1": "bc86c776779b16dec386f4b667ff46d9e2ecb88d",
+   "modId": "brewinandchewin",
+   "version": "4.5.0",
+   "display": "Brewin' And Chewin'"
+  },
+  {
+   "file": "byepregen-1.21.1-1.1.3.4.jar",
+   "size": 910229,
+   "sha1": "090d0b077abe679097ca74466ee6f51a6a96a4f1",
+   "modId": "byepregen",
+   "version": "1.1.3.4",
+   "display": "ByePregen"
+  },
+  {
+   "file": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+   "size": 3717706,
+   "sha1": "469497c209e77742a85020845a361851f14d99e2",
+   "modId": "c2me",
+   "version": "0.4.0-alpha.0.124+1.21.1",
+   "display": "Concurrent Chunk Management Engine"
+  },
+  {
+   "file": "c6c-lite-1.0.0.0-all.jar",
+   "size": 638703,
+   "sha1": "96598fc763de4ae227521ffd291b6d8e4b09ec89",
+   "modId": "c6c",
+   "version": "1.0.0.0",
+   "display": "C6C-lite"
+  },
+  {
+   "file": "carryon-neoforge-1.21.1-2.2.2.11.jar",
+   "size": 347647,
+   "sha1": "081c4817a3059f06c387805c6504b315b554a2b0",
+   "modId": "carryon",
+   "version": "2.2.2",
+   "display": "Carry On"
+  },
+  {
+   "file": "chefsdelight-1.0.6.jar",
+   "size": 98747,
+   "sha1": "9e5992b895dbde9f31fd2f0590dcac925adfcc55",
+   "modId": "chefsdelight",
+   "version": "1.0.6",
+   "display": "Chefs Delight"
+  },
+  {
+   "file": "Chunky-NeoForge-1.4.23.jar",
+   "size": 340572,
+   "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+   "modId": "chunky",
+   "version": "1.4.23",
+   "display": "Chunky"
+  },
+  {
+   "file": "cloth-config-15.0.140-neoforge.jar",
+   "size": 1163890,
+   "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+   "modId": "cloth_config",
+   "version": "15.0.140",
+   "display": "Cloth Config v15 API"
+  },
+  {
+   "file": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+   "size": 156588,
+   "sha1": "ec63110d126cf95dabe220116bd394e701265de7",
+   "modId": "colorfulhearts",
+   "version": "10.5.9",
+   "display": "Colorful Hearts"
+  },
+  {
+   "file": "colorwheel-neoforge-1.3.0+mc1.21.1.jar",
+   "size": 514376,
+   "sha1": "350a9476147f00e351745ae1c1446eefe706bd89",
+   "modId": "colorwheel",
+   "version": "1.3.0+mc1.21.1",
+   "display": "Colorwheel"
+  },
+  {
+   "file": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+   "size": 210569,
+   "sha1": "0e63780e5b8af294bf58609ac866b9866ab9537b",
+   "modId": "colorwheel_patcher",
+   "version": "1.0.5+mc1.21.1",
+   "display": "Colorwheel Patcher"
+  },
+  {
+   "file": "connector-2.0.0-beta.17+1.21.1-full.jar",
+   "size": 4573244,
+   "sha1": "ba08b534af7982d0bd25a25b45cb654c09ffec8f",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "constructionwand-kots-1.21.1-2.16.12.jar",
+   "size": 204794,
+   "sha1": "25a0c436f6dd081987c9c24deb63644899c3c0d9",
+   "modId": "constructionwand",
+   "version": "2.16.12",
+   "display": "Construction Wand KOTS"
+  },
+  {
+   "file": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+   "size": 1799381,
+   "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+   "modId": "copycats",
+   "version": "3.0.9+mc.1.21.1-neoforge",
+   "display": "Create: Copycats+"
+  },
+  {
+   "file": "cratedelight-26.07.01-1.21-neoforge.jar",
+   "size": 202120,
+   "sha1": "23522b85b799a781ac9b3a60aa7dafd65bd3bc23",
+   "modId": "cratedelight",
+   "version": "26.07.01-1.21-neoforge",
+   "display": "Crate Delight"
+  },
+  {
+   "file": "create-1.21.1-6.0.10.jar",
+   "size": 19123767,
+   "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+   "modId": "create",
+   "version": "6.0.10",
+   "display": "Create"
+  },
+  {
+   "file": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+   "size": 33123131,
+   "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+   "modId": "aeronautics_bundled",
+   "version": "1.3.2",
+   "display": "Create Aeronautics"
+  },
+  {
+   "file": "create-central-kitchen-2.6.2b.jar",
+   "size": 511818,
+   "sha1": "796355e592455c84c4eee8b7cd998734a9500c0d",
+   "modId": "create_central_kitchen",
+   "version": "2.6.2b",
+   "display": "Create: Central Kitchen"
+  },
+  {
+   "file": "create-enchantment-industry-2.4.2.jar",
+   "size": 1283517,
+   "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734",
+   "modId": "create_enchantment_industry",
+   "version": "2.4.2",
+   "display": "Create: Enchantment Industry"
+  },
+  {
+   "file": "create-integrated-farming-1.4.3.jar",
+   "size": 865429,
+   "sha1": "27cbb530828aa375450d005426e609d96cb254e9",
+   "modId": "create_integrated_farming",
+   "version": "1.4.3",
+   "display": "Create: Integrated Farming"
+  },
+  {
+   "file": "createadditionallogistics-1.21.1-1.4.5.jar",
+   "size": 953230,
+   "sha1": "6acf4d30516b6bf66928aa5d79d6bac6283de44e",
+   "modId": "createadditionallogistics",
+   "version": "1.4.5",
+   "display": "Create: Additional Logistics"
+  },
+  {
+   "file": "createbetterfps-1.21.1-1.1.5.jar",
+   "size": 26542,
+   "sha1": "c06111569e30af58d1cec4b4ee4b545f0021172a",
+   "modId": "createbetterfps",
+   "version": "1.1.5",
+   "display": "CreateBetterFps"
+  },
+  {
+   "file": "createbigcannons-5.11.7+mc.1.21.1.jar",
+   "size": 3771506,
+   "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+   "modId": "createbigcannons",
+   "version": "5.11.7",
+   "display": "Create Big Cannons"
+  },
+  {
+   "file": "createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
+   "size": 573579,
+   "sha1": "b8c4bb988a38a733258ff7c882c873f07df4aaa1",
+   "modId": "createcobblestone",
+   "version": "1.5.1+neoforge-1.21.1-160",
+   "display": "Create Cobblestone"
+  },
+  {
+   "file": "createdeco-2.1.3.jar",
+   "size": 3328498,
+   "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+   "modId": "createdeco",
+   "version": "2.1.3",
+   "display": "Create Deco"
+  },
+  {
+   "file": "createdieselgenerators-1.21.1-1.3.15.jar",
+   "size": 3154746,
+   "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b",
+   "modId": "createdieselgenerators",
+   "version": "1.21.1-1.3.15",
+   "display": "Create Diesel Generators"
+  },
+  {
+   "file": "CreateDragonsPlus-1.11.9.jar",
+   "size": 1085674,
+   "sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb",
+   "modId": "create_dragons_plus",
+   "version": "1.11.9",
+   "display": "Create: Dragons Plus"
+  },
+  {
+   "file": "createefficientvisuals-1.21.1-0.2.0.jar",
+   "size": 223699,
+   "sha1": "ec03b8e8ba508c56ae2f1434973fed27fb78b16f",
+   "modId": "createefficientvisuals",
+   "version": "0.2.0",
+   "display": "Create Efficient Visuals"
+  },
+  {
+   "file": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+   "size": 74294,
+   "sha1": "c9a7d099468adf6a011c4ce33fca62e1391b8c40",
+   "modId": "createfastschematiccannon",
+   "version": "1.4.1-neoforge",
+   "display": "Create: Fast Schematic Cannon"
+  },
+  {
+   "file": "creategearsandtavern-1.1.9-1.21.1.jar",
+   "size": 832438,
+   "sha1": "075961116ba11677f23c0a1d1fec4e443ee974bd",
+   "modId": "creategearsandtavern",
+   "version": "1.1.9",
+   "display": "Create: Gears and Tavern"
+  },
+  {
+   "file": "createimp-1.4.4 HotFix.jar",
+   "size": 1564220,
+   "sha1": "f7d287d4bf2475634a6abf9fefaabff8ad1b21fe",
+   "modId": "createimp",
+   "version": "1.4.4 HotFix",
+   "display": "Create Improve"
+  },
+  {
+   "file": "createliquidfuel-3.0.0-1.21.1.jar",
+   "size": 21815,
+   "sha1": "9a88888ac915d32d8df240153421fdcb170ad88e",
+   "modId": "createliquidfuel",
+   "version": "3.0.0-1.21.1",
+   "display": "Create Liquid Fuel"
+  },
+  {
+   "file": "createoreexcavation-1.21-1.6.8.jar",
+   "size": 476990,
+   "sha1": "9a76b86ec7470d4bd7332f22d6e50a3693098c10",
+   "modId": "createoreexcavation",
+   "version": "1.6.8",
+   "display": "Create Ore Excavation"
+  },
+  {
+   "file": "createphantom-1.0.3.jar",
+   "size": 476115,
+   "sha1": "d7880193cfd52bcaa70c73f502d7291876f3430c",
+   "modId": "createphantom",
+   "version": "1.0.3",
+   "display": "Create Phantom"
+  },
+  {
+   "file": "createprism-1.2.4.jar",
+   "size": 1321641,
+   "sha1": "1aed1bfce9adb7166c9267cc3e946314e57a92a2",
+   "modId": "createprism",
+   "version": "1.2.4",
+   "display": "Create: Prismatic Shine"
+  },
+  {
+   "file": "createpropulsion-1.1.5.jar",
+   "size": 1707765,
+   "sha1": "928e9428ee92d07426c296b04a7fffb1e737e290",
+   "modId": "createpropulsion",
+   "version": "1.1.5",
+   "display": "Create Propulsion: Simulated"
+  },
+  {
+   "file": "createrailgrinding-1.2.2.jar",
+   "size": 883883,
+   "sha1": "7e264665cdc2b1b7b2fd23abdaed62a7e64418c9",
+   "modId": "createrailgrinding",
+   "version": "1.2.2",
+   "display": "Create: Rail Grinding"
+  },
+  {
+   "file": "createredstonelinkgui-1.21.1-1.3.0.jar",
+   "size": 101655,
+   "sha1": "407658116ff3f94fcf14be4662c806f0a4cf9a60",
+   "modId": "createredstonelinkgui",
+   "version": "1.21.1-1.3.0",
+   "display": "Create: Redstone Link GUI"
+  },
+  {
+   "file": "createultimine-1.21.1-neoforge-1.3.2.jar",
+   "size": 95195,
+   "sha1": "5257686b00b3c1ed79737411577914eac182dde4",
+   "modId": "createultimine",
+   "version": "1.3.2",
+   "display": "Create Ultimine"
+  },
+  {
+   "file": "create_aeronautics_toolgun-0.3.6.jar",
+   "size": 1353291,
+   "sha1": "81103160768a52a5bc7fffb5fadc1c441883d5d5",
+   "modId": "create_aeronautics_toolgun",
+   "version": "0.3.6",
+   "display": "Create Aeronautics: Toolgun"
+  },
+  {
+   "file": "create_aeronautics_transmission_linkage-0.2.8.jar",
+   "size": 734744,
+   "sha1": "bccaf90652905ae5f28dcc7e1134099d188ca020",
+   "modId": "aeronautics_utility_objects",
+   "version": "0.2.8",
+   "display": "Create Aeronautics: Transmission & Linkage"
+  },
+  {
+   "file": "create_compressed-2.2.0-neoforge-1.21.1.jar",
+   "size": 158961,
+   "sha1": "286c948a50b085ddfa6360ca8ef176775d32e4fd",
+   "modId": "create_compressed",
+   "version": "2.1.0",
+   "display": "Create Compressed"
+  },
+  {
+   "file": "create_connected-1.3.3-mc1.21.1.jar",
+   "size": 6786784,
+   "sha1": "72c3653116562dbab38dac123f8effc73c747cc9",
+   "modId": "create_connected",
+   "version": "1.3.3-mc1.21.1",
+   "display": "Create: Connected"
+  },
+  {
+   "file": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+   "size": 469490,
+   "sha1": "5878bdf8facd954cce7da3a55ab1d5274fe4ef6d",
+   "modId": "create_easy_structures",
+   "version": "0.2",
+   "display": "Create: Easy Structures"
+  },
+  {
+   "file": "create_ez_stock_ticker-1.0.4.jar",
+   "size": 715885,
+   "sha1": "ca229080faeba4430a75d3fe2fd327af83decc2a",
+   "modId": "create_ez_stock_ticker",
+   "version": "1.0.4",
+   "display": "Create: Ez Stock Ticker"
+  },
+  {
+   "file": "create_flight_control-neoforge-0.6.2.jar",
+   "size": 2352858,
+   "sha1": "781d53d6c1ea86a28914940fb54e2ca10e6f9736",
+   "modId": "create_flight_control",
+   "version": "0.6.2",
+   "display": "Create: Flight Control"
+  },
+  {
+   "file": "create_hypertube-0.6.0-NEOFORGE.jar",
+   "size": 546142,
+   "sha1": "8004b4b3959364609906ea4d7bf409add879a222",
+   "modId": "create_hypertube",
+   "version": "0.6.0",
+   "display": "Create Hypertube"
+  },
+  {
+   "file": "create_mechanical_spawner-1.21.1-1.3.1-6.0.10.jar",
+   "size": 1215658,
+   "sha1": "cbf9012c2c9af8275f41eabf1a9d78769bec996c",
+   "modId": "create_mechanical_spawner",
+   "version": "1.3.1-6.0.10",
+   "display": "Create: Mechanical spawner"
+  },
+  {
+   "file": "create_pattern_schematics-2.0.10.jar",
+   "size": 221764,
+   "sha1": "e3dea574c3b3d590444796a42e8f7456280b1063",
+   "modId": "create_pattern_schematics",
+   "version": "2.0.10",
+   "display": "Create: Pattern Schematics"
+  },
+  {
+   "file": "create_power_loader-2.0.5-mc1.21.1.jar",
+   "size": 442369,
+   "sha1": "5bd3ecef6fc66985e6fdf416706c98fb774ba03d",
+   "modId": "create_power_loader",
+   "version": "2.0.5-mc1.21.1",
+   "display": "Create: Power Loader"
+  },
+  {
+   "file": "create_radar-5.0.3-1.21.1.jar",
+   "size": 5695511,
+   "sha1": "b882aa5a868298bc39196489526d6e2414c050ea",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "create_tweaked_controllers-1.21.1-1.2.7.jar",
+   "size": 303343,
+   "sha1": "6358da213d0eff982c3431a8d004a3e912f7957a",
+   "modId": "create_tweaked_controllers",
+   "version": "1.20.1-1.2.7",
+   "display": "Create: Tweaked Controllers"
+  },
+  {
+   "file": "curios-neoforge-9.5.1+1.21.1.jar",
+   "size": 410690,
+   "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+   "modId": "curios",
+   "version": "9.5.1+1.21.1",
+   "display": "Curios API"
+  },
+  {
+   "file": "deployer-0.1.3.jar",
+   "size": 2022337,
+   "sha1": "e3a39672f10f2d141ef87e69fd1615042c4985d3",
+   "modId": "deployer",
+   "version": "0.1.3",
+   "display": "Deployer"
+  },
+  {
+   "file": "disconnect-packet-fix-neoforge-2.0.1.jar",
+   "size": 8231,
+   "sha1": "3b80e1d4be245787eecf811ff87a2afffbedc886",
+   "modId": "disconnect_packet_fix",
+   "version": "2.0.1",
+   "display": "Disconnect Packet Fix"
+  },
+  {
+   "file": "displaydelight-1.7.0.jar",
+   "size": 1144367,
+   "sha1": "0d2040a348a1d42907561babff9ac983c466b825",
+   "modId": "displaydelight",
+   "version": "1.7.0",
+   "display": "Display Delight"
+  },
+  {
+   "file": "display_case-neoforge-1.21.1-1.2.jar",
+   "size": 52914,
+   "sha1": "be5c53a70ea70f8f6ea1a861d68b99a15a2de8ae",
+   "modId": "display_case",
+   "version": "1.2",
+   "display": "DisplayCase"
+  },
+  {
+   "file": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+   "size": 465787,
+   "sha1": "6a3cc7dc17fb701087a9705b06d75d9bb5f09065",
+   "modId": "do_a_barrel_roll",
+   "version": "3.7.3",
+   "display": "Do a Barrel Roll"
+  },
+  {
+   "file": "drivebysable-r2.0.4.jar",
+   "size": 2108362,
+   "sha1": "354c2e529aa4a9c154a2f51595f39860eb3093a1",
+   "modId": "drivebysable",
+   "version": "2.0.4",
+   "display": "Drive-By-Sable"
+  },
+  {
+   "file": "efficient_hashing-neoforge-1.0.0+1.21.1-mod.jar",
+   "size": 23822,
+   "sha1": "1fe794e8819649e09fe43c5b9e682f825eda549c",
+   "modId": "efficient_hashing",
+   "version": "1.0.0",
+   "display": "Efficient Hashing"
+  },
+  {
+   "file": "ends_delight-2.6.1+neoforge.1.21.1.jar",
+   "size": 258124,
+   "sha1": "0613a535d82b7a3d51d0caf0e04b082cb4c062e9",
+   "modId": "ends_delight",
+   "version": "2.6.1+neoforge.1.21.1",
+   "display": "End's Delight"
+  },
+  {
+   "file": "epic-structures-villages-2.0.0.jar",
+   "size": 18704814,
+   "sha1": "fc4f4998c5cfc35484101a9254bd0bd52ed431b2",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "escalated-1.3.2-mc.1.21.1.jar",
+   "size": 512624,
+   "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6",
+   "modId": "escalated",
+   "version": "1.3.2",
+   "display": "Create: Escalated"
+  },
+  {
+   "file": "exposure-neoforge-1.21.1-1.9.19.jar",
+   "size": 2206392,
+   "sha1": "181d328a0328523fa99dd310937c40d917e91029",
+   "modId": "exposure",
+   "version": "1.9.19",
+   "display": "Exposure"
+  },
+  {
+   "file": "extra_gauges-2.1.3.jar",
+   "size": 1064396,
+   "sha1": "c82761ebd4459869fd8eacf7da9ca2c3aa1e54f8",
+   "modId": "extra_gauges",
+   "version": "2.1.3",
+   "display": "Create: Extra Gauges"
+  },
+  {
+   "file": "FarmersDelight-1.21.1-1.3.4.jar",
+   "size": 3160490,
+   "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+   "modId": "farmersdelight",
+   "version": "1.3.4",
+   "display": "Farmer's Delight"
+  },
+  {
+   "file": "fastleafdecay-35.jar",
+   "size": 9511,
+   "sha1": "589f05dcd58d3708cee9046b23fe11fb81a25d2e",
+   "modId": "fastleafdecay",
+   "version": "35",
+   "display": "FastLeafDecay"
+  },
+  {
+   "file": "fasttag-1.21.1-26.1-neoforge.jar",
+   "size": 8970,
+   "sha1": "cf32cb2c6eaba90c5526eeeba2877e2cc6001fa5",
+   "modId": "fasttag",
+   "version": "1.21.1-26.1-neoforge",
+   "display": "Fast Tag"
+  },
+  {
+   "file": "ferritecore-7.0.3-neoforge.jar",
+   "size": 121559,
+   "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+   "modId": "ferritecore",
+   "version": "7.0.3",
+   "display": "Ferrite Core"
+  },
+  {
+   "file": "flatbedrock-neoforge-87.0.0.jar",
+   "size": 7728,
+   "sha1": "ff6bdbf6d18c53277efaab3731fc6436deff37db",
+   "modId": "flatbedrock",
+   "version": "87.0.0",
+   "display": "Flat Bedrock"
+  },
+  {
+   "file": "flerovium-neoforge-1.21.1-1.2.0-all.jar",
+   "size": 194016,
+   "sha1": "09917774048af0ebf7f4d2293f281bfcd3df2fdb",
+   "modId": "flerovium",
+   "version": "1.2.0",
+   "display": "Flerovium"
+  },
+  {
+   "file": "fluidlogistics-1.3.2-mc1.21.1.jar",
+   "size": 2813250,
+   "sha1": "61e26886381404a443c5b7bcc5b0b293f3d434ac",
+   "modId": "fluidlogistics",
+   "version": "1.3.2",
+   "display": "Create FluidLogistics "
+  },
+  {
+   "file": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+   "size": 5613421,
+   "sha1": "87b28db4ef88268fbbaea2c0ca7e3dfcc27961a8",
+   "modId": "fabric_api",
+   "version": "${file.jarVersion}",
+   "display": "Forgified Fabric API"
+  },
+  {
+   "file": "framework-neoforge-1.21.1-0.13.11.jar",
+   "size": 387334,
+   "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+   "modId": "framework",
+   "version": "0.13.11",
+   "display": "Framework"
+  },
+  {
+   "file": "frequency-1.21.1-neoforge-0.2.0.jar",
+   "size": 805071,
+   "sha1": "49249ab4464b195165bd1700909dc5020633e766",
+   "modId": "frequency",
+   "version": "0.2.0",
+   "display": "Frequency for Create"
+  },
+  {
+   "file": "ftb-library-neoforge-2101.1.32.jar",
+   "size": 1416263,
+   "sha1": "836411988409e166020db2914cab5d4f93466fc4",
+   "modId": "ftblibrary",
+   "version": "2101.1.32",
+   "display": "FTB Library"
+  },
+  {
+   "file": "ftb-quests-neoforge-2101.1.26.jar",
+   "size": 1470760,
+   "sha1": "831328b1f1aefc3b9ce5b7ff8c799a6610ccc1ab",
+   "modId": "ftbquests",
+   "version": "2101.1.26",
+   "display": "FTB Quests"
+  },
+  {
+   "file": "ftb-teams-neoforge-2101.1.10.jar",
+   "size": 302712,
+   "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225",
+   "modId": "ftbteams",
+   "version": "2101.1.10",
+   "display": "FTB Teams"
+  },
+  {
+   "file": "ftb-ultimine-neoforge-2101.1.14.jar",
+   "size": 175976,
+   "sha1": "5ad3196e1aa68884065b1713d6754ff2f341059b",
+   "modId": "ftbultimine",
+   "version": "2101.1.14",
+   "display": "FTB Ultimine"
+  },
+  {
+   "file": "ftb-xmod-compat-neoforge-21.1.8.jar",
+   "size": 141328,
+   "sha1": "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6",
+   "modId": "ftbxmodcompat",
+   "version": "21.1.8",
+   "display": "FTB XMod Compat"
+  },
+  {
+   "file": "fxntstorage-1.3.4+mc-1.21.1-neoforge.jar",
+   "size": 1682545,
+   "sha1": "cc2b61682e0308aa7d01881b5baa401187cee33f",
+   "modId": "fxntstorage",
+   "version": "1.3.4",
+   "display": "Create: Storage"
+  },
+  {
+   "file": "fzzy_config-0.7.6+1.21+neoforge.jar",
+   "size": 2369895,
+   "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+   "modId": "fzzy_config",
+   "version": "0.7.6+1.21+neoforge",
+   "display": "Fzzy Config"
+  },
+  {
+   "file": "geckolib-neoforge-1.21.1-4.9.3.jar",
+   "size": 634531,
+   "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+   "modId": "geckolib",
+   "version": "4.9.3",
+   "display": "GeckoLib 4"
+  },
+  {
+   "file": "hephaestus-neoforge-1.21.1-1.0.12.jar",
+   "size": 1156547,
+   "sha1": "8e1f1059583a83ac66bd74a5d9c43c9a4cf228da",
+   "modId": "hephaestus",
+   "version": "1.0.12",
+   "display": "Hephaestus Forge"
+  },
+  {
+   "file": "hephaestus_tools-neoforge-1.21.1-1.0.3.jar",
+   "size": 1516948,
+   "sha1": "bf6f49360d9a5668760ed1f2642004ced930d6a6",
+   "modId": "hephaestus_tools",
+   "version": "1.0.3",
+   "display": "Hephaestus Tools"
+  },
+  {
+   "file": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+   "size": 460577,
+   "sha1": "52875dc5fd560c99721565bfced9c47dbff9acfa",
+   "modId": "hoporp",
+   "version": "1.4.4",
+   "display": "HopoBetterRuinedPortals"
+  },
+  {
+   "file": "horseman-neoforge-1.21.1-1.5.9.jar",
+   "size": 445058,
+   "sha1": "2895ff3d881778e06a7383bc4a1120ca86c1c4f1",
+   "modId": "horseman",
+   "version": "1.5.9",
+   "display": "Horseman"
+  },
+  {
+   "file": "hotbath-1.21.1-3.0.1.jar",
+   "size": 705944,
+   "sha1": "f55e9dcc0942f823e80d27e37115443207e27a8d",
+   "modId": "hotbath",
+   "version": "1.21.1-3.0.1",
+   "display": "Hot Bath"
+  },
+  {
+   "file": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+   "size": 361795,
+   "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
+   "modId": "immediatelyfast",
+   "version": "1.6.11+1.21.1",
+   "display": "ImmediatelyFast"
+  },
+  {
+   "file": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+   "size": 2540723,
+   "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+   "modId": "iris",
+   "version": "1.8.14-beta.1+mc1.21.1",
+   "display": "Iris"
+  },
+  {
+   "file": "irons_jewelry-1.21.1-1.6.0.jar",
+   "size": 710072,
+   "sha1": "cfe850e81232ec0fce3d806e5d365f077f04030e",
+   "modId": "irons_jewelry",
+   "version": "1.21.1-1.6.0",
+   "display": "Iron's Gems 'n Jewelry"
+  },
+  {
+   "file": "Jade-1.21.1-NeoForge-15.10.6.jar",
+   "size": 726853,
+   "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+   "modId": "jade",
+   "version": "${file.jarVersion}",
+   "display": "Jade"
+  },
+  {
+   "file": "jecharacters-1.21.1-neoforge-4.5.30.jar",
+   "size": 255428,
+   "sha1": "1fcdebfe66b3477c1826948b7458a01bcf3d8930",
+   "modId": "jecharacters",
+   "version": "4.5.30",
+   "display": "Just Enough Characters"
+  },
+  {
+   "file": "jei-1.21.1-neoforge-19.57.0.451.jar",
+   "size": 2253017,
+   "sha1": "d639d83bf108b258e722a53f40a41a69e83f8ca6",
+   "modId": "jei",
+   "version": "19.57.0.451",
+   "display": "Just Enough Items"
+  },
+  {
+   "file": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+   "size": 3496661,
+   "sha1": "9093e830c91a8f2e19eca7dda78713f0bbc21327",
+   "modId": "kaleidoscope_cookery",
+   "version": "1.6.0-neoforge+mc1.21.1",
+   "display": "Kaleidoscope Cookery"
+  },
+  {
+   "file": "kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar",
+   "size": 3744886,
+   "sha1": "c6a0094abd25823155adada78aeac7742d0e9828",
+   "modId": "kaleidoscope_doll",
+   "version": "1.4.2-neoforge+mc1.21.1",
+   "display": "Kaleidoscope Doll"
+  },
+  {
+   "file": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+   "size": 1708047,
+   "sha1": "bf026cb97921749adf6155181d2f9639d37a7261",
+   "modId": "kaleidoscope_tavern",
+   "version": "1.2.0-neoforge+mc1.21.1",
+   "display": "Kaleidoscope Tavern"
+  },
+  {
+   "file": "kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar",
+   "size": 1379264,
+   "sha1": "3a3c849e5629a604c90b36741ab379a0a2e5f871",
+   "modId": "kaleidoscope_compat",
+   "version": "2.9.7-neoforge+mc1.21.1",
+   "display": "Kaleidoscope Compat"
+  },
+  {
+   "file": "kotlinforforge-5.12.0-all.jar",
+   "size": 7279276,
+   "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+   "size": 1015871,
+   "sha1": "3b9253fcfaa11586ce528fbc0a26175991c9408f",
+   "modId": "krypton_fnp",
+   "version": "0.2.28.1-1.21.1",
+   "display": "Krypton FNP"
+  },
+  {
+   "file": "kubejs-neoforge-2101.7.2-build.368.jar",
+   "size": 2281720,
+   "sha1": "cd8e1e392d642e4d0f1fbc099d93da105c263d0d",
+   "modId": "kubejs",
+   "version": "2101.7.2-build.368",
+   "display": "KubeJS"
+  },
+  {
+   "file": "kubejstweaks-1.0.6.jar",
+   "size": 421764,
+   "sha1": "6548ec47aa6b0498c3018cde40d9d0a203b67446",
+   "modId": "kubejstweaks",
+   "version": "1.0.6",
+   "display": "KubeJS Tweaks"
+  },
+  {
+   "file": "l2library-3.0.7.jar",
+   "size": 973718,
+   "sha1": "4a8cc2e3f46392ac8a2cfb284a009c4fa62ff5e6",
+   "modId": "l2library",
+   "version": "3.0.7",
+   "display": "L2Library"
+  },
+  {
+   "file": "ldlib2-neoforge-1.21.1-2.2.44-all.jar",
+   "size": 7702551,
+   "sha1": "39d4b7c1fba4ed56d5680b7acd0e559690c4e763",
+   "modId": "ldlib2",
+   "version": "2.2.44",
+   "display": "LowDragLib2"
+  },
+  {
+   "file": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+   "size": 774220,
+   "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+   "modId": "lithium",
+   "version": "0.15.4+mc1.21.1",
+   "display": "Lithium"
+  },
+  {
+   "file": "lmft-1.1.1+1.21.9-neoforge.jar",
+   "size": 78624,
+   "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770",
+   "modId": "lmft",
+   "version": "1.1.1+1.21.9",
+   "display": "Load My F***ing Tags"
+  },
+  {
+   "file": "lootjs-neoforge-1.21.1-3.7.0.jar",
+   "size": 247689,
+   "sha1": "54ffddd1763ae4af84e9bbcb22e4081a1e7f3556",
+   "modId": "lootjs",
+   "version": "1.21.1-3.7.0",
+   "display": "LootJS"
+  },
+  {
+   "file": "lootr-neoforge-1.21.1-1.11.37.121.jar",
+   "size": 982683,
+   "sha1": "88c574c084ea00ddbda6a8c3ea29f1ec700e5fe2",
+   "modId": "lootr",
+   "version": "1.21.1-1.11.37.121",
+   "display": "Lootr"
+  },
+  {
+   "file": "maidsoulkitchen-1.21.1-beta-v0.1.4.jar",
+   "size": 1025696,
+   "sha1": "59fd41b4abe99162afd3afd71bc78effd34cf9d2",
+   "modId": "${mod_id}",
+   "version": "${mod_version}",
+   "display": "${mod_name}"
+  },
+  {
+   "file": "MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+   "size": 157169,
+   "sha1": "b6105222645e2946bb93186d133e8e03baa61e88",
+   "modId": "muhc",
+   "version": "1.6.2",
+   "display": "MaidUseHandCrank"
+  },
+  {
+   "file": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+   "size": 20034,
+   "sha1": "56243df705c150933642f7108b0d882322147d63",
+   "modId": "maxhealthfix",
+   "version": "21.1.4",
+   "display": "MaxHealthFix"
+  },
+  {
+   "file": "mechanicals-1.21.1-1.1.4.jar",
+   "size": 2007954,
+   "sha1": "51fb95f943db9382f7aa9a0a35ce4f79c5d578fa",
+   "modId": "mechanicals",
+   "version": "1.1.4",
+   "display": "Mechanicals Lib"
+  },
+  {
+   "file": "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+   "size": 438618,
+   "sha1": "b5986544126a7600f70ea20709d28b11f28cd6ab",
+   "modId": "${mod_id}",
+   "version": "${mod_version}",
+   "display": "${mod_name}"
+  },
+  {
+   "file": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+   "size": 327173,
+   "sha1": "d99ed592d8ab7105c00444047be7d8346d694ba3",
+   "modId": "",
+   "version": "",
+   "display": ""
+  },
+  {
+   "file": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+   "size": 614138,
+   "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
+   "modId": "modernfix",
+   "version": "5.27.27+mc1.21.1",
+   "display": "ModernFix"
+  },
+  {
+   "file": "modulargolems-3.1.44.jar",
+   "size": 3685088,
+   "sha1": "9fbd6186a7f399d7d80633103238ddc17d8a16c8",
+   "modId": "modulargolems",
+   "version": "3.1.44",
+   "display": "Modular Golems"
+  },
+  {
+   "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+   "size": 73938,
+   "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+   "modId": "mousetweaks",
+   "version": "2.26.1",
+   "display": "Mouse Tweaks"
+  },
+  {
+   "file": "MyNethersDelight-1.21.1-1.10.4.1.jar",
+   "size": 905059,
+   "sha1": "9c54439d65e77c7b4b711831138f81f3a849ff35",
+   "modId": "mynethersdelight",
+   "version": "1.10.4.1",
+   "display": "My Nether's Delight"
+  },
+  {
+   "file": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+   "size": 224657,
+   "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95",
+   "modId": "naturescompass",
+   "version": "1.21.1-3.4.0-neoforge",
+   "display": "Nature's Compass"
+  },
+  {
+   "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+   "size": 46623,
+   "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+   "modId": "packetfixer",
+   "version": "3.3.1",
+   "display": "PacketFixer"
+  },
+  {
+   "file": "Patchouli-1.21.1-93-NEOFORGE.jar",
+   "size": 646777,
+   "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+   "modId": "patchouli",
+   "version": "${file.jarVersion}",
+   "display": "Patchouli"
+  },
+  {
+   "file": "Placebo-1.21.1-9.9.3.jar",
+   "size": 325017,
+   "sha1": "37b1cf95c23a72caafc5d5c9671bbf1fa62bee14",
+   "modId": "placebo",
+   "version": "9.9.3",
+   "display": "Placebo"
+  },
+  {
+   "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+   "size": 174972,
+   "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+   "modId": "polymorph",
+   "version": "1.1.0+1.21.1",
+   "display": "Polymorph"
+  },
+  {
+   "file": "powerful_dummy-21-0.0.10.jar",
+   "size": 150907,
+   "sha1": "151e9fe6cb4291aad88df87db6c5aad4777b1eea",
+   "modId": "powerful_dummy",
+   "version": "21-0.0.10",
+   "display": "Powerful Dummy"
+  },
+  {
+   "file": "prickle-neoforge-1.21.1-21.1.11.jar",
+   "size": 84812,
+   "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+   "modId": "prickle",
+   "version": "21.1.11",
+   "display": "PrickleMC"
+  },
+  {
+   "file": "railways-0.2.1+neoforge-mc1.21.1.jar",
+   "size": 12118736,
+   "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
+   "modId": "railways",
+   "version": "0.2.1+neoforge-mc1.21.1",
+   "display": "Create: Steam 'n' Rails 1.21.1"
+  },
+  {
+   "file": "reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
+   "size": 617092,
+   "sha1": "6f67a2b70506db7bcc13031739cf98d5994c4725",
+   "modId": "reddensstonelantern",
+   "version": "1.0.3",
+   "display": "Redden's Stone Lanterns"
+  },
+  {
+   "file": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+   "size": 341009,
+   "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+   "modId": "resourcefulconfig",
+   "version": "3.0.11",
+   "display": "Resourcefulconfig"
+  },
+  {
+   "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+   "size": 484332,
+   "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+   "modId": "resourcefullib",
+   "version": "3.0.12",
+   "display": "Resourceful Lib"
+  },
+  {
+   "file": "Retraining-neoforge-1.21-2.0.0.jar",
+   "size": 21051,
+   "sha1": "f7a269d4745b79fc3fed832d050760debcdb65b8",
+   "modId": "retraining",
+   "version": "${file.jarVersion}",
+   "display": "Retraining"
+  },
+  {
+   "file": "rhino-2101.2.7-build.85.jar",
+   "size": 882075,
+   "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
+   "modId": "rhino",
+   "version": "2101.2.7-build.85",
+   "display": "Rhino"
+  },
+  {
+   "file": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+   "size": 76369,
+   "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+   "modId": "ritchiesprojectilelib",
+   "version": "2.1.2",
+   "display": "Ritchie's Projectile Library"
+  },
+  {
+   "file": "sable-neoforge-1.21.1-2.0.6.jar",
+   "size": 12986135,
+   "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+   "modId": "sable",
+   "version": "2.0.6",
+   "display": "Sable"
+  },
+  {
+   "file": "sable-photomancy-1.0.1.jar",
+   "size": 1607474,
+   "sha1": "4f33a1ce8f4c241afe0963d7c96e2d612cc62ee1",
+   "modId": "sable_schematic_api",
+   "version": "1.0.1",
+   "display": "Sable Photomancy"
+  },
+  {
+   "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+   "size": 77326,
+   "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+   "modId": "searchables",
+   "version": "1.0.2",
+   "display": "Searchables"
+  },
+  {
+   "file": "serverwarashi-1.21.1-2.1.1.5.jar",
+   "size": 1021526,
+   "sha1": "369ed62129c1e24ed3f7527c6cb58fbd413811fd",
+   "modId": "serverwarashi",
+   "version": "2.1.1.5",
+   "display": "ServerWarashi"
+  },
+  {
+   "file": "SimpleBackups-1.21-4.0.21.jar",
+   "size": 48608,
+   "sha1": "35bb3b98f330e0f6d08466860157a578a1ecfca2",
+   "modId": "simplebackups",
+   "version": "1.21-4.0.21",
+   "display": "Simple Backups"
+  },
+  {
+   "file": "simpletomb-1.21.1-1.4.4.jar",
+   "size": 284497,
+   "sha1": "f034ccbc4e133ba26efeb8333c3c58d0de3f2430",
+   "modId": "simpletomb",
+   "version": "${file.jarVersion}",
+   "display": "Simple Tombstone"
+  },
+  {
+   "file": "simulatedcoasters-0.1.5.jar",
+   "size": 1892119,
+   "sha1": "4d3381b781a1129f793358b8ae13e0abcd2e655b",
+   "modId": "simulatedcoasters",
+   "version": "0.1.5",
+   "display": "Create: Coasters Simulated"
+  },
+  {
+   "file": "simulated_gauges-1.1.0.jar",
+   "size": 828225,
+   "sha1": "3588378ea8d5e424ecd00fdaa16a4e3355f09365",
+   "modId": "simulated_gauges",
+   "version": "1.1.0",
+   "display": "Simulated Gauges"
+  },
+  {
+   "file": "smart_bounds-1.0.0.jar",
+   "size": 749901,
+   "sha1": "9d271d70b1d2870d5c232e71e2923abaac3a6767",
+   "modId": "smart_bounds",
+   "version": "1.0.0",
+   "display": "Create: Smart Bounds"
+  },
+  {
+   "file": "smrb-1.0.0.jar",
+   "size": 6416,
+   "sha1": "808fd90107f20f4a4268bf3164be7fd521e83509",
+   "modId": "smrb",
+   "version": "1.0.0",
+   "display": "SaveMyRecipeBook"
+  },
+  {
+   "file": "smsn-neoforge-1.4.3-1.21.1.jar",
+   "size": 116160,
+   "sha1": "168834dc0bcc8286ad3fd408dbc97c5faa1fedd5",
+   "modId": "smsn",
+   "version": "1.4.3-1.21.1",
+   "display": "Save My Shit Network"
+  },
+  {
+   "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+   "size": 1292934,
+   "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+   "modId": "sodium",
+   "version": "0.8.13+mc1.21.1",
+   "display": "Sodium"
+  },
+  {
+   "file": "sootychimneys-neoforge-1.3.5.jar",
+   "size": 175697,
+   "sha1": "be15102bd2468a224fb02e4d243b54bfca2c9c49",
+   "modId": "sootychimneys",
+   "version": "1.3.5",
+   "display": "Sooty Chimneys"
+  },
+  {
+   "file": "spark-1.10.124-neoforge.jar",
+   "size": 3642581,
+   "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+   "modId": "spark",
+   "version": "1.10.124",
+   "display": "spark"
+  },
+  {
+   "file": "StructureCompass-1.21.1-4.2.1.jar",
+   "size": 77540,
+   "sha1": "e1204b7f9e2650b1a1969efb043586d90bddd063",
+   "modId": "structurecompass",
+   "version": "${file.jarVersion}",
+   "display": "Structure Compass Mod"
+  },
+  {
+   "file": "structure_layout_optimizer-neoforge-1.0.12.jar",
+   "size": 61777,
+   "sha1": "052c31cb9881c04c17d949345539aa8684f474bf",
+   "modId": "structure_layout_optimizer",
+   "version": "1.0.12",
+   "display": "Structure Layout Optimizer"
+  },
+  {
+   "file": "struts-1.3.1.jar",
+   "size": 216678,
+   "sha1": "131663d29e0dd944e03299b35bda18aefacd1932",
+   "modId": "struts",
+   "version": "1.3.1",
+   "display": "Strut Your Stuff"
+  },
+  {
+   "file": "takesapillage-neoforge-1.0.13+mc1.21.1.jar",
+   "size": 2785614,
+   "sha1": "5bd588f08b8a6e783d8dc20860373e8b01f8e2df",
+   "modId": "takesapillage",
+   "version": "1.0.13",
+   "display": "It Takes a Pillage Continuation"
+  },
+  {
+   "file": "torchmaster-neoforge-1.21.1-21.1.13.jar",
+   "size": 161205,
+   "sha1": "b139713195dc65bbe66dcdbde87a0d84aa407b5a",
+   "modId": "torchmaster",
+   "version": "21.1.13",
+   "display": "Torchmaster"
+  },
+  {
+   "file": "touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+   "size": 24408776,
+   "sha1": "f96507810deaa2ffd8c3bd86a79d6ccbd56ca32e",
+   "modId": "touhou_little_maid",
+   "version": "1.5.3-neoforge+mc1.21.1",
+   "display": "Touhou Little Maid"
+  },
+  {
+   "file": "tracks_plus-1.0.6b7.jar",
+   "size": 613537,
+   "sha1": "a1df1c19211ce8288e241dc8c3f9167694b20a8f",
+   "modId": "tracks",
+   "version": "1.0.6b7",
+   "display": "Create Tracks+"
+  },
+  {
+   "file": "tradeworks-1.0.7.jar",
+   "size": 1631621,
+   "sha1": "d04d0d7dfac9a28593f2644c469ce608c4415f77",
+   "modId": "tradeworks",
+   "version": "1.0.7",
+   "display": "Create: Tradeworks"
+  },
+  {
+   "file": "trading_floor-3.0.16.jar",
+   "size": 214343,
+   "sha1": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c",
+   "modId": "trading_floor",
+   "version": "3.0.16",
+   "display": "Create: Trading Floor"
+  },
+  {
+   "file": "UsefulSlime-neoforge-1.21-1.12.1.jar",
+   "size": 609239,
+   "sha1": "c28c5cd46ef337bb49fb1defacc1209341268d19",
+   "modId": "usefulslime",
+   "version": "1.12.1",
+   "display": "UsefulSlime"
+  },
+  {
+   "file": "vanillin-neoforge-1.21.1-1.1.3-local.jar",
+   "size": 123858,
+   "sha1": "e77dab1b6f8e76298f816916d6cc8007187b6829",
+   "modId": "vanillin",
+   "version": "1.1.3",
+   "display": "Vanillin"
+  },
+  {
+   "file": "wwoo-2.3.4.jar",
+   "size": 2217959,
+   "sha1": "1e26a8ea18cf133fffd900dce5c3393ee2f81e6c",
+   "modId": "wwoo",
+   "version": "2.3.4",
+   "display": "William Wythers' Overhauled Overworld"
+  },
+  {
+   "file": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "size": 2186351,
+   "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00",
+   "modId": "xaerominimap",
+   "version": "26.6.0",
+   "display": "Xaero's Minimap"
+  },
+  {
+   "file": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+   "size": 1427078,
+   "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
+   "modId": "xaeroworldmap",
+   "version": "1.47.0",
+   "display": "Xaero's World Map"
+  },
+  {
+   "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+   "size": 1118651,
+   "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+   "modId": "yet_another_config_lib_v3",
+   "version": "3.8.2+1.21.1-neoforge",
+   "display": "YetAnotherConfigLib"
+  },
+  {
+   "file": "yuushya-1.21.0-neoforge-2.2.3.jar",
+   "size": 23381639,
+   "sha1": "43e83fef2d10fb133776537604e8fb1d7e5b3969",
+   "modId": "yuushya",
+   "version": "2.2.3",
+   "display": "Yuushya"
+  }
+ ]
+}

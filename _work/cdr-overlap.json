@@ -1,0 +1,961 @@
+[
+ {
+  "modId": "abnormals_delight",
+  "cdrFile": "abnormals_delight-1.20.1-5.0.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "6.0.3",
+  "newFile": "abnormals_delight-1.21.1-6.0.3.jar"
+ },
+ {
+  "modId": "ae2",
+  "cdrFile": "appliedenergistics2-forge-15.4.10.jar",
+  "cdrVersion": "15.4.10",
+  "newVersion": "19.2.20",
+  "newFile": "appliedenergistics2-19.2.20.jar"
+ },
+ {
+  "modId": "ae2omnicells",
+  "cdrFile": "ae2omnicells-1.20.1-forge-1.1.1.jar",
+  "cdrVersion": "1.1.1",
+  "newVersion": "1.1.6",
+  "newFile": "ae2omnicells-1.21.1-neoforge-1.1.6.jar"
+ },
+ {
+  "modId": "ae2wtlib",
+  "cdrFile": "ae2wtlib-15.3.3-forge.jar",
+  "cdrVersion": "15.3.3-forge",
+  "newVersion": "19.5.1",
+  "newFile": "ae2wtlib-19.5.1.jar"
+ },
+ {
+  "modId": "amendments",
+  "cdrFile": "amendments-1.20-2.2.5.jar",
+  "cdrVersion": "1.20-2.2.5",
+  "newVersion": "1.21-2.2.7",
+  "newFile": "amendments-1.21-2.2.7-neoforge.jar"
+ },
+ {
+  "modId": "appleskin",
+  "cdrFile": "appleskin-forge-mc1.20.1-2.5.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "${file.jarVersion}",
+  "newFile": "appleskin-neoforge-mc1.21-3.0.9.jar"
+ },
+ {
+  "modId": "appliedcreate",
+  "cdrFile": "appliedcreate-1.20.1-1.1.6.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.1.8",
+  "newFile": "appliedcreate-1.21.1-1.1.8.jar"
+ },
+ {
+  "modId": "architectury",
+  "cdrFile": "architectury-9.2.14-forge.jar",
+  "cdrVersion": "9.2.14",
+  "newVersion": "13.0.8",
+  "newFile": "architectury-13.0.8-neoforge.jar"
+ },
+ {
+  "modId": "attributefix",
+  "cdrFile": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+  "cdrVersion": "21.0.5",
+  "newVersion": "21.1.3",
+  "newFile": "attributefix-neoforge-1.21.1-21.1.3.jar"
+ },
+ {
+  "modId": "balm",
+  "cdrFile": "balm-forge-1.20.1-7.3.41-all.jar",
+  "cdrVersion": "7.3.41",
+  "newVersion": "21.0.56",
+  "newFile": "balm-neoforge-1.21.1-21.0.56.jar"
+ },
+ {
+  "modId": "bettercombat",
+  "cdrFile": "bettercombat-forge-1.9.0+1.20.1.jar",
+  "cdrVersion": "1.9.0+1.20.1",
+  "newVersion": "2.4.0+1.21.1",
+  "newFile": "bettercombat-neoforge-2.4.0+1.21.1.jar"
+ },
+ {
+  "modId": "bettermineshafts",
+  "cdrFile": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+  "cdrVersion": "1.20-Forge-4.0.4",
+  "newVersion": "1.21.1-NeoForge-5.1.1",
+  "newFile": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+ },
+ {
+  "modId": "betterwitchhuts",
+  "cdrFile": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+  "cdrVersion": "1.20-Forge-3.0.3",
+  "newVersion": "1.21.1-NeoForge-4.1.1",
+  "newFile": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+ },
+ {
+  "modId": "bits_n_bobs",
+  "cdrFile": "bits_n_bobs-0.0.41.jar",
+  "cdrVersion": "0.0.41",
+  "newVersion": "2.3.5",
+  "newFile": "bits_n_bobs-2.3.5.jar"
+ },
+ {
+  "modId": "blueprint",
+  "cdrFile": "blueprint-1.20.1-7.1.3.jar",
+  "cdrVersion": "7.1.3",
+  "newVersion": "8.2.0",
+  "newFile": "blueprint-1.21.1-8.2.0.jar"
+ },
+ {
+  "modId": "bookshelf",
+  "cdrFile": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+  "cdrVersion": "20.2.15",
+  "newVersion": "21.1.81",
+  "newFile": "bookshelf-neoforge-1.21.1-21.1.81.jar"
+ },
+ {
+  "modId": "brewinandchewin",
+  "cdrFile": "BrewinAndChewin-1.20.1-3.2.1.jar",
+  "cdrVersion": "1.20.1-3.2.1",
+  "newVersion": "4.5.0",
+  "newFile": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+ },
+ {
+  "modId": "byepregen",
+  "cdrFile": "byepregen-1.20.1-1.1.2.4-all.jar",
+  "cdrVersion": "1.1.2.4",
+  "newVersion": "1.1.3.4",
+  "newFile": "byepregen-1.21.1-1.1.3.4.jar"
+ },
+ {
+  "modId": "carryon",
+  "cdrFile": "carryon-forge-1.20.1-2.1.2.7.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "2.2.2",
+  "newFile": "carryon-neoforge-1.21.1-2.2.2.11.jar"
+ },
+ {
+  "modId": "cataclysm",
+  "cdrFile": "L_Enders_Cataclysm-3.16.jar",
+  "cdrVersion": "3.16",
+  "newVersion": "3.33",
+  "newFile": "L_Ender's Cataclysm 1.21.1-3.33.jar"
+ },
+ {
+  "modId": "chefsdelight",
+  "cdrFile": "chefsdelight-1.0.4-forge-1.20.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.0.6",
+  "newFile": "chefsdelight-1.0.6.jar"
+ },
+ {
+  "modId": "cloth_config",
+  "cdrFile": "cloth-config-11.1.136-forge.jar",
+  "cdrVersion": "11.1.136",
+  "newVersion": "15.0.140",
+  "newFile": "cloth-config-15.0.140-neoforge.jar"
+ },
+ {
+  "modId": "colorfulhearts",
+  "cdrFile": "colorfulhearts-forge-1.20.1-4.3.16.jar",
+  "cdrVersion": "4.3.16",
+  "newVersion": "10.5.9",
+  "newFile": "colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+ },
+ {
+  "modId": "colorwheel",
+  "cdrFile": "colorwheel-forge-1.3.2-mc1.20.1.jar",
+  "cdrVersion": "1.3.2+mc1.20.1",
+  "newVersion": "1.3.0+mc1.21.1",
+  "newFile": "colorwheel-neoforge-1.3.0+mc1.21.1.jar"
+ },
+ {
+  "modId": "colorwheel_patcher",
+  "cdrFile": "colorwheel_patcher-forge-1.0.5+mc1.20.1.jar",
+  "cdrVersion": "1.0.5+mc1.20.1",
+  "newVersion": "1.0.5+mc1.21.1",
+  "newFile": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar"
+ },
+ {
+  "modId": "comforts",
+  "cdrFile": "comforts-forge-6.4.0+1.20.1.jar",
+  "cdrVersion": "6.4.0+1.20.1",
+  "newVersion": "9.0.5+1.21.1",
+  "newFile": "comforts-neoforge-9.0.5+1.21.1.jar"
+ },
+ {
+  "modId": "constructionwand",
+  "cdrFile": "constructionwand-1.20.1-2.11.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "2.16.12",
+  "newFile": "constructionwand-kots-1.21.1-2.16.12.jar"
+ },
+ {
+  "modId": "copycats",
+  "cdrFile": "copycats-3.0.7+mc.1.20.1-forge.jar",
+  "cdrVersion": "3.0.7+mc.1.20.1-forge",
+  "newVersion": "3.0.9+mc.1.21.1-neoforge",
+  "newFile": "copycats-3.0.9+mc.1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "corn_delight",
+  "cdrFile": "corn_delight-1.2.11-1.20.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.2.10-1.21.1",
+  "newFile": "corn_delight-1.2.10-1.21.1.jar"
+ },
+ {
+  "modId": "crabbersdelight",
+  "cdrFile": "crabbersdelight-1.20.1-1.2.3.jar",
+  "cdrVersion": "1.2.3",
+  "newVersion": "1.3.1",
+  "newFile": "crabbersdelight-1.21.1-1.3.1.jar"
+ },
+ {
+  "modId": "cratedelight",
+  "cdrFile": "cratedelight-26.07.01-1.20-forge.jar",
+  "cdrVersion": "26.07.01-1.20-forge",
+  "newVersion": "26.07.01-1.21-neoforge",
+  "newFile": "cratedelight-26.07.01-1.21-neoforge.jar"
+ },
+ {
+  "modId": "create",
+  "cdrFile": "create-1.20.1-6.0.8.jar",
+  "cdrVersion": "6.0.8",
+  "newVersion": "6.0.10",
+  "newFile": "create-1.21.1-6.0.10.jar"
+ },
+ {
+  "modId": "create_central_kitchen",
+  "cdrFile": "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "2.6.2b",
+  "newFile": "create-central-kitchen-2.6.2b.jar"
+ },
+ {
+  "modId": "create_confectionery",
+  "cdrFile": "create-confectionery1.20.1_v1.1.3.jar",
+  "cdrVersion": "1.1.3",
+  "newVersion": "1.1.0",
+  "newFile": "create-confectionery1.21.1_v1.1.3b.jar"
+ },
+ {
+  "modId": "create_connected",
+  "cdrFile": "create_connected-1.2.3-mc1.20.1-all.jar",
+  "cdrVersion": "1.2.3-mc1.20.1",
+  "newVersion": "1.3.3-mc1.21.1",
+  "newFile": "create_connected-1.3.3-mc1.21.1.jar"
+ },
+ {
+  "modId": "create_dragons_plus",
+  "cdrFile": "CreateDragonsPlus-1.11.9.jar",
+  "cdrVersion": "1.11.9",
+  "newVersion": "1.11.9",
+  "newFile": "CreateDragonsPlus-1.11.9.jar"
+ },
+ {
+  "modId": "create_enchantment_industry",
+  "cdrFile": "create-enchantment-industry-2.5.4.jar",
+  "cdrVersion": "2.5.4",
+  "newVersion": "2.4.2",
+  "newFile": "create-enchantment-industry-2.4.2.jar"
+ },
+ {
+  "modId": "create_integrated_farming",
+  "cdrFile": "create-integrated-farming-1.4.3.2-1.20.1.jar",
+  "cdrVersion": "1.4.3.2-1.20.1",
+  "newVersion": "1.4.3",
+  "newFile": "create-integrated-farming-1.4.3.jar"
+ },
+ {
+  "modId": "create_pattern_schematics",
+  "cdrFile": "create_pattern_schematics-1.3.3.jar",
+  "cdrVersion": "1.3.3",
+  "newVersion": "2.0.10",
+  "newFile": "create_pattern_schematics-2.0.10.jar"
+ },
+ {
+  "modId": "createadditionallogistics",
+  "cdrFile": "createadditionallogistics-1.20.1-1.4.5.jar",
+  "cdrVersion": "1.4.5",
+  "newVersion": "1.4.5",
+  "newFile": "createadditionallogistics-1.21.1-1.4.5.jar"
+ },
+ {
+  "modId": "createbetterfps",
+  "cdrFile": "createbetterfps-1.20.1-1.1.2.jar",
+  "cdrVersion": "1.1.2",
+  "newVersion": "1.1.5",
+  "newFile": "createbetterfps-1.21.1-1.1.5.jar"
+ },
+ {
+  "modId": "createdeco",
+  "cdrFile": "createdeco-2.0.3-1.20.1-forge.jar",
+  "cdrVersion": "2.0.3-1.20.1-forge",
+  "newVersion": "2.1.3",
+  "newFile": "createdeco-2.1.3.jar"
+ },
+ {
+  "modId": "createdieselgenerators",
+  "cdrFile": "createdieselgenerators-1.20.1-1.3.12.jar",
+  "cdrVersion": "1.20.1-1.3.12",
+  "newVersion": "1.21.1-1.3.15",
+  "newFile": "createdieselgenerators-1.21.1-1.3.15.jar"
+ },
+ {
+  "modId": "createfastschematiccannon",
+  "cdrFile": "CreateFastSchematicCannon-1.4.1-6.0.x-forge-1.20.1.jar",
+  "cdrVersion": "1.4.1-6.0.x",
+  "newVersion": "1.4.1-neoforge",
+  "newFile": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar"
+ },
+ {
+  "modId": "createliquidfuel",
+  "cdrFile": "createliquidfuel-2.1.1-1.20.1.jar",
+  "cdrVersion": "2.1.1-1.20.1",
+  "newVersion": "3.0.0-1.21.1",
+  "newFile": "createliquidfuel-3.0.0-1.21.1.jar"
+ },
+ {
+  "modId": "createoreexcavation",
+  "cdrFile": "createoreexcavation-1.20-1.6.5.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.6.8",
+  "newFile": "createoreexcavation-1.21-1.6.8.jar"
+ },
+ {
+  "modId": "createprism",
+  "cdrFile": "createprism-1.20-1.1.0.jar",
+  "cdrVersion": "1.0.1",
+  "newVersion": "1.2.4",
+  "newFile": "createprism-1.2.4.jar"
+ },
+ {
+  "modId": "createredstonelinkgui",
+  "cdrFile": "createredstonelinkgui-1.20.1-1.9.1.jar",
+  "cdrVersion": "1.20.1-1.9.1",
+  "newVersion": "1.21.1-1.3.0",
+  "newFile": "createredstonelinkgui-1.21.1-1.3.0.jar"
+ },
+ {
+  "modId": "createultimine",
+  "cdrFile": "createultimine-1.20.1-forge-1.3.1.jar",
+  "cdrVersion": "1.3.1",
+  "newVersion": "1.3.2",
+  "newFile": "createultimine-1.21.1-neoforge-1.3.2.jar"
+ },
+ {
+  "modId": "creeperoverhaul",
+  "cdrFile": "creeperoverhaul-3.0.2-forge.jar",
+  "cdrVersion": "3.0.2",
+  "newVersion": "4.0.6",
+  "newFile": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+ },
+ {
+  "modId": "cristellib",
+  "cdrFile": "cristellib-1.1.6-forge.jar",
+  "cdrVersion": "1.1.6",
+  "newVersion": "3.1.7",
+  "newFile": "cristellib-neoforge-1.21.1-3.1.7.jar"
+ },
+ {
+  "modId": "cuisinedelight",
+  "cdrFile": "cuisinedelight-1.1.20.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.2.10",
+  "newFile": "cuisinedelight-1.2.10.jar"
+ },
+ {
+  "modId": "culturaldelights",
+  "cdrFile": "culturaldelights-0.16.7.jar",
+  "cdrVersion": "0.16.6",
+  "newVersion": "0.19.8",
+  "newFile": "culturaldelights-1.21.1-0.19.8.jar"
+ },
+ {
+  "modId": "curios",
+  "cdrFile": "curios-forge-5.14.1+1.20.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "9.5.1+1.21.1",
+  "newFile": "curios-neoforge-9.5.1+1.21.1.jar"
+ },
+ {
+  "modId": "displaydelight",
+  "cdrFile": "displaydelight-1.7.0.jar",
+  "cdrVersion": "1.7.0",
+  "newVersion": "1.7.0",
+  "newFile": "displaydelight-1.7.0.jar"
+ },
+ {
+  "modId": "dungeonsdelight",
+  "cdrFile": "forge-dungeonsdelight-1.20.1-1.3.0.jar",
+  "cdrVersion": "1.3.0",
+  "newVersion": "1.5.0",
+  "newFile": "neoforge-dungeonsdelight-1.21.1-1.5.2.jar"
+ },
+ {
+  "modId": "dynamic_fps",
+  "cdrFile": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+  "cdrVersion": "3.11.4",
+  "newVersion": "3.11.4",
+  "newFile": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+ },
+ {
+  "modId": "eclipticseasons",
+  "cdrFile": "EclipticSeasons-1.20.1-forge-0.13.8.1-all.jar",
+  "cdrVersion": "0.13.8.1",
+  "newVersion": "0.15.5.1",
+  "newFile": "EclipticSeasons-1.21.1-neoforge-0.15.5.1.jar"
+ },
+ {
+  "modId": "ends_delight",
+  "cdrFile": "ends_delight-2.6+forge.1.20.1.jar",
+  "cdrVersion": "2.6+forge.1.20.1",
+  "newVersion": "2.6.1+neoforge.1.21.1",
+  "newFile": "ends_delight-2.6.1+neoforge.1.21.1.jar"
+ },
+ {
+  "modId": "entityculling",
+  "cdrFile": "entityculling-forge-1.10.5-mc1.20.1.jar",
+  "cdrVersion": "1.10.5",
+  "newVersion": "1.12.1",
+  "newFile": "entityculling-neoforge-1.12.1-mc1.21.1.jar"
+ },
+ {
+  "modId": "extendedae_plus",
+  "cdrFile": "extendedae_plus-1.5.5.jar",
+  "cdrVersion": "1.5.5",
+  "newVersion": "1.6.4.2",
+  "newFile": "extendedae_plus-1.6.4.2.jar"
+ },
+ {
+  "modId": "extra_gauges",
+  "cdrFile": "extra_gauges-2.0.7.jar",
+  "cdrVersion": "2.0.7",
+  "newVersion": "2.1.3",
+  "newFile": "extra_gauges-2.1.3.jar"
+ },
+ {
+  "modId": "farmersdelight",
+  "cdrFile": "FarmersDelight-1.20.1-1.3.2.jar",
+  "cdrVersion": "1.20.1-1.3.2",
+  "newVersion": "1.3.4",
+  "newFile": "FarmersDelight-1.21.1-1.3.4.jar"
+ },
+ {
+  "modId": "ferritecore",
+  "cdrFile": "ferritecore-6.0.1-forge.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "7.0.3",
+  "newFile": "ferritecore-7.0.3-neoforge.jar"
+ },
+ {
+  "modId": "flerovium",
+  "cdrFile": "flerovium-forge-1.20.1-1.2.19-all.jar",
+  "cdrVersion": "1.2.19",
+  "newVersion": "1.2.0",
+  "newFile": "flerovium-neoforge-1.21.1-1.2.0-all.jar"
+ },
+ {
+  "modId": "fluidlogistics",
+  "cdrFile": "fluidlogistics-1.2.7.jar",
+  "cdrVersion": "1.2.7",
+  "newVersion": "1.3.2",
+  "newFile": "fluidlogistics-1.3.2-mc1.21.1.jar"
+ },
+ {
+  "modId": "framework",
+  "cdrFile": "framework-forge-1.20.1-0.8.0.jar",
+  "cdrVersion": "0.8.0",
+  "newVersion": "0.13.11",
+  "newFile": "framework-neoforge-1.21.1-0.13.11.jar"
+ },
+ {
+  "modId": "fruitsdelight",
+  "cdrFile": "fruitsdelight-1.1.3.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.2.14",
+  "newFile": "fruitsdelight-1.2.14.jar"
+ },
+ {
+  "modId": "ftblibrary",
+  "cdrFile": "ftb-library-forge-2001.2.13.jar",
+  "cdrVersion": "2001.2.13",
+  "newVersion": "2101.1.32",
+  "newFile": "ftb-library-neoforge-2101.1.32.jar"
+ },
+ {
+  "modId": "ftbquests",
+  "cdrFile": "ftb-quests-forge-2001.4.22.jar",
+  "cdrVersion": "2001.4.22",
+  "newVersion": "2101.1.26",
+  "newFile": "ftb-quests-neoforge-2101.1.26.jar"
+ },
+ {
+  "modId": "ftbteams",
+  "cdrFile": "ftb-teams-forge-2001.3.2.jar",
+  "cdrVersion": "2001.3.2",
+  "newVersion": "2101.1.10",
+  "newFile": "ftb-teams-neoforge-2101.1.10.jar"
+ },
+ {
+  "modId": "ftbultimine",
+  "cdrFile": "ftb-ultimine-forge-2001.1.8.jar",
+  "cdrVersion": "2001.1.8",
+  "newVersion": "2101.1.14",
+  "newFile": "ftb-ultimine-neoforge-2101.1.14.jar"
+ },
+ {
+  "modId": "ftbxmodcompat",
+  "cdrFile": "ftb-xmod-compat-forge-2.1.3.jar",
+  "cdrVersion": "2.1.3",
+  "newVersion": "21.1.8",
+  "newFile": "ftb-xmod-compat-neoforge-21.1.8.jar"
+ },
+ {
+  "modId": "functionalstorage",
+  "cdrFile": "functionalstorage-1.20.1-1.2.14.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "${file.jarVersion}",
+  "newFile": "functionalstorage-1.21.1-1.5.7.jar"
+ },
+ {
+  "modId": "geckolib",
+  "cdrFile": "geckolib-forge-1.20.1-4.8.4.jar",
+  "cdrVersion": "4.8.4",
+  "newVersion": "4.9.3",
+  "newFile": "geckolib-neoforge-1.21.1-4.9.3.jar"
+ },
+ {
+  "modId": "glodium",
+  "cdrFile": "Glodium-1.20-1.5-forge.jar",
+  "cdrVersion": "1.20-1.5-forge",
+  "newVersion": "1.21-2.2-neoforge",
+  "newFile": "Glodium-1.21-2.2-neoforge.jar"
+ },
+ {
+  "modId": "guideme",
+  "cdrFile": "guideme-20.1.15.jar",
+  "cdrVersion": "20.1.15",
+  "newVersion": "21.1.22",
+  "newFile": "guideme-21.1.22.jar"
+ },
+ {
+  "modId": "idas",
+  "cdrFile": "idas_forge-1.13.0+1.20.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.13.7+1.21.1-neoforge",
+  "newFile": "idas-1.13.7+1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "immediatelyfast",
+  "cdrFile": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+  "cdrVersion": "1.5.5+1.20.4",
+  "newVersion": "1.6.11+1.21.1",
+  "newFile": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar"
+ },
+ {
+  "modId": "immersive_paintings",
+  "cdrFile": "immersive_paintings-0.6.11+1.20.1-forge.jar",
+  "cdrVersion": "0.6.11+1.20.1",
+  "newVersion": "0.8.0",
+  "newFile": "immersive_paintings-neoforge-1.21.1-0.8.0.jar"
+ },
+ {
+  "modId": "integrated_api",
+  "cdrFile": "integrated_api-1.7.4+1.20.1-forge.jar",
+  "cdrVersion": "1.7.4+1.20.1-forge",
+  "newVersion": "1.9.2",
+  "newFile": "integrated_api-neoforge-1.21.1-1.9.2.jar"
+ },
+ {
+  "modId": "integrated_stronghold",
+  "cdrFile": "integrated_stronghold-1.1.2+1.20.1-forge.jar",
+  "cdrVersion": "1.1.2+1.20.1-forge",
+  "newVersion": "1.1.4+1.21.1-neoforge",
+  "newFile": "integrated_stronghold-1.1.4+1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "integrated_villages",
+  "cdrFile": "integrated_villages-1.3.2+1.20.1-forge.jar",
+  "cdrVersion": "1.3.2+1.20.1-forge",
+  "newVersion": "1.3.3+1.21.1-neoforge",
+  "newFile": "integrated_villages-1.3.3+1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "jade",
+  "cdrFile": "Jade-1.20.1-Forge-11.13.2.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "${file.jarVersion}",
+  "newFile": "Jade-1.21.1-NeoForge-15.10.6.jar"
+ },
+ {
+  "modId": "jecharacters",
+  "cdrFile": "jecharacters-1.20.1-forge-4.6.4.jar",
+  "cdrVersion": "4.6.4",
+  "newVersion": "4.5.30",
+  "newFile": "jecharacters-1.21.1-neoforge-4.5.30.jar"
+ },
+ {
+  "modId": "jei",
+  "cdrFile": "jei-1.20.1-forge-15.20.0.134.jar",
+  "cdrVersion": "15.20.0.134",
+  "newVersion": "19.57.0.451",
+  "newFile": "jei-1.21.1-neoforge-19.57.0.451.jar"
+ },
+ {
+  "modId": "kaleidoscope_doll",
+  "cdrFile": "kaleidoscopedoll-1.3.1-forge+mc1.20.1.jar",
+  "cdrVersion": "1.3.1-forge+mc1.20.1",
+  "newVersion": "1.4.2-neoforge+mc1.21.1",
+  "newFile": "kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar"
+ },
+ {
+  "modId": "kubejs",
+  "cdrFile": "kubejs-forge-2001.6.5-build.16.jar",
+  "cdrVersion": "2001.6.5-build.16",
+  "newVersion": "2101.7.2-build.368",
+  "newFile": "kubejs-neoforge-2101.7.2-build.368.jar"
+ },
+ {
+  "modId": "lionfishapi",
+  "cdrFile": "lionfishapi-2.7.jar",
+  "cdrVersion": "2.7",
+  "newVersion": "3.1",
+  "newFile": "lionfishapi-3.1.jar"
+ },
+ {
+  "modId": "lithostitched",
+  "cdrFile": "lithostitched-forge-1.20.1-1.4.11.jar",
+  "cdrVersion": "1.4.11",
+  "newVersion": "1.8.1",
+  "newFile": "lithostitched-1.8.1-neoforge-21.1.jar"
+ },
+ {
+  "modId": "lootjs",
+  "cdrFile": "lootjs-forge-1.20.1-2.13.1.jar",
+  "cdrVersion": "1.20.1-2.13.1",
+  "newVersion": "1.21.1-3.7.0",
+  "newFile": "lootjs-neoforge-1.21.1-3.7.0.jar"
+ },
+ {
+  "modId": "lootr",
+  "cdrFile": "lootr-forge-1.20-0.7.35.94.jar",
+  "cdrVersion": "0.7.35.94",
+  "newVersion": "1.21.1-1.11.37.121",
+  "newFile": "lootr-neoforge-1.21.1-1.11.37.121.jar"
+ },
+ {
+  "modId": "luncheonmeatsdelight",
+  "cdrFile": "luncheon-meat-s-delight-1.0.3-forge-1.20.1.jar",
+  "cdrVersion": "1.20.1-1.0.3",
+  "newVersion": "1.21.1-1.0.6",
+  "newFile": "luncheon-meat-s-delight-1.0.6-neoforge-1.21.1.jar"
+ },
+ {
+  "modId": "megacells",
+  "cdrFile": "megacells-forge-2.4.6-1.20.1.jar",
+  "cdrVersion": "2.4.6-1.20.1",
+  "newVersion": "4.11.0",
+  "newFile": "megacells-4.11.0.jar"
+ },
+ {
+  "modId": "modernfix",
+  "cdrFile": "modernfix-forge-5.27.66+mc1.20.1.jar",
+  "cdrVersion": "5.27.66+mc1.20.1",
+  "newVersion": "5.27.27+mc1.21.1",
+  "newFile": "modernfix-neoforge-5.27.27+mc1.21.1.jar"
+ },
+ {
+  "modId": "moonlight",
+  "cdrFile": "moonlight-1.20-2.16.27-forge.jar",
+  "cdrVersion": "1.20-2.16.27",
+  "newVersion": "1.21.1-3.8.3",
+  "newFile": "moonlight-1.21.1-3.8.3-neoforge.jar"
+ },
+ {
+  "modId": "mousetweaks",
+  "cdrFile": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "2.26.1",
+  "newFile": "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+ },
+ {
+  "modId": "mynethersdelight",
+  "cdrFile": "MyNethersDelight-1.20.1-1.10.4-backport.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.10.4.1",
+  "newFile": "MyNethersDelight-1.21.1-1.10.4.1.jar"
+ },
+ {
+  "modId": "mysterious_mountain_lib",
+  "cdrFile": "mysterious_mountain_lib-1.6.34-1.20.1.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.3.16-1.21.1",
+  "newFile": "mysterious_mountain_lib-1.3.16-1.21.1.jar"
+ },
+ {
+  "modId": "naturescompass",
+  "cdrFile": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+  "cdrVersion": "1.20.1-1.12.0-forge",
+  "newVersion": "1.21.1-3.4.0-neoforge",
+  "newFile": "NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+ },
+ {
+  "modId": "neapolitan",
+  "cdrFile": "neapolitan-1.20.1-5.1.0.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "6.0.1",
+  "newFile": "neapolitan-1.21.1-6.0.1.jar"
+ },
+ {
+  "modId": "northstar",
+  "cdrFile": "Northstar-0.6.4+1.20.1.jar",
+  "cdrVersion": "0.6.4+1.20.1",
+  "newVersion": "0.6.6+1.21.1",
+  "newFile": "Northstar-0.6.6+1.21.1.jar"
+ },
+ {
+  "modId": "packetfixer",
+  "cdrFile": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+  "cdrVersion": "3.3.2",
+  "newVersion": "3.3.1",
+  "newFile": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+ },
+ {
+  "modId": "placebo",
+  "cdrFile": "Placebo-1.20.1-8.6.3.jar",
+  "cdrVersion": "8.6.3",
+  "newVersion": "9.9.3",
+  "newFile": "Placebo-1.21.1-9.9.3.jar"
+ },
+ {
+  "modId": "playeranimator",
+  "cdrFile": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+  "cdrVersion": "1.0.2-rc1+1.20",
+  "newVersion": "2.0.4+1.21.1",
+  "newFile": "player-animation-lib-forge-2.0.4+1.21.1.jar"
+ },
+ {
+  "modId": "polymorph",
+  "cdrFile": "polymorph-forge-0.49.10+1.20.1.jar",
+  "cdrVersion": "0.49.10+1.20.1",
+  "newVersion": "1.1.0+1.21.1",
+  "newFile": "polymorph-neoforge-1.1.0+1.21.1.jar"
+ },
+ {
+  "modId": "quality_food",
+  "cdrFile": "quality_food-1.20.1-2.4.3-all.jar",
+  "cdrVersion": "2.4.3",
+  "newVersion": "2.4.5",
+  "newFile": "quality_food-1.21.1-2.4.5.jar"
+ },
+ {
+  "modId": "quark",
+  "cdrFile": "Quark-4.0-462.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "4.1-488",
+  "newFile": "Quark-4.1-488.jar"
+ },
+ {
+  "modId": "railways",
+  "cdrFile": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+  "cdrVersion": "1.7.2+forge-mc1.20.1",
+  "newVersion": "0.2.1+neoforge-mc1.21.1",
+  "newFile": "railways-0.2.1+neoforge-mc1.21.1.jar"
+ },
+ {
+  "modId": "resourcefulconfig",
+  "cdrFile": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+  "cdrVersion": "2.1.3",
+  "newVersion": "3.0.11",
+  "newFile": "resourcefulconfig-neoforge-1.21-3.0.11.jar"
+ },
+ {
+  "modId": "resourcefullib",
+  "cdrFile": "resourcefullib-forge-1.20.1-2.1.29.jar",
+  "cdrVersion": "2.1.29",
+  "newVersion": "3.0.12",
+  "newFile": "resourcefullib-neoforge-1.21-3.0.12.jar"
+ },
+ {
+  "modId": "rhino",
+  "cdrFile": "rhino-forge-2001.2.3-build.10.jar",
+  "cdrVersion": "2001.2.3-build.10",
+  "newVersion": "2101.2.7-build.85",
+  "newFile": "rhino-2101.2.7-build.85.jar"
+ },
+ {
+  "modId": "searchables",
+  "cdrFile": "Searchables-forge-1.20.1-1.0.3.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.0.2",
+  "newFile": "Searchables-neoforge-1.21.1-1.0.2.jar"
+ },
+ {
+  "modId": "serverwarashi",
+  "cdrFile": "serverwarashi-1.20.1-2.0.4.1-all.jar",
+  "cdrVersion": "2.0.4.1",
+  "newVersion": "2.1.1.5",
+  "newFile": "serverwarashi-1.21.1-2.1.1.5.jar"
+ },
+ {
+  "modId": "simplebackups",
+  "cdrFile": "SimpleBackups-1.20.1-3.1.24.jar",
+  "cdrVersion": "1.20.1-3.1.24",
+  "newVersion": "1.21-4.0.21",
+  "newFile": "SimpleBackups-1.21-4.0.21.jar"
+ },
+ {
+  "modId": "smrb",
+  "cdrFile": "smrb-1.0.0.jar",
+  "cdrVersion": "1.0.0",
+  "newVersion": "1.0.0",
+  "newFile": "smrb-1.0.0.jar"
+ },
+ {
+  "modId": "smsn",
+  "cdrFile": "smsn-forge-1.4.3-1.20.1.jar",
+  "cdrVersion": "1.4.3-1.20.1",
+  "newVersion": "1.4.3-1.21.1",
+  "newFile": "smsn-neoforge-1.4.3-1.21.1.jar"
+ },
+ {
+  "modId": "sophisticatedbackpacks",
+  "cdrFile": "sophisticatedbackpacks-1.20.1-3.24.62.2017.jar",
+  "cdrVersion": "3.24.62.2017",
+  "newVersion": "3.26.22",
+  "newFile": "sophisticatedbackpacks-1.21.1-3.26.22.2257.jar"
+ },
+ {
+  "modId": "sophisticatedcore",
+  "cdrFile": "sophisticatedcore-1.20.1-1.3.73.2192.jar",
+  "cdrVersion": "1.3.73.2192",
+  "newVersion": "1.5.39",
+  "newFile": "sophisticatedcore-1.21.1-1.5.39.2489.jar"
+ },
+ {
+  "modId": "spark",
+  "cdrFile": "spark-1.10.53-forge.jar",
+  "cdrVersion": "1.10.53",
+  "newVersion": "1.10.124",
+  "newFile": "spark-1.10.124-neoforge.jar"
+ },
+ {
+  "modId": "sparsestructures",
+  "cdrFile": "sparsestructures-forge-1.20.1-3.0.jar",
+  "cdrVersion": "3.0",
+  "newVersion": "3.0",
+  "newFile": "sparsestructures-neoforge-1.21.1-3.0.jar"
+ },
+ {
+  "modId": "supplementaries",
+  "cdrFile": "supplementaries-1.20-3.1.42-forge.jar",
+  "cdrVersion": "1.20-3.1.42",
+  "newVersion": "1.21.1-4.1.4",
+  "newFile": "supplementaries-1.21.1-4.1.4-neoforge.jar"
+ },
+ {
+  "modId": "t_and_t",
+  "cdrFile": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.13.11",
+  "newFile": "t_and_t-fabric-neoforge-1.13.11.jar"
+ },
+ {
+  "modId": "the_bumblezone",
+  "cdrFile": "the_bumblezone-7.13.3+1.20.1-forge.jar",
+  "cdrVersion": "7.13.3+1.20.1-forge",
+  "newVersion": "7.19.3+1.21.1-neoforge",
+  "newFile": "the_bumblezone-7.19.3+1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "titanium",
+  "cdrFile": "titanium-1.20.1-3.8.35.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "${file.jarVersion}",
+  "newFile": "titanium-1.21-4.0.56.jar"
+ },
+ {
+  "modId": "torchmaster",
+  "cdrFile": "torchmaster-20.1.9.jar",
+  "cdrVersion": "20.1.9",
+  "newVersion": "21.1.13",
+  "newFile": "torchmaster-neoforge-1.21.1-21.1.13.jar"
+ },
+ {
+  "modId": "totw_modded",
+  "cdrFile": "totw_modded-forge-1.20.1-1.0.6.jar",
+  "cdrVersion": "1.0.6",
+  "newVersion": "1.0.9",
+  "newFile": "totw_modded-neoforge-1.21-1.0.9.jar"
+ },
+ {
+  "modId": "trailandtales_delight",
+  "cdrFile": "trailandtales_delight-1.7-all.jar",
+  "cdrVersion": "1.7",
+  "newVersion": "2.40",
+  "newFile": "[1.3support]trailandtales_delight-2.40.jar"
+ },
+ {
+  "modId": "vanillin",
+  "cdrFile": "vanillin-forge-1.20.1-1.1.3.jar",
+  "cdrVersion": "1.1.3",
+  "newVersion": "1.1.3",
+  "newFile": "vanillin-neoforge-1.21.1-1.1.3-local.jar"
+ },
+ {
+  "modId": "waystones",
+  "cdrFile": "waystones-forge-1.20.1-14.1.20.jar",
+  "cdrVersion": "14.1.20",
+  "newVersion": "21.1.47",
+  "newFile": "waystones-neoforge-1.21.1-21.1.47.jar"
+ },
+ {
+  "modId": "xaerominimap",
+  "cdrFile": "xaerominimap-forge-1.20.1-26.4.2.jar",
+  "cdrVersion": "26.4.2",
+  "newVersion": "26.6.0",
+  "newFile": "xaerominimap-neoforge-1.21.1-26.6.0.jar"
+ },
+ {
+  "modId": "xaeroworldmap",
+  "cdrFile": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+  "cdrVersion": "1.44.2",
+  "newVersion": "1.47.0",
+  "newFile": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
+ },
+ {
+  "modId": "yet_another_config_lib_v3",
+  "cdrFile": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+  "cdrVersion": "3.6.6+1.20.1-forge",
+  "newVersion": "3.8.2+1.21.1-neoforge",
+  "newFile": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+ },
+ {
+  "modId": "youkaishomecoming",
+  "cdrFile": "youkaishomecoming-2.7.0.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "3.0.8",
+  "newFile": "youkaishomecoming-3.0.8.jar"
+ },
+ {
+  "modId": "yungsapi",
+  "cdrFile": "YungsApi-1.20-Forge-4.0.6.jar",
+  "cdrVersion": "1.20-Forge-4.0.6",
+  "newVersion": "1.21.1-NeoForge-5.1.9",
+  "newFile": "YungsApi-1.21.1-NeoForge-5.1.9.jar"
+ },
+ {
+  "modId": "yungsextras",
+  "cdrFile": "YungsExtras-1.20-Forge-4.0.3.jar",
+  "cdrVersion": "1.20-Forge-4.0.3",
+  "newVersion": "1.21.1-NeoForge-5.1.1",
+  "newFile": "YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+ },
+ {
+  "modId": "zeta",
+  "cdrFile": "Zeta-1.0-31.jar",
+  "cdrVersion": "${file.jarVersion}",
+  "newVersion": "1.1-40",
+  "newFile": "Zeta-1.1-40.jar"
+ }
+]

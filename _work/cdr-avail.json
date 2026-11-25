@@ -1,0 +1,3971 @@
+[
+ {
+  "file": "0World2Create-Universal-1.19-1.20.X-1.0.0.jar",
+  "query": "0World2Create",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "abnormals_delight-1.20.1-5.0.1.jar",
+  "query": "abnormals delight",
+  "status": "available",
+  "match": {
+   "slug": "abnormals-delight",
+   "title": "Abnormals Delight",
+   "version": "Awq3tnNj",
+   "downloads": 1640475
+  },
+  "hits": [
+   "abnormals-delight"
+  ]
+ },
+ {
+  "file": "acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+  "query": "acceleratedrendering",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
+  "query": "accessories",
+  "status": "available",
+  "match": {
+   "slug": "accessories",
+   "title": "Accessories",
+   "version": "dy9BbDEy",
+   "downloads": 15435184
+  },
+  "hits": [
+   "accessories",
+   "accessories-compat-layer",
+   "mousetweaks-x-accessories-fix",
+   "accessories-cc-layer"
+  ]
+ },
+ {
+  "file": "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
+  "query": "AdvancedLootInfo",
+  "status": "maybe",
+  "match": {
+   "slug": "advanced-core-info",
+   "title": "Advanced Core Info (ACI)",
+   "version": "xaWwatoU"
+  },
+  "hits": [
+   "advanced-core-info"
+  ]
+ },
+ {
+  "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+  "query": "AdvancementPlaques",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "advancements_tracker_1.20.1-6.1.0.jar",
+  "query": "advancements tracker",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ae2ct-1.20.1-1.1.1.jar",
+  "query": "ae2ct",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "AE2NetworkAnalyzer-1.20-1.0.6-forge.jar",
+  "query": "AE2NetworkAnalyzer",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ae2omnicells-1.20.1-forge-1.1.1.jar",
+  "query": "ae2omnicells",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ae2wtlib-15.3.3-forge.jar",
+  "query": "ae2wtlib",
+  "status": "maybe",
+  "match": {
+   "slug": "applied-energistics-2-wireless-terminals",
+   "title": "Applied Energistics 2 Wireless Terminals",
+   "version": "CxSEpEnO"
+  },
+  "hits": [
+   "applied-energistics-2-wireless-terminals"
+  ]
+ },
+ {
+  "file": "alex_cave_addon-5.1.0-1.20.1.jar",
+  "query": "alex cave addon",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "alexscaves-2.0.2.jar",
+  "query": "alexscaves",
+  "status": "available",
+  "match": {
+   "slug": "alexscavesneo",
+   "title": "Alexs Caves Neo",
+   "version": "CmTmcM4O",
+   "downloads": 1331
+  },
+  "hits": [
+   "alexscavesneo"
+  ]
+ },
+ {
+  "file": "alexsdelight-1.5.jar",
+  "query": "alexsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "alexsmobs-1.22.9.jar",
+  "query": "alexsmobs",
+  "status": "available",
+  "match": {
+   "slug": "alexsmobsneo",
+   "title": "AlexsMobsNeo",
+   "version": "C1b7Q2me",
+   "downloads": 890
+  },
+  "hits": [
+   "alexsmobsneo"
+  ]
+ },
+ {
+  "file": "AlwaysEat-5.2.jar",
+  "query": "AlwaysEat",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "amendments-1.20-2.2.5.jar",
+  "query": "amendments",
+  "status": "available",
+  "match": {
+   "slug": "amendments",
+   "title": "Amendments",
+   "version": "w19mjFoT",
+   "downloads": 20524750
+  },
+  "hits": [
+   "amendments",
+   "mvsi-moogs-voyager-structures-integrated",
+   "enchantment-amendment"
+  ]
+ },
+ {
+  "file": "ApothicAttributes-1.20.1-1.3.7.jar",
+  "query": "ApothicAttributes",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+  "query": "appleskin",
+  "status": "available",
+  "match": {
+   "slug": "appleskin",
+   "title": "AppleSkin",
+   "version": "uAKA6Laj",
+   "downloads": 100166067
+  },
+  "hits": [
+   "appleskin",
+   "fffoodspoilageandpreservation",
+   "_vqxel_s-broken-script",
+   "menagerie-saturation"
+  ]
+ },
+ {
+  "file": "appliedcreate-1.20.1-1.1.6.jar",
+  "query": "appliedcreate",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "appliedenergistics2-forge-15.4.10.jar",
+  "query": "appliedenergistics2",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "architectury-9.2.14-forge.jar",
+  "query": "architectury",
+  "status": "available",
+  "match": {
+   "slug": "architectury-api",
+   "title": "Architectury API",
+   "version": "xGfBrBzj",
+   "downloads": 109780331
+  },
+  "hits": [
+   "architectury-api",
+   "the-mighty-architectury",
+   "jamlib",
+   "platform"
+  ]
+ },
+ {
+  "file": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+  "query": "AttributeFix",
+  "status": "available",
+  "match": {
+   "slug": "attributefix",
+   "title": "AttributeFix",
+   "version": "TyNITLDY",
+   "downloads": 23494683
+  },
+  "hits": [
+   "attributefix",
+   "attributefix-sync",
+   "attributesfix",
+   "upgrade-crystals"
+  ]
+ },
+ {
+  "file": "bakeries-1.20.1-forge-1.2.5.jar",
+  "query": "bakeries",
+  "status": "available",
+  "match": {
+   "slug": "bakeries-renyigesai",
+   "title": "Bakeries",
+   "version": "BdnWrv5w",
+   "downloads": 119256
+  },
+  "hits": [
+   "bakeries-renyigesai"
+  ]
+ },
+ {
+  "file": "balm-forge-1.20.1-7.3.41-all.jar",
+  "query": "balm",
+  "status": "available",
+  "match": {
+   "slug": "balm",
+   "title": "Balm",
+   "version": "gMedgtzL",
+   "downloads": 65168934
+  },
+  "hits": [
+   "balm",
+   "farmers-heater",
+   "central-heater",
+   "corpses-begone"
+  ]
+ },
+ {
+  "file": "bc_particle-0.0.6-forge-1.20.1.jar",
+  "query": "bc particle",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "BeeFix-1.20-1.0.7.jar",
+  "query": "BeeFix",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar",
+  "query": "BetterAdvancements",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "bettercombat-forge-1.9.0+1.20.1.jar",
+  "query": "bettercombat 1.9.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar",
+  "query": "BetterCompatibilityChecker",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "biomereplacer-2.2-hippo-forge.jar",
+  "query": "biomereplacer",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "biomespy-1.3.3-all.jar",
+  "query": "biomespy",
+  "status": "available",
+  "match": {
+   "slug": "biomespy",
+   "title": "BiomeSpy",
+   "version": "5ARULl76",
+   "downloads": 1436318
+  },
+  "hits": [
+   "biomespy"
+  ]
+ },
+ {
+  "file": "bits_n_bobs-0.0.41.jar",
+  "query": "bits n bobs",
+  "status": "available",
+  "match": {
+   "slug": "create-bits-n-bobs",
+   "title": "Create: Bits 'n' Bobs",
+   "version": "g9Lmjjc5",
+   "downloads": 2223792
+  },
+  "hits": [
+   "create-bits-n-bobs",
+   "create-dions-bits-n-bobs",
+   "create-bits-n-tracks",
+   "create-bits-n-dyes"
+  ]
+ },
+ {
+  "file": "blackknightarmor-1.0.9.jar",
+  "query": "blackknightarmor",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "blueprint-1.20.1-7.1.3.jar",
+  "query": "blueprint",
+  "status": "available",
+  "match": {
+   "slug": "blueprint",
+   "title": "Blueprint",
+   "version": "FHOjk8Ez",
+   "downloads": 8201612
+  },
+  "hits": [
+   "blueprint",
+   "create-blueprint-tweaks",
+   "portable-blueprints",
+   "building-blueprint"
+  ]
+ },
+ {
+  "file": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+  "query": "Bookshelf",
+  "status": "available",
+  "match": {
+   "slug": "bookshelf-lib",
+   "title": "Bookshelf",
+   "version": "1sdJl7J1",
+   "downloads": 49592588
+  },
+  "hits": [
+   "bookshelf-lib",
+   "bookshelf-inspector",
+   "bebpm",
+   "enchantlib"
+  ]
+ },
+ {
+  "file": "botarium-forge-1.20.1-2.3.4.jar",
+  "query": "botarium",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Bountiful-6.0.4+1.20.1-forge.jar",
+  "query": "Bountiful 6.0.4+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "BrewinAndChewin-1.20.1-3.2.1.jar",
+  "query": "BrewinAndChewin",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "butchercraft-2.4.1.jar",
+  "query": "butchercraft",
+  "status": "available",
+  "match": {
+   "slug": "butchercraft",
+   "title": "Butchercraft",
+   "version": "zv719GLo",
+   "downloads": 146427
+  },
+  "hits": [
+   "butchercraft",
+   "butchercraft-tannery"
+  ]
+ },
+ {
+  "file": "byepregen-1.20.1-1.1.2.4-all.jar",
+  "query": "byepregen",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "caelus-forge-3.2.0+1.20.1.jar",
+  "query": "caelus 3.2.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "carryon-forge-1.20.1-2.1.2.7.jar",
+  "query": "carryon",
+  "status": "available",
+  "match": {
+   "slug": "carryon-sable-compat",
+   "title": "CarryOn Sable Compat",
+   "version": "OzGHDTid",
+   "downloads": 1265
+  },
+  "hits": [
+   "carryon-sable-compat",
+   "carryon-aeronautics-compat"
+  ]
+ },
+ {
+  "file": "casualness_delight-1.20.1-0.4n.jar",
+  "query": "casualness delight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "catalogue-forge-1.20.1-1.8.0.jar",
+  "query": "catalogue",
+  "status": "available",
+  "match": {
+   "slug": "the-mandela-catalogue-alternates",
+   "title": "The Mandela Catalogue: Alternates",
+   "version": "1TOKRH6T",
+   "downloads": 85867
+  },
+  "hits": [
+   "the-mandela-catalogue-alternates",
+   "the-archaic-artifacts-catalogue-more-magic-series",
+   "the-dark-artifacts-catalogue-more-magic-series",
+   "portfolio"
+  ]
+ },
+ {
+  "file": "Cave-Delight-1.20.1-2.0.1.jar",
+  "query": "Cave Delight",
+  "status": "maybe",
+  "match": {
+   "slug": "alexs-caves-continued-delight",
+   "title": "Alex's Caves Continued Delight",
+   "version": "PUv3omh9"
+  },
+  "hits": [
+   "alexs-caves-continued-delight",
+   "caves-delights"
+  ]
+ },
+ {
+  "file": "centralvintage-1.2.1.jar",
+  "query": "centralvintage",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "certain_questing_additions-forge-1.1.6+mc1.20.1.jar",
+  "query": "certain questing additions 1.1.6+mc1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "charmofundying-forge-6.5.0+1.20.1.jar",
+  "query": "charmofundying 6.5.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "chat_heads-0.15.3-forge-1.20.jar",
+  "query": "chat heads",
+  "status": "available",
+  "match": {
+   "slug": "chat-heads",
+   "title": "Chat Heads",
+   "version": "ZPylso9i",
+   "downloads": 53620917
+  },
+  "hits": [
+   "chat-heads",
+   "coh-mc",
+   "chatheads-figura-support",
+   "chat-plus"
+  ]
+ },
+ {
+  "file": "chefsdelight-1.0.4-forge-1.20.1.jar",
+  "query": "chefsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "citadel-2.6.3-1.20.1.jar",
+  "query": "citadel",
+  "status": "available",
+  "match": {
+   "slug": "citadel",
+   "title": "Citadel",
+   "version": "ZkgKf4xj",
+   "downloads": 17527095
+  },
+  "hits": [
+   "citadel",
+   "citadel-1.21.1-port",
+   "improvementsteelcraft",
+   "grim-kingdoms-lost-structures-ruins"
+  ]
+ },
+ {
+  "file": "cloth-config-11.1.136-forge.jar",
+  "query": "cloth config",
+  "status": "available",
+  "match": {
+   "slug": "cloth-config",
+   "title": "Cloth Config API",
+   "version": "izKINKFg",
+   "downloads": 188000032
+  },
+  "hits": [
+   "cloth-config",
+   "config-search",
+   "idle-generators",
+   "weather-shower-updated"
+  ]
+ },
+ {
+  "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+  "query": "Clumps",
+  "status": "available",
+  "match": {
+   "slug": "clumps",
+   "title": "Clumps",
+   "version": "jo7lDoK4",
+   "downloads": 43493778
+  },
+  "hits": [
+   "clumps",
+   "ly-clumps",
+   "fluorescentink",
+   "all-missing-craftings-50-recipes"
+  ]
+ },
+ {
+  "file": "cmpackagecouriers-forge-2.2.2.jar",
+  "query": "cmpackagecouriers",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "cmparallelpipes-forge-2.0.3.jar",
+  "query": "cmparallelpipes",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CobbleForDays-1.8.0.jar",
+  "query": "CobbleForDays",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "cobweb-forge-1.20.1-1.0.1.jar",
+  "query": "cobweb",
+  "status": "available",
+  "match": {
+   "slug": "cobweb",
+   "title": "Cobweb",
+   "version": "c10AZba0",
+   "downloads": 6272080
+  },
+  "hits": [
+   "cobweb",
+   "burnable-cobwebs",
+   "cobweb-recipes",
+   "cobweb-enchantment"
+  ]
+ },
+ {
+  "file": "collections_of_optimizations-2.7-all.jar",
+  "query": "collections of optimizations",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "collectorsreap-1.20.1-1.5.5.jar",
+  "query": "collectorsreap",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "colorfulhearts-forge-1.20.1-4.3.16.jar",
+  "query": "colorfulhearts",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "colorwheel_patcher-forge-1.0.5+mc1.20.1.jar",
+  "query": "colorwheel patcher 1.0.5+mc1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "colorwheel-forge-1.3.2-mc1.20.1.jar",
+  "query": "colorwheel",
+  "status": "available",
+  "match": {
+   "slug": "colorwheel",
+   "title": "Colorwheel",
+   "version": "lV874ox8",
+   "downloads": 3996637
+  },
+  "hits": [
+   "colorwheel",
+   "colorwheel-patcher"
+  ]
+ },
+ {
+  "file": "comforts-forge-6.4.0+1.20.1.jar",
+  "query": "comforts 6.4.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "configured-forge-1.20.1-2.2.3.jar",
+  "query": "configured",
+  "status": "available",
+  "match": {
+   "slug": "configured-defaults",
+   "title": "Configured Defaults",
+   "version": "HJxTPhTM",
+   "downloads": 7004038
+  },
+  "hits": [
+   "configured-defaults",
+   "create-configured",
+   "portalsconfigured",
+   "graphene"
+  ]
+ },
+ {
+  "file": "constructionwand-1.20.1-2.11.jar",
+  "query": "constructionwand",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Controlling-forge-1.20.1-12.0.2.jar",
+  "query": "Controlling",
+  "status": "available",
+  "match": {
+   "slug": "controlling",
+   "title": "Controlling",
+   "version": "FaNppCJJ",
+   "downloads": 43062238
+  },
+  "hits": [
+   "controlling",
+   "create-tweaked-controllers",
+   "leaf-me-alone",
+   "pathway"
+  ]
+ },
+ {
+  "file": "copycats-3.0.7+mc.1.20.1-forge.jar",
+  "query": "copycats 3.0.7+mc.1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "corn_delight-1.2.11-1.20.1.jar",
+  "query": "corn delight",
+  "status": "available",
+  "match": {
+   "slug": "corn-delight",
+   "title": "Corn Delight",
+   "version": "JtT5ioNz",
+   "downloads": 1394649
+  },
+  "hits": [
+   "corn-delight",
+   "haunted-harvest"
+  ]
+ },
+ {
+  "file": "coroutil-forge-1.20.1-1.3.7.jar",
+  "query": "coroutil",
+  "status": "available",
+  "match": {
+   "slug": "coroutil",
+   "title": "CoroUtil",
+   "version": "H2YXCYUY",
+   "downloads": 32700600
+  },
+  "hits": [
+   "coroutil"
+  ]
+ },
+ {
+  "file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+  "query": "cosmeticarmorreworked",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "cosmopolitan-1.20.1-1.5.3.jar",
+  "query": "cosmopolitan",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "crabbersdelight-1.20.1-1.2.3.jar",
+  "query": "crabbersdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CrashAssistant-forge-1.19-1.20.1-1.11.11.jar",
+  "query": "CrashAssistant",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "cratedelight-26.07.01-1.20-forge.jar",
+  "query": "cratedelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Create More Recipes-1.20.1-1.2.1-fix1.jar",
+  "query": "Create More Recipes",
+  "status": "maybe",
+  "match": {
+   "slug": "create-few-more-recipes",
+   "title": "Create: Few More Recipes",
+   "version": "nasE7jWd"
+  },
+  "hits": [
+   "create-few-more-recipes",
+   "more-create-mixing-recipes",
+   "create-stones",
+   "create-waystones-recipes"
+  ]
+ },
+ {
+  "file": "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+  "query": "create central kitchen",
+  "status": "available",
+  "match": {
+   "slug": "create-central-kitchen",
+   "title": "Create: Central Kitchen",
+   "version": "qZxkZR8W",
+   "downloads": 5740938
+  },
+  "hits": [
+   "create-central-kitchen"
+  ]
+ },
+ {
+  "file": "create_compatible_storage-2.11.0-all.jar",
+  "query": "create compatible storage",
+  "status": "available",
+  "match": {
+   "slug": "create-compatible-storage",
+   "title": "Create: Compatible Storage",
+   "version": "EJPTNOry",
+   "downloads": 1188723
+  },
+  "hits": [
+   "create-compatible-storage",
+   "create-weighted-items"
+  ]
+ },
+ {
+  "file": "create_connected-1.2.3-mc1.20.1-all.jar",
+  "query": "create connected",
+  "status": "available",
+  "match": {
+   "slug": "create-connected",
+   "title": "Create: Connected",
+   "version": "Xe7EqzfQ",
+   "downloads": 7554100
+  },
+  "hits": [
+   "create-connected",
+   "create-aeronautics-and-connected-fluid-vessel-compatability",
+   "create-connected-encased",
+   "colorful-catalysts"
+  ]
+ },
+ {
+  "file": "create_deepfried-forge-1.20.1-0.1.3C.jar",
+  "query": "create deepfried",
+  "status": "available",
+  "match": {
+   "slug": "create-deepfried",
+   "title": "Create: Deepfried",
+   "version": "7hnhHENi",
+   "downloads": 171106
+  },
+  "hits": [
+   "create-deepfried"
+  ]
+ },
+ {
+  "file": "create_enhanced_schematicannon-1.0.5-fork.jar",
+  "query": "create enhanced schematicannon",
+  "status": "available",
+  "match": {
+   "slug": "create-enhanced-schematicannon",
+   "title": "Create: Enhanced Schematicannon",
+   "version": "nPYO6I9j",
+   "downloads": 12723
+  },
+  "hits": [
+   "create-enhanced-schematicannon"
+  ]
+ },
+ {
+  "file": "create_fantasizing-1.20.1-1.1.1.jar",
+  "query": "create fantasizing",
+  "status": "available",
+  "match": {
+   "slug": "create-fantasizing-again",
+   "title": "Create: Fantasizing Again",
+   "version": "K7O1CgV2",
+   "downloads": 81320
+  },
+  "hits": [
+   "create-fantasizing-again"
+  ]
+ },
+ {
+  "file": "create_jetpack_curios-1.2.0-forge-1.20.1.jar",
+  "query": "create jetpack curios",
+  "status": "maybe",
+  "match": {
+   "slug": "create-curios-jetpack",
+   "title": "Create: Curios Jetpack & Backtank",
+   "version": "JEmLrfe6"
+  },
+  "hits": [
+   "create-curios-jetpack"
+  ]
+ },
+ {
+  "file": "create_jetpack-forge-4.4.6.jar",
+  "query": "create jetpack",
+  "status": "available",
+  "match": {
+   "slug": "create-jetpack",
+   "title": "Create Jetpack",
+   "version": "sCwiqLqq",
+   "downloads": 4339065
+  },
+  "hits": [
+   "create-jetpack",
+   "create-curios-jetpack",
+   "create-backtank-is-jetpack",
+   "create-jetpack-vessel-recipefix"
+  ]
+ },
+ {
+  "file": "create_mob_spawners-1.20.1-3.3.0.jar",
+  "query": "create mob spawners",
+  "status": "available",
+  "match": {
+   "slug": "create-mob-spawners",
+   "title": "Create: Mob Spawners",
+   "version": "WxOTJbZI",
+   "downloads": 79477
+  },
+  "hits": [
+   "create-mob-spawners",
+   "create-mob-grinding"
+  ]
+ },
+ {
+  "file": "create_oppenheimered-1.0.5.jar",
+  "query": "create oppenheimered",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "create_pattern_schematics-1.3.3.jar",
+  "query": "create pattern schematics",
+  "status": "available",
+  "match": {
+   "slug": "create-pattern-schematics",
+   "title": "Create: Pattern Schematics",
+   "version": "VSJhIkG2",
+   "downloads": 2175288
+  },
+  "hits": [
+   "create-pattern-schematics"
+  ]
+ },
+ {
+  "file": "create_ratatouille-1.20.1-1.3.8.jar",
+  "query": "create ratatouille",
+  "status": "available",
+  "match": {
+   "slug": "create-ratatouille",
+   "title": "Create Ratatouille",
+   "version": "c81IeQl2",
+   "downloads": 458357
+  },
+  "hits": [
+   "create-ratatouille",
+   "create-ratatouille-fried-delights"
+  ]
+ },
+ {
+  "file": "create_rustic_structures-1.0.0-forge-1.20.1.jar",
+  "query": "create rustic structures",
+  "status": "available",
+  "match": {
+   "slug": "create-rustic-structures",
+   "title": "Create: Rustic Structures",
+   "version": "d0sTQvqS",
+   "downloads": 419486
+  },
+  "hits": [
+   "create-rustic-structures"
+  ]
+ },
+ {
+  "file": "create_structures_arise-176.49.48 Forge 1.20.1.jar",
+  "query": "create structures arise",
+  "status": "available",
+  "match": {
+   "slug": "create-structures-arise",
+   "title": "Create: Structures Arise",
+   "version": "bSLlGvYn",
+   "downloads": 1675488
+  },
+  "hits": [
+   "create-structures-arise"
+  ]
+ },
+ {
+  "file": "create-1.20.1-6.0.8.jar",
+  "query": "create",
+  "status": "available",
+  "match": {
+   "slug": "create",
+   "title": "Create",
+   "version": "UjX6dr61",
+   "downloads": 28366107
+  },
+  "hits": [
+   "create",
+   "createaddition",
+   "copycats",
+   "create-aeronautics"
+  ]
+ },
+ {
+  "file": "Create-Better-Storages-Forge-1.20.1-1.0b.Release.jar",
+  "query": "Create Better Storages",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "create-confectionery1.20.1_v1.1.3.jar",
+  "query": "create confectionery1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Create-Delight-Core-1.20.1-2.2.16j.jar",
+  "query": "Create Delight Core",
+  "status": "maybe",
+  "match": {
+   "slug": "landoftwigs",
+   "title": "A Land of Twigs",
+   "version": "ZRWAUu26"
+  },
+  "hits": [
+   "landoftwigs"
+  ]
+ },
+ {
+  "file": "create-enchantment-industry-2.5.4.jar",
+  "query": "create enchantment industry",
+  "status": "available",
+  "match": {
+   "slug": "create-enchantment-industry",
+   "title": "Create: Enchantment Industry",
+   "version": "L6VSDdC4",
+   "downloads": 6374762
+  },
+  "hits": [
+   "create-enchantment-industry",
+   "create-enchantment-industry-plus",
+   "create-enchantment-industry-legacy",
+   "create-renewable-egapples"
+  ]
+ },
+ {
+  "file": "create-integrated-farming-1.4.3.2-1.20.1.jar",
+  "query": "create integrated farming",
+  "status": "available",
+  "match": {
+   "slug": "create-integrated-farming",
+   "title": "Create: Integrated Farming",
+   "version": "3WTN4xaW",
+   "downloads": 508260
+  },
+  "hits": [
+   "create-integrated-farming"
+  ]
+ },
+ {
+  "file": "create-new-age-1.2.0+forge-mc1.20.1.jar",
+  "query": "create new age 1.2.0+forge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "create-stuff-additions1.20.1_v2.1.2.jar",
+  "query": "create stuff additions1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Create-Utilities-J-1.20.1-0.3.3.jar",
+  "query": "Create Utilities J",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createaddition-1.20.1-1.3.3.jar",
+  "query": "createaddition",
+  "status": "available",
+  "match": {
+   "slug": "createaddition",
+   "title": "Create Crafts & Additions",
+   "version": "hsjVajlP",
+   "downloads": 11552042
+  },
+  "hits": [
+   "createaddition"
+  ]
+ },
+ {
+  "file": "createadditionallogistics-1.20.1-1.4.5.jar",
+  "query": "createadditionallogistics",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createbetterfps-1.20.1-1.1.2.jar",
+  "query": "createbetterfps",
+  "status": "available",
+  "match": {
+   "slug": "createbetterfps",
+   "title": "CreateBetterFps",
+   "version": "dxmPYimo",
+   "downloads": 2710650
+  },
+  "hits": [
+   "createbetterfps"
+  ]
+ },
+ {
+  "file": "createbicbit-forge-1.20.1-1.0.2B.jar",
+  "query": "createbicbit",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createbiggerstoragetocreate6-1.1.jar",
+  "query": "createbiggerstoragetocreate6",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createcafe-1.3-1.20.1.jar",
+  "query": "createcafe",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CreateCyberGoggles-1.20.1-7.2.2-Forge.jar",
+  "query": "CreateCyberGoggles",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createdeco-2.0.3-1.20.1-forge.jar",
+  "query": "createdeco",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createdieselgenerators-1.20.1-1.3.12.jar",
+  "query": "createdieselgenerators",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CreateDragonsPlus-1.11.9.jar",
+  "query": "CreateDragonsPlus",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createfactorycontroller-1.1.1-forge-1.20.1.jar",
+  "query": "createfactorycontroller",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CreateFastSchematicCannon-1.4.1-6.0.x-forge-1.20.1.jar",
+  "query": "CreateFastSchematicCannon",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createfluidstuffs-1.2.1-all.jar",
+  "query": "createfluidstuffs",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createidlx-1.20.1-1.3.jar",
+  "query": "createidlx",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CreateLazyTick-2.6.25-6.0.x-forge-1.20.1.jar",
+  "query": "CreateLazyTick",
+  "status": "available",
+  "match": {
+   "slug": "createlazytick",
+   "title": "Create: LazyTick",
+   "version": "CsnU8RQG",
+   "downloads": 913239
+  },
+  "hits": [
+   "createlazytick"
+  ]
+ },
+ {
+  "file": "createliquidfuel-2.1.1-1.20.1.jar",
+  "query": "createliquidfuel",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createmetallurgy-1.0.1-1.20.1.jar",
+  "query": "createmetallurgy",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createoreexcavation-1.20-1.6.5.jar",
+  "query": "createoreexcavation",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createprism-1.20-1.1.0.jar",
+  "query": "createprism",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6+2.jar",
+  "query": "createrailwaysnavigator",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createredstonelinkgui-1.20.1-1.9.1.jar",
+  "query": "createredstonelinkgui",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createsolar-1.2.6-1.20.1.jar",
+  "query": "createsolar",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createstockbridge-1.20-0.2.0.jar",
+  "query": "createstockbridge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createtransmission-1.2.1+forge-create6-1.20.1.jar",
+  "query": "createtransmission 1.2.1+forge create6",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "createultimine-1.20.1-forge-1.3.1.jar",
+  "query": "createultimine",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+  "query": "CreativeCore",
+  "status": "available",
+  "match": {
+   "slug": "creativecore",
+   "title": "CreativeCore",
+   "version": "aoWQBRG8",
+   "downloads": 56384488
+  },
+  "hits": [
+   "creativecore"
+  ]
+ },
+ {
+  "file": "creeperoverhaul-3.0.2-forge.jar",
+  "query": "creeperoverhaul",
+  "status": "available",
+  "match": {
+   "slug": "soulified-creeperoverhaul",
+   "title": "Soulified Creeperoverhaul",
+   "version": "IgLkK0cf",
+   "downloads": 570
+  },
+  "hits": [
+   "soulified-creeperoverhaul"
+  ]
+ },
+ {
+  "file": "cristellib-1.1.6-forge.jar",
+  "query": "cristellib",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "cuisinedelight-1.1.20.jar",
+  "query": "cuisinedelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+  "query": "CullLessLeaves Reforged",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "culturaldelights-0.16.7.jar",
+  "query": "culturaldelights",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "curios-forge-5.14.1+1.20.1.jar",
+  "query": "curios 5.14.1+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "curiouslanterns-1.20.1-1.3.7.jar",
+  "query": "curiouslanterns",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "customportalapi-1.0.1-forge-1.20.1.jar",
+  "query": "customportalapi",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "CustomSkinLoader_ForgeV2-14.28.jar",
+  "query": "CustomSkinLoader ForgeV2",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "displaydelight-1.7.0.jar",
+  "query": "displaydelight",
+  "status": "available",
+  "match": {
+   "slug": "displaydelightjs",
+   "title": "DisplayDelightJS",
+   "version": "A5iHSVX7",
+   "downloads": 178
+  },
+  "hits": [
+   "displaydelightjs"
+  ]
+ },
+ {
+  "file": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+  "query": "dragonlib",
+  "status": "available",
+  "match": {
+   "slug": "dragonlib",
+   "title": "DragonLib",
+   "version": "ZkzwhGm8",
+   "downloads": 1318789
+  },
+  "hits": [
+   "dragonlib"
+  ]
+ },
+ {
+  "file": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+  "query": "DramaticDoors QuiFabrge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "dreadsteel-1.20.1-1.2.0.jar",
+  "query": "dreadsteel",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
+  "query": "drippyloadingscreen",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "dsbg-1.0-1.20.1.jar",
+  "query": "dsbg",
+  "status": "available",
+  "match": {
+   "slug": "dsbg",
+   "title": "Detected setBlock Be Gone",
+   "version": "FMnTQvft",
+   "downloads": 662591
+  },
+  "hits": [
+   "dsbg"
+  ]
+ },
+ {
+  "file": "dummmmmmy-1.20-2.0.12-forge.jar",
+  "query": "dummmmmmy",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Dumplings Delight-1.20.1-Forge-1.3.2.jar",
+  "query": "Dumplings Delight",
+  "status": "available",
+  "match": {
+   "slug": "dumplings-delight-rewrapped",
+   "title": "Dumplings Delight Rewrapped",
+   "version": "WScarfgZ",
+   "downloads": 255282
+  },
+  "hits": [
+   "dumplings-delight-rewrapped"
+  ]
+ },
+ {
+  "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+  "query": "dynamic fps 3.11.4+minecraft",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "dynamiccrosshair-9.10+1.20.1-forge.jar",
+  "query": "dynamiccrosshair 9.10+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "EclipticSeasons-1.20.1-forge-0.13.8.1-all.jar",
+  "query": "EclipticSeasons",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ElysiumAPI-1.20.1-1.1.3.jar",
+  "query": "ElysiumAPI",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "elytraslot-forge-6.4.4+1.20.1.jar",
+  "query": "elytraslot 6.4.4+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "embeddium-0.3.31+mc1.20.1.jar",
+  "query": "embeddium 0.3.31+mc1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+  "query": "EnchantmentDescriptions",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "endergetic-1.20.1-5.0.1.jar",
+  "query": "endergetic",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ends_delight-2.6+forge.1.20.1.jar",
+  "query": "ends delight 2.6+forge.1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+  "query": "enhanced boss bars",
+  "status": "available",
+  "match": {
+   "slug": "enhanced-boss-bars-mod",
+   "title": "Enhanced Boss Bars (Fabric/Forge/Neoforge)",
+   "version": "WWhs5u9F",
+   "downloads": 2134307
+  },
+  "hits": [
+   "enhanced-boss-bars-mod"
+  ]
+ },
+ {
+  "file": "entityculling-forge-1.10.5-mc1.20.1.jar",
+  "query": "entityculling",
+  "status": "available",
+  "match": {
+   "slug": "entityculling",
+   "title": "Entity Culling",
+   "version": "DDaDZQ47",
+   "downloads": 191416239
+  },
+  "hits": [
+   "entityculling",
+   "enhanced-fps-forge"
+  ]
+ },
+ {
+  "file": "EuphoriaPatcher-1.10.5-r5.9.3-forge.jar",
+  "query": "EuphoriaPatcher",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ExplorersCompass-1.20.1-1.4.0-forge.jar",
+  "query": "ExplorersCompass",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "extendedae_plus-1.5.5.jar",
+  "query": "extendedae plus",
+  "status": "available",
+  "match": {
+   "slug": "extendedae-plus",
+   "title": "ExtendedAE-Plus",
+   "version": "Bm8LwH2q",
+   "downloads": 257931
+  },
+  "hits": [
+   "extendedae-plus"
+  ]
+ },
+ {
+  "file": "ExtendedAE-1.20-1.4.18-forge.jar",
+  "query": "ExtendedAE",
+  "status": "available",
+  "match": {
+   "slug": "extendedae-plus",
+   "title": "ExtendedAE-Plus",
+   "version": "Bm8LwH2q",
+   "downloads": 257931
+  },
+  "hits": [
+   "extendedae-plus",
+   "assembler-matrix-prioritization"
+  ]
+ },
+ {
+  "file": "extra_gauges-2.0.7.jar",
+  "query": "extra gauges",
+  "status": "available",
+  "match": {
+   "slug": "extra-gauges",
+   "title": "Create: Extra Gauges",
+   "version": "xtIBXji9",
+   "downloads": 613581
+  },
+  "hits": [
+   "extra-gauges",
+   "extra-gauges-forked",
+   "simulated-gauges"
+  ]
+ },
+ {
+  "file": "fancymenu_forge_3.9.8_MC_1.20.1.jar",
+  "query": "fancymenu",
+  "status": "available",
+  "match": {
+   "slug": "fancymenu",
+   "title": "FancyMenu",
+   "version": "W8E2q1iT",
+   "downloads": 70930017
+  },
+  "hits": [
+   "fancymenu",
+   "tensura-compat-fancymenu",
+   "drippy-loading-screen",
+   "spiffyhud"
+  ]
+ },
+ {
+  "file": "FarmersDelight-1.20.1-1.3.2.jar",
+  "query": "FarmersDelight",
+  "status": "maybe",
+  "match": {
+   "slug": "bucketsindispensersmilkcows",
+   "title": "BucketsInDispensersMilkCows",
+   "version": "4C0Mp0wX"
+  },
+  "hits": [
+   "bucketsindispensersmilkcows"
+  ]
+ },
+ {
+  "file": "farmersrespite-1.20.1-2.1.2.jar",
+  "query": "farmersrespite",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "fastboot-1.20.x-1.2.jar",
+  "query": "fastboot 1.20.x",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "fastrecipesearch-1.20.1-26.1-forge.jar",
+  "query": "fastrecipesearch",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ferritecore-6.0.1-forge.jar",
+  "query": "ferritecore",
+  "status": "available",
+  "match": {
+   "slug": "ferrite-core",
+   "title": "FerriteCore",
+   "version": "x7kQWVju",
+   "downloads": 169486506
+  },
+  "hits": [
+   "ferrite-core",
+   "enhanced-fps-forge"
+  ]
+ },
+ {
+  "file": "festival_delicacies-2.0.0-beta+forge.1.20.1.jar",
+  "query": "festival delicacies",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "flerovium-forge-1.20.1-1.2.19-all.jar",
+  "query": "flerovium",
+  "status": "available",
+  "match": {
+   "slug": "flerovium",
+   "title": "Flerovium",
+   "version": "PHD5rYo3",
+   "downloads": 5404776
+  },
+  "hits": [
+   "flerovium"
+  ]
+ },
+ {
+  "file": "fluidlogistics-1.2.7.jar",
+  "query": "fluidlogistics",
+  "status": "available",
+  "match": {
+   "slug": "createfluidlogistic",
+   "title": "Create: FluidLogistics",
+   "version": "OrnAMJBN",
+   "downloads": 109609
+  },
+  "hits": [
+   "createfluidlogistic"
+  ]
+ },
+ {
+  "file": "forge-dungeonsdelight-1.20.1-1.3.0.jar",
+  "query": "dungeonsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "forge-runiclib-1.20.1-4.3.11.jar",
+  "query": "runiclib",
+  "status": "available",
+  "match": {
+   "slug": "runiclib",
+   "title": "RunicLib",
+   "version": "tk5EQpUG",
+   "downloads": 2079877
+  },
+  "hits": [
+   "runiclib"
+  ]
+ },
+ {
+  "file": "fragmentum-forge-1.20.1-1.3.0.jar",
+  "query": "fragmentum",
+  "status": "available",
+  "match": {
+   "slug": "fragmentum",
+   "title": "Fragmentum",
+   "version": "kCXNhuIV",
+   "downloads": 4673402
+  },
+  "hits": [
+   "fragmentum"
+  ]
+ },
+ {
+  "file": "framework-forge-1.20.1-0.8.0.jar",
+  "query": "framework",
+  "status": "available",
+  "match": {
+   "slug": "surveyor",
+   "title": "Surveyor Map Framework",
+   "version": "egJBsDTn",
+   "downloads": 2576376
+  },
+  "hits": [
+   "surveyor",
+   "mcef",
+   "unnamed-framework",
+   "voidless-framework"
+  ]
+ },
+ {
+  "file": "fruitsdelight-1.1.3.jar",
+  "query": "fruitsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "frycooks_delight-1.20.1-1.0.1.jar",
+  "query": "frycooks delight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ftb-chunks-forge-2001.3.8.jar",
+  "query": "ftb chunks",
+  "status": "available",
+  "match": {
+   "slug": "ftbchunksaerospace",
+   "title": "FTB Chunks: Sable Aerospace",
+   "version": "zy8ymgWP",
+   "downloads": 16317
+  },
+  "hits": [
+   "ftbchunksaerospace",
+   "millenaire-ftb-chunks-compat",
+   "ftbchunks-gristlayer-overlay",
+   "tensura-compat-ftb"
+  ]
+ },
+ {
+  "file": "ftb-essentials-forge-2001.2.4.jar",
+  "query": "ftb essentials",
+  "status": "maybe",
+  "match": {
+   "slug": "paper-plane",
+   "title": "Paper Plane",
+   "version": "G4R40dZG"
+  },
+  "hits": [
+   "paper-plane"
+  ]
+ },
+ {
+  "file": "ftb-library-forge-2001.2.13.jar",
+  "query": "ftb library",
+  "status": "maybe",
+  "match": {
+   "slug": "tensura-compat-ftb",
+   "title": "Tensura Compat: FTB",
+   "version": "ydPx4R4m"
+  },
+  "hits": [
+   "tensura-compat-ftb",
+   "open-quests-api"
+  ]
+ },
+ {
+  "file": "ftb-quests-forge-2001.4.22.jar",
+  "query": "ftb quests",
+  "status": "available",
+  "match": {
+   "slug": "ftb-quests-optimizer",
+   "title": "FTB Quests Optimizer",
+   "version": "T0bGa7Hg",
+   "downloads": 343236
+  },
+  "hits": [
+   "ftb-quests-optimizer",
+   "extraquests",
+   "ftb-quests-entity-visualization",
+   "easynpc-x-ftb-quests-compat"
+  ]
+ },
+ {
+  "file": "ftb-ranks-forge-2001.1.7.jar",
+  "query": "ftb ranks",
+  "status": "available",
+  "match": {
+   "slug": "originsranks",
+   "title": "Origins x FTB Ranks",
+   "version": "VrLzxcMv",
+   "downloads": 241
+  },
+  "hits": [
+   "originsranks"
+  ]
+ },
+ {
+  "file": "ftb-teams-forge-2001.3.2.jar",
+  "query": "ftb teams",
+  "status": "available",
+  "match": {
+   "slug": "better-party-x-ftb-teams",
+   "title": "Better Party X FTB Teams",
+   "version": "wW9z7jl1",
+   "downloads": 5059
+  },
+  "hits": [
+   "better-party-x-ftb-teams",
+   "irons-spell-n-ftb-teams",
+   "lootr-ftb",
+   "tensura-compat-ftb"
+  ]
+ },
+ {
+  "file": "ftb-ultimine-forge-2001.1.8.jar",
+  "query": "ftb ultimine",
+  "status": "available",
+  "match": {
+   "slug": "ultimine-rewind",
+   "title": "FTB Ultimine Rewind",
+   "version": "RM6IQdxA",
+   "downloads": 117873
+  },
+  "hits": [
+   "ultimine-rewind",
+   "veinminer",
+   "create-ultimine",
+   "shoulder-surfing-ultimine"
+  ]
+ },
+ {
+  "file": "ftb-xmod-compat-forge-2.1.3.jar",
+  "query": "ftb xmod compat",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ftbquestlocalizer-1.20.1-forge-3.2.3.jar",
+  "query": "ftbquestlocalizer",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ftbxaerocompat-forge-1.1.3.jar",
+  "query": "ftbxaerocompat",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "functionalstorage-1.20.1-1.2.14.jar",
+  "query": "functionalstorage",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "futurevillagertradesvisible-0.1.6+forge1.20.1.jar",
+  "query": "futurevillagertradesvisible 0.1.6+forge1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "GatewaysToEternity-1.20.1-4.2.6.jar",
+  "query": "GatewaysToEternity",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "geckolib-forge-1.20.1-4.8.4.jar",
+  "query": "geckolib",
+  "status": "available",
+  "match": {
+   "slug": "geckolib",
+   "title": "Geckolib",
+   "version": "Grwn5rUB",
+   "downloads": 78367767
+  },
+  "hits": [
+   "geckolib",
+   "geckolibbetterfps",
+   "more-hitboxes",
+   "armor-model-api"
+  ]
+ },
+ {
+  "file": "Glodium-1.20-1.5-forge.jar",
+  "query": "Glodium",
+  "status": "available",
+  "match": {
+   "slug": "glodium",
+   "title": "Glodium",
+   "version": "pfbmdJ3b",
+   "downloads": 961924
+  },
+  "hits": [
+   "glodium"
+  ]
+ },
+ {
+  "file": "guideme-20.1.15.jar",
+  "query": "guideme",
+  "status": "available",
+  "match": {
+   "slug": "guideme",
+   "title": "GuideME",
+   "version": "QeYKsstN",
+   "downloads": 3369621
+  },
+  "hits": [
+   "guideme",
+   "anvilcraft-guideme",
+   "guide-shelf"
+  ]
+ },
+ {
+  "file": "Harium-mc1.20.1-2.0-pactched-v5.jar",
+  "query": "Harium",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "hotai-1.0.jar",
+  "query": "hotai",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "iafdragonfix-2.0.0.jar",
+  "query": "iafdragonfix",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "IAS-Forge-1.20.1-9.0.0.jar",
+  "query": "IAS",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+  "query": "iceandfire",
+  "status": "available",
+  "match": {
+   "slug": "iceandfire-atm-compatibility",
+   "title": "IceAndFire ATM Compatibility",
+   "version": "EnwgpgK4",
+   "downloads": 1136
+  },
+  "hits": [
+   "iceandfire-atm-compatibility",
+   "iaf-hunters-spyglass",
+   "iceandfire_smithing",
+   "iceandfireaddon"
+  ]
+ },
+ {
+  "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+  "query": "Iceberg",
+  "status": "available",
+  "match": {
+   "slug": "iceberg",
+   "title": "Iceberg",
+   "version": "IMssx9du",
+   "downloads": 38478908
+  },
+  "hits": [
+   "iceberg",
+   "chunguscraft"
+  ]
+ },
+ {
+  "file": "Icterine-forge-1.20.0-1-1.3.0.jar",
+  "query": "Icterine",
+  "status": "maybe",
+  "match": {
+   "slug": "cerulean-advancements",
+   "title": "Cerulean",
+   "version": "i5PXO3P7"
+  },
+  "hits": [
+   "cerulean-advancements"
+  ]
+ },
+ {
+  "file": "idas_forge-1.13.0+1.20.1.jar",
+  "query": "idas 1.13.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "IMBlocker-5.5.4-forge+1.17-1.20.4.jar",
+  "query": "IMBlocker",
+  "status": "available",
+  "match": {
+   "slug": "imblocker-original",
+   "title": "IMBlocker",
+   "version": "BKOiydts",
+   "downloads": 14897248
+  },
+  "hits": [
+   "imblocker-original"
+  ]
+ },
+ {
+  "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+  "query": "ImmediatelyFast 1.5.5+1.20.4",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+  "query": "immersive aircraft 1.4.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "immersive_paintings-0.6.11+1.20.1-forge.jar",
+  "query": "immersive paintings 0.6.11+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "improvedmobs-1.20.1-1.13.7-forge.jar",
+  "query": "improvedmobs",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Industrial Platform-1.20.1-1.8.0.jar",
+  "query": "Industrial Platform",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "integrated_api-1.7.4+1.20.1-forge.jar",
+  "query": "integrated api 1.7.4+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+  "query": "integrated cataclysm 1.0.5+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "integrated_stronghold-1.1.2+1.20.1-forge.jar",
+  "query": "integrated stronghold 1.1.2+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "integrated_villages-1.3.2+1.20.1-forge.jar",
+  "query": "integrated villages 1.3.2+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "iris_shader_folder-1.3.3-forge.jar",
+  "query": "iris shader folder",
+  "status": "available",
+  "match": {
+   "slug": "iris-shader-folder",
+   "title": "Iris/Oculus Shader Folder",
+   "version": "WvgTEMyF",
+   "downloads": 1263113
+  },
+  "hits": [
+   "iris-shader-folder"
+  ]
+ },
+ {
+  "file": "item-filters-forge-2001.1.0-build.59.jar",
+  "query": "item filters",
+  "status": "maybe",
+  "match": {
+   "slug": "palas-item-clear",
+   "title": "Pala's Item Clear",
+   "version": "KID7PbWh"
+  },
+  "hits": [
+   "palas-item-clear",
+   "core-rpg-quests-engine",
+   "itembeacon",
+   "create-pipes"
+  ]
+ },
+ {
+  "file": "ItemBorders-1.20.1-forge-1.2.2.jar",
+  "query": "ItemBorders",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+  "query": "ItemPhysicLite",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Ixeris-4.6.0+1.20.1-forge.jar",
+  "query": "Ixeris 4.6.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Jade-1.20.1-Forge-11.13.2.jar",
+  "query": "Jade",
+  "status": "available",
+  "match": {
+   "slug": "jade",
+   "title": "Jade 🔍",
+   "version": "eYz2YBGT",
+   "downloads": 74799251
+  },
+  "hits": [
+   "jade",
+   "jade-addons-forge",
+   "jadens-nether-expansion",
+   "jadens-nether-expansion-delight"
+  ]
+ },
+ {
+  "file": "JadeAddons-1.20.1-Forge-5.5.1.jar",
+  "query": "JadeAddons",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Jadens-Nether-Expansion-2.3.5.jar",
+  "query": "Jadens Nether Expansion",
+  "status": "available",
+  "match": {
+   "slug": "jadens-nether-expansion",
+   "title": "Jaden's Nether Expansion",
+   "version": "NactTrv2",
+   "downloads": 4142072
+  },
+  "hits": [
+   "jadens-nether-expansion",
+   "jadens-nether-expansion-delight"
+  ]
+ },
+ {
+  "file": "jecharacters-1.20.1-forge-4.6.4.jar",
+  "query": "jecharacters",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "jeed-1.20-2.2.5.jar",
+  "query": "jeed",
+  "status": "maybe",
+  "match": {
+   "slug": "just-enough-effect-descriptions-jeed",
+   "title": "Just Enough Effect Descriptions (JEED)",
+   "version": "v3C29Jz9"
+  },
+  "hits": [
+   "just-enough-effect-descriptions-jeed",
+   "moderately-enough-effect-descriptions-meed",
+   "jei_commands"
+  ]
+ },
+ {
+  "file": "JEI Tetra-6.9.0-1.2.2.1.jar",
+  "query": "JEI Tetra",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "jei_optimize-forge-0.5.0+1.20.1.jar",
+  "query": "jei optimize 0.5.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "jei_plus_plus-1.0.6-1.20.1.jar",
+  "query": "jei plus plus",
+  "status": "available",
+  "match": {
+   "slug": "jei-plus-plus",
+   "title": "JEI++--",
+   "version": "XYPkbJX4",
+   "downloads": 3080
+  },
+  "hits": [
+   "jei-plus-plus-lingmu0",
+   "jei-plus-plus",
+   "ae2utility"
+  ]
+ },
+ {
+  "file": "jei-1.20.1-forge-15.20.0.134.jar",
+  "query": "jei",
+  "status": "available",
+  "match": {
+   "slug": "jei",
+   "title": "Just Enough Items (JEI)",
+   "version": "oXFV6wK5",
+   "downloads": 86650117
+  },
+  "hits": [
+   "jei",
+   "distraction-free-recipes",
+   "cobbledex-rei-emi-jei",
+   "refined-storage-jei-integration"
+  ]
+ },
+ {
+  "file": "jupiter-2.3.7-1.20.1-forge.jar",
+  "query": "jupiter",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "just_enough_couriers-1.0.1.jar",
+  "query": "just enough couriers",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "justenoughbreeding-forge-1.20.1-3.0.1.jar",
+  "query": "justenoughbreeding",
+  "status": "available",
+  "match": {
+   "slug": "justenoughbreeding",
+   "title": "Just Enough Breeding (JEBr)",
+   "version": "tnIqG3cu",
+   "downloads": 8558413
+  },
+  "hits": [
+   "justenoughbreeding"
+  ]
+ },
+ {
+  "file": "kaleidoscopedoll-1.3.1-forge+mc1.20.1.jar",
+  "query": "kaleidoscopedoll",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Kambrik-6.1.1+1.20.1-forge.jar",
+  "query": "Kambrik 6.1.1+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "kinetic_pixel-1.0.3-forge-1.20.1.jar",
+  "query": "kinetic pixel",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Kiwi-1.20.1-Forge-11.10.3.jar",
+  "query": "Kiwi",
+  "status": "available",
+  "match": {
+   "slug": "kiwi",
+   "title": "Kiwi 🥝",
+   "version": "tfwJWC8g",
+   "downloads": 23394216
+  },
+  "hits": [
+   "kiwi",
+   "jagms-kiwis",
+   "kiwi-customization",
+   "leafs-kiwis"
+  ]
+ },
+ {
+  "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+  "query": "konkrete",
+  "status": "available",
+  "match": {
+   "slug": "konkrete",
+   "title": "Konkrete",
+   "version": "stJDU839",
+   "downloads": 66543358
+  },
+  "hits": [
+   "konkrete"
+  ]
+ },
+ {
+  "file": "kotlinforforge-4.12.0-all.jar",
+  "query": "kotlinforforge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "kubejs-create-forge-2001.3.0-build.8.jar",
+  "query": "kubejs create",
+  "status": "available",
+  "match": {
+   "slug": "kubejs-create",
+   "title": "KubeJS Create",
+   "version": "1qmcLagN",
+   "downloads": 2116217
+  },
+  "hits": [
+   "kubejs-create",
+   "kubejs-create-automation",
+   "ponder-kjs",
+   "kubejs-diesel-generators"
+  ]
+ },
+ {
+  "file": "kubejs-forge-2001.6.5-build.16.jar",
+  "query": "kubejs",
+  "status": "available",
+  "match": {
+   "slug": "kubejs",
+   "title": "KubeJS",
+   "version": "GDXCpKlp",
+   "downloads": 23114064
+  },
+  "hits": [
+   "kubejs",
+   "lootjs",
+   "kubejs-additions",
+   "kubejs-create"
+  ]
+ },
+ {
+  "file": "kubejsdelight-1.20.1-1.1.5.jar",
+  "query": "kubejsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "L_Enders_Cataclysm-3.16.jar",
+  "query": "L Enders Cataclysm",
+  "status": "available",
+  "match": {
+   "slug": "l_enders-cataclysm",
+   "title": "L_Ender's Cataclysm",
+   "version": "PsPYpoCC",
+   "downloads": 19527283
+  },
+  "hits": [
+   "l_enders-cataclysm",
+   "ec-lec-plugin",
+   "big-globe-l_enders-cataclysm-compatibility"
+  ]
+ },
+ {
+  "file": "lctech-1.20.1-0.2.2.7.jar",
+  "query": "lctech",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ldlib-forge-1.20.1-1.0.50.jar",
+  "query": "ldlib",
+  "status": "available",
+  "match": {
+   "slug": "ldlib",
+   "title": "LDLib",
+   "version": "Zrj8M2XK",
+   "downloads": 2550571
+  },
+  "hits": [
+   "ldlib",
+   "kilagraph",
+   "easy-block-editor",
+   "embers-questing"
+  ]
+ },
+ {
+  "file": "letsdo-nethervinery-forge-1.2.19.jar",
+  "query": "letsdo nethervinery",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "letsdo-vinery-forge-1.4.41.jar",
+  "query": "letsdo vinery",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "lightmanscurrency-1.20.1-2.3.0.5.jar",
+  "query": "lightmanscurrency",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "lionfishapi-2.7.jar",
+  "query": "lionfishapi",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "lithostitched-forge-1.20.1-1.4.11.jar",
+  "query": "lithostitched",
+  "status": "available",
+  "match": {
+   "slug": "lithostitched",
+   "title": "Lithostitched",
+   "version": "cZu4cHY3",
+   "downloads": 26059368
+  },
+  "hits": [
+   "lithostitched",
+   "downhill-rivers"
+  ]
+ },
+ {
+  "file": "lootjs-forge-1.20.1-2.13.1.jar",
+  "query": "lootjs",
+  "status": "available",
+  "match": {
+   "slug": "lootjs",
+   "title": "LootJS: KubeJS Addon",
+   "version": "5AZDyUSn",
+   "downloads": 12224792
+  },
+  "hits": [
+   "lootjs",
+   "emi-loot-lootjs-fix"
+  ]
+ },
+ {
+  "file": "lootr-forge-1.20-0.7.35.94.jar",
+  "query": "lootr",
+  "status": "available",
+  "match": {
+   "slug": "lootr",
+   "title": "Lootr",
+   "version": "SPOrIzX8",
+   "downloads": 24469911
+  },
+  "hits": [
+   "lootr",
+   "lootrmon",
+   "lootrbiggerchest",
+   "shared-lootr"
+  ]
+ },
+ {
+  "file": "lucent-1.20.1-1.5.5.jar",
+  "query": "lucent",
+  "status": "maybe",
+  "match": {
+   "slug": "easygui",
+   "title": "EasyGui",
+   "version": "ALJaG9q9"
+  },
+  "hits": [
+   "easygui",
+   "perfect-ascension",
+   "formation-arrays"
+  ]
+ },
+ {
+  "file": "luncheon-meat-s-delight-1.0.3-forge-1.20.1.jar",
+  "query": "luncheon meat s delight",
+  "status": "available",
+  "match": {
+   "slug": "luncheon-meat-s-delight",
+   "title": "Luncheon Meat 'S Delight",
+   "version": "JaD9P0xq",
+   "downloads": 2459641
+  },
+  "hits": [
+   "luncheon-meat-s-delight"
+  ]
+ },
+ {
+  "file": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
+  "query": "man of many planes 0.2.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "mcwifipnp-1.7.6-1.20.1-forge.jar",
+  "query": "mcwifipnp",
+  "status": "available",
+  "match": {
+   "slug": "mcwifipnp",
+   "title": "LAN World Plug-n-Play (mcwifipnp)",
+   "version": "TQtrilwF",
+   "downloads": 7463939
+  },
+  "hits": [
+   "mcwifipnp"
+  ]
+ },
+ {
+  "file": "meed-1.20.1-8.0.1.jar",
+  "query": "meed",
+  "status": "maybe",
+  "match": {
+   "slug": "moderately-enough-effect-descriptions-meed",
+   "title": "Moderately Enough Effect Descriptions (MEED)",
+   "version": "bEXmd5py"
+  },
+  "hits": [
+   "moderately-enough-effect-descriptions-meed",
+   "teto-music-and-plushies"
+  ]
+ },
+ {
+  "file": "megacells-forge-2.4.6-1.20.1.jar",
+  "query": "megacells",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+  "query": "melody",
+  "status": "available",
+  "match": {
+   "slug": "melody",
+   "title": "Melody",
+   "version": "efcdRVZP",
+   "downloads": 53840872
+  },
+  "hits": [
+   "melody",
+   "melodymagic",
+   "music-and-melody"
+  ]
+ },
+ {
+  "file": "midnightlib-forge-1.9.2+1.20.1.jar",
+  "query": "midnightlib 1.9.2+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "MineMenu-1.20.1-1.12.3.jar",
+  "query": "MineMenu",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "miners_delight-1.20.1-1.4.5-backport.jar",
+  "query": "miners delight",
+  "status": "available",
+  "match": {
+   "slug": "miners-delight",
+   "title": "Miner's Delight",
+   "version": "YUHbwbgQ",
+   "downloads": 3838742
+  },
+  "hits": [
+   "miners-delight"
+  ]
+ },
+ {
+  "file": "modernfix-forge-5.27.66+mc1.20.1.jar",
+  "query": "modernfix 5.27.66+mc1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ModernUI-Forge-1.20.1-3.12.0.1-universal.jar",
+  "query": "ModernUI",
+  "status": "available",
+  "match": {
+   "slug": "aeronautics-modernui-compat",
+   "title": "Aeronautics: ModernUI Compat",
+   "version": "VK9D4Mpg",
+   "downloads": 798
+  },
+  "hits": [
+   "aeronautics-modernui-compat",
+   "modernobscure"
+  ]
+ },
+ {
+  "file": "moestweaks-forge-1.20.1-1.1.2.jar",
+  "query": "moestweaks",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "moonlight-1.20-2.16.27-forge.jar",
+  "query": "moonlight",
+  "status": "available",
+  "match": {
+   "slug": "moonlight",
+   "title": "Moonlight Lib",
+   "version": "yBea1yLM",
+   "downloads": 43963403
+  },
+  "hits": [
+   "moonlight",
+   "wgc-moonlight-core",
+   "re-classic",
+   "re-classic.addon"
+  ]
+ },
+ {
+  "file": "more_mod_tetra-2.4.15-all.jar",
+  "query": "more mod tetra",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "morejs-forge-1.20.1-0.10.1.jar",
+  "query": "morejs",
+  "status": "available",
+  "match": {
+   "slug": "morejs",
+   "title": "MoreJS: KubeJS Addon",
+   "version": "kyNrtsUY",
+   "downloads": 723493
+  },
+  "hits": [
+   "morejs"
+  ]
+ },
+ {
+  "file": "MoreRequirement-1.2.3.jar",
+  "query": "MoreRequirement",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+  "query": "MouseTweaks",
+  "status": "available",
+  "match": {
+   "slug": "mousetweaks-x-accessories-fix",
+   "title": "MouseTweaks x Accessories Fix",
+   "version": "znY5vYq7",
+   "downloads": 752283
+  },
+  "hits": [
+   "mousetweaks-x-accessories-fix",
+   "moremousetweaks"
+  ]
+ },
+ {
+  "file": "multiblocked2-1.20.1-1.0.38.a.jar",
+  "query": "multiblocked2",
+  "status": "available",
+  "match": {
+   "slug": "multiblocked2",
+   "title": "Multiblocked2",
+   "version": "r0fUy9FC",
+   "downloads": 273338
+  },
+  "hits": [
+   "multiblocked2"
+  ]
+ },
+ {
+  "file": "mutil-1.20.1-6.3.0.jar",
+  "query": "mutil",
+  "status": "available",
+  "match": {
+   "slug": "mutil",
+   "title": "mutil",
+   "version": "uWdZAndC",
+   "downloads": 1624688
+  },
+  "hits": [
+   "mutil",
+   "mutilation",
+   "mutils"
+  ]
+ },
+ {
+  "file": "MyNethersDelight-1.20.1-1.10.4-backport.1.jar",
+  "query": "MyNethersDelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "mysterious_mountain_lib-1.6.34-1.20.1.jar",
+  "query": "mysterious mountain lib",
+  "status": "available",
+  "match": {
+   "slug": "mmlib",
+   "title": "Mysterious Mountain Lib",
+   "version": "UZbuAxuL",
+   "downloads": 2092079
+  },
+  "hits": [
+   "mmlib"
+  ]
+ },
+ {
+  "file": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+  "query": "NaturesCompass",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "neapolitan-1.20.1-5.1.0.jar",
+  "query": "neapolitan",
+  "status": "available",
+  "match": {
+   "slug": "neapolitan",
+   "title": "Neapolitan",
+   "version": "RQ5qgaUC",
+   "downloads": 1972999
+  },
+  "hits": [
+   "neapolitan",
+   "create-neapolitan",
+   "twilight-delight",
+   "cookielicious"
+  ]
+ },
+ {
+  "file": "nebulusbetterportals-1.0.8-forge-1.20.1.jar",
+  "query": "nebulusbetterportals",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "netmusic-1.5.1-forge+mc1.20.1.jar",
+  "query": "netmusic",
+  "status": "available",
+  "match": {
+   "slug": "netmusic-loginneed",
+   "title": "NetMusic: LoginNeed",
+   "version": "46STwUIx",
+   "downloads": 242017
+  },
+  "hits": [
+   "netmusic-loginneed",
+   "netmusic-display",
+   "netmusiccanplayradio",
+   "netmusic-createstorage-compat"
+  ]
+ },
+ {
+  "file": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+  "query": "NoChatReports",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Northstar-0.6.4+1.20.1.jar",
+  "query": "Northstar 0.6.4+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "northstar-curios-compat-1.3.1.jar",
+  "query": "northstar curios compat",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "obscure_tooltips-forge-1.20.1-3.10.0.jar",
+  "query": "obscure tooltips",
+  "status": "available",
+  "match": {
+   "slug": "obscure-tooltips",
+   "title": "Obscure Tooltips",
+   "version": "Yo2oNdw1",
+   "downloads": 3007679
+  },
+  "hits": [
+   "obscure-tooltips"
+  ]
+ },
+ {
+  "file": "oceanic_delight-1.0.3-forge-1.20.1.jar",
+  "query": "oceanic delight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "oculus-mc1.20.1-1.8.0.jar",
+  "query": "oculus",
+  "status": "available",
+  "match": {
+   "slug": "iris-flw-compat",
+   "title": "Iris & Oculus Flywheel Compat",
+   "version": "6ZQz5Ow2",
+   "downloads": 4532807
+  },
+  "hits": [
+   "iris-flw-compat",
+   "iris-shader-folder",
+   "irissearch",
+   "oculus-for-simple-clouds"
+  ]
+ },
+ {
+  "file": "OELib-forge-1.20.1-0.2.3.jar",
+  "query": "OELib",
+  "status": "available",
+  "match": {
+   "slug": "oelib",
+   "title": "One Enough Lib",
+   "version": "GLkyyaFG",
+   "downloads": 479476
+  },
+  "hits": [
+   "oelib"
+  ]
+ },
+ {
+  "file": "OneEnoughItem-1.0.7-hotfix.jar",
+  "query": "OneEnoughItem",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "OneEnoughValue-1.0.2.jar",
+  "query": "OneEnoughValue",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "overloadedarmorbar-1.20.1-1.jar",
+  "query": "overloadedarmorbar",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+  "query": "packetfixer",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+  "query": "PickUpNotifier",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Placebo-1.20.1-8.6.3.jar",
+  "query": "Placebo",
+  "status": "available",
+  "match": {
+   "slug": "placebo",
+   "title": "Placebo",
+   "version": "B5zbSVlT",
+   "downloads": 1947748
+  },
+  "hits": [
+   "placebo",
+   "many-mods-made-manageable"
+  ]
+ },
+ {
+  "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+  "query": "player animation lib",
+  "status": "available",
+  "match": {
+   "slug": "player-animation-library",
+   "title": "Player Animation Library",
+   "version": "yjxtkvnD",
+   "downloads": 3417597
+  },
+  "hits": [
+   "player-animation-library",
+   "playeranimationlibrarymorerotation"
+  ]
+ },
+ {
+  "file": "polyeng-forge-0.1.1-1.20.1.jar",
+  "query": "polyeng",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "polymorph-forge-0.49.10+1.20.1.jar",
+  "query": "polymorph 0.49.10+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "ponderjs-1.20.1-2.1.0.jar",
+  "query": "ponderjs",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "powerfuljs-1.6.1.jar",
+  "query": "powerfuljs",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+  "query": "PresenceFootsteps",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Prism-1.20.1-forge-1.0.5.jar",
+  "query": "Prism",
+  "status": "available",
+  "match": {
+   "slug": "prism-lib",
+   "title": "Prism",
+   "version": "kMcz2lDj",
+   "downloads": 19025549
+  },
+  "hits": [
+   "prism-lib",
+   "create-prismatic-shine",
+   "prisms-create",
+   "prismarine-trident-recipe"
+  ]
+ },
+ {
+  "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+  "query": "PuzzlesLib",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "quality_food_fluids-1.20.1-0.1.4.jar",
+  "query": "quality food fluids",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "quality_food-1.20.1-2.4.3-all.jar",
+  "query": "quality food",
+  "status": "available",
+  "match": {
+   "slug": "quality-food",
+   "title": "Quality Food",
+   "version": "fBMB1cPc",
+   "downloads": 285162
+  },
+  "hits": [
+   "quality-food",
+   "natures-appetite"
+  ]
+ },
+ {
+  "file": "Quark-4.0-462.jar",
+  "query": "Quark",
+  "status": "available",
+  "match": {
+   "slug": "quark",
+   "title": "Quark",
+   "version": "pMjjsBGF",
+   "downloads": 26555126
+  },
+  "hits": [
+   "quark",
+   "dynamic-trees-quark",
+   "ascended-quark",
+   "quark-oddities"
+  ]
+ },
+ {
+  "file": "QuarkOddities-1.20.1.jar",
+  "query": "QuarkOddities",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "questsadditions-1.4.7.jar",
+  "query": "questsadditions",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "radiantgear-forge-2.2.0+1.20.1.jar",
+  "query": "radiantgear 2.2.0+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+  "query": "refurbished furniture",
+  "status": "maybe",
+  "match": {
+   "slug": "mrcrayfishs-furniture-mod-tools-refurbished",
+   "title": "MrCrayfish's Furniture Mod Tools: Refurbished",
+   "version": "pLoFIP1e"
+  },
+  "hits": [
+   "mrcrayfishs-furniture-mod-tools-refurbished"
+  ]
+ },
+ {
+  "file": "renderjs-forge-2001.2.1.jar",
+  "query": "renderjs",
+  "status": "available",
+  "match": {
+   "slug": "renderjs",
+   "title": "Renderjs",
+   "version": "uAAoyETW",
+   "downloads": 916
+  },
+  "hits": [
+   "renderjs"
+  ]
+ },
+ {
+  "file": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+  "query": "resourcefulconfig",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "resourcefullib-forge-1.20.1-2.1.29.jar",
+  "query": "resourcefullib",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Resourcify (1.20.1-forge)-1.8.5.jar",
+  "query": "Resourcify (1.20.1 forge)",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "rhino-forge-2001.2.3-build.10.jar",
+  "query": "rhino",
+  "status": "available",
+  "match": {
+   "slug": "rhino",
+   "title": "Rhino",
+   "version": "SqkDvOLG",
+   "downloads": 23924458
+  },
+  "hits": [
+   "rhino",
+   "animal-garden-white-rhinoceros",
+   "kryeit-regen-modpack",
+   "kubex"
+  ]
+ },
+ {
+  "file": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+  "query": "screenshot viewer",
+  "status": "available",
+  "match": {
+   "slug": "screenshot-viewer",
+   "title": "Screenshot Viewer",
+   "version": "efjk3jeu",
+   "downloads": 4035564
+  },
+  "hits": [
+   "screenshot-viewer"
+  ]
+ },
+ {
+  "file": "Searchables-forge-1.20.1-1.0.3.jar",
+  "query": "Searchables",
+  "status": "available",
+  "match": {
+   "slug": "searchables",
+   "title": "Searchables",
+   "version": "iEE85X0w",
+   "downloads": 43255985
+  },
+  "hits": [
+   "searchables"
+  ]
+ },
+ {
+  "file": "seasonals-1.20.1-5.0.2.jar",
+  "query": "seasonals",
+  "status": "available",
+  "match": {
+   "slug": "seasonals-ported",
+   "title": "Seasonals Ported",
+   "version": "JqirP6w7",
+   "downloads": 102
+  },
+  "hits": [
+   "seasonals-ported"
+  ]
+ },
+ {
+  "file": "seasonhud-forge-1.20.1-2.0.6.jar",
+  "query": "seasonhud",
+  "status": "available",
+  "match": {
+   "slug": "seasonhud",
+   "title": "SeasonHud",
+   "version": "re5UdGel",
+   "downloads": 2364857
+  },
+  "hits": [
+   "seasonhud",
+   "seasonhud-tweaks"
+  ]
+ },
+ {
+  "file": "sequenced_pattern_provider-1.20.1-0.3.2.jar",
+  "query": "sequenced pattern provider",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "servercore-forge-1.5.2+1.20.1.jar",
+  "query": "servercore 1.5.2+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "serverwarashi-1.20.1-2.0.4.1-all.jar",
+  "query": "serverwarashi",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "shadowizardlib-1.20.1-1.3.1.jar",
+  "query": "shadowizardlib",
+  "status": "available",
+  "match": {
+   "slug": "shadowizardlib",
+   "title": "ShadowizardLib",
+   "version": "ONdhfFC5",
+   "downloads": 435465
+  },
+  "hits": [
+   "shadowizardlib"
+  ]
+ },
+ {
+  "file": "ShoulderSurfing-Forge-1.20.1-5.0.7.jar",
+  "query": "ShoulderSurfing",
+  "status": "maybe",
+  "match": {
+   "slug": "third-person-shooting-zero",
+   "title": "Third Person Shooting: Zero",
+   "version": "WOcZWh5F"
+  },
+  "hits": [
+   "third-person-shooting-zero"
+  ]
+ },
+ {
+  "file": "silentsdelight-forge-1.0.1-1.20.1.jar",
+  "query": "silentsdelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "SimpleBackups-1.20.1-3.1.24.jar",
+  "query": "SimpleBackups",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "simplehats-forge-1.20.1-0.4.0a.jar",
+  "query": "simplehats",
+  "status": "available",
+  "match": {
+   "slug": "simplehats-lite",
+   "title": "SimpleHats-Lite",
+   "version": "XYKjak3j",
+   "downloads": 327
+  },
+  "hits": [
+   "simplehats-lite",
+   "hatbag"
+  ]
+ },
+ {
+  "file": "skinlayers3d-forge-1.11.2-mc1.20.1.jar",
+  "query": "skinlayers3d",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "smrb-1.0.0.jar",
+  "query": "smrb",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "smsn-forge-1.4.3-1.20.1.jar",
+  "query": "smsn",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "sodiumextras-forge-1.0.7-1.20.1.jar",
+  "query": "sodiumextras",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "solapplepie-1.20.1-2.3.0.jar",
+  "query": "solapplepie",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "solardimensionaddon-1.2.0.jar",
+  "query": "solardimensionaddon",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "solcarrot-1.20.1-1.15.1.jar",
+  "query": "solcarrot",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "some-assembly-required-1.20.1-4.2.3.jar",
+  "query": "some assembly required",
+  "status": "available",
+  "match": {
+   "slug": "some-assembly-required",
+   "title": "Create: Some Assembly Required",
+   "version": "G8Lz8Txm",
+   "downloads": 553881
+  },
+  "hits": [
+   "some-assembly-required",
+   "someassemblyrequired-addons"
+  ]
+ },
+ {
+  "file": "sophisticatedbackpacks-1.20.1-3.24.62.2017.jar",
+  "query": "sophisticatedbackpacks",
+  "status": "maybe",
+  "match": {
+   "slug": "evil-seagull",
+   "title": "Evil Seagull",
+   "version": "z67rMjLi"
+  },
+  "hits": [
+   "evil-seagull"
+  ]
+ },
+ {
+  "file": "sophisticatedbackpackscreateintegration-1.20.1-0.1.8.116.jar",
+  "query": "sophisticatedbackpackscreateintegration",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "sophisticatedcore-1.20.1-1.3.73.2192.jar",
+  "query": "sophisticatedcore",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "soul-fire-d-forge-1.20.1-4.0.11.jar",
+  "query": "soul fire d",
+  "status": "available",
+  "match": {
+   "slug": "soul-fire-d",
+   "title": "Soul Fire'd",
+   "version": "j16Kori6",
+   "downloads": 1808403
+  },
+  "hits": [
+   "soul-fire-d"
+  ]
+ },
+ {
+  "file": "spark-1.10.53-forge.jar",
+  "query": "spark",
+  "status": "available",
+  "match": {
+   "slug": "spark",
+   "title": "spark",
+   "version": "v5qtqRQi",
+   "downloads": 24576940
+  },
+  "hits": [
+   "spark",
+   "sparkweave",
+   "sparkles-morpher",
+   "spark-core"
+  ]
+ },
+ {
+  "file": "sparsestructures-forge-1.20.1-3.0.jar",
+  "query": "sparsestructures",
+  "status": "available",
+  "match": {
+   "slug": "sparsestructures",
+   "title": "Sparse Structures",
+   "version": "MoJZpi20",
+   "downloads": 8680375
+  },
+  "hits": [
+   "sparsestructures"
+  ]
+ },
+ {
+  "file": "sqlite-jdbc-3.36.0.3+20211227-all.jar",
+  "query": "sqlite jdbc 3.36.0.3+20211227",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+  "query": "Steam Rails 1.7.2+forge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+  "query": "supermartijn642configlib",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+  "query": "supermartijn642corelib",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "supplementaries-1.20-3.1.42-forge.jar",
+  "query": "supplementaries",
+  "status": "available",
+  "match": {
+   "slug": "supplementaries",
+   "title": "Supplementaries",
+   "version": "JuYIXjpy",
+   "downloads": 29545078
+  },
+  "hits": [
+   "supplementaries",
+   "supplementaries-squared",
+   "rch-supplementaries-compat",
+   "stacked-blocks-supplementaries"
+  ]
+ },
+ {
+  "file": "tacz-1.20.1-1.1.8-hotfix.jar",
+  "query": "tacz",
+  "status": "maybe",
+  "match": {
+   "slug": "timeless-and-classics-zero",
+   "title": "[TaCZ] Timeless and Classics Zero",
+   "version": "tJiZL0He"
+  },
+  "hits": [
+   "timeless-and-classics-zero",
+   "taczaddon",
+   "lr-tactical",
+   "tacz-tweaks"
+  ]
+ },
+ {
+  "file": "taczaddon.jar",
+  "query": "taczaddon",
+  "status": "available",
+  "match": {
+   "slug": "taczaddon",
+   "title": "TaCZ addon",
+   "version": "PRLossw6",
+   "downloads": 6940332
+  },
+  "hits": [
+   "taczaddon"
+  ]
+ },
+ {
+  "file": "taczjs-forge-1.4.2+mc1.20.1.jar",
+  "query": "taczjs 1.4.2+mc1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tectonic-3.0.17-forge-1.20.1.jar",
+  "query": "tectonic",
+  "status": "available",
+  "match": {
+   "slug": "tectonic",
+   "title": "Tectonic",
+   "version": "n4iyW7aB",
+   "downloads": 17881556
+  },
+  "hits": [
+   "tectonic",
+   "compatibility-blooming-biosphere-tectonic",
+   "tectonic-mountains-add-on",
+   "tectonic-layers"
+  ]
+ },
+ {
+  "file": "tenshilib-1.20.1-1.7.6-forge.jar",
+  "query": "tenshilib",
+  "status": "available",
+  "match": {
+   "slug": "tenshilib",
+   "title": "TenshiLib",
+   "version": "64mi0wx6",
+   "downloads": 935732
+  },
+  "hits": [
+   "tenshilib"
+  ]
+ },
+ {
+  "file": "terraingraph-1.20.1-forge-0.1.3.jar",
+  "query": "terraingraph",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Terralith_1.20.x_v2.5.4.jar",
+  "query": "Terralith 1.20.x",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Tetra View-6.9.0-1.0.2.jar",
+  "query": "Tetra View",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tetra_insight-0.1.6.jar",
+  "query": "tetra insight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tetra-1.20.1-6.17.0.jar",
+  "query": "tetra",
+  "status": "available",
+  "match": {
+   "slug": "tetrachord-lib",
+   "title": "Tetrachord Lib",
+   "version": "JFo95YHb",
+   "downloads": 37805
+  },
+  "hits": [
+   "tetrachord-lib",
+   "tetra-halberds",
+   "coeluriacore"
+  ]
+ },
+ {
+  "file": "tetracelium-1.20.1-1.3.2.jar",
+  "query": "tetracelium",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tetracompat-1.0.1-all.jar",
+  "query": "tetracompat",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tetratic-combat-expanded-1.20-2.8.3.jar",
+  "query": "tetratic combat expanded",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "tetrawear-1.20.1-1.0.0.jar",
+  "query": "tetrawear",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "the_bumblezone-7.13.3+1.20.1-forge.jar",
+  "query": "the bumblezone 7.13.3+1.20.1",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Tips-Forge-1.20.1-12.1.9.jar",
+  "query": "Tips",
+  "status": "available",
+  "match": {
+   "slug": "tips",
+   "title": "Tips",
+   "version": "dFBz1Le7",
+   "downloads": 12689546
+  },
+  "hits": [
+   "tips",
+   "immersive-tips",
+   "misias-simple-tooltips",
+   "content-creator-integration"
+  ]
+ },
+ {
+  "file": "titanium-1.20.1-3.8.35.jar",
+  "query": "titanium",
+  "status": "available",
+  "match": {
+   "slug": "titanium",
+   "title": "Titanium",
+   "version": "ipoFMkfv",
+   "downloads": 1595644
+  },
+  "hits": [
+   "titanium",
+   "titanium-gear",
+   "goldenmauss-titanium-tools",
+   "create-titan"
+  ]
+ },
+ {
+  "file": "torchmaster-20.1.9.jar",
+  "query": "torchmaster",
+  "status": "available",
+  "match": {
+   "slug": "torchmaster",
+   "title": "TorchMaster",
+   "version": "JmlakQNo",
+   "downloads": 3468204
+  },
+  "hits": [
+   "torchmaster",
+   "cobblemon-torchmaster-fix"
+  ]
+ },
+ {
+  "file": "totw_modded-forge-1.20.1-1.0.6.jar",
+  "query": "totw modded",
+  "status": "available",
+  "match": {
+   "slug": "totw-modded",
+   "title": "Towers of the Wild Modded",
+   "version": "AxSm5PB9",
+   "downloads": 4990591
+  },
+  "hits": [
+   "totw-modded"
+  ]
+ },
+ {
+  "file": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+  "query": "Towns and Towers",
+  "status": "available",
+  "match": {
+   "slug": "towns-and-towers",
+   "title": "Towns and Towers",
+   "version": "DZxwgj6V",
+   "downloads": 18992131
+  },
+  "hits": [
+   "towns-and-towers",
+   "big-globe-towns-and-towers-compatibility"
+  ]
+ },
+ {
+  "file": "traderefresh-2.5.2.jar",
+  "query": "traderefresh",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "trailandtales_delight-1.7-all.jar",
+  "query": "trailandtales delight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "trashcans-1.0.18b-forge-mc1.20.jar",
+  "query": "trashcans",
+  "status": "available",
+  "match": {
+   "slug": "trashcans-forever",
+   "title": "Trashcans Forever!",
+   "version": "cI8pceHu",
+   "downloads": 45028
+  },
+  "hits": [
+   "trashcans-forever"
+  ]
+ },
+ {
+  "file": "trashslot-forge-1.20.1-15.1.5.jar",
+  "query": "trashslot",
+  "status": "available",
+  "match": {
+   "slug": "trashslot",
+   "title": "TrashSlot",
+   "version": "HY8Ybozd",
+   "downloads": 6805689
+  },
+  "hits": [
+   "trashslot",
+   "trashslot-blacklist"
+  ]
+ },
+ {
+  "file": "TravelersTitles-1.20-Forge-4.0.2.jar",
+  "query": "TravelersTitles",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "vanillin-forge-1.20.1-1.1.3.jar",
+  "query": "vanillin",
+  "status": "available",
+  "match": {
+   "slug": "flw-vanillin",
+   "title": "Vanillin",
+   "version": "Qn76dRvj",
+   "downloads": 2069765
+  },
+  "hits": [
+   "flw-vanillin"
+  ]
+ },
+ {
+  "file": "vintage_kubejs-1.20.1-1.0.0rc-2.jar",
+  "query": "vintage kubejs",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "vintagedelight-0.1.6.jar",
+  "query": "vintagedelight",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "vintageimprovements-1.20.1-0.3.7.8.jar",
+  "query": "vintageimprovements",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "visual_keybinder-1.20.1 - 0.1.12.jar",
+  "query": "visual keybinder",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "vvaddon-1.20.1-alpha3.0.1.jar",
+  "query": "vvaddon",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "watut-forge-1.20.1-1.2.3.jar",
+  "query": "watut",
+  "status": "available",
+  "match": {
+   "slug": "what-are-they-up-to",
+   "title": "What Are They Up To (Watut)",
+   "version": "uWr2aTW9",
+   "downloads": 16156877
+  },
+  "hits": [
+   "what-are-they-up-to",
+   "emf-compat-watut",
+   "watut-screen-blacklist"
+  ]
+ },
+ {
+  "file": "waystones-forge-1.20.1-14.1.20.jar",
+  "query": "waystones",
+  "status": "available",
+  "match": {
+   "slug": "waystones",
+   "title": "Waystones",
+   "version": "sE6fMBGR",
+   "downloads": 28214772
+  },
+  "hits": [
+   "waystones",
+   "xaeros-minimap-world-map-waystones-compatibility-forge",
+   "waystones-teleport-pets",
+   "xaeros-maps-x-waystones"
+  ]
+ },
+ {
+  "file": "xaerominimap-forge-1.20.1-26.4.2.jar",
+  "query": "xaerominimap",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+  "query": "xaeroworldmap",
+  "status": "available",
+  "match": {
+   "slug": "mapsyncer-for-xaeroworldmap",
+   "title": "MapSyncer-for-XaeroWorldmap",
+   "version": "rTv2rIvC",
+   "downloads": 27893
+  },
+  "hits": [
+   "mapsyncer-for-xaeroworldmap"
+  ]
+ },
+ {
+  "file": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+  "query": "YeetusExperimentus",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+  "query": "yet another config lib",
+  "status": "available",
+  "match": {
+   "slug": "yacl",
+   "title": "YetAnotherConfigLib (YACL)",
+   "version": "7TVdVtxF",
+   "downloads": 136837890
+  },
+  "hits": [
+   "yacl"
+  ]
+ },
+ {
+  "file": "youkaishomecoming_curios-0.03.jar",
+  "query": "youkaishomecoming curios",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "youkaishomecoming-2.7.0.jar",
+  "query": "youkaishomecoming",
+  "status": "available",
+  "match": {
+   "slug": "youkaishomecoming",
+   "title": "Youkai's Homecoming",
+   "version": "vu5Xy9Dk",
+   "downloads": 3081199
+  },
+  "hits": [
+   "youkaishomecoming",
+   "youkaishomecoming-unofficial-port"
+  ]
+ },
+ {
+  "file": "YungsApi-1.20-Forge-4.0.6.jar",
+  "query": "YungsApi",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+  "query": "YungsBetterMineshafts",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+  "query": "YungsBetterWitchHuts",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "YungsExtras-1.20-Forge-4.0.3.jar",
+  "query": "YungsExtras",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "Zeta-1.0-31.jar",
+  "query": "Zeta",
+  "status": "available",
+  "match": {
+   "slug": "zeta",
+   "title": "Zeta",
+   "version": "9GjNW2Gf",
+   "downloads": 16788108
+  },
+  "hits": [
+   "zeta",
+   "zg-mobs",
+   "player-trade-secure-trading-between-players",
+   "conveyors-automation"
+  ]
+ },
+ {
+  "file": "zfastnoise-1.0.13+1.20+forge.jar",
+  "query": "zfastnoise 1.0.13+1.20+forge",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "zRemove_SDL_Intro_v1.2.2.jar",
+  "query": "zRemove SDL Intro",
+  "status": "none",
+  "match": null,
+  "hits": []
+ },
+ {
+  "file": "zstdnet-1.20.1-forge-1.5.0.jar",
+  "query": "zstdnet",
+  "status": "available",
+  "match": {
+   "slug": "zstdnet-minekuai",
+   "title": "zstdnet-minekuai",
+   "version": "h4Iprf1U",
+   "downloads": 5438
+  },
+  "hits": [
+   "zstdnet-minekuai"
+  ]
+ }
+]

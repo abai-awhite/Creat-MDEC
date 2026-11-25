@@ -1,0 +1,4621 @@
+[
+ {
+  "jar": "abbm-禁止转载-Do-Not-Redistribute-1.1.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "aeroworks-1.5.0.jar",
+  "modId": "aeroworks",
+  "display": "Create: Aeroworks",
+  "version": "1.5.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "drivebywire",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "drivebysable",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "aero_addition-1.0.2.jar",
+  "modId": "aero_addition",
+  "display": "Aeronautics Addition",
+  "version": "1.0.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "alloy_smelter-neoforge-1.21.1-1.1.2.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "AlwaysEat-neoforge-1.0.0.jar",
+  "modId": "always_eat",
+  "display": "Always Eat",
+  "version": "1.0.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ApothicAttributes-1.21.1-2.9.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "placebo",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "appleskin-neoforge-mc1.21-3.0.9.jar",
+  "modId": "appleskin",
+  "display": "AppleSkin",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "architectury-13.0.8-neoforge.jar",
+  "modId": "architectury",
+  "display": "Architectury",
+  "version": "13.0.8",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "athena-neoforge-1.21.1-4.0.6.jar",
+  "modId": "athena",
+  "display": "Athena",
+  "version": "4.0.6",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "atlas_api-1.21.1-1.2.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "attributefix-neoforge-1.21.1-21.1.3.jar",
+  "modId": "attributefix",
+  "display": "AttributeFix",
+  "version": "21.1.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "bookshelf",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "prickle",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "azimuth-1.4.10.jar",
+  "modId": "azimuth",
+  "display": "Azimuth",
+  "version": "1.4.10",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "balm-neoforge-1.21.1-21.0.56.jar",
+  "modId": "balm",
+  "display": "Balm",
+  "version": "21.0.56",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "barbequesdelight-1.3.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "biomespy-neoforge-1.21.1-1.3.3.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "bits_n_bobs-2.3.5.jar",
+  "modId": "bits_n_bobs",
+  "display": "Create Bits 'n' Bobs",
+  "version": "2.3.5",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "azimuth",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "struts",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "createcasing",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "dndecor",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "create_connected",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "tfmg",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "bits_n_tracks",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+  "modId": "bookshelf",
+  "display": "Bookshelf",
+  "version": "21.1.81",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+  "modId": "brewinandchewin",
+  "display": "Brewin' And Chewin'",
+  "version": "4.5.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "greenhouseconfig",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "byepregen-1.21.1-1.1.3.4.jar",
+  "modId": "byepregen",
+  "display": "ByePregen",
+  "version": "1.1.3.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "c2me",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "noisiumed",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "noisium",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "antixray",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+  "modId": "c2me",
+  "display": "Concurrent Chunk Management Engine",
+  "version": "0.4.0-alpha.0.124+1.21.1",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "dynview",
+    "mandatory": false,
+    "type": "discouraged"
+   },
+   {
+    "modId": "betterchunkloading",
+    "mandatory": false,
+    "type": "discouraged"
+   }
+  ]
+ },
+ {
+  "jar": "c6c-lite-1.0.0.0-all.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "touhou_little_maid",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "hephaestus",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "hephaestus_tools",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "carryon-neoforge-1.21.1-2.2.2.11.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+  "modId": "computercraft",
+  "display": "CC: Tweaked",
+  "version": "1.118.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "cc_sable-neoforge-1.3.4.jar",
+  "modId": "cc_sable",
+  "display": "CC: Sable",
+  "version": "1.3.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "computercraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "chefsdelight-1.0.6.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "Chunky-NeoForge-1.4.23.jar",
+  "modId": "chunky",
+  "display": "Chunky",
+  "version": "1.4.23",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "clientsort-neoforge-3.89.2+1.21.1.jar",
+  "modId": "clientsort",
+  "display": "ClientSort",
+  "version": "3.89.2",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "cloth-config",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "cloth-config-15.0.140-neoforge.jar",
+  "modId": "cloth_config",
+  "display": "Cloth Config v15 API",
+  "version": "15.0.140",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+  "modId": "colorfulhearts",
+  "display": "Colorful Hearts",
+  "version": "10.5.9",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "colorwheel-neoforge-1.3.0+mc1.21.1.jar",
+  "modId": "colorwheel",
+  "display": "Colorwheel",
+  "version": "1.3.0+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "iris",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "colorwheel_patcher",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "irisflw",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+  "modId": "colorwheel_patcher",
+  "display": "Colorwheel Patcher",
+  "version": "1.0.5+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "euphoria_patcher",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "configured-neoforge-1.21.1-2.6.3.jar",
+  "modId": "configured",
+  "display": "Configured",
+  "version": "2.6.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "framework",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+  "modId": "configureddefaults",
+  "display": "Configured Defaults",
+  "version": "21.1.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "constructionwand-kots-1.21.1-2.16.12.jar",
+  "modId": "constructionwand",
+  "display": "Construction Wand KOTS",
+  "version": "2.16.12",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "beyonddimensions",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "Controlling-neoforge-1.21.1-19.0.5.jar",
+  "modId": "controlling",
+  "display": "Controlling",
+  "version": "19.0.5",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "searchables",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+  "modId": "copycats",
+  "display": "Create: Copycats+",
+  "version": "3.0.9+mc.1.21.1-neoforge",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "cratedelight-26.07.01-1.21-neoforge.jar",
+  "modId": "cratedelight",
+  "display": "Crate Delight",
+  "version": "26.07.01-1.21-neoforge",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create-1.21.1-6.0.10.jar",
+  "modId": "create",
+  "display": "Create",
+  "version": "6.0.10",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ponder",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sodium",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "lithium",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "journeymap",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaeroworldmap",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "radium",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "palladium",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create-central-kitchen-2.6.2b.jar",
+  "modId": "create_central_kitchen",
+  "display": "Create: Central Kitchen",
+  "version": "2.6.2b",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create_dragons_plus",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "culturaldelights",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "rusticdelight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "festive_delight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "hearthandharvest",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "create-enchantment-industry-2.4.2.jar",
+  "modId": "create_enchantment_industry",
+  "display": "Create: Enchantment Industry",
+  "version": "2.4.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create_dragons_plus",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "apothic_enchanting",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "apotheosis",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "apothic_spawners",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "touhou_little_maid",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "create-integrated-farming-1.4.3.jar",
+  "modId": "create_integrated_farming",
+  "display": "Create: Integrated Farming",
+  "version": "1.4.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create_dragons_plus",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "culturaldelights",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "cookscollection",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "endersdelight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "upgrade_aquatic",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "netherdepthsupgrade",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "neapolitan",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "atmospheric",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "supplementaries",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "hauntedharvest",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "netherexp",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "tide",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "starcatcher",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "confluence",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "vanillabackport",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createadditionallogistics-1.21.1-1.4.5.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "createbetterfps-1.21.1-1.1.5.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sodium",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "iris",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createbigcannons-5.11.7+mc.1.21.1.jar",
+  "modId": "createbigcannons",
+  "display": "Create Big Cannons",
+  "version": "5.11.7",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ritchiesprojectilelib",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "copycats",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "framedblocks",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "curios",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "aeronautics",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "offroad",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
+  "modId": "createcobblestone",
+  "display": "Create Cobblestone",
+  "version": "1.5.1+neoforge-1.21.1-160",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "createdeco-2.1.3.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "createdieselgenerators-1.21.1-1.3.15.jar",
+  "modId": "createdieselgenerators",
+  "display": "Create Diesel Generators",
+  "version": "1.21.1-1.3.15",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "struts",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "CreateDragonsPlus-1.11.9.jar",
+  "modId": "create_dragons_plus",
+  "display": "Create: Dragons Plus",
+  "version": "1.11.9",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "createefficientvisuals-1.21.1-0.2.0.jar",
+  "modId": "createefficientvisuals",
+  "display": "Create Efficient Visuals",
+  "version": "0.2.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "creategearsandtavern-1.1.9-1.21.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kaleidoscope_tavern",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kaleidoscope_twilight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kaleidoscope_dim_wine",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kaleidoscope_bloodwine",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createimp-1.4.4 HotFix.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "cloth_config",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "extra_gauges",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "createadditionallogistics",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "fluidlogistics",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "createphantom",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createliquidfuel-3.0.0-1.21.1.jar",
+  "modId": "createliquidfuel",
+  "display": "Create Liquid Fuel",
+  "version": "3.0.0-1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "createoreexcavation-1.21-1.6.8.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kubejs_create",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createphantom-1.0.3.jar",
+  "modId": "createphantom",
+  "display": "Create Phantom",
+  "version": "1.0.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "fluidlogistics",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "curios",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createprism-1.2.4.jar",
+  "modId": "createprism",
+  "display": "Create: Prismatic Shine",
+  "version": "1.2.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "createpropulsion-1.1.5.jar",
+  "modId": "createpropulsion",
+  "display": "Create Propulsion: Simulated",
+  "version": "1.1.5",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "createdieselgenerators",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "createbigcannons",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "tfmg",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "immersiveengineering",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "mekanism",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "mekanismgenerators",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "northstar",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "stellaris",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "computercraft",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sablecompanion",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "rocketnautics",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createrailgrinding-1.2.2.jar",
+  "modId": "createrailgrinding",
+  "display": "Create: Rail Grinding",
+  "version": "1.2.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "entity_model_features",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createredstonelinkgui-1.21.1-1.3.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "emi",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "createultimine-1.21.1-neoforge-1.3.2.jar",
+  "modId": "createultimine",
+  "display": "Create Ultimine",
+  "version": "1.3.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftbultimine",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create_aeronautics_toolgun-0.3.6.jar",
+  "modId": "create_aeronautics_toolgun",
+  "display": "Create Aeronautics: Toolgun",
+  "version": "0.3.6",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable_schematic_api",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "create_aeronautics_transmission_linkage-0.2.8.jar",
+  "modId": "aeronautics_utility_objects",
+  "display": "Create Aeronautics: Transmission & Linkage",
+  "version": "0.2.8",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create_compressed-2.2.0-neoforge-1.21.1.jar",
+  "modId": "create_compressed",
+  "display": "Create Compressed",
+  "version": "2.1.0",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "create_connected-1.3.3-mc1.21.1.jar",
+  "modId": "create_connected",
+  "display": "Create: Connected",
+  "version": "1.3.3-mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+  "modId": "create_easy_structures",
+  "display": "Create: Easy Structures",
+  "version": "0.2",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "create_ez_stock_ticker-1.0.4.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create_flight_control-neoforge-0.6.2.jar",
+  "modId": "create_flight_control",
+  "display": "Create: Flight Control",
+  "version": "0.6.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "computercraft",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create_hypertube-0.6.0-NEOFORGE.jar",
+  "modId": "create_hypertube",
+  "display": "Create Hypertube",
+  "version": "0.6.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "betterthirdperson",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "create_mechanical_spawner-1.21.1-1.3.1-6.0.10.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "mechanicals",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "create_pattern_schematics-2.0.10.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "create_power_loader-2.0.5-mc1.21.1.jar",
+  "modId": "create_power_loader",
+  "display": "Create: Power Loader",
+  "version": "2.0.5-mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "create_radar-5.0.3-1.21.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": []
+ },
+ {
+  "jar": "create_tweaked_controllers-1.21.1-1.2.7.jar",
+  "modId": "create_tweaked_controllers",
+  "display": "Create: Tweaked Controllers",
+  "version": "1.20.1-1.2.7",
+  "deps": [
+   {
+    "modId": "forge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "curios-neoforge-9.5.1+1.21.1.jar",
+  "modId": "curios",
+  "display": "Curios API",
+  "version": "9.5.1+1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "deployer-0.1.3.jar",
+  "modId": "deployer",
+  "display": "Deployer",
+  "version": "0.1.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "compat_manager",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "repackaged",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "create_factory_logistics",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "disconnect-packet-fix-neoforge-2.0.1.jar",
+  "modId": "disconnect_packet_fix",
+  "display": "Disconnect Packet Fix",
+  "version": "2.0.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "displaydelight-1.7.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": []
+ },
+ {
+  "jar": "display_case-neoforge-1.21.1-1.2.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+  "modId": "do_a_barrel_roll",
+  "display": "Do a Barrel Roll",
+  "version": "3.7.3",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "fabric_api",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "drivebysable-r2.0.4.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create_tweaked_controllers",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "get_creative",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "offroad",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable_schematic_api",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "efficient_hashing-neoforge-1.0.0+1.21.1-mod.jar",
+  "modId": "efficient_hashing",
+  "display": "Efficient Hashing",
+  "version": "1.0.0",
+  "deps": []
+ },
+ {
+  "jar": "electroenergetics-1.21.1-1.1.4.jar",
+  "modId": "electroenergetics",
+  "display": "Create Electro Energetics",
+  "version": "1.21.1-1.1.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+  "modId": "enchdesc",
+  "display": "EnchantmentDescriptions",
+  "version": "21.1.9",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "bookshelf",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "prickle",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ends_delight-2.6.1+neoforge.1.21.1.jar",
+  "modId": "ends_delight",
+  "display": "End's Delight",
+  "version": "2.6.1+neoforge.1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "epic-structures-villages-2.0.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": []
+ },
+ {
+  "jar": "escalated-1.3.2-mc.1.21.1.jar",
+  "modId": "escalated",
+  "display": "Create: Escalated",
+  "version": "1.3.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "exposure-neoforge-1.21.1-1.9.19.jar",
+  "modId": "exposure",
+  "display": "Exposure",
+  "version": "1.9.19",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "extra_gauges-2.1.3.jar",
+  "modId": "extra_gauges",
+  "display": "Create: Extra Gauges",
+  "version": "2.1.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "deployer",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "FarmersDelight-1.21.1-1.3.4.jar",
+  "modId": "farmersdelight",
+  "display": "Farmer's Delight",
+  "version": "1.3.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "crafttweaker",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "fastleafdecay-35.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "fastrecipesearch-1.21.1-26.2-neoforge.jar",
+  "modId": "fastrecipesearch",
+  "display": "Fast Recipe Search",
+  "version": "1.21.1-26.2-neoforge",
+  "deps": []
+ },
+ {
+  "jar": "fasttag-1.21.1-26.1-neoforge.jar",
+  "modId": "fasttag",
+  "display": "Fast Tag",
+  "version": "1.21.1-26.1-neoforge",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ferritecore-7.0.3-neoforge.jar",
+  "modId": "ferritecore",
+  "display": "Ferrite Core",
+  "version": "7.0.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "flatbedrock-neoforge-87.0.0.jar",
+  "modId": "flatbedrock",
+  "display": "Flat Bedrock",
+  "version": "87.0.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "flerovium-neoforge-1.21.1-1.2.0-all.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sodium",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "fluidlogistics-1.3.2-mc1.21.1.jar",
+  "modId": "fluidlogistics",
+  "display": "Create FluidLogistics",
+  "version": "1.3.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "emi",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "jade",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "create_enchantment_industry",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "create_dragons_plus",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+  "modId": "fabric_api",
+  "display": "Forgified Fabric API",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "framework-neoforge-1.21.1-0.13.11.jar",
+  "modId": "framework",
+  "display": "Framework",
+  "version": "0.13.11",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "frequency-1.21.1-neoforge-0.2.0.jar",
+  "modId": "frequency",
+  "display": "Frequency for Create",
+  "version": "0.2.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ftb-library-neoforge-2101.1.32.jar",
+  "modId": "ftblibrary",
+  "display": "FTB Library",
+  "version": "2101.1.32",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ftb-quests-neoforge-2101.1.26.jar",
+  "modId": "ftbquests",
+  "display": "FTB Quests",
+  "version": "2101.1.26",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftblibrary",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftbteams",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftbxmodcompat",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "ftb-teams-neoforge-2101.1.10.jar",
+  "modId": "ftbteams",
+  "display": "FTB Teams",
+  "version": "2101.1.10",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftblibrary",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ftb-ultimine-neoforge-2101.1.14.jar",
+  "modId": "ftbultimine",
+  "display": "FTB Ultimine",
+  "version": "2101.1.14",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftblibrary",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftbezcrystals",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "ftb-xmod-compat-neoforge-21.1.8.jar",
+  "modId": "ftbxmodcompat",
+  "display": "FTB XMod Compat",
+  "version": "21.1.8",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftblibrary",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ftbquests",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "ftbchunks",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "ftbranks",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "luckperms",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "waystones",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sg_economy",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "fxntstorage-1.3.4+mc-1.21.1-neoforge.jar",
+  "modId": "fxntstorage",
+  "display": "Create: Storage",
+  "version": "1.3.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "curios",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "vanillabackport",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "constructionstick",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "fzzy_config-0.7.6+1.21+neoforge.jar",
+  "modId": "fzzy_config",
+  "display": "Fzzy Config",
+  "version": "0.7.6+1.21+neoforge",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "kotlinforforge",
+    "mandatory": false,
+    "type": "REQUIRED"
+   }
+  ]
+ },
+ {
+  "jar": "geckolib-neoforge-1.21.1-4.9.3.jar",
+  "modId": "geckolib",
+  "display": "GeckoLib 4",
+  "version": "4.9.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "geckoanimfix",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "hephaestus-neoforge-1.21.1-1.0.12.jar",
+  "modId": "hephaestus",
+  "display": "Hephaestus Forge",
+  "version": "1.0.12",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "athena",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "alltheores",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "hephaestus_tools-neoforge-1.21.1-1.0.3.jar",
+  "modId": "hephaestus_tools",
+  "display": "Hephaestus Tools",
+  "version": "1.0.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "athena",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "alltheores",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "hephaestus",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+  "modId": "hoporp",
+  "display": "HopoBetterRuinedPortals",
+  "version": "1.4.4",
+  "deps": []
+ },
+ {
+  "jar": "horseman-neoforge-1.21.1-1.5.9.jar",
+  "modId": "horseman",
+  "display": "Horseman",
+  "version": "1.5.9",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "horsebuff",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "hotbath-1.21.1-3.0.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "cold_sweat",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "toughasnails",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "legendarysurvivaloverhaul",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+  "modId": "immediatelyfast",
+  "display": "ImmediatelyFast",
+  "version": "1.6.11+1.21.1",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+  "modId": "iris",
+  "display": "Iris",
+  "version": "1.8.14-beta.1+mc1.21.1",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "embeddium",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "irons_jewelry-1.21.1-1.6.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "apothic_attributes",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "curios",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "atlas_api",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "Jade-1.21.1-NeoForge-15.10.6.jar",
+  "modId": "jade",
+  "display": "Jade",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+  "modId": "jadeaddons",
+  "display": "Jade Addons",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "jade",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "jecharacters-1.21.1-neoforge-4.5.30.jar",
+  "modId": "jecharacters",
+  "display": "Just Enough Characters",
+  "version": "4.5.30",
+  "deps": []
+ },
+ {
+  "jar": "jei-1.21.1-neoforge-19.57.0.451.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "mezz_config",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "mezz_config_gui",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "modId": "justenoughprofessions",
+  "display": "Just Enough Professions (JEP)",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "REQUIRED"
+   }
+  ]
+ },
+ {
+  "jar": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+  "modId": "kaleidoscope_cookery",
+  "display": "Kaleidoscope Cookery",
+  "version": "1.6.0-neoforge+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar",
+  "modId": "kaleidoscope_doll",
+  "display": "Kaleidoscope Doll",
+  "version": "1.4.2-neoforge+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+  "modId": "kaleidoscope_tavern",
+  "display": "Kaleidoscope Tavern",
+  "version": "1.2.0-neoforge+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kaleidoscope_cookery",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kaleidoscope_tavern",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "artifacts",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kaleidoscope_doll",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+  "modId": "krypton_fnp",
+  "display": "Krypton FNP",
+  "version": "0.2.28.1-1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "kubejs-neoforge-2101.7.2-build.368.jar",
+  "modId": "kubejs",
+  "display": "KubeJS",
+  "version": "2101.7.2-build.368",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "rhino",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "roughlyenoughitems",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "emi",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "betteradvancedtooltips",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "kubejstweaks-1.0.6.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "alltheleaks",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "l2library-3.0.7.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "ldlib2-neoforge-1.21.1-2.2.44-all.jar",
+  "modId": "ldlib2",
+  "display": "LowDragLib2",
+  "version": "2.2.44",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+  "modId": "lithium",
+  "display": "Lithium",
+  "version": "0.15.4+mc1.21.1",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "lmft-1.1.1+1.21.9-neoforge.jar",
+  "modId": "lmft",
+  "display": "Load My F***ing Tags",
+  "version": "1.1.1+1.21.9",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "lootjs-neoforge-1.21.1-3.7.0.jar",
+  "modId": "lootjs",
+  "display": "LootJS",
+  "version": "1.21.1-3.7.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "lootr-neoforge-1.21.1-1.11.37.121.jar",
+  "modId": "lootr",
+  "display": "Lootr",
+  "version": "1.21.1-1.11.37.121",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "maidsoulkitchen-1.21.1-beta-v0.1.4.jar",
+  "modId": "${mod_id}",
+  "display": "${mod_name}",
+  "version": "${mod_version}",
+  "deps": [
+   {
+    "modId": "forge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "touhou_little_maid",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+  "modId": "muhc",
+  "display": "MaidUseHandCrank",
+  "version": "1.6.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "touhou_little_maid",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create_connected",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+  "modId": "maxhealthfix",
+  "display": "MaxHealthFix",
+  "version": "21.1.4",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "bookshelf",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "prickle",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "mechanicals-1.21.1-1.1.4.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "jei",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "modulargolems-3.1.44.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "l2library",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "iceandfire",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "cataclysm",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "l2complements",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+  "modId": "mousetweaks",
+  "display": "Mouse Tweaks",
+  "version": "2.26.1",
+  "deps": []
+ },
+ {
+  "jar": "MyNethersDelight-1.21.1-1.10.4.1.jar",
+  "modId": "mynethersdelight",
+  "display": "My Nether's Delight",
+  "version": "1.10.4.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "farmersdelight",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minersdelight",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "brewinandchewin",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "farmersrespite",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+  "modId": "naturescompass",
+  "display": "Nature's Compass",
+  "version": "1.21.1-3.4.0-neoforge",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "netmusic-1.5.2-neoforge+mc1.21.1.jar",
+  "modId": "netmusic",
+  "display": "Net Music Mod",
+  "version": "1.5.2-neoforge+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "touhou_little_maid",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+  "modId": "packetfixer",
+  "display": "PacketFixer",
+  "version": "3.3.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "Patchouli-1.21.1-93-NEOFORGE.jar",
+  "modId": "patchouli",
+  "display": "Patchouli",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "REQUIRED"
+   }
+  ]
+ },
+ {
+  "jar": "Placebo-1.21.1-9.9.3.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "polymorph-neoforge-1.1.0+1.21.1.jar",
+  "modId": "polymorph",
+  "display": "Polymorph",
+  "version": "1.1.0+1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "powerful_dummy-21-0.0.10.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "prickle-neoforge-1.21.1-21.1.11.jar",
+  "modId": "prickle",
+  "display": "PrickleMC",
+  "version": "21.1.11",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "railways-0.2.1+neoforge-mc1.21.1.jar",
+  "modId": "railways",
+  "display": "Create: Steam 'n' Rails 1.21.1",
+  "version": "0.2.1+neoforge-mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "create",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "hexcasting",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "voicechat",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
+  "modId": "reddensstonelantern",
+  "display": "Redden's Stone Lanterns",
+  "version": "1.0.3",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+  "modId": "resourcefulconfig",
+  "display": "Resourcefulconfig",
+  "version": "3.0.11",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "resourcefullib-neoforge-1.21-3.0.12.jar",
+  "modId": "resourcefullib",
+  "display": "Resourceful Lib",
+  "version": "3.0.12",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "Retraining-neoforge-1.21-2.0.0.jar",
+  "modId": "retraining",
+  "display": "Retraining",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "rhino-2101.2.7-build.85.jar",
+  "modId": "rhino",
+  "display": "Rhino",
+  "version": "2101.2.7-build.85",
+  "deps": []
+ },
+ {
+  "jar": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+  "modId": "ritchiesprojectilelib",
+  "display": "Ritchie's Projectile Library",
+  "version": "2.1.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "sable-neoforge-1.21.1-2.0.6.jar",
+  "modId": "sable",
+  "display": "Sable",
+  "version": "2.0.6",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "sablecompanion",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "sodium",
+    "mandatory": false,
+    "type": "incompatible"
+   },
+   {
+    "modId": "scalablelux",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "sable-photomancy-1.0.1.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "ldlib2",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "copycats",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "drivebywire",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "Searchables-neoforge-1.21.1-1.0.2.jar",
+  "modId": "searchables",
+  "display": "Searchables",
+  "version": "1.0.2",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "serverwarashi-1.21.1-2.1.1.5.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "showcaseitem-1.21.1-1.1.0.jar",
+  "modId": "showcaseitem",
+  "display": "Showcase Item",
+  "version": "1.21.1-1.1.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "SimpleBackups-1.21-4.0.21.jar",
+  "modId": "simplebackups",
+  "display": "Simple Backups",
+  "version": "1.21-4.0.21",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "simpletomb-1.21.1-1.4.4.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "simulatedcoasters-0.1.5.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "simulated_gauges-1.1.0.jar",
+  "modId": "simulated_gauges",
+  "display": "Simulated Gauges",
+  "version": "1.1.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "simulated",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "deployer",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "smart_bounds-1.0.0.jar",
+  "modId": "smart_bounds",
+  "display": "Create: Smart Bounds",
+  "version": "1.0.0",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "smrb-1.0.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "smsn-neoforge-1.4.3-1.21.1.jar",
+  "modId": "smsn",
+  "display": "Save My Shit Network",
+  "version": "1.4.3-1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "cloth_config",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+  "modId": "sodium",
+  "display": "Sodium",
+  "version": "0.8.13+mc1.21.1",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "embeddium",
+    "mandatory": false,
+    "type": "incompatible"
+   }
+  ]
+ },
+ {
+  "jar": "sootychimneys-neoforge-1.3.5.jar",
+  "modId": "sootychimneys",
+  "display": "Sooty Chimneys",
+  "version": "1.3.5",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": ""
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "spark-1.10.124-neoforge.jar",
+  "modId": "spark",
+  "display": "spark",
+  "version": "1.10.124",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": true,
+    "type": ""
+   }
+  ]
+ },
+ {
+  "jar": "StructureCompass-1.21.1-4.2.1.jar",
+  "modId": "structurecompass",
+  "display": "Structure Compass Mod",
+  "version": "${file.jarVersion}",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "REQUIRED"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "REQUIRED"
+   }
+  ]
+ },
+ {
+  "jar": "structure_layout_optimizer-neoforge-1.0.12.jar",
+  "modId": "structure_layout_optimizer",
+  "display": "Structure Layout Optimizer",
+  "version": "1.0.12",
+  "deps": []
+ },
+ {
+  "jar": "struts-1.3.1.jar",
+  "modId": "struts",
+  "display": "Strut Your Stuff",
+  "version": "1.3.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "takesapillage-neoforge-1.0.13+mc1.21.1.jar",
+  "modId": "takesapillage",
+  "display": "It Takes a Pillage Continuation",
+  "version": "1.0.13",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "yet_another_config_lib_v3",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "resourcefullib",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "torchmaster-neoforge-1.21.1-21.1.13.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+  "modId": "touhou_little_maid",
+  "display": "Touhou Little Maid",
+  "version": "1.5.3-neoforge+mc1.21.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "kubejs",
+    "mandatory": false,
+    "type": "optional"
+   }
+  ]
+ },
+ {
+  "jar": "tracks_plus-1.0.6b7.jar",
+  "modId": "tracks",
+  "display": "Create Tracks+",
+  "version": "1.0.6b7",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "sable",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "aeronautics_bundled",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "tradeworks-1.0.7.jar",
+  "modId": "tradeworks",
+  "display": "Create: Tradeworks",
+  "version": "1.0.7",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "compat_manager",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "trading_floor-3.0.16.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "create",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "UsefulSlime-neoforge-1.21-1.12.1.jar",
+  "modId": "usefulslime",
+  "display": "UsefulSlime",
+  "version": "1.12.1",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "fzzy_config",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "vanillin-neoforge-1.21.1-1.1.3-local.jar",
+  "modId": "vanillin",
+  "display": "Vanillin",
+  "version": "1.1.3",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "flywheel",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "wwoo-2.3.4.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "openpartiesandclaims",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaeroworldmap",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaerolib",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+  "modId": "",
+  "display": "",
+  "version": "",
+  "deps": [
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "openpartiesandclaims",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaerominimap",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaerobetterpvp",
+    "mandatory": false,
+    "type": "optional"
+   },
+   {
+    "modId": "xaerolib",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ },
+ {
+  "jar": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+  "modId": "yet_another_config_lib_v3",
+  "display": "YetAnotherConfigLib",
+  "version": "3.8.2+1.21.1-neoforge",
+  "deps": []
+ },
+ {
+  "jar": "yuushya-1.21.0-neoforge-2.2.3.jar",
+  "modId": "yuushya",
+  "display": "Yuushya",
+  "version": "2.2.3",
+  "deps": [
+   {
+    "modId": "neoforge",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "minecraft",
+    "mandatory": false,
+    "type": "required"
+   },
+   {
+    "modId": "architectury",
+    "mandatory": false,
+    "type": "required"
+   }
+  ]
+ }
+]
